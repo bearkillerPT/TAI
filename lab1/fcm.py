@@ -11,7 +11,7 @@ class FCM:
         self.createContext()
         self.probabilitiesContext = self.calculateProbabilities(self.context)
 
-    def calculateProbabilities(self, context, k=0):
+    def calculateProbabilities(self, context, k=0, parentProb=1):
         res = copy.deepcopy(context)
         total_probability = 0
         for char in res.keys():
@@ -21,10 +21,10 @@ class FCM:
                 total_probability += self.countContextChildre(res[char])
         for char in res.keys():
             if isinstance(res[char], int)  or isinstance(res[char], float):
-                res[char] = res[char] / (total_probability)
+                res[char] = res[char] / (total_probability) * parentProb
             elif isinstance(res[char], dict):
                 if k < self.k:
-                    res[char] = self.calculateProbabilities(res[char], k+1)
+                    res[char] = self.calculateProbabilities(res[char], k+1, self.countContextChildre(res[char])/total_probability)
             else:
                 print("not a number nor a dict: " + res[char])
         return res
