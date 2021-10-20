@@ -1,6 +1,6 @@
 
 import copy
-from os import confstr
+import sys
 
 class FCM:
     def __init__(self, k, a, textFile='example.txt'):
@@ -66,3 +66,12 @@ class FCM:
         self.context = res
 
 
+if __name__ == "__main__":
+    if len(sys.argv) == 1:
+        print("The program show be called like this: \n\tpython3 filename ||\n\tpython3 k_order filename ||\n\tpython3 k_order a filename\nk_order meaning de order of the model and\na being a smoothing parameter")
+    elif len(sys.argv) == 2:
+        a = FCM(2,0.3, sys.argv[1])
+    elif len(sys.argv) == 3:
+        a = FCM(sys.argv[1],0.3, sys.argv[2])
+    elif len(sys.argv) == 4:
+        a = FCM(sys.argv[1],sys.argv[2], sys.argv[3])
