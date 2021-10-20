@@ -12,11 +12,13 @@ class FCM:
         self.probabilitiesContext = self.calculateProbabilities(self.context)
 
     def calculateProbabilities(self, context, k=0):
-        res = copy.deepcopy(context) 
+        res = copy.deepcopy(context)
         total_probability = 0
         for char in res.keys():
             if isinstance(res[char], int)  or isinstance(res[char], float):
                 total_probability += res[char]
+            else:
+                total_probability += self.countContextChildre(res[char])
         for char in res.keys():
             if isinstance(res[char], int)  or isinstance(res[char], float):
                 res[char] = res[char] / (total_probability)
@@ -27,7 +29,14 @@ class FCM:
                 print("not a number nor a dict: " + res[char])
         return res
             
-
+    def countContextChildre(self, context):
+        total = 0
+        for children in context.values():
+            if isinstance(children, int)  or isinstance(children, float):
+                total += children
+            else:
+                self.countContextChildre(children)
+        return total
 
     def createContext(self):
         res = {}
@@ -48,13 +57,12 @@ class FCM:
                     current_ref = current_ref[word[i]]
                 if isinstance(current_ref, dict):
                     if word[k_order] not in current_ref.keys():
-                        current_ref.setdefault(word[k_order], self.a)
+                        current_ref.setdefault(word[k_order], 1)
                     else:
                         current_ref[word[k_order]] += 1
                 else:
-                    res[word[:k_order]] = {word[k_order] : self.a}
+                    res[word[:k_order]] = {word[k_order] : 1}
                     
         self.context = res
 
-                
 

@@ -4,7 +4,10 @@ tests= ["exampleSImple"]
 
 for test in tests:
     a = FCM(2, 0.3, textFile='tests/' + test + '.txt')
-    expected_file = 'tests/' + test + '.expected'
-    if(str(a.context) == open(expected_file, 'r').read()):
+
+    expected_counts_file = 'tests/' + test + '.expected'
+    expected_probs_file = 'tests/' + test + 'Probs.expected'
+    print(str(a.context) + str(a.probabilitiesContext))
+    if(str(a.context) + str(a.probabilitiesContext) == open(expected_counts_file, 'r').read() + open(expected_probs_file, 'r').read()):
         print("Test: " + test + " Passed!")
     
