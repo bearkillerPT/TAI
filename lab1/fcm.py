@@ -58,5 +58,3 @@ class FCM:
 
                 
 
-a = FCM(2,0.3)
-    
