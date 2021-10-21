@@ -1,5 +1,6 @@
 
 import copy
+from os import W_OK, curdir
 import sys
 
 class FCM:
@@ -15,28 +16,40 @@ class FCM:
         res = copy.deepcopy(context)
         total_probability = 0
         for char in res.keys():
-            if isinstance(res[char], int)  or isinstance(res[char], float):
-                total_probability += res[char]
-            else:
-                total_probability += self.countContextChildre(res[char])
+            if isinstance(res[char], dict):
+                total_probability += self.countContextChildren(res[char]) 
+                
         for char in res.keys():
             if isinstance(res[char], int)  or isinstance(res[char], float):
-                res[char] = res[char] / (total_probability) * parentProb
+                total_probability += res[char]
+            elif char == 'value':
+                total_probability += res['value']
+            elif isinstance(res[char], dict):
+                total_probability += 1/parentProb
+                res[char].setdefault('value', parentProb)
+        for char in res.keys():
+            if isinstance(res[char], int)  or isinstance(res[char], float):
+                res[char] = res[char]/total_probability * (parentProb)
             elif isinstance(res[char], dict):
                 if k < self.k:
-                    res[char] = self.calculateProbabilities(res[char], k+1, self.countContextChildre(res[char])/total_probability)
+                    prob = self.countContextChildren(res[char])
+                    res[char] = self.calculateProbabilities(res[char], k+1, prob/total_probability)
             else:
                 print("not a number nor a dict: " + res[char])
         return res
             
-    def countContextChildre(self, context):
+    def countContextChildren(self, context):
         total = 0
-        for children in context.values():
-            if isinstance(children, int)  or isinstance(children, float):
-                total += children
+        percentage = 1
+        for children in context.keys():
+            if isinstance(context[children], int)  or isinstance(context[children], float):
+                total += context[children]
+            elif isinstance(context[children], str):
+                if(children == "char"):
+                    pass
             else:
-                self.countContextChildre(children)
-        return total
+                total +=self.countContextChildren(context[children])
+        return total 
 
     def createContext(self):
         res = {}
@@ -53,7 +66,9 @@ class FCM:
                 if bad_word:
                     continue
                 current_ref = res
-                for i in range(k_order):
+                for i in range(0,k_order):
+                    if isinstance(current_ref[word[i]],int):
+                        current_ref[word[i]] = {}
                     current_ref = current_ref[word[i]]
                 if isinstance(current_ref, dict):
                     if word[k_order] not in current_ref.keys():
@@ -61,14 +76,17 @@ class FCM:
                     else:
                         current_ref[word[k_order]] += 1
                 else:
-                    res[word[:k_order]] = {word[k_order] : 1}
+                    temp_ref = res
+                    for i in range(k_order):
+                        temp_ref = temp_ref[word[i]]
+                    temp_ref = {word[k_order] : 1}
                     
         self.context = res
 
 
 if __name__ == "__main__":
     if len(sys.argv) == 1:
-        print("The program show be called like this: \n\tpython3 filename ||\n\tpython3 k_order filename ||\n\tpython3 k_order a filename\nk_order meaning de order of the model and\na being a smoothing parameter")
+        print("The program show be called like this: \n\tpython3 fcmm.py filename ||\n\tpython3 fcmm.py k_order filename ||\n\tpython3 fcmm.py k_order a filename\nk_order meaning de order of the model and\na being a smoothing parameter")
     elif len(sys.argv) == 2:
         a = FCM(2,0.3, sys.argv[1])
     elif len(sys.argv) == 3:
