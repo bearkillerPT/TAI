@@ -1,0 +1,3 @@
+- Probabilities module of fcm should probably be working with relative probs instead of absolute ones.
+- Entropy calcule
+- Report
