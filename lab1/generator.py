@@ -42,7 +42,7 @@ if __name__ == "__main__":
             if 'value' in keys:
                 keys.remove('value')
                 keys.append('')
-            res = random.choices(keys, probs)[0]
+            res = random.choices(keys, weights=probs)[0]
             if '' in keys:
                 keys.remove('')
             if res != '':

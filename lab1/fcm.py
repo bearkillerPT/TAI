@@ -16,24 +16,21 @@ class FCM:
         res = copy.deepcopy(context)
         total_probability = 0
         for char in res.keys():
-            if isinstance(res[char], dict):
-                total_probability += self.countContextChildren(res[char]) 
-                
-        for char in res.keys():
             if isinstance(res[char], int)  or isinstance(res[char], float):
                 total_probability += res[char]
             elif char == 'value':
                 total_probability += res['value']
             elif isinstance(res[char], dict):
+                total_probability += self.countContextChildren(res[char]) 
                 total_probability += 1/parentProb
                 res[char].setdefault('value', parentProb)
         for char in res.keys():
             if isinstance(res[char], int)  or isinstance(res[char], float):
-                res[char] = res[char]/total_probability * (parentProb)
+                    res[char] = res[char]/total_probability * parentProb
             elif isinstance(res[char], dict):
                 if k < self.k:
                     prob = self.countContextChildren(res[char])
-                    res[char] = self.calculateProbabilities(res[char], k+1, prob/total_probability)
+                    res[char] = self.calculateProbabilities(res[char], k+1, (prob/total_probability))
             else:
                 print("not a number nor a dict: " + res[char])
         return res
