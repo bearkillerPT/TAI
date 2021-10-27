@@ -21,7 +21,7 @@ if __name__ == "__main__":
             text_length = int(sys.argv[3])
         elif len(sys.argv) == 5:
             a = FCM(int(sys.argv[1]),float(sys.argv[2]), sys.argv[3])
-            text_length = int(sys.argv[4])
+            text_length = int(sys.argv[4]) - 1
         context_pile = []
         context_pile.append(a.probabilitiesContext)
         i = 0
@@ -51,7 +51,6 @@ if __name__ == "__main__":
                 scaled_probs.append(prob/parent_prob)
             res = random.choices(keys, weights=scaled_probs)[0]
             parent_prob = probs[keys.index(res)] 
-
             if res != '':
                 text += res
                 if not (isinstance(current_context[res], int) or isinstance(current_context[res], float)):
