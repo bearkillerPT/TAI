@@ -1,82 +1,85 @@
 
-import copy
-from os import W_OK, curdir
 import sys
 
 class FCM:
     def __init__(self, k, a, textFile='example.txt'):
-        self.k = k
+        self.k = k 
         self.a = a
         self.textFile = open(textFile, 'r')
         self.text = self.textFile.read()
         self.createContext()
-        self.probabilitiesContext = self.calculateProbabilities(self.context)
+        self.total_count = self.countContextChildren(self.context)
+        self.calculateProbabilities()
 
-    def calculateProbabilities(self, context, k=0, parentProb=1):
-        res = copy.deepcopy(context)
-        total_probability = 0
-        for char in res.keys():
-            if isinstance(res[char], int)  or isinstance(res[char], float):
-                total_probability += res[char]
-            elif char == 'value':
-                total_probability += res['value']
-            elif isinstance(res[char], dict):
-                total_probability += self.countContextChildren(res[char]) 
-                total_probability += 1/parentProb
-                res[char].setdefault('value', parentProb)
-        for char in res.keys():
-            if isinstance(res[char], int)  or isinstance(res[char], float):
-                    res[char] = res[char]/total_probability * parentProb
-            elif isinstance(res[char], dict):
-                if k < self.k:
-                    prob = self.countContextChildren(res[char])
-                    res[char] = self.calculateProbabilities(res[char], k+1, (prob/total_probability))
-            else:
-                print("not a number nor a dict: " + res[char])
-        return res
+    def calculateProbabilities(self, current_context=None, current_res={}, parent_prob=None):
+        if not current_context:
+            current_context = self.context
             
-    def countContextChildren(self, context):
-        total = 0
-        percentage = 1
-        for children in context.keys():
-            if isinstance(context[children], int)  or isinstance(context[children], float):
-                total += context[children]
-            elif isinstance(context[children], str):
-                if(children == "char"):
-                    pass
+
+        if not parent_prob:
+            parent_prob = self.total_count
+
+        for char in current_context.keys(): 
+            if isinstance(current_context[char], int):
+                current_res.setdefault(char, current_context[char] / parent_prob)
             else:
-                total +=self.countContextChildren(context[children])
-        return total 
+                current_res.setdefault(char, {})
+                children_count = self.countContextChildren(current_context[char])
+                children_res = self.calculateProbabilities(current_context[char], current_res[char],parent_prob)
+                current_res.setdefault(char, children_res)
+        
+        if current_context == self.context:
+            self.probabilitiesContext = current_res    
+             
+        
+        
+    
+    def countContextChildren(self, current_context):
+        current_total=0
+        for children in current_context.keys():
+            if isinstance(current_context[children], int) or isinstance(current_context[children], float):
+                current_total += current_context[children]
+            elif isinstance(current_context[children], dict):
+                current_total += self.countContextChildren(current_context[children])
+
+        return current_total 
 
     def createContext(self):
         res = {}
-        parent_ref = {}
-        trash_chars = ['', '\n', '|', '!', '"', '$', '%', '&', '/', '(', ')', '=', '?', '\'' , '»', '\\', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0', '{', '[', ']', '}', '«', ',', '.', ';', ':', '-', '_']
-        for k_order in range(self.k):
-            for word in self.text.split(' '):
-                if(k_order > len(word) -1):
-                    continue
-                bad_word = False
-                for char in word:
-                    if char in trash_chars:
-                        bad_word = True
-                if bad_word:
-                    continue
-                current_ref = res
-                for i in range(0,k_order):
-                    if isinstance(current_ref[word[i]],int):
-                        current_ref[word[i]] = {}
-                    current_ref = current_ref[word[i]]
-                if isinstance(current_ref, dict):
-                    if word[k_order] not in current_ref.keys():
-                        current_ref.setdefault(word[k_order], 1)
-                    else:
+        trash_chars = ['', '\n', '|', '!', '"', '$', '%', '&', '/', '(', ')', '=', '?', '\'' , '»', '\\', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0', '{', '[', ']', '}', '«', ',', '.', ';', ':', '-', '_']     
+        for word in self.text.split(' '):
+            bad_word = False
+            current_ref = res
+            for char in word:
+                if char in trash_chars:
+                    bad_word = True
+            if bad_word:
+                continue
+            for k_order in range(self.k):
+                
+                if(k_order > len(word) - 1):
+                    break
+                if k_order == self.k - 1 or k_order == len(word) - 1:
+                    if isinstance(current_ref, int):
                         current_ref[word[k_order]] += 1
-                else:
-                    temp_ref = res
-                    for i in range(k_order):
-                        temp_ref = temp_ref[word[i]]
-                    temp_ref = {word[k_order] : 1}
+                    elif isinstance(current_ref, dict):
+                        if not word[k_order] in current_ref.keys():
+                            current_ref.setdefault(word[k_order], {'': 1})
+                        elif '' in current_ref[word[k_order]]:
+                            if isinstance(current_ref[word[k_order]][''], int):
+                                current_ref[word[k_order]][''] += 1
+                        
+                else:   
+                    if current_ref == {}:
+                        current_ref.setdefault(word[k_order], {})
+                    elif word[k_order] not in current_ref.keys():
+                        current_ref.setdefault(word[k_order], {})
+                        
+                current_ref = current_ref[word[k_order]] 
+                
+                
+               
+
                     
         self.context = res
 
