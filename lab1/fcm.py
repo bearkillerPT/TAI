@@ -38,7 +38,6 @@ class FCM:
         
         if current_context == self.context:
             self.probabilitiesContext = current_res    
-             
         
         
     
@@ -61,7 +60,7 @@ class FCM:
             for char in word:
                 if char in trash_chars:
                     bad_word = True
-            if bad_word:
+            if bad_word or len(word) > self.k:
                 continue
             for k_order in range(self.k):
                 

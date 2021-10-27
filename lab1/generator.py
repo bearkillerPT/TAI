@@ -1,9 +1,9 @@
 from os import curdir
 import sys
 import json
-import copy
 from fcm import FCM
 import random
+from datetime import datetime
 
 def save(filename, fcm_obj):
     fp = open( filename, 'w')
@@ -57,6 +57,7 @@ def parseArgs():
             save(sys.argv[2],a)
     return [a, text_length]
 if __name__ == "__main__":
+    start = datetime.now()
     text_length = 200
     text = ""
     a = FCM
@@ -102,4 +103,5 @@ if __name__ == "__main__":
                 i += 1
 
         print(text)
+        print('Execution Time: ' + str(datetime.now() - start))
         
