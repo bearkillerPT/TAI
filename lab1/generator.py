@@ -21,7 +21,7 @@ if __name__ == "__main__":
             text_length = int(sys.argv[3])
         elif len(sys.argv) == 5:
             a = FCM(int(sys.argv[1]),float(sys.argv[2]), sys.argv[3])
-            text_length = int(sys.argv[4]) - 1
+            text_length = int(sys.argv[4])
         context_pile = []
         context_pile.append(a.probabilitiesContext)
         i = 0
@@ -33,7 +33,6 @@ if __name__ == "__main__":
                 context_pile.append(a.probabilitiesContext)
                 text+=" "
                 parent_prob = 1
-                i += 1
             
             current_context = context_pile.pop()
             probs = []
@@ -55,5 +54,8 @@ if __name__ == "__main__":
                 text += res
                 if not (isinstance(current_context[res], int) or isinstance(current_context[res], float)):
                     context_pile.append(current_context[res])
+            else:
+                i += 1
+
         print(text)
         
