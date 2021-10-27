@@ -2,13 +2,20 @@
 import sys
 
 class FCM:
+
     def __init__(self, k, a, textFile='example.txt'):
         self.k = k 
         self.a = a
-        self.textFile = open(textFile, 'r')
-        self.text = self.textFile.read()
-        self.createContext()
-        self.total_count = self.countContextChildren(self.context)
+        if textFile != 'example.txt':
+            self.textFile = open(textFile, 'r')
+            self.text = self.textFile.read()
+            self.createContext()
+            self.total_count = self.countContextChildren(self.context)
+            self.calculateProbabilities()
+
+    def loadFromContext(self, context):
+        self.context = context
+        self.total_count = self.countContextChildren(context)
         self.calculateProbabilities()
 
     def calculateProbabilities(self, current_context=None, current_res={}, parent_prob=None):

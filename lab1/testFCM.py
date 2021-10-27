@@ -2,8 +2,6 @@ from os import system
 from fcm import FCM
 import sys
 
-
-
 def runTests(test, fcm_obj):
     expected_counts_filename = 'tests/expected/' + test + '.expected'
     expected_probs_filename = 'tests/expected/' + test + 'Probs.expected'
