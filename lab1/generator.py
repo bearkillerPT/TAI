@@ -11,6 +11,7 @@ if __name__ == "__main__":
     if len(sys.argv) <= 1:
         print("The program show be called like this: \n\tpython3 generator.py filename string_length ||\n\tpython3 generator.py k_order filename string_length ||\n\tpython3 generator.py k_order a filename string_length\nk_order meaning de order of the model and\na being a smoothing parameter")
         done = True
+    
     if not done:
         if len(sys.argv) == 3:
             a = FCM(4,0.3, sys.argv[1])
@@ -24,11 +25,16 @@ if __name__ == "__main__":
         context_pile = []
         context_pile.append(a.probabilitiesContext)
         i = 0
+        parent_prob = 1
+        
         while i < text_length: 
+
             if(len(context_pile)== 0):
                 context_pile.append(a.probabilitiesContext)
                 text+=" "
+                parent_prob = 1
                 i += 1
+            
             current_context = context_pile.pop()
             probs = []
             for prob in current_context.keys():
@@ -38,10 +44,14 @@ if __name__ == "__main__":
                 elif isinstance(current_prob,dict):
                     value = FCM.countContextChildren(a,current_prob)
                     probs.append(value)
+            
             keys = list(current_context.keys())
-            res = random.choices(keys, weights=probs)[0]
-            if '' in keys:
-                keys.remove('')
+            scaled_probs = []
+            for prob in probs:
+                scaled_probs.append(prob/parent_prob)
+            res = random.choices(keys, weights=scaled_probs)[0]
+            parent_prob = probs[keys.index(res)] 
+
             if res != '':
                 text += res
                 if not (isinstance(current_context[res], int) or isinstance(current_context[res], float)):

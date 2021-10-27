@@ -21,7 +21,8 @@ class FCM:
 
         for char in current_context.keys(): 
             if isinstance(current_context[char], int):
-                current_res.setdefault(char, current_context[char] / parent_prob)
+                    current_res.setdefault(char,  current_context[char] / parent_prob)
+
             else:
                 current_res.setdefault(char, {})
                 children_count = self.countContextChildren(current_context[char])
