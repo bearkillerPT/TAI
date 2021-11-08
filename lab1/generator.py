@@ -7,7 +7,7 @@ from datetime import datetime
 
 def save(filename, fcm_obj):
     fp = open( filename, 'w')
-    json.dump(fcm_obj.context, fp)
+    json.dump({'count_context': fcm_obj.context, "probs_context": fcm_obj.probabilitiesContext}, fp)
     fp.close()
 
 def loadContext(filename, k=4, a=0.3):

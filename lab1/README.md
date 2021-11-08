@@ -11,16 +11,22 @@ and the same with the generator:
 python3 generator.py
 
 Furthermore there's a test module with some expected results for simple tasks. 
-The tests are ran after:
+The tests are ran with:
 
 Python3 testFCM.py
 
 If you wish to try the generator with the biggest text (example.txt), run, for example:
-python3 generator.py 10 0.3 tests/example.txt 200
+python3 generator.py tests/example.txt 10 0.3 200
 
 Where:
 - 10 represents the order of the model;
 - 0.3 represents the smoothing parameter;
 - 200 represents the number of words to generate.
+
+It is also possible to save and hot load previous calculated contexts like so:
+- Save: python3 generator.py --save bible_context tests/bible.txt 10 0.3 200 
+[Execution Time: 0:00:04.008487]
+
+- Load: python3 generator.py --load bible_context 10 0.3 200 [Execution Time: 0:00:01.506882]
 
 ```

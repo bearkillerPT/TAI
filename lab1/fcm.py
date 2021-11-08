@@ -14,9 +14,9 @@ class FCM:
             self.calculateProbabilities()
 
     def loadFromContext(self, context):
-        self.context = context
+        self.context = context["count_context"]
         self.total_count = self.countContextChildren(context)
-        self.calculateProbabilities()
+        self.probabilitiesContext = context["probs_context"]
 
     def calculateProbabilities(self, current_context=None, current_res={}, parent_prob=None):
         if not current_context:
