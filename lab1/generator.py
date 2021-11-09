@@ -71,19 +71,21 @@ if __name__ == "__main__":
             current_context = a.context
             current_probs_context = a.probabilitiesContext
             parent_prob = 1
-            for k_index in range(a.k-1):
+            for k_index in range(a.k):
                 if len(text)  == text_length:
                     done = True
                     break
                 choices = []
                 if isinstance(current_probs_context, dict):
                     parent_prob *= a.countContextChildren(current_probs_context)
-
                     for option in current_context.keys():
                         if isinstance(current_probs_context[option], int) or isinstance(current_probs_context[option], float):
                             choices.append(current_probs_context[option] / parent_prob)
                         else:
                             choices.append(a.countContextChildren(current_probs_context[option]) / parent_prob)
+                    print(list(current_context.keys()))
+                    print('\n\n')
+                    print(choices)
                     choice = random.choices(list(current_context.keys()),choices)[0]
                     text += choice
                     current_context = current_context[choice]

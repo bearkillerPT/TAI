@@ -23,21 +23,21 @@ class FCM:
             current_context = self.context
         if not parent_prob:
             parent_prob = self.total_count
-        else:
-            parent_prob = self.countContextChildren(current_context) 
         total_alpha = self.a * parent_prob
-
+      
         for char in current_context.keys(): 
-            if isinstance(current_context[char], int) or isinstance(current_context[char], float):
+            if current_context[char] == {}:
+                current_res.setdefault(char, self.a / (parent_prob + total_alpha))
+            elif isinstance(current_context[char], int) or isinstance(current_context[char], float):
                     current_res.setdefault(char,  (current_context[char] + self.a) / (parent_prob + total_alpha))
-
             else:
                 current_res.setdefault(char, {})
                 children_res = self.calculateProbabilities(current_context[char], current_res[char],parent_prob)
                 current_res.setdefault(char, children_res)
         
         if current_context == self.context:
-            self.probabilitiesContext = current_res  
+            self.probabilitiesContext = current_res 
+
             
 
         
@@ -56,9 +56,12 @@ class FCM:
     def createContext(self):
         alphabet = set(self.text)
         res = {}
-        for char_index in range(len(self.text) - self.k + 1):
+        for char_index in range(len(self.text)):
             current_ref = res
-            for i in range(self.k):
+            k_end = self.k
+            if(len(self.text) - char_index < self.k):
+                k_end = len(self.text) - char_index 
+            for i in range(k_end):
                 if i == self.k - 1:
                     if self.text[char_index + i] in current_ref.keys():
                             current_ref[self.text[char_index + i]] += 1
