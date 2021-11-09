@@ -21,25 +21,24 @@ class FCM:
     def calculateProbabilities(self, current_context=None, current_res={}, parent_prob=None):
         if not current_context:
             current_context = self.context
-            
-
         if not parent_prob:
             parent_prob = self.total_count
-
+        else:
+            parent_prob = self.countContextChildren(current_context) 
         total_alpha = self.a * parent_prob
+
         for char in current_context.keys(): 
             if isinstance(current_context[char], int) or isinstance(current_context[char], float):
                     current_res.setdefault(char,  (current_context[char] + self.a) / (parent_prob + total_alpha))
 
             else:
                 current_res.setdefault(char, {})
-                children_count = self.countContextChildren(current_context[char])
                 children_res = self.calculateProbabilities(current_context[char], current_res[char],parent_prob)
                 current_res.setdefault(char, children_res)
         
         if current_context == self.context:
             self.probabilitiesContext = current_res  
-            print(self.countContextChildren(self.probabilitiesContext))
+            
 
         
         
@@ -57,7 +56,7 @@ class FCM:
     def createContext(self):
         alphabet = set(self.text)
         res = {}
-        for char_index in range(len(self.text) - self.k):
+        for char_index in range(len(self.text) - self.k + 1):
             current_ref = res
             for i in range(self.k):
                 if i == self.k - 1:
@@ -76,9 +75,7 @@ class FCM:
             for i in range(self.k):
                 for letter in alphabet:
                     if letter not in current_ref.keys():
-                        current_ref.setdefault(letter,self.a)
-                    elif isinstance(current_ref[letter], int) or isinstance(current_ref[letter], float):
-                        current_ref[letter] += self.a
+                        current_ref.setdefault(letter,0)
                 current_ref = current_ref[self.text[char_index + i]]
 
                
