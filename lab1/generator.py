@@ -31,16 +31,14 @@ def parseArgs():
             a = FCM(int(sys.argv[2]),0.3, sys.argv[1])
             text_length = int(sys.argv[3])
     elif len(sys.argv) == 5:
+        text_length = int(sys.argv[4])
         if sys.argv[1] == "--save":
             a = FCM(4,0.3, sys.argv[3])
-            text_length = int(sys.argv[4])
             save(sys.argv[2],a)
         elif sys.argv[1] == "--load":
             a = loadContext(sys.argv[2],float(sys.argv[3]), 0.3)
-            text_length = int(sys.argv[4])
         else:
             a = FCM(int(sys.argv[2]),float(sys.argv[3]), sys.argv[1])
-            text_length = int(sys.argv[4])
     elif len(sys.argv) == 6:
         if sys.argv[1] == "--save":
             a = FCM(int(sys.argv[4]),0.3, sys.argv[3])
@@ -67,40 +65,29 @@ if __name__ == "__main__":
         done = True
     if not done:
         [a, text_length] = parseArgs()
-        context_pile = []
-        context_pile.append(a.probabilitiesContext)
-        i = 0
         parent_prob = 1
-        
-        while i < text_length: 
+        done = False
+        while not done:
+            current_context = a.context
+            current_probs_context = a.probabilitiesContext
+            parent_prob = 1
+            for k_index in range(a.k-1):
+                if len(text)  == text_length:
+                    done = True
+                    break
+                choices = []
+                if isinstance(current_probs_context, dict):
+                    parent_prob *= a.countContextChildren(current_probs_context)
 
-            if(len(context_pile)== 0):
-                context_pile.append(a.probabilitiesContext)
-                text+=" "
-                parent_prob = 1
-            
-            current_context = context_pile.pop()
-            probs = []
-            for prob in current_context.keys():
-                current_prob= current_context[prob]
-                if isinstance(current_prob, int) or isinstance(current_prob, float):
-                    probs.append(current_prob)
-                elif isinstance(current_prob,dict):
-                    value = FCM.countContextChildren(a,current_prob)
-                    probs.append(value)
-            
-            keys = list(current_context.keys())
-            scaled_probs = []
-            for prob in probs:
-                scaled_probs.append(prob/parent_prob)
-            res = random.choices(keys, weights=scaled_probs)[0]
-            parent_prob = probs[keys.index(res)] 
-            if res != '':
-                text += res
-                if not (isinstance(current_context[res], float) or isinstance(current_context[res], float)):
-                    context_pile.append(current_context[res])
-            else:
-                i += 1
+                    for option in current_context.keys():
+                        if isinstance(current_probs_context[option], int) or isinstance(current_probs_context[option], float):
+                            choices.append(current_probs_context[option] / parent_prob)
+                        else:
+                            choices.append(a.countContextChildren(current_probs_context[option]) / parent_prob)
+                    choice = random.choices(list(current_context.keys()),choices)[0]
+                    text += choice
+                    current_context = current_context[choice]
+                    current_probs_context = current_probs_context[choice]
 
         print(text)
         print('Execution Time: ' + str(datetime.now() - start))

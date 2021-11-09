@@ -26,9 +26,10 @@ class FCM:
         if not parent_prob:
             parent_prob = self.total_count
 
+        total_alpha = self.a * parent_prob
         for char in current_context.keys(): 
-            if isinstance(current_context[char], int):
-                    current_res.setdefault(char,  current_context[char] / parent_prob)
+            if isinstance(current_context[char], int) or isinstance(current_context[char], float):
+                    current_res.setdefault(char,  (current_context[char] + self.a) / (parent_prob + total_alpha))
 
             else:
                 current_res.setdefault(char, {})
@@ -37,7 +38,9 @@ class FCM:
                 current_res.setdefault(char, children_res)
         
         if current_context == self.context:
-            self.probabilitiesContext = current_res    
+            self.probabilitiesContext = current_res  
+            print(self.countContextChildren(self.probabilitiesContext))
+
         
         
     
@@ -52,43 +55,35 @@ class FCM:
         return current_total 
 
     def createContext(self):
+        alphabet = set(self.text)
         res = {}
-        trash_chars = ['', '\n', '|', '!', '"', '$', '%', '&', '/', '(', ')', '=', '?', '\'' , '»', '\\', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0', '{', '[', ']', '}', '«', ',', '.', ';', ':', '-', '_']     
-        for word in self.text.split(' '):
-            bad_word = False
+        for char_index in range(len(self.text) - self.k):
             current_ref = res
-            for char in word:
-                if char in trash_chars:
-                    bad_word = True
-            if bad_word or len(word) > self.k:
-                continue
-            for k_order in range(self.k):
-                
-                if(k_order > len(word) - 1):
-                    break
-                if k_order == self.k - 1 or k_order == len(word) - 1:
-                    if isinstance(current_ref, int):
-                        current_ref[word[k_order]] += 1
-                    elif isinstance(current_ref, dict):
-                        if not word[k_order] in current_ref.keys():
-                            current_ref.setdefault(word[k_order], {'': 1})
-                        elif '' in current_ref[word[k_order]]:
-                            if isinstance(current_ref[word[k_order]][''], int):
-                                current_ref[word[k_order]][''] += 1
-                        
-                else:   
-                    if current_ref == {}:
-                        current_ref.setdefault(word[k_order], {})
-                    elif word[k_order] not in current_ref.keys():
-                        current_ref.setdefault(word[k_order], {})
-                        
-                current_ref = current_ref[word[k_order]] 
-                
-                
+            for i in range(self.k):
+                if i == self.k - 1:
+                    if self.text[char_index + i] in current_ref.keys():
+                            current_ref[self.text[char_index + i]] += 1
+                    else:
+                        current_ref.setdefault(self.text[char_index + i], 1)
+                else:
+                    if self.text[char_index + i] not in current_ref.keys():
+                        current_ref.setdefault(self.text[char_index + i], {})
+                current_ref = current_ref[self.text[char_index + i]]
+        self.context = res
+        
+        for char_index in range(len(self.text) - self.k):
+            current_ref = res
+            for i in range(self.k):
+                for letter in alphabet:
+                    if letter not in current_ref.keys():
+                        current_ref.setdefault(letter,self.a)
+                    elif isinstance(current_ref[letter], int) or isinstance(current_ref[letter], float):
+                        current_ref[letter] += self.a
+                current_ref = current_ref[self.text[char_index + i]]
+
                
 
                     
-        self.context = res
 
 
 if __name__ == "__main__":
@@ -97,6 +92,6 @@ if __name__ == "__main__":
     elif len(sys.argv) == 2:
         a = FCM(2,0.3, sys.argv[1])
     elif len(sys.argv) == 3:
-        a = FCM(sys.argv[1],0.3, sys.argv[2])
+        a = FCM(int(sys.argv[1]),0.3, sys.argv[2])
     elif len(sys.argv) == 4:
-        a = FCM(sys.argv[1],sys.argv[2], sys.argv[3])
+        a = FCM(int(sys.argv[1]),float(sys.argv[2]), sys.argv[3])
