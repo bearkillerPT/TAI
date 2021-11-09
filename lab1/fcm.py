@@ -54,7 +54,7 @@ class FCM:
         return current_total 
 
     def createContext(self):
-        alphabet = set(self.text)
+        self.alphabet = set(self.text)
         res = {}
         for char_index in range(len(self.text)):
             current_ref = res
@@ -76,7 +76,7 @@ class FCM:
         for char_index in range(len(self.text) - self.k):
             current_ref = res
             for i in range(self.k):
-                for letter in alphabet:
+                for letter in self.alphabet:
                     if letter not in current_ref.keys():
                         current_ref.setdefault(letter,0)
                 current_ref = current_ref[self.text[char_index + i]]
