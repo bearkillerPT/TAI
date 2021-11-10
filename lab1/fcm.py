@@ -1,6 +1,6 @@
 
 import sys
-
+import math
 class FCM:
 
     def __init__(self, k, a, textFile='example.txt'):
@@ -23,6 +23,7 @@ class FCM:
             current_context = self.context
         if not parent_prob:
             parent_prob = self.total_count
+            
         total_alpha = self.a * parent_prob
       
         for char in current_context.keys(): 
@@ -32,13 +33,28 @@ class FCM:
                     current_res.setdefault(char,  (current_context[char] + self.a) / (parent_prob + total_alpha))
             else:
                 current_res.setdefault(char, {})
+                parent_prob = self.countContextChildren(current_context)
                 children_res = self.calculateProbabilities(current_context[char], current_res[char],parent_prob)
                 current_res.setdefault(char, children_res)
         
         if current_context == self.context:
             self.probabilitiesContext = current_res 
+        
 
-            
+    def entropy(self, current_probs_context=None, parent_prob=None):
+        if not current_probs_context:
+            current_probs_context = self.probabilitiesContext
+        if not parent_prob:
+            parent_prob = 1
+        row_entropy = 0
+        if isinstance(current_probs_context, int) or isinstance(current_probs_context, float):
+            return -math.log2(current_probs_context / parent_prob)
+        else:
+            parent_prob = self.countContextChildren(current_probs_context)
+            for context in current_probs_context:
+                row_entropy += parent_prob * self.entropy(current_probs_context[context], parent_prob)
+            return -row_entropy
+
 
         
         

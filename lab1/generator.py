@@ -77,19 +77,22 @@ if __name__ == "__main__":
                     break
                 choices = []
                 if isinstance(current_probs_context, dict):
-                    parent_prob = a.countContextChildren(current_context)/ a.total_count 
+                    parent_prob = a.countContextChildren(current_probs_context)
+
                     for option in current_context.keys():
                         if isinstance(current_probs_context[option], int) or isinstance(current_probs_context[option], float):
-                            choices.append(current_probs_context[option] /parent_prob)
+                            choices.append(current_probs_context[option]  /parent_prob)
                         else:
-                            choices.append(a.countContextChildren(current_probs_context[option]) / parent_prob)
-                    print(list(current_context.keys()),choices, choices)
+                            choices.append(a.countContextChildren(current_probs_context[option])/parent_prob )
+                    total = 0
+                    for num in choices:
+                        total+= num
                     choice = random.choices(list(current_context.keys()),choices)[0]
                     text += choice
                     current_context = current_context[choice]
                     current_probs_context = current_probs_context[choice]
 
-        print(text)
-        
+        print("Text Generated:\n" + text)
+        print("Entropy:\n" + str(a.entropy()))
         print('Execution Time: ' + str(datetime.now() - start))
         
