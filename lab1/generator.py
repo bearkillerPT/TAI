@@ -65,7 +65,7 @@ if __name__ == "__main__":
         done = True
     if not done:
         [a, text_length] = parseArgs()
-        parent_prob = 1
+        parent_prob = a.total_count
         done = False
         while not done:
             current_context = a.context
@@ -77,13 +77,13 @@ if __name__ == "__main__":
                     break
                 choices = []
                 if isinstance(current_probs_context, dict):
-                    parent_prob *= a.countContextChildren(current_context)
+                    parent_prob = a.countContextChildren(current_context) /parent_prob
                     for option in current_context.keys():
                         if isinstance(current_probs_context[option], int) or isinstance(current_probs_context[option], float):
-                            choices.append(current_probs_context[option] / parent_prob)
+                            choices.append(current_probs_context[option] )
                         else:
                             choices.append(a.countContextChildren(current_probs_context[option]) / parent_prob)
-
+                    print(choices)
                     choice = random.choices(list(current_context.keys()),choices)[0]
                     text += choice
                     current_context = current_context[choice]
