@@ -23,8 +23,9 @@ class FCM:
             current_context = self.context
         if not parent_prob:
             parent_prob = self.total_count
-            
-        total_alpha = self.a * parent_prob
+            total_alpha = self.a * self.total_count
+        else:
+            total_alpha = self.a * parent_prob * self.total_count
       
         for char in current_context.keys(): 
             if current_context[char] == {}:
@@ -45,15 +46,16 @@ class FCM:
         if not current_probs_context:
             current_probs_context = self.probabilitiesContext
         if not parent_prob:
-            parent_prob = 1
-        row_entropy = 0
+            parent_prob = self.countContextChildren(self.probabilitiesContext)
+
         if isinstance(current_probs_context, int) or isinstance(current_probs_context, float):
-            return -math.log2(current_probs_context / parent_prob)
+            return current_probs_context/parent_prob * -math.log2(current_probs_context/parent_prob)
         else:
-            parent_prob = self.countContextChildren(current_probs_context)
+            row_entropy = 0
+            children_count = self.countContextChildren(current_probs_context)
             for context in current_probs_context:
-                row_entropy += parent_prob * self.entropy(current_probs_context[context], parent_prob)
-            return -row_entropy
+                    row_entropy += self.entropy(current_probs_context[context], (children_count))
+            return row_entropy * (children_count/parent_prob)
 
 
         

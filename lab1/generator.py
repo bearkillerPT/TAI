@@ -87,6 +87,7 @@ if __name__ == "__main__":
                     total = 0
                     for num in choices:
                         total+= num
+
                     choice = random.choices(list(current_context.keys()),choices)[0]
                     text += choice
                     current_context = current_context[choice]
