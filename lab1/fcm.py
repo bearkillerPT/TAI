@@ -102,7 +102,7 @@ class FCM:
 
 if __name__ == "__main__":
     if len(sys.argv) == 1:
-        print("The program show be called like this: \n\tpython3 fcmm.py filename ||\n\tpython3 fcmm.py k_order filename ||\n\tpython3 fcmm.py k_order a filename\nk_order meaning de order of the model and\na being a smoothing parameter")
+        print("The program show be called like this: \n\tpython3 fcm.py filename ||\n\tpython3 fcm.py k_order filename ||\n\tpython3 fcm.py k_order a filename\nk_order meaning de order of the model and\na being a smoothing parameter")
     elif len(sys.argv) == 2:
         a = FCM(2,0.3, sys.argv[1])
     elif len(sys.argv) == 3:

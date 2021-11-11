@@ -93,7 +93,7 @@ if __name__ == "__main__":
 #            #        current_context = current_context[choice]
 #            #        current_probs_context = current_probs_context[choice]
 #
-        print("Text Generated:\n" + text)
+        #print("Text Generated:\n" + text)
         print("Entropy:\n" + str(a.entropy()))
         print('Execution Time: ' + str(datetime.now() - start))
         
