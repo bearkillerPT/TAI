@@ -4,7 +4,7 @@ import math
 class FCM:
 
     def __init__(self, k, a, textFile='example.txt'):
-        self.k = k 
+        self.k = k + 1
         self.a = a
         if textFile != 'example.txt':
             self.textFile = open(textFile, 'r')
@@ -23,18 +23,13 @@ class FCM:
             current_context = self.context
         if not parent_prob:
             parent_prob = self.total_count
-            total_alpha = self.a * self.total_count
-        else:
-            total_alpha = self.a * parent_prob * self.total_count
-      
         for char in current_context.keys(): 
-            if current_context[char] == {}:
-                current_res.setdefault(char, self.a / (parent_prob + total_alpha))
-            elif isinstance(current_context[char], int) or isinstance(current_context[char], float):
+            if isinstance(current_context[char], int) or isinstance(current_context[char], float):
+                    total_alpha = self.a * len(current_context.keys())
                     current_res.setdefault(char,  (current_context[char] + self.a) / (parent_prob + total_alpha))
             else:
                 current_res.setdefault(char, {})
-                parent_prob = self.countContextChildren(current_context)
+                parent_prob = self.countContextChildren(current_context[char])
                 children_res = self.calculateProbabilities(current_context[char], current_res[char],parent_prob)
                 current_res.setdefault(char, children_res)
         
@@ -49,10 +44,10 @@ class FCM:
             parent_prob = self.countContextChildren(self.probabilitiesContext)
 
         if isinstance(current_probs_context, int) or isinstance(current_probs_context, float):
-            return current_probs_context/parent_prob * -math.log2(current_probs_context/parent_prob)
+            return current_probs_context * -math.log2(current_probs_context)
         else:
             row_entropy = 0
-            children_count = self.countContextChildren(current_probs_context)
+            children_count = self.countContextChildren(current_probs_context) 
             for context in current_probs_context:
                     row_entropy += self.entropy(current_probs_context[context], (children_count))
             return row_entropy * (children_count/parent_prob)
@@ -78,7 +73,7 @@ class FCM:
             current_ref = res
             k_end = self.k
             if(len(self.text) - char_index < self.k):
-                k_end = len(self.text) - char_index 
+                k_end = 0
             for i in range(k_end):
                 if i == self.k - 1:
                     if self.text[char_index + i] in current_ref.keys():
@@ -91,12 +86,13 @@ class FCM:
                 current_ref = current_ref[self.text[char_index + i]]
         self.context = res
         
-        for char_index in range(len(self.text) - self.k):
+        for char_index in range(len(self.text) - self.k + 1):
             current_ref = res
             for i in range(self.k):
-                for letter in self.alphabet:
-                    if letter not in current_ref.keys():
-                        current_ref.setdefault(letter,0)
+                if i== self.k-1:
+                    for letter in self.alphabet:
+                        if letter not in current_ref.keys():
+                            current_ref.setdefault(letter,0)
                 current_ref = current_ref[self.text[char_index + i]]
 
                

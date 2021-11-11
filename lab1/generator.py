@@ -67,32 +67,32 @@ if __name__ == "__main__":
         [a, text_length] = parseArgs()
         parent_prob = a.total_count
         done = False
-        while not done:
-            current_context = a.context
-            current_probs_context = a.probabilitiesContext
-            parent_prob = 1
-            for k_index in range(a.k):
-                if len(text) == text_length:
-                    done = True
-                    break
-                choices = []
-                if isinstance(current_probs_context, dict):
-                    parent_prob = a.countContextChildren(current_probs_context)
-
-                    for option in current_context.keys():
-                        if isinstance(current_probs_context[option], int) or isinstance(current_probs_context[option], float):
-                            choices.append(current_probs_context[option]  /parent_prob)
-                        else:
-                            choices.append(a.countContextChildren(current_probs_context[option])/parent_prob )
-                    total = 0
-                    for num in choices:
-                        total+= num
-
-                    choice = random.choices(list(current_context.keys()),choices)[0]
-                    text += choice
-                    current_context = current_context[choice]
-                    current_probs_context = current_probs_context[choice]
-
+        #while not done:
+            #current_context = a.context
+            #current_probs_context = a.probabilitiesContext
+            #parent_prob = 1
+            #for k_index in range(a.k):
+            #    if len(text) == text_length:
+            #        done = True
+            #        break
+#            #    choices = []
+#            #    if isinstance(current_probs_context, dict):
+#            #        parent_prob = a.countContextChildren(current_probs_context)
+#
+            #        for option in current_context.keys():
+            #            if isinstance(current_probs_context[option], int) or isinstance(current_probs_context[option], float):
+            #                choices.append(current_probs_context[option]  /parent_prob)
+            #            else:
+            #                choices.append(a.countContextChildren(current_probs_context[option])/parent_prob )
+#            #        total = 0
+#            #        for num in choices:
+#            #            total+= num
+#
+            #        choice = random.choices(list(current_context.keys()),choices)[0]
+#            #        text += choice
+#            #        current_context = current_context[choice]
+#            #        current_probs_context = current_probs_context[choice]
+#
         print("Text Generated:\n" + text)
         print("Entropy:\n" + str(a.entropy()))
         print('Execution Time: ' + str(datetime.now() - start))
