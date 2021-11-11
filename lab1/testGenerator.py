@@ -13,7 +13,6 @@ if __name__ == "__main__":
         a = 0.3
         filename = sys.argv[2]
     elif len(sys.argv) == 4:
-        print("here")
         k = int(sys.argv[1])
         a = float(sys.argv[2])
         filename = sys.argv[3]
@@ -21,5 +20,4 @@ if __name__ == "__main__":
     for i in range(1,k+1):
         print('k: ' + str(i))
         print('a: ' + str(a))
-        print('python3 generator.py ' + filename + ' ' + str(i) + ' ' + str(a) + '´0')
         system('python3 generator.py ' + filename + ' ' + str(i) + ' ' + str(a) + ' 0')
