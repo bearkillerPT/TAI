@@ -11,7 +11,10 @@ class FCM:
             self.text = self.textFile.read()
             self.createContext()
             self.total_count = self.countContextChildren(self.context)
+            
             self.calculateProbabilities()
+            self.total_probs_count = self.countContextChildren(self.probabilitiesContext)
+
 
     def loadFromContext(self, context):
         self.context = context["count_context"]
@@ -37,23 +40,23 @@ class FCM:
             self.probabilitiesContext = current_res 
         
 
-    def entropy(self, current_probs_context=None, parent_prob=None):
+    def entropy(self, current_probs_context=None, current_context=None, k=0):
         if not current_probs_context:
             current_probs_context = self.probabilitiesContext
-        if not parent_prob:
-            parent_prob = self.countContextChildren(self.probabilitiesContext)
+        if not current_context:
+            current_context = self.context
 
-        if isinstance(current_probs_context, int) or isinstance(current_probs_context, float):
-            return current_probs_context * -math.log2(current_probs_context)
-        else:
-            row_entropy = 0
-            children_count = self.countContextChildren(current_probs_context) 
+        row_entropy = 0
+        if k == self.k - 1:
+            children_count = self.countContextChildren(current_context)
             for context in current_probs_context:
-                    row_entropy += self.entropy(current_probs_context[context], (children_count))
-            return row_entropy * (children_count/parent_prob)
+                row_entropy += current_probs_context[context] * -math.log2(current_probs_context[context])
+            return row_entropy * children_count/self.total_count
 
-
-        
+        else:
+            for context in current_probs_context:
+                row_entropy += self.entropy(current_probs_context[context], (current_context[context]), k+1) 
+            return row_entropy 
         
     
     def countContextChildren(self, current_context):

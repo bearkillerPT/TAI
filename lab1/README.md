@@ -24,18 +24,21 @@ Where:
 - 200 represents the number of words to generate.
 
 
+The usage of the generators is the same and can be found by running:
+python3 generator.py
 
-Text specific generator:
-It is also possible to save and hot load previous calculated contexts like so:
-- Save: python3 text_generator.py --save bible_context tests/bible.txt 10 0.3 200 
-[Execution Time: 0:00:04.008487]
-
-- Load: python3 text_generator.py --load bible_context 10 0.3 200 [Execution Time: 0:00:01.506882]
+Both support hot loading contexts for quicker execution times!
 
 Sequence Generator:
 - Save: python3 generator.py --save bible_context tests/bible.txt 5 0.1 20 
 [Execution Time: 0:07:06.708885]
 
 - Load: python3 generator.py --load bible_context 5 0.1 20[Execution Time: 0:00:14.810960 ]
+
+Text specific generator:
+- Save: python3 text_generator.py --save bible_context tests/bible.txt 10 0.3 200 
+[Execution Time: 0:00:04.008487]
+
+- Load: python3 text_generator.py --load bible_context 10 0.3 200 [Execution Time: 0:00:01.506882]
 
 ```

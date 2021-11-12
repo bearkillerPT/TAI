@@ -35,7 +35,7 @@ if __name__ == "__main__":
             system('python3 testFCM.py ' + test)
     elif total_args == 2:
         filename = 'tests/' + sys.argv[1] + '.txt'
-        fcm_obj = FCM(3, 0.1, textFile=filename)
+        fcm_obj = FCM(2, 0.1, textFile=filename)
         runTests(sys.argv[1], fcm_obj)
     elif total_args > 3:
         print("The program show be called without any parameters or with a name like: example1. \nEverything is standardized so that the tests are ran automatically according to the examples in the tests folder!")
