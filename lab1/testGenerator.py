@@ -10,7 +10,7 @@ if __name__ == "__main__":
         filename = sys.argv[1]
     elif len(sys.argv) == 3:
         k = int(sys.argv[1])
-        a = 0.3
+        a = 0.1
         filename = sys.argv[2]
     elif len(sys.argv) == 4:
         k = int(sys.argv[1])

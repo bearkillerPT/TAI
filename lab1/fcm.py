@@ -11,6 +11,7 @@ class FCM:
             self.text = self.textFile.read()
             self.createContext()
             self.total_count = self.countContextChildren(self.context)
+            self.total_alpha_count = self.a * len(self.alphabet)**(self.k - 1)
             
             self.calculateProbabilities()
             self.total_probs_count = self.countContextChildren(self.probabilitiesContext)
@@ -39,23 +40,28 @@ class FCM:
         if current_context == self.context:
             self.probabilitiesContext = current_res 
         
+    def entropy(self):
+        entries_entropy = self.rows_entropy()
+        unknown_contexts = len(self.alphabet) ** (self.k-1) - self.countContextChildren(self.probabilitiesContext)
+        unknown_contexts_prob = self.a * len(self.alphabet) / (self.total_count + self.total_alpha_count)
+        unknown_contexts_entropy = -1 * unknown_contexts_prob * math.log2(unknown_contexts_prob)
+        return entries_entropy + unknown_contexts * unknown_contexts_entropy * unknown_contexts_prob
 
-    def entropy(self, current_probs_context=None, current_context=None, k=0):
+    def rows_entropy(self, current_probs_context=None, current_context=None, k=0):
         if not current_probs_context:
             current_probs_context = self.probabilitiesContext
         if not current_context:
             current_context = self.context
 
         row_entropy = 0
+        children_count = self.countContextChildren(current_context)
         if k == self.k - 1:
-            children_count = self.countContextChildren(current_context)
             for context in current_probs_context:
                 row_entropy += current_probs_context[context] * -math.log2(current_probs_context[context])
-            return row_entropy * children_count/self.total_count
-
+            return row_entropy * children_count/ (self.total_count + self.total_alpha_count)
         else:
             for context in current_probs_context:
-                row_entropy += self.entropy(current_probs_context[context], (current_context[context]), k+1) 
+                row_entropy += self.rows_entropy(current_probs_context[context], (current_context[context]), k+1) 
             return row_entropy 
         
     
