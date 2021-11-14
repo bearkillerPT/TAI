@@ -18,6 +18,6 @@ if __name__ == "__main__":
         filename = sys.argv[3]
     
     for i in range(1,k+1):
-        print('k: ' + str(i))
+        print('\nk: ' + str(i))
         print('a: ' + str(a))
-        system('python3 generator.py ' + filename + ' ' + str(i) + ' ' + str(a) + ' 0')
+        system('python3 generator.py ' + filename + ' ' + str(i) + ' ' + str(a) + ' 250')

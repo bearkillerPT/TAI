@@ -54,6 +54,12 @@ def parseArgs():
             text_length = int(sys.argv[6])
             save(sys.argv[2],a)
     return [a, text_length]
+
+def shiftBufferAndAdd(buffer, item):
+    new_buffer = buffer[1:]
+    new_buffer += item
+    return new_buffer
+
 if __name__ == "__main__":
     start = datetime.now()
     text_length = 200
@@ -67,33 +73,62 @@ if __name__ == "__main__":
         [a, text_length] = parseArgs()
         parent_prob = a.total_count
         done = False
-        #while not done:
-            #current_context = a.context
-            #current_probs_context = a.probabilitiesContext
-            #parent_prob = 1
-            #for k_index in range(a.k):
-            #    if len(text) == text_length:
-            #        done = True
-            #        break
-#            #    choices = []
-#            #    if isinstance(current_probs_context, dict):
-#            #        parent_prob = a.countContextChildren(current_probs_context)
-#
-            #        for option in current_context.keys():
-            #            if isinstance(current_probs_context[option], int) or isinstance(current_probs_context[option], float):
-            #                choices.append(current_probs_context[option]  /parent_prob)
-            #            else:
-            #                choices.append(a.countContextChildren(current_probs_context[option])/parent_prob )
-#            #        total = 0
-#            #        for num in choices:
-#            #            total+= num
-#
-            #        choice = random.choices(list(current_context.keys()),choices)[0]
-#            #        text += choice
-#            #        current_context = current_context[choice]
-#            #        current_probs_context = current_probs_context[choice]
-#
-        #print("Text Generated:\n" + text)
-        print("Entropy:\n" + str(a.entropy()))
-        print('Execution Time: ' + str(datetime.now() - start))
-        
+        current_context = a.context
+        current_probs_context = a.probabilitiesContext
+        parent_prob = 1
+        for k_index in range(a.k-1): #generate the first k chars
+            choices = []
+            if isinstance(current_probs_context, dict):
+                parent_prob = a.countContextChildren(current_probs_context)
+
+                for option in current_context.keys():
+                    if isinstance(current_probs_context[option], int) or isinstance(current_probs_context[option], float):
+                        choices.append(current_probs_context[option]  /parent_prob)
+                    else:
+                        choices.append(a.countContextChildren(current_probs_context[option])/parent_prob )
+                total = 0
+                for num in choices:
+                    total+= num
+
+                choice = random.choices(list(current_context.keys()),choices)[0]
+                text += choice
+                current_context = current_context[choice]
+                current_probs_context = current_probs_context[choice]
+        #Generate the rest
+        k_buffer = text
+        while(not done):
+            current_probs_context = a.probabilitiesContext
+
+            if len(text) == text_length:
+                done = True
+                break
+            for char in k_buffer:
+                if char in current_probs_context.keys():
+                    current_probs_context = current_probs_context[char]
+                else:
+                    current_probs_context = {}
+                    for letter in a.alphabet:
+                        current_probs_context.setdefault(letter, a.a)
+                    break
+            choices = []
+            for context in current_probs_context.keys():
+                choices.append(current_probs_context[context])
+            choice = random.choices(list(current_probs_context.keys()),choices)[0]
+            k_buffer = shiftBufferAndAdd(k_buffer, choice)
+            text += choice
+       
+
+        print("--------------------------------------------------------------")
+        print("------------------------TEXT GENERATED------------------------")
+        print("--------------------------------------------------------------")
+
+        print(text)
+
+        print("\n--------------------------------------------------------------")
+        print("------------------------EXECUTION TIME------------------------")
+        print("--------------------------------------------------------------")
+        print(datetime.now() - start)
+
+        print("\n--------------------------------------------------------------")
+        print("------------------------ENTROPY-------------------------------")
+        print(a.entropy())
