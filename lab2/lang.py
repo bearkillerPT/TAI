@@ -2,7 +2,7 @@ from os import fchdir
 import sys
 from fcm import FCM
 from math import log2
-#lang
+
 class LANG:
     
     def __init__(self,ref,target,k,a):
@@ -18,37 +18,42 @@ class LANG:
         self.refContext = self.refObject.contextTable
         self.tarContext = self.tarObject.contextTable
 
-        self.bits = self.estimateBits()
+        self.bits = self.estimateTotalBits()
+        
         print("Bits de compressao: " + str(self.bits))
       
     def createContext(self,file):
         fcm_obj = FCM(self.k,self.a,file)
         return fcm_obj
 
-    def ContextInRef(self,key):
-        if key in self.refContext.keys():
-            total = self.refContext[key]["total"]
+    def isContextInRef(self,context):
+        if context in self.refContext.keys():
+            total = self.refContext[context]["total"]
         else:
             total = -1
         
         return total
 
-    def calcBits(self,key,symbol,total):
+    def calcBits(self,context,char,total):
         divisor = total + (self.a * self.tarObject.sizeAlphabet)
-        prob = (self.refContext[key][symbol] + self.a) / divisor
-
+        prob = (self.refContext[context][char] + self.a) / divisor
         bits = - log2(prob)
+        
         return bits
         
-    def estimateBits(self):
+    def estimateTotalBits(self):
         bits = 0
-        for key in self.tarContext.keys():
-            total = self.ContextInRef(key)
+        for context in self.tarContext.keys():
+            total = self.isContextInRef(context)
             if total != -1:
-                for symbol in self.tarContext[key].keys():
-                    bits += self.calcBits(key,symbol,total)
-        return bits 
+                for char in self.tarContext[context].keys():
+                    bits += self.calcBits(context,char,total)
+            else:
+                divisor = (self.a * self.tarObject.sizeAlphabet)
+                prob = self.a / divisor
+                bits += -log2(prob)
 
+        return bits 
 
 if __name__ == "__main__":
     if len(sys.argv) == 5:
