@@ -1,0 +1,377 @@
+vro	! heikamisse märk tähhendap heikamist ehk immetellemist, nink peap luggeja hääld töstma, kui temmale mannu jõud.
+vro	"Ennola" (näütemängo "Las olla pääle" põh'al). Kuuldõmäng. Võro Tiatriateljee, lavastaja Tubina Taago.
+vro	"Jumalik komöödia" (itaalia keelen "La Divina Commedia") om Alighieri Dante kirotõt eepiline poeem. Tä kirot' tuu
+vro	1308. ja 1321. aastaga vaihõl. "Jumalikku komöödiat" peetäs itaalia kirändüse kõgõ tähtsämbäs poeemis ja
+vro	maailmakirändüse suurteossõs. Tuu, et poeem oll' kirotõt toskaana keelepruugin, avit' tuul keelpruugil saiaq
+vro	"Kolm näitemängu", Talliin, Eesti Draamatiatri, 1997. Siso: "Kokkusaamine", "Tagasitulek isa juurde",
+vro	"Suurõ' pilvõ'" om albom, kon Roose Celia, Kanni Tuule, Jürjendali Robert ja Urbi Arvo laulvaq-mängväq
+vro	umasäetüisi rahvalaulõ ja rahvamuusikidõ tettüisi lukõ. Albom om ilmunuq 2010. aastagal lasõrtsõõri pääl.
+vro	Välläandja om ncb. Plaadi laulõst üts ("Siili silmä'") om perit Hargla kihlkunnast Võromaalt.
+vro	"Tsih, tsih, imäelle – Tütäreni armõ’õni" (Urvastõ ja Karula kihlkunna rahvalaul)
+vro	"Ummaleelo" om ansambli Ummaleelo albom kon om pääl 5 seto rahvalaulu. Albom om ilmunuq 1997. aastagal lasõrtsõõri
+vro	"Vihmakõnõ" om Kalkuni Mari tõnõ albom, kon om 4 võrokeelist ja 6 eestikeelist laulu nink 1 pillilugu. S'oo albomi
+vro	"Võrokiilne lugõmik" om võro keelen kirotõt lugõmisõ-raamat koolilatsilõ ja suurilõ kost või lukõq
+vro	rahvaluulõst, kunstkirändüsest, ao- ja luudusluust. Raamatut om ilmunu kats trükkü (1993 ja 1995), noist edimäne
+vro	kand' päälkirja "Võrokõstõ lugõmiseraamat". "Võrokiilse lugõmigu" kokkosäädjäq ommaq Avarmaa Tea, Kauksi
+vro	"Üts ummamuudu liin" om ansambli Ummamuudu kuvvõs albom, miä sisaldas 12 laulu, noist 2 ommaq võrokeelidseq. Albom
+vro	'usercssjsyoucanpreview' => "Vihje: Pruugiq nuppi 'Näütäq proovikaehust' uma vahtsõ css/js ülekaemisõs inne ku
+vro	(Hurda Jakobi rahvaluulõ kogo I 9, 865/6 (179) - Suurkask A., 1898, võro kiilde pandnu Laanõ Valdis)
+vro	Aastagil 1703-1711 oll' suur Ungarin suur mäss Habsburgõ võimo vasta. Ungarlaisi juhtõ Rákóczi Ferenc II, kiä
+vro	pääle Habsburgõ kukutamist 1707 Ónodi Riigipääväl võtt' sõaaos võimo ku Ungari vürst, a kiä võta-s Ungari
+vro	kruuni ja kuningatiitlit. Sõda Habsburgõ impeeriumiga kest' 8-aastakka. Ungarlaisi (nn. kurutsidõ) sõavägi kaot'
+vro	Ah'a jõgi om jõgi Võromaal ja Tartomaal. Tä om Imäjõõ kõgõ suurõmb hääpoolinõ harojõgi (juusk sinnäq
+vro	Peipsist 8,8 km kavvusõl) ja tä nakkas pääle Erästvere järvest. Alambjoosul om Ah'a jõgi laivatav. Keskjoosul om
+vro	Alambśaksa (Plattdüütsch) ▪ Araabia (‮العربية ‬) ▪ Eesti ▪ Esperanto ▪ Baski (Euskara) ▪ Friisi
+vro	(Frysk) ▪ Galeegi (Galego) ▪ Heebreä (עברית) ▪ Hiina (中文 (简)' ▪ Hindi (हिन्दी) ▪
+vro	Hispaania (Español') ▪ Hollandi (Nederlands) ▪ Horvaadi (Hrvatski) ▪ Inglüse (English) ▪ Inglüse lihtsä
+vro	(Simple English) ▪ Itaalia (Italiano) ▪ Jaapani (日本語) ▪ Kassuubi (Kaszëbsczi) ▪ Katalaani (Català) ▪
+vro	(Lietuvių) ▪ Läti (Latviešu) ▪ Norra (Bokmål) ▪ Oksitaani (Occitan) ▪ Poola (Polski) ▪ Portugali
+vro	(Português) ▪ Prantsusõ (Français') ▪ Põh'asaami (Davvisámegill) ▪ Pärsiä ( فارسي) ▪ Roodsi
+vro	(Svenska) ▪ Rumeeniä (Română) ▪ Śaksa (Deutsch) ▪ Serbiä (Српски) ▪ Sloveeni (Slovenian) ▪ Soomõ
+vro	(Suomeksi) ▪ Soti (Scots) ▪ Soti gaeli (Gàidhlig) ▪ Taani (Dansk) ▪ Tsehhi (Česká) ▪ Türgü
+vro	(Türkçe/Tāke) ▪ Ukraina kiil' (Українська) ▪ Udmurdi (Удмурт кыл) ▪ Ungari (Magyar) ▪
+vro	Vahtsõnorra (Nynorsk) ▪ Vietnami (Tiếng Việt) ▪ Vinne (Русский) ▪ Žemaidi (Žemaitėška) ▪ Kõik
+vro	Albert om lõpõtanu Tarto Kunstikooli 1988. aastagal. Tarto Ülikooli maaliosakunna lõpõt' tä 1996. aastagal. 1988.
+vro	aastagast pääle om tä Kursi kuulkunnan, 1995. aastagast Tarto Kunstnikkõ Liidon. Albert eläs Tarton. Tä om
+vro	tennüq inämbält jaolt suuri maalõ, kon pääl ommaq ulmõmaastiguq. Timä töie teemäq ommaq elost hindäst ja
+vro	inemiseq timä maalõ pääl ommaq peris inemiseq Alberti hindä ümbrelt. Gulgi maalõn om väega häste ärq tuntav
+vro	käekiri. Sääl ommaq ulmõlidsõq olõndiq umast maailmast. Maalõ pinnaq ommaq paksustõ ärq täüdedüq. Umas
+vro	inspiratsioonis pidä Albert Gulk elektroonilist muusikat. Tuu muusigaga võrdõlõs tä ka ummi töid. Tä om
+vro	Ansambli Ummamuudu ja seto leelokoori Leelonaase ütitsest projektist om vällä kasunu ansambli Ummaleelo.
+vro	Aoviidüs vai meelelahotus om tegemiseq, midä tetäs aoviitmises, tujo nõstmisõs vai muutmisõs.
+vro	Archimedest peetäs vanaao kõgõ suurõmbas ja kõiki aigõ ütes suurõmbas matõmaatikus. Tä and' meetodi parabooli
+vro	kaarõ ala jäävä pinna suurusõ rehkendämises lõpmalda ria summana nink rehkend' uma ao kotsilõ väega täpsehe
+vro	pii. Tä mõtõl' vällä spiraali, miä kand timä nimme, nink löüd' valõmiq püürdpindõ mahtõ rehkendämises.
+vro	Arvõ saa üles kirotaq viil komaarvo kujol. Kümnendsüstemin kirotõdas näid üles arvotäherongi abil, kon
+vro	üteliidsi tähest hääl puul om koma. Ku jagoarv kirotaq üles koma abil, piät arvotäherong ärq lõppõma vai
+vro	kõrduma nakkama. Näütüses 1,25 lõpõs ärq, 0,333... (lõpmalda pall'o kolmi) kõrdus, mõlõmbaq ommaq jagoarvoq.
+vro	Kõik kõrdujaq ja ärqlõppõjaq komaarvoq ommaq ütsvõrradsõq määntsegi jagoarvoga, nt. 1,25=5/4, 0,333...=1/3.
+vro	Komaarvoq, miä kõrdu-iq ja lõpõ-iq ärq, olõ-iq jagoarvoq, noid kutsutas irratsionaalarvõs. Sääntseq ommaq
+vro	Augstupīte, Tulija, Uriekste, Tirza, Pīļupīte, Dzērve, Mustjõgi, Kaičupe, Stakļupīte, Streņčupīte,
+vro	Krāčupe, Mellupe, Rātsupite, Jumara, Strīķupe, Lenčupe, Draņķupīte, Brasla, Loja
+vro	Balti keeleq om indoõuruupa kiili umaette alarühm, kohe kuulusõq läti, latgali, leedu ja semaidi kiil.
+vro	Bosniast ja Hertsegoviinast põh'a, õdagu ja lõunõ puul om Horvaatia, hummogu puul om Serbiä nink lõunõhummogu
+vro	puul Montenegro. Merepiiri om Bosnial ja Hertsegoviinal õnnõ 20 km Aadria mere veeren Neumi liina man.
+vro	Castro Fidel (Fidel Alejandro Castro Ruz, sündünüq 1926) om Kuuba poliitik, Kuuba riigipüürdmise juht. Tä oll'
+vro	1959–1976 Kuuba pääministre nink aastagil 1976–2008 Kuuba Riiginõvvokogo ja Ministride Nõvvokogu päämiis.
+vro	Concepción on mitmõ liina nimi. Noist kõgõ suurõmb om Concepcióni liin Tsiilin. Concepción om ka hispaania
+vro	Du Fu (杜甫; Dù Fǔ, 712–770) oll' Hiina Tangi dünastia tähtsämbit luulõtajit. Uma eloaol tä kuulsas
+vro	saaki-is, a oll' väiku ammõtnik ja rännäs' maad piten. Perrätulõjaq põlvõq ommaq sagõhõhe pidänüq Du Fud
+vro	Edimädse Eesti vabariigi aigu, veitse joba innembgi, vähendediq valdo arvo peris pall'o, et tetäq näid
+vro	elojovvulidsõmbas ja efektiivsembäs, 1939. aastagas oll' Eestin veitse üle 200 valla. Vallaq püssüväq Eestin
+vro	1950. aastaganiq, ku säeti sisse nõvvokogolik val'tsõmiskõrd. 1945–1950 eksistiirseväq valdo allütsüisinäq
+vro	Edimält oll' teossõ päälkiri õnnõ "Commedia", Boccaccio Giovanni pand' ildampa tollõ mano Divina. Trükün ilmu
+vro	tuu edimäst kõrda 1472. Edimäne trükk, kon sõna "jumalik" oll' päälkirän, ilmu 1555 Veneetsian.
+vro	Edimäst kõrda tull' kokko üle saa võrokeelidse ja -meelidse inemise, peeti võrokeelitsit loengit. Edimäst kõrda
+vro	kõnõldi laembalt võrokõisist ja võro keelest, edimäst kõrda arotõdi võro keelen tiidüse üle.
+vro	Eestin katõpäävätsel visiidil olnuq Suurbritannia kuninganna Elizabeth II üten kuninglidsõ abikaasa prints
+vro	Philipiga võtt' ossa Talliinan Raekua platsin timä avvos kõrraldõt tervütüskontsõrdist.
+vro	Egäpäävätsen elon loetas talvõkuis põh'apuulkeräl joulukuud, vahtsõaastakuud ja radokuud; lõunapuulkeräl
+vro	piimäkuud, hainakuud, põimukuud. Talvõ alostus om joulukuu edimäne päiv vai piimäkuu edimäne päiv.
+vro	Emmaste - Hanila - Karuse - Kirbla - Kullamaa - Käina - Lihula - Lääne-Nigula - Martna - Märjamaa - Noarootsi -
+vro	Esiki ilma Pihkva järve ja Lämmijärveldä om Peipsi järv pindala poolõst Õuruupa neläs järv. Peipsist iinpuul
+vro	Esäne tõbras om pull, ärqkohit tõbras om härg, imäne tõbras om lehm, sündünü tõbras om vasik ja nuur tõbras
+vro	Eukleides pühend' uma "Elemente" raamaduq VII-IX algarvõlõ ja jagonõmisõlõ - nuuq teemaq ommaq arvoteooria üteq
+vro	alostalaq. Muuhulgan and' tä algoritmi katõ arvo kõgõ suurõmba ütidse jagaja löüdmises (nn. Eukleidese
+vro	algoritmi) ja edimädse teedäqolõva tõõstusõ tollõ, et algarvõ om lõpmalda pall'o.
+vro	Fidži, ammõtlidsõlt Fidži Saari Vabariik, om saarõriik Okõaanian. Fidži pääliin om Suva.
+vro	Ginea-Bissau, ammõtlidsõlt Ginea-Bissau Vabariik, om Õdagu-Afriga riik. Ginea-Bissau pääliin om Bissau.
+vro	Gruusia vai Georgia vai Sakharthvelo om riik Õuruupa ja Aasia piiri pääl Taga-Kaukaasian. Gruusia pääliin om
+vro	Hallopi Piitre (sündünüq 1872 Toodsi külän Rõugõ kihlkunnan) om öütsinkäümisest kõnõlnuq niimuudu (kaeq:
+vro	Harak lindas, siivoq tsilgusõq verd? (Pangist tsilgus vett viituumisõ aigo. Setomaa, 1938/9.)
+vro	Hark hargi pääl, ts'algutaja ts'algutaja pääl, pilgutaja pilgutaja pääl, mõts mäe pääl, soeq mõtsahn?
+vro	Homeros (kreeka keelen Ὅμηρος, u. 8. aastagasada i.m.a.) oll' Vana-Kreeka laulik, eepoisi "Ilias" ja "Odüsseia"
+vro	Hurda Jakobi aigu sai Otõmpää keriklast kihlkunna koolitõt perride kokkokäümise kotus. Küläliisi tull' nii
+vro	ligempäst ku kavvõmpast: Rothiq, Zastroviq, Beutler, Bark, Fuchs, Eisenschmidt, Krug, Undritzi Thomas ja Paul,
+vro	Kurrikoffi Andreas, Jannseni Eugen ja Harry, Sperrlingki Burchard ja Alfred, Herrmanni Karl August, Treffneri Hugo,
+vro	Kallasõ Rudolf, Kergi Johannes, Jürmanni Michael, Tiido (Dido) Andres, Kanni Hans jt.
+vro	Häädemeeste mõisa (Gudmannsbach) – riigimõisa, ärq jaet 16. aastagasaal Tahkuranna mõisast
+vro	Igäme järv vai Igeme järv vai Igimä järv om järv Räpinä kihlkunnan Räpinä vallan.
+vro	Ilmaruumijaamah om vähene rasõhusjoud. Tuud tarvitõdas elotiide, keemiä, meditsiini, psükoloogia ja füüsiga
+vro	uurmisõs ja säält kaias ilmaruumi ja ilma Maa pääl. Ilmaruumijaamah proovitas massinit, midä um vaia Kuu ja Marsi
+vro	Imäjõõl ommaq suudsõq kaldõq, miä ommaq läbi aastagasato tennüq rassõs silla ehitämise ja aastak läbi
+vro	jõõst üleminemise. Üts kotus, kon kõva maisõmaa om mõlõmbal puul õkva jõõ veeren, om Tarton Laia huulidsa
+vro	otsan Vabadussilla kotus. Sääl om ka aoluulinõ jõõ üleminemise kotus, kohe tegüsi Tarto liin inämb kui 1000
+vro	Inemise sülenäärmeq lövvämiq keele all ja pää sisen alapuul ja edepuul kõrvo. Noist näärmist, miä kõrvo
+vro	ligi ommaq, juusk sülg põski ja igimide vaihõlõ, kost timä jälq kergehe põski ja igimide kokkopitsitämise läbi
+vro	Iraani kultuur om sego muistidsõst kultuurist (miä oll' inne islami tulõkit) ja islamistligust kultuurist. Tä om
+vro	olnuq üts kõgõ mõokamb kultuur Kesk-Hummogumaal ja Kesk-Aasian. Pärsiä kiilt om sääl 2. aastagatuhanda joosul
+vro	peet harit inemiisi keeles ja inne tuud usotallituisi keeles. Üts tähtsämb aig Iraani kultuuri jaos oll' Sassaniidõ
+vro	aig. Sõs mõot' iraani kultuur nii Hiinat, Indiat ku Rooma riiki, nuuq mõotusõq jovviq eski Õdagu-Õuruupahe ja
+vro	Jakob oll' Eesti Aleksandrikooli asotamisõ üts iistvidäjit ja 1870-1883 tollõ pääkomitee president'.
+vro	Juhat' inämb ku 20 segäkuuri, miiskuuri, ansamblit, estraadi- ja puhkpilliorkestrit (1961-1982 "Koidu" kolhoosi
+vro	puhkpilliorkestrit), juhõnd' solistõ Tilsin, Vanan-Koiolan, Lahel ja Põlvan. Sai ummi kuurõ ja orkestridega
+vro	laulupita ülekaehuisil, olümpiaadel ja "Põlva koolikeväjä" ettevõtmiisil avvohindo. Juhat' Põlva laulupäivil
+vro	latsi ja suuri ütiskuurõ ja -orkestrit. Kuulu Viiemeistride Liido Tarto osakunna nuuri viiemeistride sektsiuuni.
+vro	Järestüsstruktuuriq. Näütüses võrõq. Naidõ puhul om köüdüses hulga elonikkõ järestüsköüdüs, miä
+vro	Jõõ korgusvaiht mõõdõtas hariligult miitriden. Mägijõkil om korgusvaih suur, tasadsõ maa jõkil hariligult
+vro	Kahkva nimme om edimäst kõrda nimetet 1558. aastagal (Kachtkiwa). 1582 oll' seo (Chochowa) Räpinä mõisa osa.
+vro	Räpinä mõisast eräldet 1738. ja 1744. aastaga vaihõl, oll' seost aost Räpinä kõrvalmõisa.
+vro	Kaido Kama (1990): Võrokese ja tõse soomeugrilase. - Kaika Suvõülikuul Kaikal. Tartu, lk. 7-11.
+vro	Kaitsõala om tett tuu jaos, et hoita alalõ Hummogu-Eestile tüüpilist suud, suusaari haruldaisi taimi, kaitsa
+vro	umanäolist maastikku, arõnõvit älvit ni Nohipalo Must- ja Valgjärve. Turismitegevüs kaitsõalal olõ-iq kuigi
+vro	suur. Inemiseq saavaq esiq kävvü kaeman Meenikunno suud, Nohipalo järvi ja Ilomõtsa taivakivihaudo.
+vro	Kana lubanuq sõs egä päivi üte muna munnõq ku täl edimädse keväjä haudu lastas ja ega kõrd ku tiä munõs
+vro	mõni terä viljä andas. (H I 7, 659/60 (1-10), Kanepi kihlkund, Loodusõ Gustav, 1895)
+vro	Kassuubi keelel om uma kiräkiil ja kiräviis, miä om poola keelest tõistõ mitmõ tähemärgi võrra (nt ã ja ë).
+vro	Katsakirä katõsa nukka tähendäseq vana Võromaa katsat kihlkunda (Urvastõ, Kanepi, Põlva, Räpinä, Vahtsõliina,
+vro	Keeletiidüs om inemiisi keele tiidüsline uurminõ ja keeletiidläne tuu, kiä kiilt uur.
+vro	Kehv kuuldminõ vai rassõ kuuldminõ om tuu, ku helü kuuldminõ om nõrgas jäänüq vai hoobis ärq kaonuq. Tuu või
+vro	Kerigumäe järv, Järvesuu ja mõts näide ümbre moodustasõq Kerigumäe maastigukaitsõala.
+vro	Kibõhus vai liikmiskibõhus om füüsigalinõ suurus, miä näütäs, ku pall'o kihä kotus ruumin ao joosul muutus.
+vro	Lajembalt või kibõhusõ all mõtõldaq määntse taht ao joosul toimuva muutusõ suurust (nt. unõhtamisõ kibõhus,
+vro	Kihlkunnakonvent oll' umaval'tsusorgan Liivimaa kubõrmango kihlkunnõn, miä luudi maapäävä otsussõga 1870.
+vro	Kihlkunnakonventi kuuluvaq kihlkunna mõisniguq ja vallavanõmbaq, tedä juhtõ konvendi hindä valit
+vro	kihlkunnaiistsaisja. Kihlkunnakonvente pääülessannõq oll' posti, arstiabi ja kerkoteie haldaminõ. Konvente
+vro	luumisõga tulti vasta talopojõlõ, kiä tahivaq kah maa val'tsõmisõst ossa võttaq, a ütelepoolõ oll' tuu kah
+vro	vastaabinõu riigival'tsusõ plaanilõ luvvaq Balti kubõrmangõn semstvo. Kihlkunnakonvendiq kaotõdiq 5. hainakuu
+vro	Kiilikund om kõgõ laemb rühm kiili, miä ommaq hindä vaihõl keelesugulusõn, tuu tähendäs, ommaq peri samast
+vro	Kinkal viil joudu ja tahtmist oll', sai perän kultuurimaja tulõkotussõ man istu.
+vro	Kohila vald om vald Rapla maakunna põh'ajaon. Valla keskusõs om Kohila allõv. Valla suurus om 230,2 km² ni 2009.
+vro	Koiva jõgi om Lätin juuskvist jõkist kõgõ pikemb (Daugava om külh viil pikemb, a Läti piiren om tedä veidemb).
+vro	Kolga Raimondi edimäne luulõtuisikogo "Ütsik täht" (1946) om võrokeeline. Timä järgmidsengi kogon "Kõiv akna
+vro	all" (1952) ommaq võrokeelidseq luulõtusõq inämbüsen. Illatsõmbaq kogoq "Müüd sõrmus" (orig. "Müüdud
+vro	Kos sa läät, kõvõragõnõ? - Mis sa tahat, nahkapal'ast? (Oja juusk. Vahtsõliina kihlkund, 1902.)
+vro	Ku Batman võitlõs vainlaisiga, või täl tarvis tullaq bumerangi sarnast batarang’i ja muid tegüsit nõvvõ.
+vro	Batman liigus sagõhõhe korguisin, minktarbis tarvitas köüt. Tää sõit esiqerälidse massinaga (batmobile’iga),
+vro	lindas esiqmuudu linnogiga (batplane’i vai batwing’iga), vii pääl liigus Batman esiqerälidse loodsiguga
+vro	(batboat’iga). Batmani pääkortin (batcave) om Wayne’i vahmila härbäni all olõvan kooban, kon tää edendäs ja
+vro	hoit uma varustust. Ku vaia, kuts komissar Gordoni Jim Gotham City politseist Batmani vällä, minktarbis tarvitas
+vro	Ku keele kynõlõjaq jätväq uma keele kynõlõmisõ tävveste maaha, om tegemist keelesurmaga.
+vro	Ku vahtsõnõ territoorium luudi, oll' pall'o vaiõlust, kost piiriq minemä pidänüq. Kanada inukkõ kogo pallõl'
+vro	keskval'tsusõl jakaq Põh'aõdagu territooriumiq hummogu ja õdagujaos. Õdagupoolidsõ jao nimes jäi Põh'aõdagu
+vro	territooriumiq. Hummogupoolinõ jago om inukkõ maa (80% elänikest inukiq) ja tuu nimes sai Nunavut, miä tähendäs
+vro	Kuning Mátyás kuuli nii, et täl es olõq säädüsliidsi poigõ. Vahtsõs kuningas sai ungari aristokraatõ toel
+vro	poolakas Vladislaus II (ungariperätse nimega Ulászló) kiä valits' 1490–1516. Arvada, et aristokraadiq tahiq tedä
+vro	tuuperäst, et Vladislausõl oll' veidüq mõjjo aristokraatõ üle. Ungari tähtsüs võrrõldõn tõisi riikega
+vro	kahasi, poliitilinõ stabiilsus kattõ ja ütiskunna arõng jäi pidämä. Aastal 1514, ku Vladislaus II oll' joba vana
+vro	ja nõrk, oll' Ungarin suur talorahva mäss, midä juhtõ Dózsa György. Tuu suruti aadlimiihi puult, kedä juhtõ
+vro	Szapolyai János, julmalt maaha. Sääntsen segädüsen oll' türkläisil lihtsämp Ungarilõ kallalõ tullaq. Aastagal
+vro	1521 langõsi türkläisi kätte Nándorfehérvár (Belgradi ungariperäne nimi), Ungari kõgõ tugõvamb kants
+vro	Kupõrjanovlaisi mälehtüsmärk Lembitü kasarmun – 23. detsembril 1928 – Tato maakund Tarto
+vro	Kuul om Sventen 1921. aastagast saaniq. 1976. aastagani tüüt' kuul Svente mõisa härbänin, sõs koliti vahtsõhe
+vro	Kõgõ vanõmbaq jäleq inemiisi tegemiisist ommaq perit vanõmbast paleoliitikumist. X-VI aastagatuhandal i.m.a. elliq
+vro	Iraanin mesoliitikumi jahimeheq ja korilasõq. VIII-V aastagatuhandal i.m.a. naati mõnõn paigan põldo tegemä.
+vro	Lajemban mõttõn kutsutas vedadõs vedasit üten brahmanasõ, aranjakadõ ja upanišadõga.
+vro	Lihavõttõq ommaq vinneusu kerigo kõgõ suurõmb pühä, samal aol ku jouluq ommaq kõgõ suurõmb pühä Katoligu
+vro	Liin tekkü ravvavabriku mano, minka 1795. aastagal ehit' Briti ärimiis Gascoigne'i Charles.
+vro	Liinatśuraq: Hao Paul, Kahuski Neeme, Kama Mõtus Lõmaš, Panovi Peeter, Sarvõ Heno, Vahelaanõ Paul, Kalkuni
+vro	Luhansk om tähtsä massinaehitüse keskus, kon om pall'o vabrikit. Sääl tetäs vedureid, tüüpinke, akusit ja muud.
+vro	Lõviga vapp om perit 1737. aastagast. Tuust aost om tedä mito kõrda muudõt, perämäne muutminõ oll' 1986.
+vro	aastagal. Olõ-iq peris kimmähe teedäq, midä tuu lõvi tähendäs, a arvada või, et tä om köüdet kuninglidsõ
+vro	Lüüdi kiil om soomõ-ugri kiili õdagumeresoomõ rühmä kiil, midä kõnõlõs umbõs 3000 inemist.
+vro	Malõ om lavvamäng katõlõ mängjäle. Tedä mängitäs malõlavva pääl: tuu om 64 kruuduga (32 valgõt ja 32
+vro	musta), miä ommaq 8-n rian ja 8-veerun nii, et kõrvuisi olõvaq kruuduq ommaq esiq värmi. Mängo alostusõn om
+vro	kummalgi mängjäl 16 mängopulka: üts kuning, üts lipp, kats kahurit, kats ratsut, kats ota ja katõssa pupsi.
+vro	Mängo tsihis om andaq vastatsõ kuningalõ matt, tuu tähendäs, andaq tollõ niimuudu tuld, et vastanõ saa-iq uma
+vro	Maol om kats lävve: edelävi ja tagalävi. Edelävest tulõ süük sisse, tagalävest lätt tä soolikidõ sisse. Maon
+vro	saa süük üte hapnõ leeme ehk limoga, miä maolimos nimitedäs, seätüs ja tuuläbi vedeläs pudros lahotõdus.
+vro	Maolimo himmitses väikeisist näärmist vällä, miä mao sisemädse poolõ pääl ommaq. Jo maon saa üts jago
+vro	vedeläst söögipudrost riistakõisi läbi, miä mao saina ehk sisemädse poolõ pääl lövvüseq, ülesimetüs ja
+vro	vere sisse tallitõdus iholõ toidus. Suurõmb jago söögiputro, nimelt kõik, miä viil tävveste ärq ei olõq
+vro	pehmendet ja lahotõt, joud aigupite, kui tä uma ao maon om olnuq ja valmistõt, mao tagalävest soolikidõ sisse.
+vro	Michigani järv om järv Põh'a-Ameerikan. Tä om üts Suurõ järvistü viiest järvest nink ainugõnõ noist, miä om
+vro	Mihkli Vabahussõa mälehtüssammas – 30. lehekuu päiv 1926 – Pärno maakund Koonga vald Mihkli
+vro	Miiq maal om tõnõkõrd peris külm ja satas lummõ. Tuu aig om talv. Ku lumi ärq sulas ja hainaq-puuq haljas
+vro	lääväq, om kevväi. Suvõ lämmäga kasussõq näide viläq täüs. Sügüse lätt jälq külmembäs, puiõ leheq
+vro	satassõq maaha ja hainaq kuiossõq ärq. Sõs tulõ jälq talv ja kõik nakkas otsast pääle. Sääne om elo miiq
+vro	Minevä aastagasaa 90-ndide algusõh, ku setodõ hindätiidmine nõsõma naas', sai kirmasõst ummamuudu Ungavitsa
+vro	külä ja perridõ kokkotulõk. Tuulaigo setodõl viil umma lippu olõ-õs, pito peeti Eesti sini-must-valgõ all.
+vro	Rahvast kogohu pall'o, tutvit ni sugulaisi tull' ka Eestimaa kavvõbist kotusist.
+vro	Mozart jäi tõbitsõs Prahan, kohe tä oll' sõitnu oopõri "La clemenza di Tito" edimädse ettekandmisõ aos 6.
+vro	süküskuu pääväl. Oopõr oll' kirotõt imperaatri kruunmistalitusõ jaos. Mõnda aigu sai tä umma tüüd edesi
+vro	tetäq, nt. juhataq "Võloflöödi" edimäst ettekandmist 30. süküskuu pääväl. Tõbi läts' tõsitsõmbas 20.
+vro	märtekuu pääväl, ku Mozart jäi sängü, tulliq haluq, paistõtusõq ja süä läts' kur'as.
+vro	Mustaljõõl om pikkust 84 km. Jõgikunna suuurus om 1820 km³, minkast Eestin om 994 km³. Tä juusk lajan ürgoron,
+vro	Mängokaart vai leht om ristkülikukujolinõ tugõvast paprõst vai plastikust lehekene kaardimänge mängmises.
+vro	Mõisakompleksi keskusõs oll' ütekõrdnõ lammõ katussõga päähoonõq, miä oll' tagakülega Väimälä järve
+vro	poolõ. Huunõ fassaadi kaunistiq pilastriq - keskrisaliidil neli pilastrit ja kummalgi külgrisaliidil kats
+vro	paarinpilastrit. Kaarjadsõq müürüq veiq päähuunõ külgi päält kokko katõ siibhuunõgaq - noist üts oll'
+vro	val'tsõjamaja, tõnõ tiinjidemaja. Siibhuunidõ keskkotussil ommaq kolmnukkfrontooniq ni sainapind om sääl
+vro	Mõnõq Võromaa suurinsärgen Võro Seldsi liikmõq 2010. aastaga joulukuul Võrol Elleri Kalle 70. ja Kõivupuu Marju
+vro	NATO pääsekretär om 2009. aastaga 1. põimukuu pääväst Rasmusseni Anders Fogh, kiä valiti tuu ammõdi pääle
+vro	Napoleoni sõaq lõppiq ku Napoleon sai 18. piimäkuu pääväl 1815 Waterloo all lüvväq ja sõlmiti Tõnõ Pariisi
+vro	Neli tegeväq asõnd, kats näütäseq tuld, üts heitäs magama? (Pini heitäs magama. Urvastõ kihlkund, 1940.)
+vro	Newtoni Isaac (Isaac Newton, 1643-1727) oll' inglüse füüsik, matõmaatik, tähetiidläne, alkeemik ja usutiidläne.
+vro	Timä raamatut "Philosophiæ Naturalis Principia Mathematica", miä ilmu 1687, peetäs tiidüse aoluun kõgõ
+vro	mõokambas raamatus. Sääl tä kirot' manokiskmisväest ja kolmõst liikmissäädüsest, põh'andadõn tuuga kütse
+vro	mekaaniga, minga kolm aastagasata seletediq tiidüslidselt füüsilist maailma ja miä om s'ooilmaaigsõ
+vro	insinöritiidüse alos. Tä näüdäs, et timä manokiskmisoppus om kuunkõlan Kepleri hod'otähti
+vro	liikmissäädüisiga, nink tuuga käüväq asjo liikminõ Maa pääl ja taivakihhi liikminõ sammo säädüisi perrä.
+vro	Niimuudu häöt' tä perämädseq kahtlusõq pääväkeskse ilmapildi kotsilõ ja tougas' takast tiidüslist
+vro	Nolckeni Eduard muut' Moostõ mõisa 20. aastagasaa alostusõn Lõuna-Eesti ütes ilosambas mõisakompleksis. Riia
+vro	ehitüskunstnigu Reinbergi Augusti projekti perrä ehitet katõkõrdnõ heimatstiilin päähoonõq sai valmis 1909.
+vro	Nädälipääväq ommaq iispäiv, tõõsõpäiv, kolmapäiv, neläpäiv, riidi, puulpäiv ja pühäpäiv. Puulpäivä
+vro	ja pühäpäivä kokko kutsutas nädälilõpos vai nädälivaihtusõs. Nuuq pääväq ommaq miiq maal ja mitmõl puul
+vro	Näütüses Gregoriusõ kallendrin moodustasõq aoarvamisõ alguspunktist lukõn 100 edimäst aastakka (1.-100. aastak)
+vro	1. aastagasaa, 100 järgmäst aastakka (101.-200. aastak) 2. aastagasaa ja nii edesi.
+vro	Nõvvokogo Liidon naksiq elektromehaanilidsõ ülekandõ katsõtusõq Moskvan 1931. aastagal ni edimädseq
+vro	Oktoobripööreq vai Oktoobrirevoluts'uun (vinne keelen: Октябрьская революция) vai Suur
+vro	Sotsialistlinõ Oktoobrirevoluts'uun oll' riigipööreq Vinnemaal, mink toimumispääväs loetas hariligult 25. rehekuu
+vro	päivä vana kallendri perrä (7. märtekuu päivä vahtsõ kallendri perrä) 1917. Püürde käügin leiq inämbläisi
+vro	juhiduq nõvvokogoq Petrogradist minemä Vinnemaa Aotidsõ Valitsusõ. Tuu pääle naas' Vinnemaal pääle kodosõda
+vro	Om olõman ü-lõpulinõ diftong ja kimmäs vabahelükokkokõla (nigu võro keelengi): keüs - köüds, käümä -
+vro	Opõrats'oonisüstem om puutri sääne tarkvara, miä pandas tüüle puutrõ alglaatmisprogrammiga nink miä juht ja
+vro	Pang piät olõma nii suur, et ku tä vett täüs pandaq, sõs suur inemine joud tedä üte käe otsan nõstaq.
+vro	Harilikult mahotas pang 3-20 liitrit. Vanast oll' pang mahomõõdus kah -- tuu pidi olõma 10 tuupi.
+vro	Perremärk oll' peritäv. Ku pereq jagosi lakja, perändedi põhitalo märk vähä muudõtult tütärtalõlõ.
+vro	Pihlõnõ vai orants om värm, midä inemise silm näge, ku sinnäq joud valgus lainõpikkusõga 585–620 nanomiitret.
+vro	Piiruja om uja Vahtsõliina kihlkunnan. Tä nakkas pääle Orava kandi mõtsost nink juusk kur'a poolõ päält Piusa
+vro	Pilli timmise man Augustit jutuajaminõ ega tõisi pillimäng es sekäq. Tä ollõv ütelnüq: "Mängiq no edesi! Küll
+vro	Plaki Paul (Paul Plakk, 1909-2001) oll' Võromaalt perit elektroteknigatiidläne, Talliina Teknigaülikooli pikäaignõ
+vro	Pudsunudsija om puhastusmassin, minka nudsitas põrmandidõ, põrmandurõividõ ja müübli päält, autist jm. purrõ,
+vro	putsõ, tolmu jm. mustust ja peenembät prahti. Tüütämise aigu tege pudsunudsija kõvva hellü, miä sekäs muid
+vro	Pulga Jaan sündü 27. märtekuu pääväl 1947 Rõugõ kihlkunnan Varstun. Tä kasvi üles Kul'drin Miku külän.
+vro	Haridusõ om tä saanuq Kul'dri 8-klassilidsõn koolin, Valga 1. Keskkoolin, Tarto ülikoolin, kon oppõ neli aastakka
+vro	arstitiidüst, ja EPA-n, mink lõpõt' eläjäravitsõja (tsootehniku) erialal. Pulga Jaan om pidänüq
+vro	pääeläjäravitsõja ammõtit Kamara sovhoosin Mulgimaal ja Antsla sovhoosin. Sovhoosiao lõpost om tä Antsla vallan
+vro	Puutrisõnastu om sõnastu pidämise puutriprogramm. Taa om üts lihtsämb jago kunstmõistusõst. Puutrisõnastu
+vro	näütüses või tuvvaq programmi GoldenDict vai Võro-eesti synaraamadu elektroonilidsõ versiooni.
+vro	Päiv om täht, miä om pääväsüstemi keskel ja and 98.6% timä massist. Maa ja muu mateeriä tiirotas timä ümbre.
+vro	Pärnon elli 2006. aastaga vahtsõaastakuu 1. pääväl 43788 inemist, kink siäst 55,7% olliq naasõq ja 44,3% meheq.
+vro	Pääle I ilmasõta läts' majandusõ ülesehitämine aigopite, kuigi Gárdonyi "Egeri tähti" ilmuminõ muut' Egeri
+vro	roitõlõjilõ meeleperätses kotusõs ja kandsin naati vanno asjo vällä kaibma. II ilmasõan sai liin kannahtaq, ku
+vro	s'aksa väeq säält lätsiq nõvvokogo väeq tulliq. Õnnõs liina pall'o es pommitõdaq.
+vro	Päält Tarto Ülikooli vahtsõst vallalõtegemist 1802. aastagal naksiq Toomõmäele kerküma ülikooli ehitüseq –
+vro	klassitsistlik Vana Anatoomikum, tähetorn jt. Tuumkerigu varõmidõ kooriruumi jago tetti ümbre Tartu Ülikooli
+vro	Raamatukogos. Inämbüs Toomõmäest om täämbädsel pääväl katõt pargiga, miä panti kah kasuma 19. aastagasaal.
+vro	Põh'ahummogu-Tsiberit uurõn joudsõ luutidõ, põhja lindavidõ tsirgoparvi ni tšuktšõlt kuuldu põh'al
+vro	arvosaamisõlõ, et Põh'a-Iämeren Põh'ahummogu-Tsiberi rannigo ligidäl om suur' saar' ni tä tekk' kimmäs tollõ
+vro	ligikaudsõ asukotussõ. 1820. a. alost' tä neläaastast ekspedits'uuni tuu saarõ ots'misõs, aga saar' jäi
+vro	löüdmäldäq. Pääle saarõ avastamist 1849. a. nimetediq tuu 1867. a. Wrangelli saarõs.
+vro	Põlva kihlkunna mõisidõ nimekiri lugõ üles 20. aastagasaa algusõn Põlva kihlkunnan olnuq mõisaq. Vällä ommaq
+vro	Rahumäe Vabahussõa mälehtüssammas – 31. lehekuu päiv 1931 – Harjo maakund Tallinn Rahumäe
+vro	Rahvasuu kõnõlõs, et vanast ollivaq soeq kar'aga käünüq, kõigil olliq hannaq maah olnuvaq, lätsiväq ütte rata
+vro	Rakõnduselektrooniga vai tekniline elektrooniga tegeles elektronsäädmide konstruiirmisõ ja tuutmistõ
+vro	Reaalarvõ hulk om ütetselt ärq määrät ummi matõmaatiliidsi umahuisiga: taa om ainugõnõ tävveline
+vro	Rohilinõ värm tähendäs vana Võromaa rohilist mõtsa ja võrokõisi luudusõga ütenkuun elämist. Valgõ värm
+vro	Räpinä vapp om Eesti Vabariigi valitsõmisütsüse Räpinä valla vapp. Vapp om kinnitet 11. vahtsõaastakuu
+vro	Rõngu kihlkunnan kõnõldi innembide tarto kiilt ja taa kõnõlõjit om vanõmbidõ inemiisi siän viil parhillaki.
+vro	S'aksamaa okupatsiooni sõaülembäq olliq edimält küländ sõbraliguq eestläisi vasta: om teil uma riik - olkõ
+vro	pääle, meil om käsk edesi minnäq, miiq teid ei putuq. Kogoni S'aksa sõaväe kupõrnaatri Talliinan kindral
+vro	Benckendorff kuulut', et kõik nuuq Eesti polguq, miä ommaq olnuq, jääseq edesi Eesti sõaväes nink näid pandas
+vro	piirivalvõhe Vinnemaa vasta ja tarvitõdas ärq sisemädse kõrra luumisõs. S'akslasõq esiq lätsiq edesi, võtiq
+vro	Pihkva ärq ja lätsiq piaaigu puuldõ Peterburgi tiile, sõs tetti verevidega raho.
+vro	Saamiq (ka laplasõq; hindänimetüs sabme, saami) om põlisrahvas Õuruupa põh'ajaon Norran, Roodsin, Soomõn ja
+vro	Vinnemaal (Murmanski oblastin). Saamiq kõnõlõsõq saami kiili. Kokko om ilman 80 000–100 000 saami. Ligi puul
+vro	Sagarilõ panti sõlgusõpuuq vahelõ. Sõlgusõpuuq olliq sagaridõ sisse raot jaq puupulgaga kinniq. Nuuq panti nii
+vro	korgõhe, et üts kolmandik sagarõ pikkust jäi ülespoolõ sõlgust jaq kats kolmandikku allapoolõ. Sagarit panti
+vro	säitsme vai katsõ jala takast üle saan'a. Saan'a otsõ kottalõ panti õkva üteq, sõs tõõsõq panti jälq üle
+vro	saan'a lakk'a. Kummutusõpalgi päält panti viil tugipuuq vasta sagarit. Ütelt puult saina ütsilde, tõõsõlt puult
+vro	jälq tõõsildõ vasta. Nuuq olliq tuuperäst, et sõs nakka-õiq sagarõq kohegipoolõ vaoma. Nool'õ lüüdi palgi
+vro	Seto laulõn kutsutas taad liina Kiiova. Tuudmuudu kotussõnimi om ka parlatsõn Meremäe vallan - Kiiova külä. Et
+vro	küläl ja liinal vaiht tetäq, ommaq setoq liina kotsilõ ütelnüq ka Oosõ-Kiiova. Om üteld ka Kiiov.
+vro	Sotimaa om pia kats kõrda suurõmb ku Eesti, timä suurus om 78 772 km². Sääl eläs umbõs 5 miljonit inemist.
+vro	Statistiga om tiidüs, miä uur, kuis kor'ata, kõrraldadaq, analüüsi, tõlgõndadaq ja näüdädäq arvandmit.
+vro	Suomen kielen vaikutus viron kieleen. – Kielet kohtaavat. Toimittaneet Jyrki Kalliokoski, Lari Kotilainen ja Päivi
+vro	Pahta. Helsinki: Suomalaisen Kirjallisuuden Seura 2009 (Tietolipas 227), 231–263.
+vro	Suurõmb jago aoluulaisi arvas, et Newton ja Leibniz mõtlivaq diferents'aal- ja integraalrehkendüse vällä ütsüte
+vro	tiidmäldäq. Newtoni ligimäidsi sõnno perrä ollõv tä uma meetodi vällä tüütänüq aastit inne Leibnizi.
+vro	Sõski tä es avaldaq piaaigu mitte midägi inne 1693. a. nink tävvelidselt ilmu timä tüü 1704. a. Samal aol
+vro	Leibniz naas' uma meetodi kotsilõ töid avaldama 1684. Ka timä tähistüseq ja mõistõq "diferents'aalmeetod" võeti
+vro	Õuruupa maisõmaal tarvitusõlõ. Ku Leibnizi teossist om nätäq timä ideede arõngut alostusõst
+vro	kütsessaamisõniq, sõs Newtoni märkmin om nätäq õnnõ valmisprodukt. Newton ollõv ütelnüq, et tä taha-s
+vro	tuuperäst ummi töid avaldaq, et peläs vällänaardmist. Newton käve tihedähe läbi Sveitsi matõmaatigu Duillieri
+vro	Nicolas Fatioga (Nicolas Fatio de Duillier), kiä oll' väega vaimustõt Newtoni manokiskmisteooriast. 1691. a. plaanõ
+vro	tä tetäq vahtsõ vers'ooni Newtoni raamadust "Philosophiæ Naturalis Principia Mathematica", a tuu saa-s täl valmis.
+vro	1694 jäi näide läbisaaminõ jahhembas. Tuul aol vaiht' Duillier mitmit kirjo Leibniziga.
+vro	Sõa lõpon vallutiq Nõvvokogo Liido väeq Ungari ja Ungarist sai Nõvvokogo Liido kommunistlik satelliitriik.
+vro	Arvatas, et umbõs 2000 inemist tapõti ja üle 100 000 panti vangi. Haritlaisi ja demokraatia-tahtjit naati tkan
+vro	kiusama. Umbõs 600 000 ungarlast kiudutõdiq Nõvvokogo Liido tüülaagridõhõ, noist vähämbält 200 000 kuuli
+vro	Süämehaigus om tõbi, miä mõotas süänd. Arõnõnun maailman ommaq süämehaigusõq üts päämäidsi
+vro	Taa artikli kõnõlõs roodsiaigsõst gümnaasiumist; tsaariaigsõ gümnaasiumi kotsilõ kaeq artiklit Tarto
+vro	Tabivere vald om vald vana Tartomaa põh'ajaon ja Jõgõva maakunna lõunõjaon Voorõmaal. Valla alalõ jääs
+vro	Saadjärve põh’aosa ni Elistvere, Kaiavere, Raigastvere ja Soitsjärv. Vallan om Elistvere eläjäpark ja Vudila
+vro	Tartomaa jääs Peipsi ja Võrtsjärve vaihhõlõ ni katõlõ poolõ Suurt Imäjõkõ. Maakunnast lõuna puul om
+vro	Võromaa, õdagu puul Viljandimaa, põh'aõdagu puul Järvämaa ja põh'a puul Viromaa. Tartomaa keskus om Tarto liin.
+vro	The Doors oll' Ameeriga Ütisriike rokkansambli, miä luudi 1965. aastagal Los Angelesin.
+vro	Timä elost om Kauksi Ülle kirotanuq näütemängo "Taarka", midä mängiti 2005. ja 2006. aastaga suvõl Obinitsah.
+vro	2007. a. tetti edimäne setokeeline mängofilm "Taarka", midä edimäst kõrda näüdäti 5. põimukuu pääväl
+vro	Tsõõr vai ratas om tsõõrik ja lapik asi, miä või umast keskpaigast läbi pant tele pääl pööreldäq. Tsõõriq
+vro	ommaq suurõ jao sõidoriisto (nt. autoq, jalgrattaq, vankrõq) all, et nuuq saasiq kergembihe edesi liiku, nink
+vro	pall'odõ massinidõ sisen, kon nääq määnestki tüüd tegeväq (nt. hammasrattaq, miä kandvaq joudu üle).
+vro	Tull' s'aksa okupatsiuun ummi ränki normikohustuisiga S'aksa riigi hääs. Noidõga tull' August toimõ. A ku S'aksa
+vro	riik naas' tedä sõaväkke tahtma haard' tä 1944. a. jälq ärq mõtsa minnäq, kon oll' sõa lõponiq. Sõa aol, 14.
+vro	põimukuu pääväl 1944 sai juhusligust pommikildast hukka Augusti imä Katri. Nii oll' lühkese aoga perrest alalõ
+vro	Vabahelle kokkokõla om üts võro, seto ja terve lõunõeesti keele põhiliidsi helüsäädüisi. Niisama om taa üts
+vro	edimäidsi asjo, mink perrä saa võro ja eesti keelel vaiht tetäq, selle et eesti kiräkeelen vabahelle kokkokõlla
+vro	olõ-õiq. Külh om taasama säädüs olõman pall'odõn tõisin soomõ-ugri keelin, nigu näütüses soomõ, kar'ala
+vro	Vabarn vai vavvõrn om ruushäitsmeliidsi sugukunna molohka perrehe kuuluv puhm. Egäpääväkeelen mõtõldas vabarna
+vro	all inämbüisi taa puhma verevät vai kõllast marja. Vabarnaq kasusõq mõtsikuhe esiqeränis häste näütüses
+vro	raotuidõ, kraavipervi ja varõmidõ pääl. Aiavabarna sordõl ommaq suurõmbaq mar'aq ja jämmembäq varrõq ku
+vro	mõtsvabarnil. Inämbüisi ommaq vabarnaq vereväq, a om ka kõllatsit mõtsa- ku aiavabarnit. Võro keelen om
+vro	Vahtsõnõ aig om aoluujago umbõs aastagast 1500 (renessansist) kooni edimädse ilmasõani (1914/1918). Inne vahtsõt
+vro	Valgustusaig (prantsusõ keelen siècle des lumières, s'aksa keelen Zeitalter der Aufklärung, inglüse keelen Age of
+vro	Enlightenment, vinne keelen Просвещение) oll' aig 18. aastagasaa Õuruupan, ku usk kerkohe ja saisuisihe
+vro	kahasi ja inämb naati väärtüstämä ratsionaalsõt mõtlõmist, demokraatiat, inemiseõiguisi ja tiidüst.
+vro	Vanast panti Võromaal pinnele sääntsit nimmi: Muri, Mudi, Muki, Tuks, Taks, Kaaru, Karu, Pati, Kudi, Kuti, Krants,
+vro	Varõsjalg (ladina keelen Anemone) om mõtsalill. Tä om kas valgõ vai kõllanõ. Arvada, et varõsjalas kutsutas
+vro	Vatikan, ammõtlidõlt Vatikani Liinriik, om tsill'okõnõ Õuruupa riik, miä om Rooman. Tä om kõgõ vähämb ja kä
+vro	Vietnami sõda oll' sõda Vietnamin, Laosõn ja Kambodžan, miä kest' 26. süküskuu pääväst 1959 30. mahlakuu
+vro	pääväni 1975. Ütel puul oll' kommunistlik Põh'a-Vietnam ja timä toetajaq, tõõsõl puul Lõunõ-Vietnam, kedä
+vro	Višnu om üts brahmanismi ja hinduismi pääjumalist. Ütenkuun Brahma ja Šivaga moodustas tä jumalidõ kolmigu
+vro	Väike Hellero: Barbo Leanne, Kahuski Maali, Kahuski Päivi, Kahuski Salme, Orassõ Janika, Orassõ Minni, Priimäe
+vro	Hedvig Ioanna, Sarvõ Kadi, Sarvõ Mari, Sarvõ Pihel, Sarvõ Tuul, Valgu Kati, Valgu Meel.
+vro	Võro kiil oll' Jakobi imäkiil ja tuud tä häbendä-s ka sõs, ku oll' korgõt koolitust saanuq ja tüüt' tähtside
+vro	kotussidõ pääl. Lõunaeesti keelen pidi tä jutussit Otõmpääl ja kirot' tähtraamadujuttõ Tarto Kalendrihe.
+vro	Võromaa tõisi kihlkundõ mõisidõ nimekiräq: Harglõ - Kanepi - Karula - Põlva - Rõugõ - Urvastõ - Vahtsõliina
+vro	Võromaalt ommaq perit füüsiguq ja võro liikmisõ tegeläseq Kõivo Madis, Kasagu Enn ja Visseli Agu.
+vro	Võõral maal pandas hobõst ette, luuk näüs siiäq maalõ? (Vikakaar. Urvastõ kihlkund, 1888.)
+vro	Winnipegist põh'aõdagu poolõ om järv, miä lätt keskpaigan kitsambas (lakjust vähämb ku kilomiitri). Ku järve
+vro	lainõq joudvaq randa, tegeväq nääq vasta vallaliidsi kivve lüvven ummamuudu hellü. Põlisrahvaq usõvaq, et tuu
+vro	om suurõ trummi helü, midä lööse Suur Vaim Manitou. Tuuperäst kutsiq kriiq järve Manito-Wapow nink odžibvaq
+vro	Manito-Ba. Mõlõmbaq tähendäseq "Suurõ Vaimu kitsuisi". Ku Õuruupa kolonistiq jousõvaq sinnäqkanti, naksivaq
+vro	nääq järve kutsma Manitoba järves. 1870. a. luud provints sai uma nime järve perrä.
+vro	Yukon om nime saanuq tuu piirkunna kõgõ suurõmba jõõ perrä. Jõgi om nime saanuq gvitšinikeelidse sõna juko
+vro	] klaamre. Neide wahhele pantas sönnu, mes töiste selletamisses ehk ni kui lijas juttus arwatas.
+vro	a. kuiõ aigaamaduq: Vahtsõaastakuu - Radokuu - Urbõkuu - Mahlakuu - Lehekuu - Piimäkuu - Hainakuu - Põimukuu -
+vro	aastagal kaits' Plaki Paul teknigakandidaadi väitekirä päälkiräga "Freesturba niiskuse määramine elektrilisel
+vro	teel". Peräst tuud sai tä dotsendi kotussõ nink oll' viistõist aastagat kateedrijuhataja: 1953-1962 teoreetilidsõ
+vro	ja ületse elektrotekniga nink 1963-1968 tüüstüselektrooniga kateedrin. Tüüstüselektrooniga (ildampa
+vro	elektrooniga) kateedri luuminõ 1962. aastagal ja tüüstüselektrooniga eriala üliopilaisi oppamine alatõn 1963.
+vro	aastagast sai TTÜ-n (toonadsõ nimega Talliina Polüteknilidsõn Instituudin) teos teno just Plaki Pauli pingutuisilõ.
+vro	aastagal sai valmis Murru vangimaja vahtsõnõ kutsõkoolitushoonõq, kon ommaq seo ilma aolidsõq opmisõ nõudmisõq
+vro	aastagasaal anniq tiidüse arõngulõ huugu Mirza Tagi-khaani reformiq (1849-51), Teherani polüteknilidsõ kooli
+vro	luuminõ, trükükunst jm. S'ooilmaaigsõlõ tiidüsele panti alos 20. aastagasaa edimädsel kolmandikul. Täämbädsel
+vro	pääväl püüd Iraan umma tähtsät kotust tiidüsen tagasi saiaq. Aastagil 1996-2004 kasvi Iraani
+vro	tiidüspublikats'uunõ arv kümnekõrdsõs. Kasvu kibõhusõ poolõst om tä edimäne riik maailman Hiina iin. Tä om
+vro	tukõv keemiän, füüsikan ja arstitiidüsen. Iraanil om uma tuuma- ja kosmosõprogramm.
+vro	aastagasada om aastagasada, miä Gregoriusõ kallendri perrä naas' pääle 1. vahtsõaastakuu pääväl 1701 ja lõppi
+vro	aastagast pääle naatigi noid mälestussambit pistü pandma. Pia ekka kihlkunnakeskustõ tetti mälehtüssammas uma
+vro	kihlkunna sõamiihi mälehtüses. Pääle tuud panti sambit viil suurõmbihe liinohe ja viil mitmihe paikohe. Tuu jaos
+vro	and' rahha rahvas, tetti ka häätegevüsüritüisi. Kokko panti üle Eesti pistü pia 200 mälehtüsmärki, noist
+vro	c) mineväao kesksõnno mitmusõn: (ommaq) mõstu(q), (ommaq) eledü(q), (olliq) söödedü(q), (mar´aq) kor´adu(q);
+vro	e) sõnon a(q), aga(q), ega(q), ku(q), nigu(q), jo(q), no(q), jälle(q), jäl(q), kül(q), tere(q), ei(q), ja(q)
+vro	hainakuu päiv om Gregoriusõ kallendri perrä aastaga 208. päiv (liigaastagal 209. päiv).
+vro	heemekene 1. kirmõq, õhokõnõ kõrd; Süüq kurivaim, tah jo rasvaheemekene kah pääl (EMS). 2. õhokõnõ v.
+vro	läbipaistuja asi v. rõivas'; Ma keedi siipi, olle väega õhukõnõ, õkva ku heemekene. Ma'i saa arvo, mis sa
+vro	sääntsest heemekesest ostitki, mis taa heemekene pidä (EMS). Heemekene niguq hiussõkarv (niidi kotsilõ) (SV).
+vro	joulukuu päiv - Talliina joudvaq edimädseq Soomõ vabatahtliguq major Ekströmi juht'misõl.
+vro	joulukuu päiv om Gregoriusõ kallendri perrä aastaga 346. päiv (liigaastagal 347. päiv).
+vro	joulukuu päiv – luudi Eesti sõaväe opõratiivstaap. Tuu ülembäs sai polkovnik Laidoner.
+vro	krumbitsõmma <süümä, haina haukama; Elläi ehk hobõnõ krumbitsõs, mõnõ kõhna paigakõsõ pääl (EMS).
+vro	lehekuu päiv om Gregoriusõ kallendri perrä aastaga 148. päiv (liigaastagal 149. päiv).
+vro	luurak e.k. luurekas, luuremäng (JJ); kas sa tahat, et ma mängi politseid, luurakut vai rallit?
+vro	mahlakuu päiv om Gregoriusõ kallendri perrä aastaga 112. päiv (liigaastagal 113. päiv).
+vro	märtekuu päiv om Gregoriusõ kallendri perrä aastaga 308. päiv (liigaastagal 309. päiv).
+vro	märtekuu päiv – Eesti Merejoudõ juhatajas sai tervüse peräst ärqlännüq Pitka Johani asõmõl
+vro	oll' "Eesti Postimehe" umanik ja toimõndaja. Oksjonil ostõdu "Eesti Postimehe" möi tä 1888 Tülgi Jakobilõ.
+vro	oll' võrol säitsme tüülisega nahavabrik, kolmõ tüülisega ollõvabrik ja lubjavabrik.
+vro	piimäkuu päiv om Gregoriusõ kallendri perrä aastaga 156. päiv (liigaastagal 157. päiv).
+vro	põimukuu päiv om Gregoriusõ kallendri perrä aastaga 242. päiv (liigaastagal 243. päiv).
+vro	rehekuu päiv om Gregoriusõ kallendri perrä aastaga 300. päiv (liigaastagal 301. päiv).
+vro	süküskuu päiv om Gregoriusõ kallendri perrä aastaga 260. päiv (liigaastagal 261. päiv).
+vro	tärgendämmä 1. tärgeldämä?; 2. mõõtmisõ kotust ärq märk'mä; Tärgendäs ärq mõõtmisõ kotussõq (SV).
+vro	urbõkuu päiv om Gregoriusõ kallendri perrä aastaga 74. päiv (liigaastagal 75. päiv).
+vro	vahtsõaastakuu pääväl vabastiq soomusrongiq ja näidega üten Puurmanilt tulnuq Kupõrjanovi miheq Tarto. Nüüd
+vro	oll' jälq kujonõnuq Lõunarõnd ja Põh'arõnd tagasi. Eesti väeq jäiq siiäq nädälis puhkusõlõ. Suurõmb jago
+vro	miihi es olõq saapit kah jalast saanuq sõa algusõst saaniq, maati kah saapaq jalan ja lunt pään. Nii hirmus oll'
+vro	vallutiq Iraani mongoliq. Nääq laastassiq suuri maa-allo, häötiq liino, tapiq hulka inemiisi ja kehtestiq rängäq
+vro	massuq. Arvatas, et mongoli vallutuisi käügin tapõti kolm neländikku Iraani kiltmaa elänikest (10-15 mill'onat
+vro	inemist). Inne mongoleid olnuq rahvaarvoniq jouti mõnõn Iraani paigan viil 8 aastagasata ildampa, 20. a.s. keskpaigas.
+vro	Ähijärv om järv Karula kihlkunnan Antsla vallan. Karula rahvuspargi 40 järvest om tä kõgõ suurõmb, pindala om
+vro	täl ku 1,5 km läbimõõduga tsõõril. Viikorgus kõigus uma 60 cm aastagan. Pervejuun om väega ts'opilinõ üten
+vro	hulga puulsaariga. Kõgõ suurõmb puulsaar om tammiga katõt korgõ Tammõmäe, ümbre ummaq suuq ni laugaq. Ähijärv
+vro	lätt pistülidselt sügäväs, põhi om perve man liivanõ, a kesken om põhi rahudu ni muanõ. Ähijärve lõunõosan
+vro	ommaq kolm saart (Sitiksaar, Linnusaar, Pajusaar), miä ummaq mõtsaga katõduq. Vesi om Ähijärven rohikaskõllanõ,
+vro	Üts ütles: suvi om pikk, tõõnõ ütles: talv om pikk, kolmas ütles: mul ütskõik? (Rattaq, regi, hobõnõ. Põlva

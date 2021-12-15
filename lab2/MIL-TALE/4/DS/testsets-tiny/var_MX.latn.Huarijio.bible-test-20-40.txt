@@ -1,0 +1,1685 @@
+var	Kúíraa. Neee Maateo tewaniamea,
+var	piiripi puuu Eesusi Riosie Weratiamee
+var	weratiamepua tiame, oosa mariki aampa
+var	ooka Eesusi ajawaria ahjama. Iꞌwa
+var	iyotemane Eesusi Riosie Weratiameo,
+var	aatana ehkoriami tetejimarisichi
+var	oꞌinia eenamekopua, aatia tiiachipa
+var	puuua Auranitaru tetejimarikopua
+var	Raawitaru tiame, ehkoriami mochiriame
+var	tiꞌtijoerichiopua. Oꞌinemane iꞌka
+var	Ihjia waꞌa mochiwachi eꞌenakao
+var	iinatukesirepua tiꞌtijoerio,
+var	Ihji aaata naarachaniamea,
+var	Nape Waania Eesusio ki paatonariaipua
+var	puꞌkao, ki nuꞌuti tiiamekopa
+var	Eesusio apochio. Pukaepa chaanekaipua
+var	Eesusia Waani karichi yachatiame
+var	inamukaopua, Arirea weeechi
+var	noꞌrariapua eenechi, Nasare
+var	’Tísia kaawe yorapuame Riosieopua,
+var	Riosichi ahpo katewekamea, taꞌiria
+var	mochipuawichio kuꞌikamea, puuukamera
+var	Riosi tatanara tewapuamekapa.
+var	Eesusia piie taawechio, aaata
+var	itapitichi ahpo iintomia pichiwataniame
+var	masitekapua, eee cheekao:
+var	Taamo Noono tewekachi kahtiame,
+var	Naakona, ¿ki epeche tísia
+var	peeniatiamepua ki Saromonichitia, apoe
+var	yawichi, tisiwa nateyame wisasori
+var	Yooma neꞌnepasaapa eemea iꞌka
+var	maꞌmasitari masitiao, itapiti
+var	taakerawachitia machima eemea puꞌkao,
+var	kaꞌkaruma enesoo, ki kaꞌkaruma
+var	enesoo puꞌka masitiao.
+var	—Pichiwa chiiamenia iꞌka tijoeo,
+var	yomatiame isaeri weeechioi, ki
+var	tetewikamenia teꞌta paparameo.
+var	Ihji ooka reemoikamea wahjipame
+var	wetemajiwachi ohjoeme senawato
+var	puuyakamea, weeru sisinakokaopua,
+var	chaachapakapua Eesusio:
+var	—Ki kokoriamea ki nakiyamepua ahpo
+var	sauteniameo; kokoriamerakamerapua, ahpo
+var	sautewa nakiyamea. Neeea, tatakoriame
+var	ahjama koayamepua, puuukamerakopapua
+var	ahpo tatakoriria sautepuameo.
+var	—Kiisi aaata chaanemitia eemea,
+var	iꞌka noꞌo aamochi iintoriao.
+var	Teꞌta yawichi peereirachi
+var	uꞌupapuame eemea wenejika, noomina
+var	teꞌteriapa eemea ahjama. Waika
+var	chaachapameri eemea noꞌo nehpupakao,
+var	waꞌakachi, teꞌta yaꞌyawichi
+var	tetewachi. Eepi waꞌa yorapuame eemea
+var	aamo ohjoachio ihta yaꞌyawichichioi,
+var	ihta aaata seesenu yaꞌyawichichioi
+var	Waani Paatoria yeetaeka kahtiaiopua
+var	perekarichio, Eesusi inisia
+var	inamukapaopua, ookapi ahpo masitia
+var	uhjurariapua Eesusi iinatukemichioo.
+var	Nape neeea aamo chaanemapua puꞌka
+var	aamo nokayawichioo, teꞌta Riosi
+var	katewemiachiopua taawechio, Riosia
+var	amochio ki nuꞌuti kokosari amochi
+var	teewemiitepua, epeche ki Sooroma Oomora
+var	mochiwachiopua tiameo, teꞌta kokosari
+var	aiwatetiamechitiaopua.
+var	Nape parisero tiꞌtijoea kaawe
+var	eꞌremitioiopua Eesusi kaawe
+var	iintoriao, Eesusi meripuame ahpo
+var	kateweriapua waꞌa puuyasao.
+var	ahkasi noꞌo Taana yawichituwachi,
+var	Níniwe ehkoriami mochiriamea
+var	kateweniachi taawechio, Oonasi cheeria
+var	pichikekamea, Riosichi aamo
+var	wenejimapua, ki noꞌo pichikiopa Riosi
+var	paajutewaopua. Pichiwa aamo
+var	chaaniamenia, neeea aamo nayewiaa
+var	epeche ki nuꞌuti tiiamerapua, ki
+var	ehkoriami Oonasichitia.
+var	Waꞌa iikaopua ihji tiꞌtijoea, Isaia
+var	iyoterichi cheeriachitia ikiyamepua,
+var	ehkoriami Riosi nayewaturachi
+var	cheeriachitia; Riosia Isaiachi
+var	naewakaopua, cheeriaipua:
+var	—Riosi yeꞌkaria wacherai tewaniame
+var	kuuu pahchiraka tiiamepua.
+var	—Ejeꞌe —chaachapakapu teemea.
+var	—Paamira, ariwatonapa waꞌasi, mehka
+var	kiꞌtiachi mochiwachi iꞌwao. ¿Ki
+var	kaawe ohjoare tiꞌtijoeapa
+var	nonoraputia, aapoe kooame
+var	iꞌyamichiopua mochiwachiamio?
+var	Waikao waꞌa ohjoemea Eesusikoopua
+var	waꞌa eenakameo, muuwaeme
+var	uꞌyepatiapua kokoriame.
+var	Ihji naꞌarari itapiti, tijoe iikachi
+var	oꞌinia machenakamea ihjipua: ki
+var	kaaweruma eꞌraniamera, tijoe
+var	koꞌinarewa, suwepori nokinarewa,
+var	ooweru ikotuwa eraniame, ichikonarewa,
+var	wihtunarewa eraniame, naꞌara
+var	Ihjia yooma ahsepari poposatioiopua.
+var	Koꞌkotiame soparakamea, oowisani
+var	weeweruma waari pochiwatiapua, yooma
+var	chiꞌwapameopua soparakame.
+var	Waꞌa cheeriopua aamoo noꞌoo, Peero
+var	teewa aamo yahchiame neeea, eꞌpe,
+var	cheeka chaniwame. Peero aamo teewame
+var	neeea, puꞌka aamo noochi simiyame
+var	cheeriao, eꞌpechitia pewatiamekopa.
+var	Puꞌka eꞌpechio neeea, yooma noochi
+var	paparakame waꞌa mochiwama neeea,
+var	noꞌo tewekachi tiopachio, ki
+var	teteiwame pusieopua. Waꞌa noꞌo
+var	tiopachi mochikame tiꞌtijoeo
+var	ooweruopua tiameo, aaataai ki noꞌo
+var	uꞌyemapua, teꞌta mukiwari
+var	utewariraai apoe Satanasiai.
+var	—Pichiwa chaachapame puuua, Eeria
+var	pahcha enameriko tuuakao, puuupua,
+var	iintomerikoo tiꞌtijoeri Riosichi
+var	teꞌterepuame katewemeria.
+var	—Tísia pichiwa ihjia: Aaata ki
+var	iꞌka kuitachitia tiiamea apochio,
+var	kaꞌchi iika pakimeri puuua
+var	tewekachio, noꞌo Noono
+var	Waikao teekoraa tísia tesiwa chiiopa
+var	puꞌkao, tesiwe eꞌrepakaopua
+var	puꞌkao, yooma choꞌweriatapua
+var	wikiriarao. Waꞌa ikisaopua waꞌatia
+var	toariatapua noꞌramichioo.
+var	—Toowa puꞌka kukuchio noochi
+var	eꞌenamichio. Kaꞌte waꞌine
+var	puꞌkao, puꞌka kukuchi tiiamekopua
+var	noꞌo Noono yeꞌkarichi muimeria,
+var	puuu kukuchi ahpo noonoo ihta chiiaoi
+var	ikanati pichikiamekopua.
+var	Ihjia tekipaname teewisaapa, piie taawe
+var	yowiwame yowitemio tuuka
+var	uhjurariataipua tekipanamichioo.
+var	Waikao Eesusia chaanekapua puꞌkao:
+var	Eesusi Eerusareni pakisoopa, yooma
+var	weeru noonowikapua muuwari mochiwachio,
+var	ihjia chaachapakapua:
+var	—Riosiko tuusoopua taamoo, taamo
+var	chaanemapua: “¿Achinikai ki puꞌka
+var	pichikeka eeme waikao?”
+var	Puuu tehte ahjae karitaniame ki
+var	iinatukekapua puꞌkao:
+var	—Raawitaru —chaachapakapua.
+var	Tewekachi ahpo natewataka itapiti
+var	iintomo tuuyamea, Riosi yasirachi ahpo
+var	natewatai chiiamepua tiameo, waꞌa
+var	ikisaopua tiame, waꞌa Riosi yasirachi
+var	kahtiameopua tiame, Apoe Riosichi.
+var	’Waika taawechiamio amochitia noochi
+var	paparakameopua, tísia nekamuchepuame
+var	puuua, yomatiame iꞌka wehjoarichi
+var	mochikameeopua; puꞌkaopua chapisaoi
+var	tísia naꞌara kokosa yorapuamepua,
+var	ahkasioi merinarekaopua.
+var	Senawato yuꞌki wawasora eenakaopua,
+var	yooma siꞌripurepua. Waꞌachitia
+var	noꞌo enamio taawechiopua,
+var	waꞌachitia senawato enameripua;
+var	waꞌa teeka enameri neeea, neee Tijoe
+var	waꞌachitarichitia teeremeripua. Piie
+var	taawe aaata teekoraa, aaata ahpo
+var	tekipanatia ahpo toomi tekipanamichio
+var	toowesa simiriataipua wahka, seenu
+var	noꞌo ki machiwachi oiyoio, kiisi
+var	noꞌo asipuriopua aamo taꞌpechio;
+var	noꞌo wisasori nakiyoio kiisi noꞌo
+var	kiꞌyariopa; noꞌo kokorioiopua kiisi
+var	noꞌo neesetoriopa, noꞌo karichi
+var	kahtioio kiisi eꞌnariopa noꞌo
+var	Waꞌa chaanetiapa teeme masiteraa,
+var	waꞌa siimpatiapua waikao. Waꞌa
+var	eꞌenasaopua teemea, yooma iintokapua
+var	chaaneretiao, waꞌa yoratiapu kooameai.
+var	Ehjepao Eesusia masitera ahjamao,
+var	Eꞌsemaní tewaniachi eꞌenatiapua.
+var	Waꞌa asisaapua Eesusia, taamo
+var	chaanekapua ahpo masiterao:
+var	Nape waꞌa noꞌo iintosoopua,
+var	¿achini ikitapu Ehkoriami Iyoterichi
+var	chiia, noꞌo Noono tewekachi
+var	kahtiameopua, ikipo tuuria?
+var	Waikao Peeroa eenechi kaꞌitakapua
+var	Waika taawechiamiopua, waꞌa karichi
+var	yasariaipua piiripi tijoe tísia
+var	inamuniame, Eesusi Warawasi tewaniame.
+var	Kurusichi chuchasaopa soꞌsontaroa,
+var	Eesusi wisasoriwao ahpo newitowa
+var	teꞌekapua puꞌkao, aaatakamera
+var	newitokamea, ahjama itipimichiopua,
+var	ehkoriami Riosi naꞌnayewatura teꞌta
+var	chaachapariachitia, puuu teꞌta
+var	Nape Maaria Maarenaa, piirechi
+var	Maariaapua tiame, waꞌa mochika
+var	itipikapua pehji, tekitiachi neꞌneka.
+var	Waꞌa tiiachipa neeea ehpe oꞌinia
+var	tiiame, yomatiame iꞌka wehjoarichi
+var	aamo uhjuraninia, yooma noochi
+var	paparakameopua tiame nuurewaka,
+var	yomachiami siimpaka masitesimichiopua
+var	tiame, iꞌka Riosi kaaweruma
+var	tuuyewariopua. Yooma puꞌka aamo
+var	masitesiao, noꞌo masitewara
+var	enepatemitiapua, noꞌo Noonochi
+var	paparaka paatosipuapua, noochiopua
+var	tiame Taanarachio, Riosiwarichioopua
+var	—Asikame waꞌasiopua noꞌo Noonoo,
+var	uhjuramio tuuriaa. Asikamepa aamo
+var	mochikachio, Riosi yeꞌkarichi
+var	muitemerio. Pukaepa toaka mochipuapua
+var	waꞌasi puꞌka aamo ki kaꞌkaruma
+var	nokayaopua waꞌasi, ohso kaawe
+var	Riosikamera kaaweruma tuuyewarira
+var	pichikeka mochitopuapua, puꞌkakamera
+var	yooraka mochitosaa eemea,
+var	newipatepuamepua tewekachi Noonoeo.
+var	Piiripi tijoe repera kokoriamea,
+var	tawemina chokichi chopokorieka
+var	weripakao, chaanerepua Eesusio:
+var	—¿Achinikai aamo masitaria puꞌka
+var	ki kaꞌkaruma tiꞌtijoeri ahjama
+var	koayamepua, puꞌka teꞌta
+var	yawichiwichio koparoame ahjama,
+var	wahjachi tiꞌtijoeriopua tiameo, ki
+var	kaꞌkaruma nokayame tetewiniame ahjama?
+var	Waikao paꞌpariseroa waꞌa
+var	puuyasachepa puuua, Eesusi ahpo merimia
+var	katewesirepua, Eeroremina chuchukuame
+var	Waikao waꞌa mochikamea Eesusi
+var	norikame, Eesusi paaewa inamukapaopua,
+var	chaachaparepua Eesusio:
+var	nape epeche ahpo erakoaeopua iꞌka
+var	weeechi iintuamechi itapitio, ahpo
+var	siꞌripuamepua, tahpitika erakoamekapa
+var	puuua, toomichio. Puuua yooma ihtaoi
+var	iniwaeka mochinariamepua. Yooma ihji
+var	waꞌa tiame muꞌipakamea ahpo
+var	iikachio, yooma apochi siꞌripukao,
+var	kihta taakiamepua apochio, Riosiwichio
+var	—¿Achinikai majayame eemea?
+var	¿Kiisiki paparame eemea pehji, noochio?
+var	Waikaopu tijoea, ahpo petechi
+var	noꞌrasaopua, yomachi Reekapori
+var	weeechiami mochiwachi oirepua tuukao,
+var	yooma ihta itapiti ahpo Eesusie, kaawe
+var	iintoretiaopua. Waikao mochiwachiami
+var	ohjoemea, tísia peenia eꞌreka
+var	inamurepua Eesusi iintoriao.
+var	Nape Eesusia waikao puꞌkao, utewame
+var	chaanerepu puꞌkao, kiisi ahpo
+var	tuupuaichiopua waꞌa ahpo iintoriao,
+var	aaataoi. Waikao Eesusia, puꞌka kutewe
+var	ahjatesaopua, koꞌkotenurarepua
+var	Pukaepa Eroriaa Waanio, nekamuchiame
+var	eneriaipua puꞌkao, merinareka
+var	tetewame, nape kaꞌchi ikime
+var	eꞌrariaipua waꞌa eꞌraio.
+var	—Mariki paani waꞌapi maaniamepua
+var	iꞌwao, ooka waꞌapi soꞌchi tiame.
+var	Puuua tísia iyoriameka nokayai,
+var	Nape puuu oowitiamea waꞌa chiioi
+var	—¿Aatia ehpe taawechiami mochikame
+var	tiꞌtijoeria, Riosi peenia ihsiwache
+var	ahpo tetewitejeramepua, noꞌooche
+var	akana oꞌinia eename maꞌchitame?
+var	Nape neeea aamoo, maꞌchiame
+var	chiiamepua aamowichioo, kihta
+var	tetewitepuamekopua waꞌasio, Riosi
+var	—Waanitaru Paatoamekata muuua,
+var	chaachaparepua. Wahjachi tiꞌtijoeria,
+var	Eeriataru aamo maayamepua, nape epeche
+var	wahjachia chaachapamepua, piirechi ahka
+var	aaatakatamua, ehkoriami Riosi
+var	nayewatukame eenechi eenariame.
+var	—¿Achinikai chaachapani iꞌisaeri
+var	iyoteri tiꞌtijoea, Ehkoriami
+var	Iyoterichio, Eeriakamera enamio
+var	tuukaopua pahchao, keꞌchu Riosie
+var	Weratiame yawichituka yasipoiopua?
+var	—Puꞌka waꞌa tiame naꞌarari
+var	maꞌchipaniamea, teꞌta Riosichi
+var	paparaka maꞌchipaniamepua, teꞌta
+var	apoe Riosi utewarie. Apoea, apoe ahpo
+var	Eesusi puꞌkao nehjiarepua:
+var	—¡Ki teesa tehki eꞌrame tísia
+var	totomiwaemea, Riosi yeꞌkarichi ahpo
+var	Nape puuu aamo noꞌo ahjamina
+var	mochipuao, piiripio noꞌo oenao,
+var	piirea noꞌo ahjaminaoi, ki neeekamera
+var	iintomeripua puꞌkao; Apoe noꞌo
+var	Noono tewekachi iintomeripua puꞌkao,
+var	apoe teꞌta apochi reesiseri
+var	—¿Ihtana yooraka nooka eemea
+var	waꞌao? ¿Achini iikai naꞌsochani
+var	—¿Aatana reesiserichi inisiamemua
+var	Teemea puꞌka tehteo taamo Noono
+var	Eesusia nehjiarepua cheeka:
+var	—Ejeꞌe, ¿kaawe tetewamemua puꞌka
+var	kaario, kai waapisi ajakamekoo? Nape
+var	puuua waꞌa tiiaio, kiisi
+var	itipimerikaitepua piiripioi tehte,
+var	raampata maaniameo. Yooma wehchi
+var	yasipamiitepua waꞌa tiiaio, piie
+var	Tewekaa weeea tiamea wahjipatarepua,
+var	nape ihji noꞌo chiiaa teꞌta
+var	pichiwapua, kiisi wehchi wichika
+var	Waikao Eesusia ahpo ajawaria ahjama
+var	mochinioiopua koiꞌrachiopua koakao,
+var	chaanerepua ahpo ajawariao:
+var	Puꞌka ahpo Noonochi itakao, eee
+var	cheerepua ahpo Noonoo:
+var	Nape waꞌa chachapaipua wenejikao, ki
+var	napati waꞌachi chachaparepua.
+var	—Waꞌatepua, amoe waꞌapi waꞌa
+var	chiiamepua —cheeka nehjiare Eesusia.
+var	Waikaopua Eesusio mukimichioo,
+var	kurusichi chucharetupua. Waꞌa
+var	noonowisaa soontaroa Eesusi
+var	wisasoriwao, ahpo newitopua teꞌerepua
+var	Eesusi wisasoriwichioo,
+var	naneꞌrenariapapua aaatakamera
+var	newitoka machenamerikopua Eesusi
+var	Maaria Maarenaa, Maaria Oose yeeyeraa
+var	tiame, tetewakamepua puꞌkao, Eesusi
+var	weerewara tekitiachio.
+var	Uurea weeechi teꞌta yawichikoipua
+var	Eeroreo, waꞌa yasariaipu piiripi
+var	tijoe neeseriosi,  isaeri tiopachi
+var	neesetoame. Ihji tijoea Sakaria
+var	tewaniame eneriaipua, Aawiasi
+var	tewaniamechi pirenaturichi neeseriosi
+var	eneriaipua. Ihji Sakaria uupiraa,
+var	Eerisawe tewaniame eneriaipua,
+var	Aaronichi oꞌinia tiꞌtijoeturichi
+var	—Kaꞌte aꞌchi eꞌra Maariaa,
+var	kaaweruma iintomeri Riosia aamowichioo.
+var	ki aaatakoipua noꞌoo.
+var	aaata newipatemeri uhjuramio tuukao,
+var	Riosia taamo newipatemo tuuriaipua,
+var	puꞌka teꞌta tukapachi
+var	Nape Maariaa yooma iꞌkao, senepi
+var	apochi inataka yasitorepua, iꞌka
+var	Siimeóni kajukoiopua nayewakao,
+var	waꞌachi eenare Aanaai waꞌao,
+var	puꞌka tetewakaopua kuitao, cheriwema
+var	kiꞌyarepua Riosio, yooma
+var	inamuachiopua waꞌao. Waikao iꞌka
+var	kuitachi simiyame nayewerepua yooma
+var	waꞌa ahpo tetewaka waꞌa tiopachi
+var	ajakameopua, puꞌka kuita koomika
+var	weeriáío. Waikao puꞌka nayewaria
+var	inamukamea, puꞌka kuita maaerepua
+var	ahpo newipatemerio, rooma
+var	soontarowarachi nasiwaka Eerusareni
+var	uꞌyekao, rooma yawichiwatere
+var	mochiteniameo, waꞌa tiiame puuyeka
+var	mochitoamekapa puuua.
+var	Waania naewatuka oiyaiopua, kiisi kaawe
+var	iintorio tuurepua Eeroreo, rooma
+var	yawichiopua Eerusareni, puꞌka Eeroreo
+var	ahpo pooni uupira ahjama kahtiopa,
+var	Eroria tewaniame. Waania, muuwaeme
+var	tiame ki kaawe iintoria Eeroreo,
+var	teriwame nayewarepua.
+var	Aamo noꞌo yawichiwatere enepasoo
+var	noꞌo chopokorieka weripekao,
+var	yomatiame noꞌo yawichituao, aamo
+var	iinuwa enepatemania.
+var	Riosi naewamichio teꞌta paaumpari
+var	Reemoniwariai, muuwaeme puuyanaretupua
+var	tiameo. Reemoniwariai Eesusie
+var	puuyanachiaio, chaachaparepua
+var	Nape Eesusia tísia resipakapa
+var	sautiaio, poanachi siisimiriaipua
+var	ooruchi, ahpo Noono tewekachi kahtiame
+var	ahjama nayewámia, resipunariaapua
+var	tiameopua kuꞌitapioi.
+var	Waꞌa ikisaopua Eesusia,
+var	waꞌachitarichi nayewerepua tiame,
+var	weemera Riosichi teꞌterewachi
+var	simiyameopua, eee cheeka:
+var	Ehjepao Eesusia ahpo ajawawa kajusaapa,
+var	ahjama tekiyaiopua waꞌa yeepoo, ki
+var	ookapi tewarepua tiꞌtijoerio, waꞌa
+var	Eesusi keepumia napawikame, ahpo
+var	kokoriame sautekepuaichio eneriapua
+var	tiameo. Puuu tiꞌtijoeri napawikamea,
+var	yomachi ahkaoi eꞌenakame enerepua:
+var	Uurea weeechiami, Eerusareni muuwarichi
+var	oꞌinia eꞌenakame, Tiiro weruma
+var	mochiwachi oꞌinia eꞌenakame,
+var	Siironi weruma mochiwachi oꞌinia
+var	eꞌenakame, naꞌpa puuua,
+var	Meritaráneo paꞌwesuwe weruma
+var	Eesusia, simiteka masitekao, cheerepua
+var	Waikao waꞌa iintokame tetewakamea, ki
+var	nuꞌuti iintoriame eꞌreparepua
+var	Eesusio. Waꞌa iikapaopua, tísia
+var	kaaweruma nayewarepua Riosio,
+var	waꞌachi eenare piiripi oowitiame
+var	suweporichi tehkieme, Eesusi waꞌa
+var	eenario tuuo inamukapa. Puuu oowitiame,
+var	piire riimeta sewajuya iꞌtoka
+var	Wahjachi iimoria eꞌpeekachi
+var	ruhjiriataipua, waitiame chuhkuachi
+var	weee. Puuuai yaupakai, ikanati
+var	wakipariatapua tiame, iꞌka weee
+var	samiyao, ki tehpe eꞌoka wakipariopa.
+var	Waꞌa ikisao chaanerepua ahpo masitiao:
+var	Amori mukuyo tuurepua ahpo maarao,
+var	puꞌka ahpo maarara oosa mariki aampa
+var	ooka paamuame, puuuche ahpo iinueka.
+var	Waikao waꞌa simiyoio Eesusio, ki
+var	ookapi naꞌnaritorepua, tahchiame
+var	weritokaopua norikameo.
+var	Yooma iꞌka chaanetiaapao, siimparepua
+var	waikao, iꞌka kaaweruma tuuyewari,
+var	tuuyesimia, sautesimiaopua tiameo,
+var	—Pichiwa puuua, nape kaꞌte tuumitia
+var	eemea puꞌkao pehjio, aaataoi.
+var	Piie taaweo Eesusie teꞌta
+var	maꞌmasiteniamea, nekakome
+var	chaachapariaipua ahpoo, aatanakamera
+var	epeche ahpo weruma teeremeriko
+var	—Ki kuꞌichi iꞌipapuachio, nape
+var	tekipanamea paikapipua. Utewa
+var	itanekepuapua, iꞌipapuame Teekorao,
+var	aamo uhjuramichiopua, ahpo tehkichio.
+var	Seenepi simikameo, piiripi Moise
+var	nuurari masitaria, oowera aatiatakaopua
+var	Eesusio, chaanerepua:
+var	—Paamira, taamo masitemitia taamooi,
+var	Waanichitia ahpo masiterao masiteria,
+var	achini cheeka nayeweniamepua, teꞌpa
+var	’Satanasia, aaata weeechi
+var	ohjoemekatepua, ahpo karichio ki ookapi
+var	aataeka tísia utewaeme, ahpo iinueka
+var	kahtiao kaawe neesetoka. Waꞌa tiiapa
+var	puuu aaata tijoea, kaꞌchi iika
+var	ichikoneme tiiamepua, tísia kaawe
+var	neesetoka yasitoamekopa.
+var	—Masitari, parisero tiꞌtijoe waꞌa
+var	cheekaomua, taamo nekamutenamua tiame.
+var	Waikao Eesusia, iꞌka waꞌachitarichi
+var	nayewerepua. Waikao oꞌinerepua
+var	—Aa, ¿ki pahtekakosa inamukame
+var	eemea, ahpo teeko kaarira inatiame
+var	noꞌo aamo nayeweriao? ¿Ki yooma
+var	aaatachitiapua amochitia noochi
+var	paparameopua, itapiti yoramichio noꞌo
+var	toowewa nuurewaopua, ahkasi tewekachi
+var	noꞌo noꞌrasoopua eenechi noꞌo
+var	eenachisiopua? Waꞌachitia aaata
+var	paamira iꞌwa weeechi ahpo taꞌpechi
+var	mochikame kianiame ahpo seekaere kaawe
+var	neesetomichioo, mehka weeechi simisoo,
+var	waꞌachitia neeeai tewekachi
+var	noꞌrasaa, yooma aaata noochi
+var	paparameo, yooma napati ahpo inateka
+var	mochitomichio toimania puꞌkao, noꞌo
+var	Nape puꞌka echiwa inatiamea,
+var	chaaneriatapua echakameo: “Toimitiao
+var	pehji. Itapitioi yahcheka kaawe
+var	yoramane wejikekao, taaketaoipu waꞌa
+var	Puꞌka waꞌapichioi, waꞌachi
+var	eꞌenaka ookapi parisero Eesusichi
+var	paparakameai, chaanerepua Eesusio:
+var	Yooma wasipatesaapapua, uhjurariataipua
+var	waikao yooma paajutemichiopua,
+var	koꞌkomia eꞌenamichioopua.
+var	Tewisapaopua iꞌkao, ¿ki yooma ahpo
+var	kaawe eꞌria tuuyetarepua, ahpo tísia
+var	kaawe eꞌraopua, ahpo wekateria
+var	tewariapao? Iꞌka oowitiame kaawe
+var	eꞌreka tetewamea chaachapamiipua:
+var	“¡Kaawechupena muuua tewakamepua!
+var	¡Teemeai aamo tewariopao, amochitia
+var	tísia kaawe erakoamepua!”
+var	Teekoraa waꞌa tiame inamukapaopua
+var	puꞌkao, paaesa iinatukeriatapua
+var	puꞌkao: “¿Achini iikai noꞌo
+var	ichikuame muuua? Yooma naneꞌriamenia
+var	aamoé noꞌo ichikokenioo. Yooma
+var	ihtetaripapua noꞌo tomiwa aamo
+var	maꞌchipariaopua, yooma kehkisasaapua,
+var	noꞌo iyotaperichi toapuapua, noꞌo
+var	naneꞌremichiopua. Ki tekipanamerimua
+var	Iꞌwaoipua taamo pejanao, káii
+var	waapisi akipame teeresi poꞌipua
+var	waata, aaataai kaꞌchi iika
+var	uꞌmatometepua waꞌapoo, waꞌaponaoi
+var	—¿Ki oosa marikisakaipu saukamea?
+var	¿Ki eꞌenakame wahja watania?
+var	Weesa eenakame eneriaipua, puꞌka
+var	peerei tijoechio, nape ihjia ahpo
+var	waꞌinariataipua, ki ikanati
+var	katewenareka. Nape puuu tijoe
+var	peereiraa, ki toaniapa senepi ejenakao,
+var	erapariatapua puꞌka ooitiameo:
+var	“Kaꞌchitia taawechi tesiwa
+var	eꞌriameaipua aaataopua Riosichioi,
+var	—¡Aa! Waꞌa teeresoo,
+var	¡aatanakamera newipatapua waikao?
+var	Waikao ki maꞌchiriamea, ikanati
+var	maꞌchireparepua puichio. Waꞌa
+var	iikapa puuua, waꞌapi oꞌinia
+var	naꞌnaritorepua Eesusio, tisiwa
+var	kaaweruma nayewasika Riosio. Waikao
+var	yooma tiꞌtijoeria waꞌa tiiame
+var	tetewikamea, kaꞌkaruma nayewasirepua
+var	tiame Riosichio, tísia kaaweruma
+var	chaachapakaopua Riosio.
+var	Nape ki tekipanakamera uꞌyemeria,
+var	chaachapariatapua yawichio:
+var	“¡Puꞌkáa? ¿Ki oosa mariki
+var	kiꞌyakamemua puꞌkaopa?”
+var	Waꞌa iintosaapua, waꞌa
+var	masitesirepua waikao tiopachi, senepi
+var	taawechi. Waikao oꞌinia neeseriosi
+var	paꞌpamiratuamea, iyoteri tiꞌtijoea
+var	tiamea, wahjachi tiꞌtijoe waꞌa
+var	mochiwarichi paꞌpamiratuamea tiameai,
+var	iꞌyasirepua waikao, aachin teeka ahpo
+var	merimiaopua Eesusio, waꞌasi
+var	werapapuawichiopua Eesusi masitiao.
+var	Puuu tehte karitamee,
+var	Riosia waꞌa cheekao,
+var	wahjipariamekoiopa ahjameko tuuriamepua
+var	pehjio, Riosia ahjakame Riosiwarakapa.
+var	Waꞌa teesoo Riosia, eenechi
+var	oijenatemeripua yooma ahpo ijinuwao,
+var	tiꞌtijoeo ooweruopua tiameo, iꞌwa
+var	weeechio wahjipakamekoiopua.
+var	—Pirenapi tiꞌtijoeritukamea,
+var	pirenachi tiꞌtijoeritukame ahjama
+var	nasiwasimeri puuua; pirenapi
+var	yawichiwachio, pirenachi yawichiwachi
+var	ahjama, ahpo chapisimeripua nasiwasikao;
+var	Waika taawechiamio, amori asiaipua
+var	pahkoa, paani ki rewaruraeme
+var	koiꞌwameo, Semejenato pahko
+var	Ehjepao, Eesusi ajawaria, ahpo
+var	waꞌineriai puuuapu waikao,
+var	aatanakamera ahpo weruma paamiratuame
+var	—Noꞌnoo, noꞌo cheriwepua muuua
+var	iꞌka tísia noꞌo aiwamiao, waꞌa
+var	tiame erasaamua noochio; nape ki noꞌo
+var	chiiachitia iintojeraninia noꞌoo,
+var	aamo teꞌta eꞌrachitia
+var	iintojeraninia noꞌoo.
+var	Nape Peeroa chaanerepu:
+var	Nape aapoeo, epeche utewaeme
+var	chaachaparepua Piiratoo:
+var	—Eerusareni Ooweru, kaꞌte naarako
+var	eemea noꞌowichioo. Aamowichiokamera
+var	naarakopuapua, aamo tatanawichio tiame.
+var	Yooma waꞌa eꞌenakamea neꞌnemiao,
+var	yooma iꞌka iikame tetewikamea,
+var	noꞌwapaiopua, ahpo moripa
+var	chonisirepua, kiisi kaawe noonowiretio,
+var	Eesusia waꞌa cheeka nehjiatiaapua,
+var	eenechi iinatukerepua:
+var	39-40 ¿Ki neeekosapua naaju?
+var	Neꞌnesao naaju noꞌo sekachio,
+var	noꞌo tarachiopua tiame. Noochi
+var	ihchepaka, neꞌneo. Tijoe neeea, ki
+var	naayuri. Naayuria, ki noꞌoka tiiame
+var	Nape muuwaeme tiꞌtijoeria ki waꞌa
+var	erakoka tetewarepua puꞌka teꞌta
+var	Pahtewari Tajayameo iꞌka weeechi
+var	eenakameo. Nape teꞌta apoe iꞌwa
+var	wehjoarichi eenakamea, kaawe uuka ahpo
+var	tetewikameo, ahpo chiia pichikekameopua
+var	tiame, Riosia ahpo tatanara
+var	enepaterepua puꞌkao.
+var	’Nape ehpeonia Riosi Riosiwario
+var	kooroka tiame ahjachi tekikopao
+var	Eesusichio, maꞌchiame machikamenia
+var	—Néé, waꞌana ihtona isaeri tijoe,
+var	tísia kaaweruma, kihta aꞌchi tiiame
+var	Amori asiyachi Semejenato pahkoopa,
+var	Eesusia taamo ahjamao, Eerusarenite
+var	—Kiisi pahtenania puꞌkao.
+var	Pukaepa pukachi paparakamea,
+var	tewayamepua pukachio, ki wahjiamesi
+var	ahjaniame, nape ki pukachi paparakamea,
+var	kiisi tewayamepua pukachio, ki wahjiame
+var	ahjaniameo, ohsotia puuua, Riosi
+var	kokosario, apochi petereka
+var	—Naatiko erapaninia aamoo, Riosie
+var	Eesusia puꞌka ooka taawe iꞌtoai
+var	Saamariao, taamo ahjama uꞌmatokapua
+var	yoorewa inatewa iꞌisaeria,
+var	chaachapariapua sautetiameo:
+var	Nape Waanio noꞌo aatanako
+var	maꞌchitariao, ki aaata weeechi tijoee
+var	pichiwataniame nakiyamenia noꞌo
+var	aatanakoo. Oowera waꞌa chiiamenia
+var	Waani cheeriao, puꞌka noꞌo
+var	maꞌchitatiamechi noochi paparakameo,
+var	tatakoriria choꞌweka cheriwenariapa.
+var	—Yooma naꞌpoamitiapua chiꞌwapame
+var	soparakameo, kihta waꞌatia
+var	Aapoea waikao, waꞌa chiiopa Eesusio,
+var	chaachapakapua Eesusio:
+var	Puuupua teꞌta kooame tepoona eenamea
+var	tewekachi, ki puuuka tiamepua maana
+var	koiꞌra taamo ehkoriamio koꞌkaria,
+var	puꞌkao koꞌkakaio wahjipatiame; nape
+var	iꞌka kooame koꞌkakamea, mukukai,
+var	ahjamapua, ki seena aampasi.
+var	Eemea siimpanariaa siimpapuapua. Neeea
+var	iꞌwa itipimapua pehjio, ki asiyapa
+var	pehjio, noꞌoo teꞌta maꞌchiame
+var	oimichioopua pehjio.
+var	—¿Aatana aaata epeche tiiame
+var	iintotamarepua ki ihjichitia, iꞌka
+var	eee tiiame ki maaenari yoorakao? ¿Ki
+var	ihjijuare Riosie Weratiamea?
+var	—¿Ki muuuju tiame Arirea tijoe,
+var	puuuchitia? Neꞌneo amoe, iꞌka
+var	Ehkoriami Iyoterichio ki waꞌa chiio,
+var	aawataai puuu Riosi naꞌnayewaturao,
+var	ki Arirea puuyakamekopua.
+var	Eesusia nehjiakapua:
+var	Noꞌo Noonochi simiyame tetewitenia
+var	nayewani neeea, nape aamo noonoa
+var	piirechipua, puꞌka aamo noono aamo
+var	chaanesia yorasina eemeai.
+var	—Ki weeka paamuamemua pehjio, ooka
+var	weerewa oosa marikioi paamupario,
+var	¿achini tiiachipa tetewako tuunamua
+var	—Iiná. Ki tetewakania ahka
+var	—Ihchiasamua puꞌkao. Muuukamerapu
+var	ahjachi paparamea. Teemea,
+var	Moisetarukamera chiia oowe eꞌriamepua.
+var	Iꞌka waꞌa tiame nayewekai Eesusia
+var	paꞌpamiratuameo, nape puuu
+var	paꞌpariseroa, kiisi pahteka
+var	inamukapua Eesusio, ahpo apochi
+var	paparapuame nayeweka chiioiopua
+var	Waikao, paꞌpariseo paꞌpamuratuamea,
+var	eenechi pasipumo oꞌrariaipua Eesusio,
+var	Nape ki apochi iꞌtoamea Riosi
+var	kaaweruma tuuyewari tahjerao, tukapachi
+var	oiyamepua, pukaepa motochimapua.
+var	Eesusia, ki pakiriai pehji
+var	mochiwachiopu. Maꞌchi yasariai
+var	puuuapu Marata natepariachi.
+var	Waikao neeseriosi paꞌpamiratuamea,
+var	yooma ahpo naꞌpoasaopua parisero
+var	ahjamao, chaachapariapua:
+var	Nee, waꞌa ihtonapa aamo teꞌta
+var	Eesusia chaanekapua:
+var	Noꞌo ehpeo ki nakika tetewikamea,
+var	noꞌo chiiaoi tiameo, puꞌka
+var	wahjipachi taawechi waꞌasi, enemera
+var	noꞌo chiia aamo wenejiao, aamo
+var	teꞌtia kateweniachio.
+var	Eemea iꞌka pichiwari noꞌo cheemiao,
+var	inataka keepupuapua: Noꞌo uhjurakame
+var	kaawe uuka tetewamea, noꞌo kaawe uuka
+var	tetewamepua tiame; noꞌo kaawe uuka
+var	tetewamea, noꞌo uhjurakame kaawe
+var	Eesusia waꞌa chaanesa Peeroo, yooma
+var	taamo ahpo maꞌmasiterao chaanekapua:
+var	—Aamoo noochi paparasoopua, noꞌo
+var	Noonoa neeea tiameo, piiripichitia
+var	yasitomeripua amochio.
+var	Naneꞌrepapuapua noꞌo cheeria:
+var	“Yoorewa naewakao, ki epeche yooreka
+var	tetewiniame tekipanameraa, ahpo
+var	teekorachitiaopua.” Kaawe uuka
+var	tetewipuame enesaa noꞌo masiteriao,
+var	kaawe uuka tetewipuame aamo masitiaai,
+var	noꞌo nuurarikapa. Noꞌo
+var	naꞌaretiame enesoo, naꞌarepuame
+var	Aaata oowitiame saumeria, iiyana
+var	eꞌrame puuua ahpo saumiachi
+var	asiyoopua, kokosa aiwamiapa puuua, nape
+var	puꞌka sauniame aiwari uꞌmatosoopa,
+var	yooma natekepamepua puꞌkao, waꞌa
+var	ikisaapa kaawe ejeramepua eenechio.
+var	Neeea noꞌo ahjariao, ki aamo
+var	puuyanamichio itaninia iꞌka
+var	wehjoarichio, ohso kaawe aamo
+var	inatejeraninia, iꞌka weeechi ki
+var	kaꞌkaruma noonoraopua, kaꞌchi
+var	yoramichiopua puꞌkao.
+var	Waikao Siimoni Peeroa, ahpo
+var	merimachetaeka maꞌchipaka, nakachi
+var	meteka tehpunekapua ahjamina, puꞌka
+var	Marakoo tewaniameopua, teꞌta
+var	neꞌneseriosi weripateriaopua.
+var	—Tiꞌtijoeee, ¿ihtana wenejina eeme
+var	Waikao soontaroa Eesusi naaepakao,
+var	—Kiꞌtiame piirechi taamo
+var	yawichiwaa, apoe Seresa yawichichepua.
+var	Ihji waꞌa tiiame ikitiamea, Ehkoriami
+var	Iyoterichi chiiapua, puuua eee
+var	chanitiame: “Piiripioi oꞌwara ki
+var	Waikao eenechi taamo chaanekapua:
+var	Piari taaa cherayoio, pukeri asitoa
+var	teemea suuwerachio, waꞌa weeriame
+var	tetewaka teemea aaatao.Ki machikai
+var	teemea pukerio, nape Eesusikai
+var	teereriapua, puuu aaataa.
+var	—Siimoni Waani taanara, ¿tiiisiwá
+var	Ihji ooka Riosi kuꞌiwaria
+var	Nape Arirea ohjoeme enesaa, ¿achini
+var	iika taamo nayewa nayewachaniamepua,
+var	yooma pipiripi taamo seesenu
+var	Yooma puꞌka Riosi Tijoetukamechi
+var	Peeroa waikao chaanerepua:
+var	Eemea Piiratoo, Eesusi Teꞌta
+var	Kaawerumara puhjenarioiopua, tijoe
+var	koꞌyakamera itaria, puhjepuawichioo.
+var	Puuua ahpo chaachaparepua:
+var	paikapi toomi ahpowichio katewesaopua,
+var	ki ahsieme iꞌyetorepua Eesusi
+var	ajawariaopua, puꞌka nehjitiame
+var	toomio. Ihji Ananiaa, waꞌa eenakaopua
+var	yooma Eesusi ajawaria ajakachio, wehchi
+var	toꞌweparepua toomio cheeka:
+var	Waꞌa erakoiopua pehjio, waꞌa eenare
+var	aaata tijoea chaanesikao:
+var	Nape Puhku Puhjetiame napawikari
+var	tewaniachi teꞌteriamea Eerusareni
+var	oꞌinia eꞌenakamea, kiisi
+var	puꞌsereka tetewarepua Teiwa masitiao.
+var	Pukaepa Teiwa masitiao, oꞌinerepua
+var	Teiwa chiia kaꞌitakao. Yooma puuua
+var	Aasia weeechiami oꞌinia eꞌenakame
+var	enerepua, Siirene tewaniame mochiwachi,
+var	Arejanti mochiwachi tiame, waꞌa ikisa
+var	Seerisia mochiwachi.
+var	Iꞌka kohjao paika meecha iꞌtoiopua,
+var	akisuwe neerochi toiretupua apoe
+var	yeeyeraeo, aaatae teipuaichiopua
+var	puꞌkao. Waikao waꞌa eenaka, yawichi
+var	maaaraa, neerochi poꞌyame tewakaopua
+var	itapitichi pohjachuka, apechunarepua
+var	puꞌkao. Waꞌa ikisaopua ahpo
+var	taanachitia weripaterepua.
+var	waꞌachi tiiame soꞌpori netesa.
+var	Nape Sauroa simiterepua puꞌka
+var	Eesusichi paparameo, tesiwa yorasika,
+var	yooma taꞌpechi pakisika puuyachasika
+var	puꞌkao, tiꞌtijoeoipua ooweru tiame
+var	chapisaopua, perekarichi toamia.
+var	Ihji tijoea, Isaia tewaniame iyoteria
+var	iyonasiriaipua, ehkoriami Riosi
+var	nayewatura iyoteria.
+var	—Sauróo, Sauróo, ¿achini iikai
+var	Yooma iꞌka nayewatuame inamukamea,
+var	Piie taawechi Koonerioo, ahpo
+var	taꞌpechi kahtioiopua arikiri
+var	waanamio, ahpo kahtiachi eename
+var	tetewarepua aaata, tepoena eename Riosi
+var	kuꞌiwari. Ihji tewekachi eenakamea
+var	Koonerio kahtiachio, chaanerepua
+var	Waikao Peeroa muinurarepua yooreko,
+var	waꞌa cheꞌrepamichiopua puꞌkao.
+var	Puꞌka meereopua piari yasisisaapua,
+var	ahjama simirepua waikao, wahjachi yeeka
+var	tiame, waꞌapi mochikame Oope,
+var	Peeroa waꞌa tiiame kaawe iintatioopa,
+var	paatonurerepua waikao, Eesusi Riosie
+var	Weratiamechi paparaka, puꞌkao
+var	Eesusichi paparame tetewipuawichiopua.
+var	Waikao yoomahka waꞌa eꞌenakamea
+var	Koonerio taꞌperachio, Peeroo, paikapi
+var	taaweoi utewa yoorarepua waꞌa
+var	itipimichioo, Koonerio taꞌperachio.
+var	Waikao Peeroa, waꞌa ikirepua.
+var	Puꞌka taawechiamio, waꞌa Antiokía
+var	eꞌenariaipua ookapi tiꞌtijoe,
+var	Eerusareni oꞌinia eꞌenakame, Riosi
+var	naꞌnayewatura eneriapua tiame.
+var	Waikao Peeroa pakisaapua, sekae
+var	ihchitarepua puꞌkao, ahpo
+var	keepupuawichiopua kuꞌitapioi. Waikao
+var	Peeroa oꞌinerepua nayewakao, yooma
+var	aꞌchi tiame ahpo ikiria, aꞌchi
+var	teeka ahpo maꞌchiparetiaopua
+var	perekarichio, ahpo Noono tewekachi
+var	kahtiameopua. Saantiao tuuyenurerepua
+var	tiame ahpo ikiriao, wahjachi pichikiame
+var	tiame poponiwari. Waꞌa machenasaapa,
+var	pirenachi akiparepua.
+var	Ihji taamo Riosiwaa, puuu waꞌapipua
+var	iꞌka taamo ehkoriami noonoriwa uuka
+var	tetewikamea, ihji waꞌapi iintokamepua
+var	muuwepatekaopua Eejito mochikoiopua.
+var	Ihji waꞌapi Riosi iintokamepua
+var	tiameo, taamo ehkoriami puhkuchitia
+var	Eejito mochikoio puuyanakaopua ahpo
+var	utewarieo, tísia aiwaka mochikoiopua.
+var	ki teesa peenia tiame enemeri puuua,
+var	—¡Werisika weripa, utewarieme
+var	muuuapa aamo tonochio!
+var	—Eemea noochitia Riosichi poponiwa,
+var	noꞌoo naneꞌriame eemeapa, ki ehpesi
+var	oꞌinia noꞌo weratiamekopua Riosieo,
+var	ki isaeri tiꞌtijoerichi noꞌo
+var	nayewatumichiokoopua, iꞌka Eesusichi
+var	simiyame kaaweruma tuuyewario, puꞌka
+var	tiꞌtijoerio, Eesusichi
+var	paparamichiopua tiameo.
+var	Teemea Riosi Riosiwarieo aamo
+var	chaanenariamepua, puꞌka wahjachi aamo
+var	utewa chaachapariaopua, siichitepuwa
+var	yoramichioopua aamo newipariwichioo,
+var	puꞌkao teemea ki aamo yorajeramepua
+var	waꞌasio. Aamo Riosie
+var	newipatepuamewichioo, Eesusichiche
+var	paparakaipua soparamepua. Nape
+var	iꞌkache aamo yoorajerani teemea:
+var	—Ehpeo noꞌo aamo Riosichi
+var	piinichitia tetewame enesaa, noꞌo
+var	taꞌpechi cheꞌcherepapapua.
+var	Nape Paoroa ahpo maꞌchipanurawa
+var	uhjuratiameo, chaanerepua puꞌkao:
+var	—Taamo masitemitia eemea puꞌkaoi,
+var	taamo masitejerani teemeai, puꞌka
+var	weemera simiyame aamo iꞌtoao.
+var	Aamo ahjama ihsiai teetomeri neeea,
+var	aamo naꞌara yoranioopua, anachaka
+var	aamo teetomichiopua. Iꞌwa muuwarichi
+var	noꞌo mochitiaa, ki ookapikaitepua
+var	noochi paparameripua pehjio.
+var	Aapoeo chaachapakapua:
+var	Waꞌa inisiopa iꞌka tijoeo, taamo
+var	tehkiwaa teere wichitoamepua, taamoo
+var	nehjaka yowiyao. Waꞌa cheeka oiwamea,
+var	ki teesa naꞌitu tiiamepua taamo
+var	tehkiwawichioo. Simitesoopua iꞌka
+var	waꞌa cheesikao, taamo tehkiwao
+var	wekameripua waꞌasio. Waꞌa ikitioo,
+var	puuu Atemisa riosirewaai kiisi
+var	iyoripuamepua waꞌasio waikao; ihji
+var	Atemisa tiopara peenia tiiaai,
+var	wekameripua puꞌsereniamea tiame,
+var	aaata waꞌa Atemisa tiopachi muuwaeme
+var	enapaniameeo, Atemisa riosichitia
+var	paparaniameai waꞌasi.
+var	Puuu temari wichikame iꞌtoamea
+var	taꞌperachio, ki nuꞌuti kaawe
+var	erakosiapua eenechi ahjariopua puꞌkao.
+var	Waꞌa paꞌwechi nokisiaiopua, Chipire
+var	weeechi pawenasipa, tetewisika
+var	uꞌmatotiapua, Chipire weee
+var	pawenasipao, owemina toaka. Waꞌa
+var	teetokao teemea, Siiria weeechi
+var	ajasitiapua Tiiro mochiwachi, waꞌao
+var	pawekakera chuchupachi paꞌwesuwe.
+var	Waꞌa tetekipuapo tuuopa itapiti
+var	iꞌtoniameo, waꞌa tetekika teemea
+var	—¡Iꞌisaeri tiꞌtíjoee, taamo
+var	kuꞌisa eemea, chapipuapu ihji
+var	tijoeee! Ihjikapu tijoea, yomachi oika
+var	sewina tiiame masitiame, puꞌka
+var	Moisetaru nuurari chiiao, natepuka
+var	naewamekapua puꞌkao, puꞌka
+var	tiꞌtijoe Moise nuurari yooreka
+var	mochikameo, ki yoorenuriapua puꞌkao.
+var	Ehpeo ahkasi iꞌwa taamo napawikarichi
+var	eenakamepua, kiisi yooremia iꞌwaoi,
+var	rieko tiꞌtijoe uꞌpakao.
+var	Puuua waꞌa eenakao, noꞌo
+var	chaanekapua yachapatekao: “Sauro
+var	noꞌo Riosichi pooniwa, maꞌchiriame
+var	itipisa.” Waꞌache cheesoche,
+var	maꞌchirepakania puichio, kawiyame
+var	tetewipakania waikao Anania
+var	Waikao Anania apoe teꞌta iꞌisaeri
+var	neeseriosi yawichia, waꞌapi Paoro
+var	chokichi ajakameo piiripio, chuꞌwachi
+var	wewenurekapua Paoroo, seeka matakae.
+var	Nape kaꞌte pichikemitiapua puꞌkao,
+var	oowera waꞌa chaachapamekapu puuua,
+var	ohsotia puuua pooechi puuemio tuuyapua,
+var	keꞌchu asiyoi merimia. Puuu waꞌa
+var	chaachapakamea, uꞌmatoame ooka
+var	weerewakapua, kiisi koꞌkomio tuukapua
+var	nerojimiaoi, ki meꞌyaapua pehji
+var	Paoroo. Aamo eꞌwesoo, waꞌa
+var	noonoimerikapu puuua.
+var	Muuua iinatukesaa, naneꞌremamua
+var	noꞌoo, ki tehpe simiyamekopua noꞌo
+var	Eerusareni eenariao, oosa mariki aampa
+var	ooka taawe iꞌtoamekopua noꞌoo,
+var	Riosichi paparamia eenarioiopua
+var	Waikao Ehtoa, yooma neneku peereiniame
+var	inamusaapua, kihta weruma aꞌchi
+var	tiiamekoipua Paoroo, nape kaawe
+var	itipinariapa iꞌisaeri
+var	paꞌpamuratuamechio, oowera
+var	iinatukekapua Paoroo:
+var	Neeea noochio epeche kaawe eꞌramepua,
+var	aamo tetewachi noꞌo nehpumiapao,
+var	epeche machiyamekopua iꞌisaerio,
+var	aachin tiiamekopua puꞌka nokiwao,
+var	ihta taamo peereitaoipua tiame
+var	iꞌisaerio. Pukaepa noꞌo anachaka
+var	keepusaa, tísia kaawe enemiimua.
+var	Paoroa chaanekapua waikao:
+var	Paꞌa tukaoo, Riosi kuꞌiwarie
+var	nayewetiame neeea, noꞌo Riosiwa
+var	Puuu Paoro kiꞌkitiame tetewikamea,
+var	mukimeri puuyeka mochikaipua, tísia
+var	ahpo aꞌpopakaopua. Nape tehpe
+var	puuyenioi kaꞌchi iikopa puꞌkao,
+var	sewina erapakapua waikao, “aaata
+var	riosikoipu naaju”, chaachapaka.
+var	ki pahteka tetewinariamepua, ahpo
+var	Yooma waꞌa tiame erakoamea, tísia
+var	teꞌta ahpo machiwarieme maayameai,
+var	ohsotia puuua, teꞌta ki ijinatamera
+var	Eemea Riosi nuurari iinuekapao,
+var	machiyamekapa Riosi pichiwa chiiao,
+var	teꞌta maꞌmasitari erakoamepua,
+var	puꞌka kihta machiyameopua Riosichi
+var	simiyameo, nuꞌunti kukuchichitia
+var	teꞌtiameo, ahpoo kaawe masitemeriko
+var	wahjipame toaniachi wahjoramekatepua
+var	Nape taamo teꞌterewa Riosichio, ki
+var	waꞌatepua. Taamo kaawe
+var	teꞌteremichio Riosichio, kihta
+var	tekipanakekai, oowera Riosichi
+var	Iꞌka weeechio aaataai ki
+var	mukinariamepua aaata nehpupariwichioo;
+var	seenekachi waꞌa iintotare aaataa,
+var	nape ki teesa teꞌta nakiyame enesaa;
+var	aaata waꞌachi iintotariamepua tiameo,
+var	nape aaata tísia kaaweruma enesooipua
+var	Eenechi ki kaawe noonowisaa eemea, aamo
+var	ki kaawe nokaya teekorepamapua
+var	eenechio. Aaata aamo teekorepakameo,
+var	puꞌka yooreka yasitomerimua. Puꞌka
+var	tatakori teekorepasaamua, puꞌkakamera
+var	yorakeka yasitomeripua; muuua waikao
+var	puꞌka tatakori aamo teekorepakamea,
+var	teꞌta wahjipaniachi iꞌtomeripua,
+var	nape ki teesa seꞌwi Riosi
+var	kahtiachiopua, ki seenampasi. Nape
+var	Riosikamera teekorepasoo, teꞌta
+var	kaawerumachi Riosi kaawe eꞌrewachi
+var	mochitomeripua, teꞌta kaawerumachi.
+var	nape noꞌo piirechi yooreminao, noꞌo
+var	weemera yooreminawa ahjama nasiwamepua.
+var	Puuu piire yooremina kahtiamea, noꞌo
+var	kaaweruma yooremina eꞌrario chapisa,
+var	noꞌo tatakorichi panisunariamepua.
+var	Naneꞌriame teemea Riosikamerakopua
+var	tamochi kaawe ihsiao, yooma taamo Riosi
+var	nakika mochikameo, yooma ahpo
+var	nakiyachitia mochimichio, paaekamepua.
+var	Pukaepa Ehkoriami Iyoterichio, Riosia
+var	chaanerepua Araonio: “Neee ihsikame
+var	aamo yawichi yahchakao, amochi
+var	tetewitenariapa noꞌo utewario,
+var	yomatiame weeechiopua,
+var	naneꞌremichiopua noꞌoo,
+var	Isaiaa eee cheeka iyoteriaipua Riosieo:
+var	noꞌo kaꞌkaruma naawesario seesenu
+var	tiꞌtijoeri iꞌyetoretiopa,
+var	oowera mochika pahkotaka
+var	Waꞌa tiiachio yooma teꞌta
+var	iꞌisaeri tiꞌtijoeri ahjama noꞌo
+var	Aamo wahjachi kaawe teerewao, kihta
+var	aꞌchi tiame ihsika yasitopuapua,
+var	yomatiame tiꞌtijoea ooweru tiamea,
+var	ki iꞌisaeri tiꞌtijoerichio.
+var	Neeea puꞌka aaata Eesusi tewaniame ki
+var	machiwachi pehji oiyapa nayewatukao,
+var	kaꞌchi iika siime teerekamenia aamo
+var	neꞌnemiao, ki ehpesi oꞌinia waꞌa
+var	siimo eꞌraka weritoai.
+var	Aamo Riosichi kaawe teꞌtereka
+var	mochitoao, ahkaoi yomachiami
+var	naneꞌreniame eemea. Waꞌa aamo
+var	teꞌteriopa neeea tísia kaawe
+var	eꞌramepua. Neeea aamoo, waꞌapi aamo
+var	teꞌteretojerame neeea, tísia aamo
+var	kaawe inatetoka ki aamo
+var	ruhjipuawichiopua ki kaꞌkarumachio.
+var	kihta nateyame iintamania puꞌkao,
+var	puꞌka pepeniwarirao.
+var	teesaoi ki inatamepua aaataai,
+var	Pukachipa ki aaata ahpo oisa
+var	eꞌremetepua, aaata paikapi apochi
+var	poanataka iꞌtonarekaopua, waꞌa
+var	tiiame inataniamea, tiꞌtijoeche inata
+var	puuua, ki Riosi. Yoomahka teeme
+var	Riosichi simiyame nayewatuamea, napati
+var	teeme waꞌachitia kekechuma
+var	tiiaremichio ajawatiamepua Riosieo,
+var	napati taamo kuꞌitomichiopua aamo
+var	masitekao, yooma Riosi chiiao, kaawe
+var	pahteka inamumichiopua.
+var	Waꞌa teesoo puꞌka ki kaaweruma
+var	rewarurao, maꞌchipapuapua puꞌkao,
+var	ki nuꞌuti mehtaka amochi
+var	naꞌatamerikopua. Aamo
+var	maꞌchipasoopua puꞌkao, piipakame
+var	itipima eemea waikao, weemera paatusie
+var	ki rewarurae takaritaniamechitia,
+var	Semejenato pahkochi koiꞌwameopua.
+var	Eemea takari ki rewaruraemekatepua,
+var	Riosie Weratiame aamo pejana mukuriopua
+var	aamo tatakoriria piipatekao. Puuu
+var	Eesusi Riosie Weratiame meritiamea,
+var	poꞌwa enekamepua Semejenato
+var	pahkokoiopua, puꞌka iintoria
+var	inatepasiwa nokisiame teemea, ahkasi
+var	ehpe taawechiami ihtoriwa,
+var	uupira weerewaraa kuunara iinuwarakapa,
+var	kuunaraai ahpo weerewao, ahpo uupi
+var	Oowitiame ki neewikamea, Eesusi
+var	Paamirachiche simiyame neesetomeri
+var	puuua, Riosikamera kaawe erateka. Nape
+var	aaata ooitiame neewisaapa, ki Eesusi
+var	Paamirache kaawe eratemeripua, ahpo
+var	kuuna tiame kaawe eratemeripua.
+var	Teemea amochi echakameai tiamea, Riosi
+var	kaaweruma tuuyewario, ¿ki kaawe
+var	eꞌraka taamo kuꞌipuame maaena eemea
+var	Yooma ihta tatakori iintonarewaa,
+var	waꞌapi teerekamepua ehkoriami
+var	oꞌiniao. Nape piiripikoi puuua, ki
+var	iinuemepua ki newitowao. Aaata puꞌka
+var	tatakori ahpo paꞌpanisusoopua, Riosi
+var	waapi kahtiamepua, aamo kuꞌipaka
+var	newitopuawichioopua puꞌka tatakori
+var	Ki tijoekamera, oowitiamewichio
+var	enepatetiamepua, oowitiamekamera,
+var	tijoewichio enepatetiamepua.
+var	Teemea tiameo, weeka kaꞌkaruma
+var	aꞌchitiame yoramichio ajawatiamepua,
+var	puuu yooma ajawatiamea, apoe
+var	Paamirawichio nookemichio ajawatiamepua.
+var	Noꞌo iinuekaoi yooma aaata tesiwa
+var	tiiame ihko nehjakainia, noꞌo
+var	weerewaoi Riosiwichio kosoka
+var	manarikainia, kihtawichio nateyame
+var	enemii noꞌo iintoriaa, kiisi iinueme
+var	enesaania aaata nakirewaopua noochio.
+var	Eeme Riosichi poponiwaa pipiniwaa
+var	tiamea, aamo nanapawiachiopua, aamo
+var	ahjaewa iꞌka seesenu mochiwachiami
+var	nayewaniameo, paꞌpamura inatachitia
+var	kaawe inatapuapua, ki kukuchi
+var	nuꞌnunti inatari inatachitia. Nape
+var	aamo Riosichi teꞌterewachiope,
+var	kukuchi nuꞌnuntichitia teeremete
+var	eemea, ki itapiti tatakorichi inatame
+var	Neeea Eesusie noꞌo weratiameo, ki
+var	teꞌta noꞌo weruma tiiamerako
+var	eꞌramenia, kiisikoi, Eesusie
+var	weratiame noꞌo tewapuame maayamenia,
+var	pukeri oꞌiniaopua neeea, naꞌara
+var	yoramia naanarika oikamekapa Eesusichi
+var	paparameo, ahkaoi tiꞌtiopachiamio.
+var	Yooma ihta weerewaa, ki ahpo waꞌachi
+var	teꞌtiamepua. Weerewaa iintunapua:
+var	tijoe weerewa, animari weerewara,
+var	tuchiki weerewara, soꞌchi weerewara
+var	Seenekachi aamo ahjama itipimane
+var	kuꞌitapi, seenekachi ahkasi tuurawio
+var	uꞌmatoachisi. Waꞌatiao eemea noꞌo
+var	kuꞌinaresao, noꞌo kuꞌipamapua
+var	ahka noꞌo simiyachiwichioo.
+var	Aamoo aamo napawitiachio, senepi
+var	Riosichi aamo papasoopua taamowichio,
+var	epeche enema eeme cheriwema
+var	kiꞌyameopua Riosichio, Riosio taamoo,
+var	tísia kaawe iintorio tuuopua.
+var	Kiꞌtepua aaataai wahjachia, ki
+var	iyorika tetewamekapapua iꞌka Riosichi
+var	tehkio, kiisi kaaweruma inataka
+var	nokisiamepua, toomichiche inataka
+var	masitiame, ahpo seꞌwi masitiao
+var	toomichi nehjapa. Nape teemea kaaweruma
+var	inataka nokisiamepua iꞌka Riosi
+var	tuuyewario, iyorika teetoka iꞌka
+var	kaaweruma tuuyewario, teꞌta Riosie
+var	taamo nuureniachitia, teꞌta Eesusi
+var	Riosie Weratiame, seekarewarachitia.
+var	Waꞌa tiiachio, taamo eepi wahjipame
+var	teetowachi teetoiopua, Eesusichi
+var	simiyame aamo nayewatukao, eeme
+var	Eesusichi paparasiamea, Riosie
+var	kiasiniamepua weemera ahjario, ki
+var	seenampasi ahjapuameopua.
+var	Aamo cheriwewa itayoio, aamo
+var	Iꞌka noꞌo chiiao neeea, kihta
+var	nekaka aamo chaaniame neeea, ohsotia
+var	neeea, tísia aamo nakiyapa aamo
+var	kaaweruma tuuyeka chiiamenia. Teemea
+var	aamowichioo, ahkasi mukiwachisi maapori
+var	tiiachioi nokisikamepua.
+var	Cheriwema kiꞌyaninia Riosio,
+var	noꞌochitia erateriopua Tiitoo,
+var	naꞌpoakemeriopua, kaaweruma
+var	Taamo Noono Riosio, cheriwema kiataria
+var	naaju, yooma ihta taamowichio
+var	iintorioopua, yooma aachin teeka
+var	eenariawichioopua iꞌka weeechiopua,
+var	Riosikai tamochi tiꞌtijoechi
+var	tijoetuka. Puꞌka iintoriao teemea,
+var	ahkasi kiisi ahsepari iinueme teemea,
+var	aachin teeka taamo teꞌta tísia
+var	cheriwema kiamiao, ahkasi ki nuꞌunti
+var	tiiame iintoriopaopua Riosio,
+var	Neeea noꞌo teetoao, waꞌapi
+var	teetonariame neeea, puꞌka taamochitia
+var	nokisiame erakoameopua Riosichio, ki
+var	ihta iinuemichiopua taamoo, ki kaawe
+var	nokayo tuukao, iꞌka Riosichi
+var	masitiao, taamo toomitunario nokayo
+var	Neeea noꞌo Paamirao, paisa simiyame
+var	itaniame neeeapa, iꞌka noꞌo
+var	weerewachi aiwaka yasitoao, noꞌo
+var	Neeea yooma noꞌo ahjama Riosichi
+var	poponichitia mochikameo, pipinichitia
+var	tiame, iꞌka iyosi iyotesa aamo
+var	uhjuriamenia, yooma Kaarasia weeechiami
+var	mochikameopua tiꞌtiopachi.
+var	Waꞌa tiiachipa puuu waꞌapi Riosi
+var	ihsiriopua taamo naꞌpa ajawakao,
+var	Peeroo, siichitepuwa nokiwamechi
+var	uhjurakapua puꞌkao, noꞌoo, ki
+var	siichitepuwa nokiwamechi
+var	tiꞌtijoerichi uhjuratiania.
+var	Pukachi simiyame noꞌo
+var	maꞌchitanariaa, ihjipua: Riosia
+var	Aurani ahjama katewiaio, ahpo iintokemo
+var	tuuriao, teꞌta pichiwa waꞌa iintomo
+var	tuurepua, kiisi wehchi wichiteka.
+var	Pukaepa Riosi Aurani cheeriaa,
+var	kaꞌchitia taawechi sewinatatiamepua
+var	Riosi nuurarieoi, naao siento piire
+var	weerewa aampa oosa mariki paaumpari
+var	neipami, eenakameaipua nuurari, Moise
+var	Wahjachi kaawe nayeweniamea,
+var	kaawerumapua kaawerumao, nape kaaweruma
+var	inataka chaachapatiame enesoo. Neeea
+var	mehka kahtiaio, senepi taawechi waꞌa
+var	tiiame kaawe eꞌraka aamo
+var	nayewenariamenia nayewiao, nape
+var	kaꞌchi ikime waꞌa eꞌrio, tísia
+var	iikachi kokoreka inamuamekapa puꞌka
+var	Noꞌoo siichitepuwachi simiyame noꞌo
+var	masitiame enesoopua pukeri noꞌo
+var	oꞌineriachi oꞌinia, tiꞌtijoeri
+var	Riosie kaawe tetewipuawichoo, ki noꞌo
+var	nekamuchemii iꞌisaeri tiꞌtijoeria;
+var	puꞌka siichitepuwachi simiyame noꞌo
+var	masitiame enesoo, puuu Riosie Weratiame
+var	taamowichio mukuriamechi simiyame
+var	noꞌo masitiaa, ki eina teeremiipua
+var	iꞌisaeri siichitepuwachi simiyame
+var	Teemea Riosie Weratiamechi kaawe
+var	teꞌteriamea, siichitepuwa nokiwamea
+var	ki siichitepuwa nokiwameopua tiameo,
+var	kihta nateyamepua waꞌasio,
+var	taamowichioo; taamowichio teꞌta
+var	nateyameraa, weemera ahjarikamera
+var	puuua, teꞌta kaꞌkarumakamera taamo
+var	Nape Riosia puꞌkao, ki ahpo ahjama
+var	mochime teꞌtererioipua, puꞌkao
+var	tísia tatakorikamekoiopua, ki nuꞌuti
+var	nakiwari iinuemekapapua taamo
+var	tiꞌtijoerichio, ki nuꞌuti taamo
+var	tesiwa eꞌrekamepua, tiꞌtijoeo
+var	Pukaepa teemea ehpeo, taamoe waꞌapi
+var	iinueme teemea Riosi ahjama taamo
+var	nayewamiao, ahjachi oowe erakoka, kihta
+var	seeweka tiame, Riosi ahpo Taanarachi
+var	iintoriopa, Riosi Taanarao ki nuꞌuti
+var	taamowichio iintoriopua puꞌkao,
+var	taamowichio mukuriopa taamo tatakoriria
+var	ahsieme choꞌwepuawichioo, taamo
+var	apochi paparasoopua.
+var	Waꞌa teꞌteretomete teemea, taamo
+var	pirena waꞌachitia erakowa
+var	teeremichiopua, taamo Noono Riosi
+var	Taanarachi paparaniameo. Waꞌachi
+var	erakoame teꞌterepasaapa teemea
+var	Eesusichi paparaniameo, iwapakame enema
+var	teemeapa, Riosie Weratiame tiiarichi
+var	Eemea tukapachi simiyameo, kaꞌte
+var	waꞌachi nokisimitiapua, puuu
+var	tukapachi nokiwamea, kihta kaaweruma
+var	machenamepua; ohso kaawe eemea
+var	puꞌkao, terika tuuyepuapua puꞌkao,
+var	ahpo tukapachi nokayao, kiisi kaaweruma
+var	nokiwameko tuukaopua puꞌkao.
+var	Naneꞌremitia eemea, puhku tekipanameo
+var	ki puhkuchitia tekipanameopua tiameo,
+var	waꞌachitia kaawe yorapuamekopua
+var	Riosieo, yooma aaata ahkasi kaawe ahpo
+var	Yooma iꞌwa yawichikarichi
+var	soꞌsontaroa, ki soꞌsontaroaapua
+var	tiame, naneꞌriamepua iꞌwa noꞌo
+var	peereso kahtiaoopua, Riosie Weratiame
+var	naewatuapa iꞌwa yachatiamekoopua.
+var	Riosio, amochi teetoamekopa ahpo
+var	Riosiwarie kuꞌisikao, puuua
+var	aꞌchitiaoi ahpo yorajera aamo
+var	Neeea noꞌo Riosichi poponiwa pipiniwa
+var	tiamée, ki noꞌo sewina erapameko
+var	chiiamenia noꞌo Eesusichi
+var	paparaniamechio; nape yomatiame teꞌta
+var	natakepakache yasitoaonia, noꞌo
+var	pukeri oꞌiniao ki kaaweruma ihsiriao,
+var	utewaeme teetoka yasitoamenia yorasikao,
+var	Waꞌachitia aamo teepotenapua tiameo,
+var	wahjachi iꞌwa Rooma mochiwachi
+var	mochikame, waꞌachitia Eesusi Riosie
+var	Weratiamechi paparame, ookapi puuua,
+var	iꞌwa Rooma yawichikarichi
+var	tekipanamea, aamo teepotenapua tiame.
+var	Puꞌkawichio neeea utewaeme
+var	tekipanamenia Riosie Weratiamechio,
+var	yomatiame teꞌta utewarie noꞌo
+var	Eemeai waꞌachi nokaka mochiriaipua,
+var	keꞌchu taamo Paamira Eesusichi
+var	Aamo teepotena tiame Epajarasi
+var	tewaniame, aamo ohjoekachi oꞌinia
+var	eenakame tiame. Ihjiai Eesusi Riosie
+var	Weratiamewichioo, tísia tekipanaka
+var	yasitoamepua. Ihjia aamowichioo, tísia
+var	itaka yasitoamepua Riosichio, aamoopua
+var	Riosichio, epeche kaawe teꞌteretoka
+var	mochitomichiopua, yooma ihta Riosi
+var	teꞌta nakiyachitia, yooma wahjachi
+var	aamo yorakeka mochitowachio.
+var	Eeme Tesaronika mochikame Eesusichi
+var	paparamea, Uurea weeechi tiopachi
+var	mochikamechitia ikitiamepua. Puuu Uurea
+var	tiopachi mochikamea, ahpo waꞌapi
+var	weeechi mochikame iꞌisaerie, tísia
+var	aiwetetiame puuua, waꞌachitia eemeai
+var	aamo waꞌapi weeechi mochikameeo,
+var	tísia aiwatetiamepua.
+var	Eemea kaawe aamo neesetoka
+var	mochitopuapua, ki aaata aamo eina
+var	chaachapamichiopua aamo
+var	kuꞌipuawichioo; ohso kaawe, aamoe
+var	tekipanaka iꞌyapuapua aamo
+var	koꞌkomiao, teꞌta aamo noꞌo
+var	tuuyeriachitiaopua aamo masitekao.
+var	Neeea Riosio, aamo teꞌta cheriweka
+var	piipatekameo, waꞌapi teꞌtiame
+var	piipatetiame aamo teꞌteretojeraninia
+var	Riosio, ahkasi Riosie Weratiame
+var	eenachisiopua, kihta ki kaaweruma aamo
+var	teꞌteretomichiopua aamo iikachio,
+var	yomatiame aamo weerewachioi, yomatiame
+var	aamo inatarichiopua tiame.
+var	Riosia ki ahpo pichiwarikamera
+var	pichikeriopao, puꞌka naꞌarari
+var	wihtukikamera pichikeriopao, ki
+var	reesisemeripua puꞌkao, ahpo Taana
+var	Eesusi yeꞌkarichi mochimichioopua,
+var	puꞌkao tísia puꞌsereriopaopua
+var	kiisi kaawe ahpo nokiwao.
+var	Ookapi waꞌa mochikame maꞌmasitaria,
+var	kihta pichiwari teꞌteriamepua
+var	Riosichi simiyame ahpo masitiao, tisiwa
+var	seꞌwi wewekakamepua, Riosikamera
+var	teꞌta ahpo nokijeratowaopua.
+var	Aaata Riosichi paparame paamiratuame
+var	enenariamea, tísia kaawe waꞌa tiiame
+var	Puuu tiꞌtijoeri wistuki masitiamea,
+var	nenewiwao kiisi kaawe tiiameko
+var	chaachapamepua, nape Riosia ki waꞌa
+var	chiiamepua. Puuu waꞌa chaachapamea
+var	tiameo, ihta kooameoi taamo
+var	waꞌinamepua koꞌkopuawichioo
+var	iyoripua tuukao. Nape teeme Riosi chiia
+var	machiyamea, naneꞌriame teemea kihta
+var	iyoripuamekopua ihta kooamekoio, yooma
+var	kooameo Riosi apoe iintoriopua taamo
+var	kiꞌyakao, yooma kaaweruma kooame,
+var	yooma ihta kooame pukeri naayachi
+var	enepatiaio. Pukaepa teemea, ihta kooame
+var	Riosie kiatiameo, kihta iyorika
+var	koayamepua, cheriwema kiasache Riosio,
+var	kaawe koꞌkopuamepua.
+var	Ehpeo neeea aamo Timoteoo, tiopachi
+var	paꞌpamiratuame ajawaniame aamo
+var	nayewemane. Yooma tiopachi
+var	paꞌpamiratuame kaawe yoorameopua ahpo
+var	tekipanao, epeche kaawe eꞌreka
+var	teteipuamepua puꞌkao, Riosi tuuyewa
+var	masitiame enesoo osopena, tuumika
+var	kiꞌyaka itapiti kianiame kuꞌiwao.
+var	Ookapi Riosichi paparame tiꞌtijoea
+var	ooweru tiamea, puꞌka tiꞌtijoe
+var	wihkuari masitiakamera
+var	naꞌnaritoamepua waꞌasi, ikicha
+var	simiyamera ki Riosichi paparaniamera,
+var	ipaka tetewamepua Eesusichi ahpo
+var	paparao, Riosie Weratiameo. Yooma aamo
+var	kahtiachi mochikamewichioo, Riosichi
+var	itayamenia puꞌkao, ahpo teꞌta
+var	kaawerumari kiasimichioo.
+var	Ihji noꞌo chanimia Riosie
+var	Weratiamechi simiyamea, pichiwari puuua:
+var	waika taawechiamio tiꞌtijoeria,
+var	ahpochewichio erakoame enemeripua;
+var	toomichiche weemuame; ahpo oijerame
+var	ihta ahpo iinuekae; ahpo tiiao ki
+var	nuꞌnuntiko erakoame; ihtaoi Riosichi
+var	simiyameo tísia naꞌariame; kiisi
+var	ewakoame ahpo yayawao; kihta kaawe
+var	eꞌreka itipiame, itapiti tísia kaawe
+var	ikitetiaipua; puuua kiisi kaꞌkaruma
+var	tiꞌtijoeri enemeripua;
+var	Arejanto tewaniamea, sisioki tahtame
+var	chonaka tekipanamea, kiisi kaaweruma
+var	iintokamepua iꞌwa noochio. Nape
+var	puꞌkao, Apoe taamo Paamirakamera
+var	naneꞌriamepua puꞌkao, aachin teeka
+var	ahpo katewemiaopua puꞌkao.
+var	Puꞌka yayawatiameo masitenurapuapua
+var	tiameo, puꞌka ki yayawatiame pehjio,
+var	kaawe ahpo neesetomichio ki kaawe ahpo
+var	nokimiao, itapiti yoranariaa, kaawe
+var	inatasa iintonurepuapua. Puꞌka
+var	yayawatiameo chaanenurapuapua tiameo,
+var	puꞌka ooweru nenewikameopua
+var	waꞌasio, ki ikotuwachitia
+var	mochitonurewa, ihtaoi ahpo
+var	peeniatawaeo; kaawe ahpo neesetoka
+var	mochitonurenurepuapua aaata taꞌpechi
+var	mochikameo; ohso kaawe itapiti
+var	kaꞌkaruma teꞌteriamekamera, yooraka
+var	mochitonurenurepuapua; ahpo kukunaopua
+var	tiameo, yooreka mochitonurenurepuapua.
+var	Puꞌka yayawatiameo, waꞌa tiiame
+var	tuuyenurepuapua puꞌka nenewikameo, ki
+var	aaata naꞌara chaachapapuaichiopua
+var	puꞌkao, taamo Riosichi simiyame
+var	Taamo Noono Riosio, apoe Eesusi Riosie
+var	Weratiameopua tiameo, yooma amochio
+var	kaawerumari yahchejeraninia, aamoo
+var	taꞌiria mochitomichiopua, kihta
+var	aꞌchi erakoka aamo iikachio.
+var	¿Aatana chaanekame Riosia ahpo
+var	tewekachi kuꞌiwario:
+var	Aa muuu teꞌta Paamiraa,
+var	¿Ihtana tiiachipa tísia nateyamepu
+var	weeechi tiꞌtijoeria aamowichioo,
+var	Pirenachi Iyoterichiopua tiameo, Riosi
+var	ahpo Taanachitia tijoe tijoetusaapa,
+var	ki noochi paparakamepua.
+var	Naneꞌriame teemea iintumerikoo,
+var	piirechi resipupuachi mochiwachi
+var	taamowichio tiameo, pirenachi Ehkoriami
+var	Riosi Iyoterichio, Riosio, ahpo ki
+var	eꞌwiame tiꞌtijoeri naewakao, eee
+var	Iꞌwa weeechi kahtiai Riosie
+var	Weratiamea, weesa tísia tesiwa cheeka
+var	nayewakamepua ahpo Noonochio, ki ahpo
+var	neesetopuawichiopua pehjio ahpo
+var	meripuao, ahpo Noonochiopua teꞌte
+var	ahpo newipateme tiiamechiopua. Puꞌkao
+var	apoe Nooraraa, waꞌa teerekamepua
+var	keepukapao, teꞌta iyoriamekopua ahpo
+var	Ihji noonoraa kihta naneꞌreniamepua,
+var	yeeyeraai, aaata puꞌka ehkoriami
+var	mochiriameai. Ihjia naawariachioi ki
+var	naneꞌreniamepua, ahkaoi
+var	mukuriachioiopua. Waꞌa tiiachipa
+var	puuua, Riosi Tijoetukameka tiiamepua,
+var	ki wahjiame neeseriosichitia
+var	Ihji taamo teꞌta neeseriosi Eesusia,
+var	ki ehkoriami teꞌta neꞌneseriosi
+var	nokaka mochitoriachitia ihsiamepua,
+var	senepi taawechi animari koꞌyaka Riosi
+var	oowewari nokariachitiao, ahpo
+var	tatakoriria cheriweka
+var	piipatepuawichioopua, tiꞌtijoeri
+var	ooweruriwichioopua tiameo. Ihji Eesusi
+var	taamo teꞌta neeseriosia ahpo
+var	Noonochio, seenepi waꞌapi ahpo
+var	oowepakamepua ahpo weerewa meritiameo,
+var	yomatiame iꞌka wehjoarichi
+var	mochikameo, ahsieme natetetiame
+var	itipimichiopua tatakoririao, ahsieme
+var	Puuu waꞌa noꞌo mochiwarichi
+var	Pukaepa Moise Sinai kaawichi
+var	tekisaiopua, Riosi yahcharia nuurari
+var	yooma tiꞌtijoeri tuuyaiopua, chiiwa
+var	meꞌyarepua weesero tiame, puꞌka
+var	eerara uunariapa. Waikaopua, puꞌka
+var	eerao neeroi naꞌpesaopua, poasiki
+var	saampatesa ahjae chiꞌponerepua Riosi
+var	nuurario, tehte rarapenamechi
+var	iyotetimeo. Waꞌa iintosaapua, iisopo
+var	kuhsisawa uusa eerachi saampatesaapua
+var	tiameo, ahjae chiꞌponerepua
+var	tiꞌtijoechiopua chaaneka:
+var	Nape ihji Eesusia ahpo weerewakamera,
+var	seenepi waꞌapi ooweparepua
+var	Riosiwichio, tatakoritiameo ahsieme
+var	choꞌwemichio. Waꞌa iintosaapa
+var	puuua, ahpo Noonomina ahjamina
+var	yasiparepua, teꞌta iyoriwa
+var	yasirachiopua, ahpo Noono yawichituwa
+var	apoepechi yawichitumia.
+var	Aurania Riosi teꞌta ahjachi
+var	eꞌreriai, Saaraai kiaretupua tiame
+var	Riosieo, peteteremichiopua, kiisi
+var	tanayamekoipua Saara tewaniameopua,
+var	uꞌmatoka werakamekoipua puꞌkao,
+var	Auranioi tísia oochetiame. Waꞌa
+var	teꞌteriamekai puuua tísia oowe
+var	eꞌrekapa Riosi iintomiao, taanaere
+var	Ki uuyamepua Riosie kiapuameopua
+var	pehjio, Riosio pukeri Aurani ahjama
+var	nayewakaio, taamo wahka ihtoriachi
+var	teeremeri inatariopua Riosio, taamo
+var	kiatioi kiapuawichiopua tiameo, taamo
+var	Puuu waꞌa mochikamea ki
+var	inamunarerepua Riosio, kiisi anachame
+var	tiiopa Riosi chiia iyoripuameo, eee
+var	chiiopa Riosio: “Aaata iꞌka kaawi
+var	kajenariemechi ihtepakamea, tetee
+var	pasaka meripuamepua, merijicheraeoi
+var	checheka; ihta animari waꞌa
+var	mooenameoipua, waꞌachi
+var	Puꞌka aamo neesetoka masiteka
+var	tuuyameo, kaawe eꞌraka keepupuapua
+var	puꞌkao, puꞌka chiiao kaawerumakopua
+var	aamowichioo. Puuua ahpo masitiao, kaawe
+var	neesotoamepua, naneꞌriamekapa puuua,
+var	Riosi tetewachi ahpo nokisiamekopua.
+var	Kaꞌte aamo itapitie ki kaawe tiiamee
+var	eerina teewemitiapua puꞌka
+var	kaꞌkaruma aamo masitario. Waꞌa
+var	teꞌteresaa eemea yuuwesipatemaoi
+var	eemea puꞌkao, aamo waꞌa teeresoo,
+var	kihta kaawe teeremapua aamowichioo.
+var	Nape puꞌka Riosi tuuyewari amochi
+var	tuuyesiwao, yoorakache mochitopuapua
+var	puꞌkao, ki oowera keepukache. Oowera
+var	keepukache soparaniame maaesaa eemea,
+var	aamoe waꞌapi wihkuiamepua.
+var	Ehkoriami Iyoterichio tiame, Raaja
+var	tewaniame oowitiame nayewamepua tiameo,
+var	suwepori tehkiwa toakame oowitiame.
+var	Puuuaiopua, ahpo iintoriae
+var	tetewitekamepua, Riosichi ahpo
+var	paparario. Puꞌkao Riosia
+var	kaawerumachitia tetewikamepua, Erikoo,
+var	isaeri tiꞌtijoe ihpuemia
+var	eꞌenakameo, ahpo taꞌpechio,
+var	ichipupaka nehpupateriopa, sewinachi
+var	pooechiami newiteka.
+var	Noꞌo poponíwaa pipiniwaa tiame,
+var	kaꞌte naꞌara chaanemitiapua aamo
+var	aaatao. Aaata ki kaaweruma iintosoo,
+var	Riosikamera katewemeripua puꞌkao, ki
+var	muuu. Aaata ki kaawe iintokame amoe
+var	katewenaresaamua puꞌkao, kiisi kaawe
+var	iintomerimua Riosi nuurarichio. Waꞌa
+var	iintosaamua, amoe waꞌapi ki kaawe
+var	iintomerimua Riosi nuurarichio,
+var	amoekamera nuurario, eꞌwemeriaipua.
+var	Teemea kaaweruma nayewataria naaju
+var	Riosio, teꞌta weruma iyoriwa teeweka
+var	taamo Paamira Eesusi Riosíwarachio,
+var	Apoe Eesusi Noonórawachi. Waꞌa
+var	tiiame ki nuꞌuti iyoriwa kiajeraninia
+var	teꞌta Eesusi Noonorao, taamoopua
+var	puꞌkao, ki nuꞌuti taamo
+var	tesiweriopa, puꞌkaopua taamoo,
+var	weemera ahjariwa taamo
+var	kiꞌyamekopapua, ahpo Taana
+var	taamowichio mukukamekoio, eenechi
+var	ahjateriaeopua, taamo ahjachi
+var	paparariopáopua. Ehpeo teemea weemera
+var	ahjari ijinuekapaopua, kaawe erakoka
+var	puuyetoka mochitoame teemea,
+var	motochika ruhjiniachi.
+var	ahpo inateka yasimachepua yeeniwao,
+var	Pukaepa Eesusia iꞌka weeechi
+var	oiyaiopua, Riosi kaꞌkaruma tuuyewari
+var	tuuyerepua, yooma aaata tatakorichi
+var	wahjipakameka teꞌteriameo, ahpo
+var	Noonochi eꞌenamichiopua, puꞌka ki
+var	cheriwepuawichioopua, ahpo weemera
+var	ahjari kiapuawichioopua tiame, Riosi
+var	Riosiwarichi teꞌtereka
+var	mochitomichiopua, iꞌka wehjoarichi
+var	mochikaiopua pehjio.
+var	Waꞌa chiiame ehkoriami Saromonia
+var	Iꞌka ehkoriami Riosi naꞌnayewatura
+var	chaachapariao, aaataai ki sewina tiiame
+var	chaachapametepua ahpo masitiachio,
+var	aapoeche waꞌapi machename kaawe
+var	chaachapaniameo. Aapoe ehkoriami Riosi
+var	naꞌnayewaturaai, ki aapoe ahpo
+var	inatarichi eꞌra chaachapatiame puuua,
+var	Nape iꞌka weee kajuyachio Riosia,
+var	teꞌta ahpo utewarieo, chaachasache
+var	tajenatemeripua yomatiame iꞌka weeeo,
+var	ahkasi tewekaopua tiame. Waꞌa
+var	iintomeri Riosia, teꞌta ahpo
+var	katewiachi taawechiopua, yooma
+var	nanaarame katewesa kokosaiopua.
+var	Nape waꞌa tiiaipua, Riosie Weratiameo
+var	ahsieme eꞌwewa iintoriopa, yomatiame
+var	Riosi nuurari eꞌwepakaopua iꞌwa
+var	weeechi oirioio, weemera tiiame Riosi
+var	nuurari eꞌwewa, enepakamepua. Ehpeo
+var	eemeai Riosieo, yomatiame ahpo Taana
+var	Eesusichi paparameo, ahsepari
+var	eꞌwekame taamo tetewamepua ahpo
+var	nuurario. Pukaepa ehkoriami tukapari
+var	Riosi nuurarichi nokisitiamea, puuua
+var	saipatoamepua, ehpeo taamoo Riosi
+var	Taanara tahjewarachi mochitoamekopa,
+var	Eesusichi paparakao. Ehpeo eemea Eesusi
+var	tahjewarachi mochitoamea, kaawe ahpo
+var	nakika mochitoamepua.
+var	Aaata teꞌta Riosie Weratiamechi kaawe
+var	teeretoamea, kiisi oiyamepua
+var	tatakoriwachio; tatakoriwachi oika
+var	puꞌseriamea, kihta Riosie
+var	Weratiamechi teeretoamepua, puuua
+var	Riosie Weratiameo, kiisi machiyameka
+var	teeretoka yasitoamepua.
+var	Riosia seenepioi, ki aaatae
+var	tetewiniamepua; nape ahpo kaawe nakika
+var	mochitoniachi, tetewiniamepua pukachio,
+var	teꞌta kaaweruma Riosichi eename
+var	nakiwariaa, puuu Riosi nakirewaa, kaawe
+var	ahpo nakika mochitoamerakachi, epeche
+var	epecheche tamochi teetopasiamepua.
+var	Noꞌo Riosichi kukuchiwaa, kaꞌte
+var	paparamitia eemea itapiti
+var	Waꞌasi ihjiapa noꞌo aamo tuuyaa.
+var	Kaawe eꞌraka yasitojeramechenia aamo
+var	iikachio. Iꞌwa noꞌo ahjama
+var	mochikamea aamo kaawe eꞌriame, aamo
+var	teepotenapua. Muuua tiameo, teepotaka
+var	kiamitiapua, yooma puꞌka taamo kaawe
+var	eꞌreka mochikameopua waꞌao. Waꞌa
+var	Neee Waania, iꞌka iyotesa uhjuraninia
+var	puꞌka tiꞌtijoeo ooweru tiameo,
+var	oowisani tiꞌtiopachiami mochikame,
+var	Aasia weeechiami wekanami
+var	tiꞌtiopachi. Taꞌiria mochisaa kaawe
+var	enemii eemea, aamo iikachio mooena
+var	eꞌrari erakoka, Apoe Riosieopua aamo
+var	kianiae. Ihji Riosia, keꞌchu naayachi
+var	oꞌinia ahjaka yasitoriamepua, ahkasi
+var	ehpe taawechiamichisi, ahkasi wahka
+var	ihtoriachisiopua ki wahjiamesi. Riosi
+var	Riosiwari oowisani puusieka tetewameai,
+var	yooma ihtaoi noriwi tiame tetewamea,
+var	aamo iikachi taꞌiria mochirewa
+var	kiꞌyamepua tiame, puuua Riosi
+var	yasirachi, norikame ajakamerapua.
+var	Puuua eee aamo chaaniamepua: Neeea aamo
+var	Ehmirina mochikameo, naneꞌriamenia
+var	aamo tísia aiwaka mochikaopua,
+var	naneꞌriamenia aamoopua tiameo, kihta
+var	iinuekopua paarasario. Nape eemea
+var	waꞌa teꞌtiaio, teꞌta tísia
+var	paarasariemekaitepua. Naneꞌreka
+var	yasitoamenia puꞌka ahpo iꞌisaeri
+var	tiꞌtijoeri teewameo, aamoo aꞌchikoi
+var	chaaniakopua naꞌarekao; yooma puuua,
+var	Satanasi napawikarichi mochitoamekapa
+var	waꞌa chaachapamepua.
+var	Waikao puuu tijoeka tiiame noꞌo
+var	nayeweria pukerio, noꞌo chaanekapua
+var	tiameo, Irarejia tiopachi nayewatuameo,
+var	waꞌa mochikameopua tiameo, iꞌka eee
+var	chiiame iyotesa uhjuremitiapua puꞌkao:
+var	waꞌa tiiame taamo Noonoa.
+var	Muuuchepua aamo mukuriae tarakamea
+var	neꞌnesaoopua! —nape kokotiame
+var	nayewachaniame, ki kuꞌita
+var	Aasere tetejimari tiame, waꞌa ikisao
+var	tiame, Nehtari tetejimari, Manase
+var	Waikao Riosi kuꞌiwaria, puꞌka Riosi
+var	oꞌro tepawechio, puꞌka moorerao,
+var	ihsawi tajenakame pochiwasaopua,
+var	weeechitipo wiꞌsunakapua. Waꞌa
+var	ikitioopua puuu ihsawia, yooma puuua
+var	tahpitika chaachapakapua tataka.
+var	Tahpitika nokayapua kuhjipaka, ki
+var	kuꞌwita teꞌteosika. Weeeai kai
+var	muuenati noonokapua waikao.
+var	Nape puuu tiꞌtijoeri ki wahjipaka
+var	itipikamea, puꞌka yerowa ipasetiaio,
+var	kiisi kaꞌkaruma enepakapua ahpo ki
+var	kaꞌkaruma nokayao. Ohsotia
+var	simitekachekapua puꞌka kiisi
+var	kaaweruma ahpo nokayao, reemokamera
+var	naꞌnaritoamekapua. Ihji tiꞌtijoeria
+var	ooweruria tiame, waꞌapi
+var	teꞌteretoapua, ahpo riꞌriosiwachi
+var	paparakaopua, itapitie
+var	netetiamechiopua, miina meetarie,
+var	tehtee netetiamechi, kuuue netetiamechi
+var	tiame, yooma puuu ahjachi paparaa,
+var	kiisikoi tetewame puuua, kiisikoi
+var	inamuamekoiopua, kiisikoi ohjoamepua
+var	Paika taawe aampa naasipasi manisaopua
+var	waꞌao, puuua iwira kiatiapaopua
+var	Riosieo, ajasikapua oisikao. Iꞌkao
+var	waꞌa ikisoopua, tísia majakapu
+var	aamoo yooreka mochiriameopua,
+var	Piiripi puuu iinyati pawesinoi
+var	moꞌoraa, mukukai ahjakamekapua.
+var	Naania tiiamekapua moochio, meritiai
+var	saukachio. Waꞌa iikamekopua puꞌkao,
+var	yooma tiꞌtijoeria, ki nuꞌuti
+var	ikiriame erakoewa eꞌriamekapua
+var	Ihji aiwaka moroyaopua tajakao, ki
+var	wahjika moromapua apechuka, ahkasi ki
+var	seena aampasi. Kiisi resipuniachipua
+var	waꞌao, yooma taawechioipua, yooma
+var	tukaooiopua tiame, yooma puꞌka
+var	wehtejurichi paparakamewichiopua,
+var	wehtejurika tiame netetiameopua tiame
+var	paparakamewichioo, puꞌka teewara
+var	machitewara uukamewichioopua tiame.
+var	Waikao neee Waania, waꞌa Riosi
+var	tiopara teꞌta iyoriwachio,
+var	cheechaniame inamukania, puꞌka
+var	oowisani Riosi kuꞌiwario:
+var	Ihji oowitiamea, ahpo koataopua itapiti
+var	teewa iyotetiame iꞌtoka oiyamekapua,
+var	tesiwa eerina tiame pahtepuao. Puuu
+var	chiiame iyotetiamea, eee chiiamekapua:
+var	“Teꞌta Weruma Tiiamera Wawironia,
+var	Apoe Teꞌta Suwepori Nokayamera
+var	Yeeyera, Apoe Teꞌta Ki Kaꞌkaruma
+var	Mehtatiamera Yomachi Weeechi
+var	Mochikameopua Tiꞌtijoerio.”
+var	kaaneraoi ihtapaniameo, yooma ihta
+var	kooame yahcheniameoi ujurewao, moomori
+var	choꞌioi, miira sewajuyaoi, ihtaoi
+var	peeniajuwa sewajuyaoi, wiinooi,
+var	soowioi, aarinaoi, tiirikooi, wakasioi,
+var	poꞌwaoi, kaawaioi, kaarooi,
+var	tiꞌtijoeri nehjiwameoi.
+var	Riosia, waꞌa yooraka nateteterepua
+var	—Iyotemitia iꞌkao: “Puꞌka
+var	Poꞌwa teewataniame neewiachi
+var	paajutetiamea, tísia taꞌiria
+var	nokimeripua waꞌa kaawe erakowa
+var	pahkotaniachiopua, ahpo pirena
+var	mochitopua katewetiameopua ahkasi ki
+var	wahjiame taawechisi.”
+var	Yooma paꞌwechi wahjipakamea, weeechi
+var	wahjipakamea tiame, pirena katewetiapua
+var	Riosie, ihtana kaawe noonowiriaeopua
+var	ahpo kaaweruma tuuyewarieopua.
+var	Tiopaa, Riosi iyoriwachio,
+var	kiꞌtiamekapua waꞌao, Apoe yooma
+var	Paamirao waꞌa kahtiopa, waꞌachi
+var	kahtiamekoopua tiameo, puuu Paamira
+var	Poꞌwa teewataniameopua.
+var	—Aaata paramusaa, noochi enapuapua,
+var	ahjaniame neeroi noochi pajename
+var	nerojimia. Neeea aamoo, kihta natekachi

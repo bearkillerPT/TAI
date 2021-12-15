@@ -1,0 +1,778 @@
+zpu	Ganni nyoj ra beꞌnn kaꞌ gok xozxtaꞌo Jesucristonꞌ,
+zpu	beꞌnnenꞌ gok Xhiꞌnn dialla David, naꞌ Davidenꞌ gokeꞌ
+zpu	Naꞌll Jacobenꞌ gokeꞌ xa José beꞌnnenꞌ gok xhyio
+zpu	Naꞌll llawé beꞌnn siꞌn kaꞌ kwis ka breꞌe akreꞌ
+zpu	Chaꞌ rennere ba bayátere ke da xhinnjenꞌ nonre naꞌ,
+zpu	llayaꞌl gonre da wen nench gakbeꞌe beꞌnne ba ballaꞌa
+zpu	’Nbaraz ke beꞌnn kaꞌ llabeklli akeꞌ beꞌnn dile, le
+zpu	Diosenꞌ wazaꞌkreꞌ leakeꞌ ka xhiꞌnneꞌ.
+zpu	Naꞌ nadaꞌ niaꞌ reꞌ: Bi wllonre wsaꞌkziꞌ beꞌnne
+zpu	reꞌ. Chaꞌ to beꞌnne kapeꞌ xaꞌyre, lewzé da ye
+zpu	Naꞌ chaꞌ reꞌ bi llaziꞌxhen ke lwelljre, leskaꞌkze bi
+zpu	yeziꞌxhenkze Xallo Diosenꞌ keré.
+zpu	Laꞌkze naktere beꞌnn wen da xhinnj ak, nnézkzere lloeꞌre
+zpu	xhiꞌnnre kaꞌ to da wen. Naꞌ bixha Xallo Diosenꞌ zo yebá
+zpu	naꞌ, gonlleꞌ wen ke beꞌnn llnnabe Leꞌe bi danꞌ
+zpu	—¿Bixchen llebrizre? ¿Bi llonliraꞌllre nadaꞌ?
+zpu	Ka goken bllin Jesúsenꞌ rill Mateonꞌ, naꞌ lliꞌ akeꞌ
+zpu	llao akeꞌ txhen ren ye zan beꞌnn wachixhj ak, naꞌ ren
+zpu	yelaꞌ beꞌnn wen da xhinnje, naꞌ renkze beꞌnn kaꞌ non
+zpu	Naꞌ chaꞌ zjaniꞌt beꞌnn nak yichjraꞌlldaꞌo akeꞌn
+zpu	wen, gak ka danꞌ nnabrenꞌ, naꞌ so akeꞌ wen. Naꞌ chaꞌ
+zpu	nono llraꞌ beꞌnn nak yichjraꞌlldaꞌo akeꞌn wen, naꞌ
+zpu	Ka bayoll bzejnieꞌ Jesúsenꞌ beꞌnn chllinn kaꞌ non
+zpu	Leꞌe txhen naꞌ, bazeꞌe gannaꞌ, naꞌ byejeꞌ yell kaꞌ
+zpu	zjalliꞌ do naꞌ, jaroeꞌ jasedreꞌ xtiꞌll Diosenꞌ
+zpu	beꞌnn kaꞌ zjallaꞌa gannaꞌ.
+zpu	—Lloeꞌrawaꞌ rweꞌ Dios Xa, rweꞌn llnebiaꞌo yebá
+zpu	naꞌ yellrionꞌ, bkwaꞌchoꞌ da ki, bi byejnieꞌ beꞌnn
+zpu	siꞌn kaꞌ len, naꞌ broeꞌroꞌn beꞌnn yaꞌch beꞌnn
+zpu	Beneꞌ kaꞌ nench bzoa xtiꞌll Diosenꞌ danꞌ bzoj da
+zpu	Naꞌ beꞌnn kaꞌ llsedre ke ley danꞌ bzoj da Moisésenꞌ,
+zpu	naꞌ beꞌnn fariseo kaꞌ lle akeꞌ Jesúsenꞌ:
+zpu	Naꞌll lle Jesúsenꞌ leakeꞌ:
+zpu	Naꞌll bsaꞌkrebe Jesúsenꞌ ye to da yobre, lleꞌe leakeꞌ:
+zpu	Naꞌ bayejeꞌ ralleꞌn, naꞌ jaroeꞌ jasedreꞌ beꞌnn
+zpu	wrall keꞌe kaꞌ lo yodaꞌo ke akeꞌn. Naꞌ babán akreꞌ
+zpu	kwis ke diꞌllenꞌ lloeꞌn, naꞌ lle lwellj akeꞌ:
+zpu	Naꞌll lle Jesúsenꞌ leakeꞌ:
+zpu	—Balliꞌi noꞌrenꞌ, le llakia lloneꞌ naweꞌ lliꞌo.
+zpu	—Kat llwiare leꞌ yebánꞌ do ba wlleꞌ, naꞌll nere:
+zpu	“Wallaꞌa wxe, le ba llaxhná leꞌ yebánꞌ.”
+zpu	—Xanaꞌ, Dios gakreneꞌ rweꞌ bi gak koꞌo ka diꞌllenꞌ
+zpu	Naꞌll lle Jesúsenꞌ leakeꞌ:
+zpu	’Noteze beꞌnne goneꞌ bix to bidaꞌo ki nxenraꞌll
+zpu	nadaꞌ gonbeꞌ da xhinnj, nakteren wen naꞌ, wchej akeꞌ
+zpu	yeneꞌ to yej yiche, naꞌ wzaꞌl akeꞌ leꞌe lo nisdaꞌo,
+zpu	kerke da goneꞌ nench gon to bidaꞌo ki da xhinnj.
+zpu	Naꞌll gokllaꞌa beꞌnn wnebiaꞌn kwis, naꞌll golleꞌ
+zpu	beꞌnn kaꞌ broꞌ akeꞌ leꞌe lo rill ya ga yellayraweꞌ,
+zpu	naꞌ bi yellojkzeꞌ chaꞌ bi nna wayixhjeꞌ doxhen danꞌ
+zpu	Naꞌ ka gol naꞌ, xan lba uvas naꞌ, lleꞌe beꞌnn wen llin
+zpu	brao keꞌen: “Bayaxh beꞌnn wen llin kaꞌ nench chixhj
+zpu	akoeꞌ, beꞌnn kaꞌ braꞌ kanꞌ ba llayoll llin naꞌ,
+zpu	soraoꞌ chixhjoꞌ, naꞌtellre chixhjoꞌ beꞌnn kaꞌ braꞌ
+zpu	Naꞌ ka bazaꞌa akeꞌ yell Jericónꞌ beꞌnn zan ba nao
+zpu	—Nyoj xtiꞌll Diosenꞌ: “Rillaꞌn, naken yoꞌ ga
+zpu	llayaꞌl yelwill beꞌnn nadaꞌ”, naꞌ reꞌ ba nonren ka
+zpu	Naꞌll lle Jesúsenꞌ leakeꞌ:
+zpu	Ke len naꞌ llepaꞌ reꞌ, reꞌ bi llzenayre ke Dios, kwej
+zpu	yichjeꞌ reꞌ, naꞌ kwejeꞌ beꞌnn yobre beꞌnn wzenay
+zpu	keꞌe, nench nnebieꞌ yichjraꞌlldaꞌo akeꞌ.
+zpu	“Blleꞌ kwitaꞌ ni nnebiaꞌrenoꞌ nadaꞌ,
+zpu	’¡Nyaꞌchraz naken keré llsedre ke ley danꞌ bzoj da
+zpu	Moisésenꞌ, naꞌ reꞌ beꞌnn fariseo! ¡Nakre beꞌnn chop
+zpu	rao! Nakre ka to ba, da noneꞌ nbaraz koꞌllre, naꞌ loere
+zpu	llaꞌn llit ke beꞌnn wat, naꞌ yeolol da bi nak yall.
+zpu	’Daniel beꞌnnenꞌ bdixjweꞌre xtiꞌll Diosenꞌ kanaꞌ,
+zpu	bzojeꞌ ke da zban kwis, danꞌ wxinnj latjenꞌ ganꞌ
+zpu	llonliraꞌll-llo Diosenꞌ. Naꞌ kat reꞌre ba bllin danꞌ
+zpu	ganꞌ zo yodaꞌo braonꞌ (beꞌnne llrabe da ni llayaꞌle
+zpu	’Notezre chaꞌ zore rez batteze, nakre ka to beꞌnn wen llin
+zpu	beꞌnn nak beꞌnn siꞌn, naꞌ beꞌnn llon da llayaꞌl
+zpu	goneꞌ. Naꞌ chaꞌ to beꞌnn wen llin lloneꞌ wen kwis,
+zpu	naꞌll gon xaneꞌn rallneꞌe rilleꞌn, naꞌ weꞌe da
+zpu	yesaꞌo beꞌnn wen llin kaꞌ, kat llayaꞌl gao akeꞌ.
+zpu	Naꞌll ka bllin beꞌnnenꞌ bkwaꞌnnreneꞌ chop mellenꞌ,
+zpu	naꞌll lleꞌe leꞌe: “Xanaꞌ, ni de da chop mell danꞌ
+zpu	bkwaꞌnnoꞌn, naꞌ benaꞌ gan ye chopen.”
+zpu	—Bi goꞌxlloeꞌ rao lnni naꞌ, nench ke gakbeꞌe beꞌnn
+zpu	zan, naꞌ gon akeꞌ dá nne.
+zpu	—Maestro, ¿nadaꞌn wdiaꞌ rweꞌ rao naꞌa beꞌnn kaꞌ?
+zpu	Naꞌll bzeꞌe da wllop ras ganꞌ zjalliꞌ akeꞌn naꞌ
+zpu	jalwilleꞌ Diosenꞌ, bneꞌe:
+zpu	—Beꞌnn ni bneꞌe: “Nadaꞌ wachinnjaꞌ yodaꞌo brao ke
+zpu	Diosenꞌ, naꞌ chonn llaze wayontiaꞌn.”
+zpu	Naꞌ bchej akeꞌ Leꞌe, naꞌll jwaꞌa akeꞌ Leꞌe rao
+zpu	beꞌnnenꞌ llnebiaꞌn nziꞌi Poncio Pilato.
+zpu	—Rweꞌn bneꞌo yechinnjoꞌ yodaꞌo braonꞌ, naꞌ chonn
+zpu	llaze yeyonteꞌon. Naꞌ basrachk kwinoꞌ chaꞌ rweꞌn
+zpu	nakoꞌ dogarje Xhiꞌnn Dios, bayetjchek leꞌ yay cruzenꞌ.
+zpu	Naꞌll goll Pilatonꞌ beꞌnn kaꞌ:
+zpu	nench yeweꞌ xhnneze ganꞌ teꞌon.
+zpu	—¡Llakia llonoꞌ, balloj yichjraꞌlldaꞌo beꞌnnenꞌ!
+zpu	Naꞌ bi gok choꞌrén akeꞌ leꞌe, llin akeꞌ raweꞌn le
+zpu	llaꞌa beꞌnn zan kwis. Naꞌll blep akeꞌ leꞌe yichjore,
+zpu	naꞌ bsarj akeꞌ to latj ga bletj akeꞌ leꞌe do ka nak
+zpu	ganꞌ xhoeꞌn, naꞌ bllineꞌ rao Jesúsenꞌ.
+zpu	Naꞌ beꞌnn fariseo kaꞌ lle akeꞌ Leꞌe:
+zpu	Jacobo ren Juan beꞌnn biꞌcheꞌn, nak akeꞌ xhiꞌnn
+zpu	Zebedeo, naꞌ bsieꞌ leakeꞌ Boanerges, da ni lleꞌnen nen
+zpu	beꞌnn llon ka yiꞌ bziꞌo kat llachjen;
+zpu	Naꞌ ka nak bi nyin roe zitj, ka bnnaꞌ willenꞌ naꞌ
+zpu	Leskaꞌ lle Jesúsenꞌ leakeꞌ:
+zpu	Naꞌll bayechjeꞌ llwieꞌ noxhanꞌ bdankze xheꞌen.
+zpu	—Chaꞌ to yoꞌ ga llinre, gannaꞌze sore llinte yezaꞌre
+zpu	Ka bllin wakaꞌa yanꞌ lo rill yanꞌ, naꞌ bchoyeꞌ yen
+zpu	Juan naꞌ, naꞌ baxoeꞌn to lo yeꞌnn nllirj, naꞌ
+zpu	zanoꞌxeꞌn, naꞌ beꞌen bi noꞌr naꞌ; naꞌ bi noꞌr
+zpu	naꞌ bayoeꞌtebeꞌn xhnaꞌbeꞌ.
+zpu	Bixha ka breꞌe akreꞌ Leꞌen zayejeꞌ rao nisdaꞌo naꞌn,
+zpu	gok akreꞌ chaꞌ bxen naꞌ, naꞌll besiaꞌ akeꞌ.
+zpu	Kere da kaꞌ lleꞌj llao beꞌnn kaꞌ, llon leakeꞌ gak
+zpu	akeꞌ beꞌnn wen da xhinnj rao Diosenꞌ. Da xhinnj kaꞌ
+zpu	ll-lloj lo yichjraꞌlldaꞌo akeꞌ naꞌn, len naꞌ llonen
+zpu	leakeꞌ beꞌnn wen da xhinnj.
+zpu	—Le wen ba beneꞌ, llakteꞌ lloneꞌ nench yeyene beꞌnn
+zpu	kwell, naꞌ beꞌnn kaꞌ bi llak nneꞌe, llanné akeꞌ.
+zpu	—Leskaꞌn kone gall yet xtir naꞌ, bwawaꞌ tap mir
+zpu	beꞌnne. ¿Bale llom da laꞌo batopre?
+zpu	¿Bi kone gaꞌweꞌ yel nban naꞌ?
+zpu	Naꞌll jwaꞌa akeꞌ bidaꞌon, bixha daxiꞌon yoꞌ
+zpu	bidaꞌon, ka breꞌen Jesúsenꞌ bxizen bidaꞌon res kwis,
+zpu	bzalen lebeꞌ lltolen lebeꞌ, llalj pep blliꞌn lloaꞌbeꞌ.
+zpu	Naꞌll Juan naꞌ, lleꞌe Jesúsenꞌ:
+zpu	—Noteze beꞌnn chaꞌ wsanraꞌll xhoꞌreꞌ, naꞌ sieꞌ
+zpu	ye to noꞌr yobre, da xhinnj xhen naꞌ lloneꞌ ke
+zpu	xhoꞌreꞌ, llonkzeꞌ ka beꞌnn zo xto.
+zpu	zaꞌklle da wayoeꞌ Diosenꞌ leꞌe, da xhenll wayoeꞌ
+zpu	Diosenꞌ leꞌe, kerke da kaꞌ bsanraꞌlleꞌn, to gayoa
+zpu	(100) ras ke to danꞌ bnitenꞌ wayoeꞌ leꞌe, laꞌkze
+zpu	chaꞌ bllayraweꞌ, naꞌ kate llin lla naꞌ, weꞌe yel nban
+zpu	Naꞌll brexh Jesúsenꞌ, naꞌ lleꞌe beꞌnn kaꞌ:
+zpu	Naꞌ beꞌnn kaꞌ nao Leꞌen ben akreꞌ kanꞌ bneꞌen.
+zpu	Jesúsenꞌ bzorao llzejnieꞌreꞌ leakeꞌ, llsaꞌkrebreꞌ
+zpu	—Maestro, da Moisésenꞌ bzojeꞌ chaꞌ to beꞌnn byio
+zpu	gateꞌ, naꞌ bagaꞌnn noꞌr keꞌe, naꞌ nono xhiꞌnn
+zpu	akeꞌ bzo, naꞌ beꞌnn biꞌch beꞌnn wat naꞌ, llayaꞌl
+zpu	yezieꞌ noꞌr wazeb naꞌ, nench nniꞌt xhiꞌnn dialla ke
+zpu	Rawe llzejnieꞌ Jesúsenꞌ beꞌnn kaꞌ, naꞌll lleꞌe
+zpu	Da xhen yellayrao beꞌnne kate llin llanꞌ, kanꞌ bxe
+zpu	Diosenꞌ yellrio nono nna yellayrao katekenꞌ yellayrao akeꞌ
+zpu	kanaꞌ, naꞌ yeyoll naꞌ, billbi gaꞌte ye to ka len.
+zpu	Ka nak danꞌ bwazj noꞌrenꞌ ceit xhixenꞌ yichjaꞌn, ba
+zpu	bentegueꞌ ke da llayaꞌlkze gon akeꞌ kat gaꞌchaꞌn.
+zpu	—Laꞌkze chaꞌ yeolol beꞌnn ki wkwaꞌnn akeꞌ rweꞌ,
+zpu	nadaꞌ bi wsanraꞌllaꞌ rweꞌ.
+zpu	Naꞌ bne Jesúsenꞌ, lleꞌe beꞌnn kaꞌ:
+zpu	—Bi nombieꞌ, ni ke nnezzraꞌ binꞌ neꞌo.
+zpu	—¿Bixha da xhinnj ba beneꞌ naꞌn?
+zpu	Naꞌll zejdo to beꞌnnenꞌ, jaxieꞌ to da bzaꞌllen zo
+zpu	zichje, bzoeꞌn to rao yia naꞌ jazeꞌen lloaꞌ Jesúsenꞌ,
+zpu	Beꞌnn zan kaꞌ llaꞌa liaꞌre, llbexh akeꞌ
+zpu	Zacaríasenꞌ, naꞌ llabán akreꞌ danꞌ bi llallojzeꞌ lo
+zpu	Kate bnneꞌon, le bxhiꞌtte bdaꞌo kiaꞌn lo liaꞌn
+zpu	Naꞌ bnnabeꞌ to bray daꞌo, naꞌ bzojeꞌn bllieꞌn:
+zpu	“Juan, siꞌbeꞌ.” Yeolol beꞌnn kaꞌ llabán akreꞌ.
+zpu	naꞌ chejnieꞌllo ka gonllo nench chaꞌllo wen.
+zpu	Spíritu ke Diosenꞌ bdixjweꞌn leꞌe ke za gattereꞌ, dekz
+zpu	de reꞌreꞌ Cristo beꞌnnenꞌ wseꞌl Diosenꞌ.
+zpu	Naꞌ kaꞌ, zayej akeꞌ Nazaretenꞌ zancheꞌe akteꞌ
+zpu	Jesúsenꞌ, naꞌ bzenayteze bzenayeꞌ ke akeꞌ. Naꞌ
+zpu	Maríanꞌ kon lloneꞌ xhbab lo yichjraꞌlldaꞌweꞌ kanꞌ
+zpu	Naꞌ beꞌnn zan beꞌnn Israel kaꞌ, ba llaꞌa akeꞌ dá
+zpu	nne, llon akeꞌ xhbab chaꞌ Juan naꞌ nak Cristonꞌ.
+zpu	Eliezer naꞌ gokeꞌ xhiꞌnn Jorim,
+zpu	Matusalén naꞌ gokeꞌ xhiꞌnn Enoc,
+zpu	Spíritu ke Xanllonꞌ zorenen nadaꞌ,
+zpu	Yeolol beꞌnn kaꞌ llaꞌn, llabán akreꞌ, lle lwellj akeꞌ:
+zpu	Naꞌll Jesúsenꞌ bli neꞌen, naꞌ bdaneꞌ leꞌe, naꞌ
+zpu	Kere zaꞌa zadyexhaꞌ beꞌnn wen akenꞌ, zan zaꞌa
+zpu	zadwiaꞌ beꞌnn wayatre ke da xhinnj ba ben akeꞌ.
+zpu	To lla byej Jesúsenꞌ to rao yaꞌ jalwilleꞌ Diosenꞌ,
+zpu	naꞌ do yer beꞌreneꞌ Leꞌe diꞌlle.
+zpu	Naꞌll beꞌreneꞌ leakeꞌ to diꞌll, bneꞌe:
+zpu	To beꞌnn fariseo re Simón, beneꞌ Jesúsenꞌ yexh nench
+zpu	chejeꞌ rilleꞌn lljataweꞌ, naꞌ ka bllin Jesúsenꞌ rill
+zpu	beꞌnn fariseonꞌ, bllieꞌ ganꞌ gao akeꞌn.
+zpu	—To beꞌnn bllojeꞌ zejeꞌ goz trigo, naꞌ rawe zejeꞌ
+zpu	lloseꞌ nbaz kaꞌ, balen jeꞌten lloaꞌ nez, naꞌ brejchekw
+zpu	beꞌnn len, naꞌ byinn kaꞌ dá rao lla, bdao akbaꞌn.
+zpu	—Nadaꞌ bseꞌlaꞌ beꞌnn ak bchoy akeꞌ yen Juan naꞌ,
+zpu	¿noxha beꞌnnenꞌ ne akeꞌ kaꞌ?
+zpu	Chaꞌ noteze beꞌnn wayeꞌreꞌ nadaꞌ, naꞌ ke
+zpu	xtiꞌllaꞌn, leskaꞌ nadaꞌ Beꞌnnenꞌ Gorj Radj
+zpu	Beꞌnnach, wayeꞌraꞌ nniaꞌ nakeꞌ nadaꞌ txhen, katenꞌ
+zpu	yedaꞌ da yobre nsaꞌa yel beniꞌ xhen kiaꞌn, naꞌ yel
+zpu	beniꞌ ke Xaꞌn ren ke angl kaꞌ.
+zpu	—Maestro, ¿Bi llayaꞌl gonaꞌ nench gaꞌt yel nban
+zpu	—Xantoꞌ, bsede netoꞌ akrenꞌ weꞌrentoꞌ Diosenꞌ
+zpu	diꞌll, kanꞌ ben Juan beꞌnnenꞌ bchoa nis, broeꞌreꞌ
+zpu	’Kate to beꞌnn war, llapeꞌ rilleꞌn kon ren ya, notno gak
+zpu	—Bzo to beꞌnn wniaꞌ, de yellrionꞌ ga gozeꞌ, naꞌ
+zpu	Nbaraz ke beꞌnnenꞌ, chaꞌ kate yellín xaneꞌn,
+zpu	lljadiꞌreꞌ leꞌe lloneꞌ ka danꞌ bkwaꞌnneꞌ
+zpu	Naꞌ lliꞌ to noꞌre lo yoꞌn; ba gok chiꞌn chonn (18) iz
+zpu	nleo koꞌlleꞌ, le byoꞌ to daxiꞌo kwerp keꞌen, naꞌ
+zpu	—Lelljayell beꞌzenꞌ: “Ye chop chonn llazenꞌ nna
+zpu	dakzaꞌ llabejaꞌ daxiꞌo yoꞌ yichjraꞌlldaꞌo beꞌnne,
+zpu	naꞌ llayonaꞌ beꞌnn llak yillweꞌ, naꞌtell wayoll
+zpu	Beꞌnn wen llin naꞌ, zayejeꞌ jayelleꞌ xaneꞌn kanꞌ bne
+zpu	beꞌnn kaꞌ, naꞌ gokllaꞌa xan yoꞌn kwis, naꞌll
+zpu	golleꞌ beꞌnn wen llin keꞌen: “Byej do lao yaꞌa,
+zpu	jatateze do lyell, jaxiꞌi beꞌnn yaꞌch, beꞌnn xhinnj,
+zpu	Ker gok scha kate binꞌ naꞌchenꞌ, batopbeꞌ yeolol da nake
+zpu	kebeꞌ, naꞌll broꞌbeꞌ nez byejbeꞌ to yell ziꞌte.
+zpu	Naꞌ benditjebeꞌ xhmellbeꞌn, benbeꞌ da ke nxhia.
+zpu	Naꞌ chaꞌ gall ras goneꞌ bi da goneꞌ koꞌo rao tlla,
+zpu	naꞌ gall ras zaꞌteꞌ yeꞌe rweꞌ: “Llayatraꞌ kanꞌ
+zpu	benaꞌn, baziꞌxhen kiaꞌ”, llayaꞌl yeziꞌxhenoꞌ
+zpu	Kanꞌ llak kate llep yes, lloꞌnnte beniꞌ ken ye chlaꞌre
+zpu	yellrio to sete, kanꞌ gakse katenꞌ yedaꞌ nadaꞌ,
+zpu	Beꞌnnenꞌ Gorj Radj Beꞌnnach, katenꞌ llin llanꞌ.
+zpu	Naꞌ chop ras rao to xhman llonaꞌ was, naꞌ da llonaꞌ gan,
+zpu	llbejaꞌ to kwenen rao chi kwen, naꞌ lljwaꞌan yodaꞌon.”
+zpu	—Naꞌ chejllo Jerusalén naꞌ, gannaꞌ soaꞌ diꞌll
+zpu	doxhen kanꞌ bzoj beꞌnn kaꞌ beꞌe xtiꞌll Diosenꞌ
+zpu	batnaꞌ kanꞌ gak kiaꞌ nadaꞌ, Beꞌnn Gorj Radj Beꞌnnach.
+zpu	—Naꞌ bllin lla yerá beꞌnn kaꞌ, llaꞌa lo yoꞌ ni, le
+zpu	leskaꞌ beꞌnn ni nakeꞌ xhiꞌnn Abraham.
+zpu	Naꞌ le bacheꞌe aktebaꞌ ganꞌ ze Jesúsenꞌ, naꞌ bxoa
+zpu	akeꞌ raꞌll da nak akeꞌ koꞌll burrenꞌ, naꞌ bllia
+zpu	—Leskaꞌ nadaꞌ, bi nniaꞌ non benn nadaꞌ yel llnebiaꞌn
+zpu	—César beꞌnnenꞌ llnebiaꞌ Roma naꞌn.
+zpu	Naꞌ llkaꞌa akeꞌ rill noꞌr wazebe, naꞌ da lldeꞌ
+zpu	akreꞌ, scha llze akeꞌ kate llalwill akeꞌ Diosenꞌ nechkze
+zpu	ten kaꞌze. Da xhen da de saꞌkziꞌ beꞌnn kaꞌ kanꞌ llon
+zpu	Naꞌ danꞌ lleb akeꞌn, to gatzi akeꞌ kanꞌ gak rao
+zpu	yellrionꞌ, le kanaꞌ wroeꞌrao doxhen yel wak da bi naꞌ
+zpu	Ka bllin gao akeꞌ xcheꞌn, blleꞌ Jesúsenꞌ ren postl
+zpu	—Kanꞌ bseꞌlaꞌ reꞌ, kaꞌn bibi beꞌxkzre, ni mell, ni
+zpu	bzod, ni ye chkweꞌ xher-re; lennechk, ¿bi byálljere?
+zpu	Naꞌll goll Jesúsenꞌ bxoz wnebiaꞌ kaꞌ, naꞌ
+zpu	beꞌnnenꞌ nak xan beꞌnn kaꞌ llap yodaꞌo braonꞌ, naꞌ
+zpu	beꞌnn gor brao ke beꞌnn Israel kaꞌ, zjake lljeꞌx Leꞌen:
+zpu	Yeolol akeꞌ goll akeꞌ Leꞌe:
+zpu	Naꞌ beꞌnn zan kaꞌ llaꞌn, bzorao llosiaꞌ akeꞌ ne
+zpu	—¡Chaꞌ rweꞌn Cristonꞌ basrá kwinoꞌ, naꞌ basrá ren
+zpu	Nollno xhoa ganni, ba babaneꞌ. Lelljadinraꞌll kanꞌ nna
+zpu	zorenteꞌ reꞌ ganꞌ nziꞌi Galilea naꞌ,
+zpu	—Goꞌyrén netoꞌ, ba wlleꞌ nnaꞌ, la galte.
+zpu	Bayoll benlaꞌyeꞌ leakeꞌn, naꞌ bayepeꞌ zayejteꞌ
+zpu	yebá, baziꞌi Diosenꞌ Leꞌe.
+zpu	—¿Rweꞌn nakoꞌ beꞌnnenꞌ yedtixjweꞌ netoꞌ xtiꞌll
+zpu	Naꞌ leskaꞌ goxh akeꞌ Jesúsenꞌ, naꞌ ren beꞌnn kaꞌ
+zpu	—Xopayon (46) iz blle akreꞌ, ka ben akeꞌ yodaꞌon.
+zpu	¿Naꞌ rweꞌ wayonchkoꞌn chonn llaze?
+zpu	Kanꞌ naken, ke beꞌnn kaꞌ bi llonliraꞌll Xhiꞌnn
+zpu	Diosenꞌ, ba nlloyen ke akeꞌ, saꞌkziꞌ akeꞌ ke chnare,
+zpu	le ba bed Xhiꞌnn Diosenꞌ, nseꞌe beniꞌ ke
+zpu	yichjraꞌlldaꞌo beꞌnnach, bixha leakeꞌ naꞌn, llawé
+zpu	akllereꞌ danꞌ nak da xcholenꞌ kerke beniꞌn, le da kaꞌ
+zpu	llon akeꞌ naꞌ, naken da xhinnj.
+zpu	Naꞌll lle noꞌr Samarianꞌ Leꞌe:
+zpu	Bdere badil Jesúsenꞌ beꞌnnenꞌ bayak lo lchir yodaꞌo
+zpu	’Ka nak nadaꞌ bi llyalljraꞌ nne beꞌnnach kiaꞌ nakaꞌ
+zpu	Naꞌ bzorao llechj beꞌ rao nisdaꞌon, naꞌll llas yitjen.
+zpu	Leꞌen lleꞌnreꞌ bi waꞌa latje kweyiꞌ ni to beꞌnn ba
+zpu	brejeꞌ, nench gak akeꞌ nadaꞌ txhen. Naꞌ kat llin lla te
+zpu	ke yellrio ni, kanaꞌ yesbán akeꞌ radj beꞌnn wat kaꞌ,
+zpu	Spíritu ke Diosenꞌ lloeꞌn yel nban ke beꞌnnach, naꞌ
+zpu	kwerpenꞌ bi gak gonen kaꞌ. Diꞌll danꞌ ba beꞌrenaꞌ
+zpu	reꞌ, naken diꞌll da lloeꞌ Spíritunꞌ, naꞌ nsaꞌn yel
+zpu	Naꞌ ka do achje lnni naꞌn, kate byej Jesúsenꞌ lo lchir
+zpu	yodaꞌo brao ke beꞌnn Israel kaꞌ, naꞌ bzoraweꞌ llroeꞌ
+zpu	—¿Gaxhanꞌ neꞌe wayejeꞌ ga bi yellélelloeꞌ?
+zpu	¿Yeyejeꞌ ganꞌ naslas beꞌnn wrall kaꞌ radj beꞌnn
+zpu	griego kaꞌ, naꞌ wroeꞌ wsedreꞌ leakeꞌn?
+zpu	Naꞌ beꞌnn kaꞌ llsedre ke ley danꞌ bzoj da Moisés naꞌ,
+zpu	naꞌ beꞌnn fariseo kaꞌ, jwaꞌa akeꞌ to noꞌre, badoꞌl
+zpu	akreꞌ leꞌe ren xtoeꞌ. Naꞌ jazé akeꞌ leꞌe kllol
+zpu	beꞌnn kaꞌ llzenay xtiꞌll Jesúsenꞌ.
+zpu	Naꞌll lle Jesúsenꞌ leakeꞌ:
+zpu	Naꞌ bxhiꞌi akeꞌ yej wchekw akeꞌ Leꞌe, cheꞌr ke
+zpu	bkwaꞌchdoeꞌ, naꞌ ballojeꞌ yodaꞌon. Ni ke gokbeꞌe
+zpu	akzreꞌ, badieꞌ radj akeꞌn.
+zpu	Naꞌ leskaꞌ bnnabe beꞌnn fariseo kaꞌ leꞌe, akre goken
+zpu	ba llareꞌreꞌ, naꞌ lleꞌe leakeꞌ:
+zpu	Naꞌll lle beꞌnnenꞌ bayakenꞌ leakeꞌ:
+zpu	Yeololte nollre beꞌnn ba bedeꞌ ka za yedaꞌ nadaꞌ, nello
+zpu	nak akeꞌ beꞌnn wan. Naꞌ beꞌnn kaꞌ nak ka xhiꞌr
+zpu	daꞌo kiaꞌ, bi bzenay akeꞌ xtiꞌll beꞌnn kaꞌ.
+zpu	Naꞌll lle beꞌnn wnebiaꞌ kaꞌ Leꞌe:
+zpu	—Xanaꞌ, chenak zoꞌo ganni kanꞌ gok beꞌnn zanaꞌn
+zpu	yillweꞌ, bije gotjeꞌ chenake.
+zpu	Naꞌ to beꞌnn wnebiaꞌ zo kanaꞌ reꞌe Caifás. Leꞌe
+zpu	nakeꞌ bxoz brao iz naꞌ, naꞌ lleꞌe leakeꞌ:
+zpu	Beꞌnn kaꞌ breꞌe kanꞌ balwill Jesúsenꞌ Lázaronꞌ,
+zpu	basbaneꞌ leꞌe nench ballojeꞌ lo ba naꞌ, beꞌrén akeꞌ
+zpu	beꞌnn kaꞌ llaꞌa yellenꞌ diꞌll kanꞌ goken.
+zpu	Bayoll bne Jesúsenꞌ kaꞌ, le bazaꞌteꞌ jakwaꞌchreꞌ
+zpu	—Danꞌ ba zo gonoꞌ naꞌ, le benten.
+zpu	’Nadaꞌ zaꞌkrebraꞌ ka to yay da llbia uvas, naꞌ reꞌ
+zpu	nakre ka xhoꞌze. Notezre chaꞌ sechichrenre nadaꞌ, lekze
+zpu	kaꞌ sechichrenaꞌ reꞌ, naꞌ gakre kanꞌ llazraꞌll
+zpu	Diosenꞌ, kaꞌkzenꞌ naken ke yay uvas danꞌ llbiachachen,
+zpu	le bibi gak gonre to wrazzre.
+zpu	Diꞌll linꞌ ba bniaꞌ, llonen bien wayaꞌa, le chaꞌ bi
+zpu	wayaꞌa, bi yedsó Spíritu ke Xaꞌ Diosenꞌ lo
+zpu	yichjraꞌlldaꞌorenꞌ gakrenen reꞌ. Wayaꞌa naꞌllenꞌ
+zpu	Ba bniaꞌ reꞌ kaꞌ, nench naꞌ nniꞌtre nbaraz,
+zpu	legonliraꞌll nadaꞌ. Yellrio ni saꞌkziꞌre, bi
+zpu	gakllejlaꞌllre, nadaꞌ ba benaꞌ yenit yel llnebiaꞌ ke
+zpu	daxiꞌon, danꞌ zo llnebiaꞌn yellrio ni.
+zpu	Ka goken bllin Judasenꞌ, naꞌ ncheꞌe zan wakaꞌa ya kaꞌ,
+zpu	naꞌ ye txhonnj beꞌnn kaꞌ llap yodaꞌo braonꞌ, beꞌnn
+zpu	bseꞌl bxoz wnebiaꞌ kaꞌ, naꞌ ren beꞌnn fariseo kaꞌ,
+zpu	nench goꞌx akeꞌ Jesúsenꞌ. Zjanoꞌx akeꞌ no da
+zpu	llseniꞌ, naꞌ zjanoꞌx akeꞌ no yiꞌ yell yay, naꞌ
+zpu	—¿Llakroꞌ chaꞌ beꞌnn Israel nadaꞌn? Beꞌnn Israel
+zpu	wrall koꞌo kaꞌn, naꞌ bxoz wnebiaꞌ keré kaꞌn, bde
+zpu	akeꞌ rweꞌ ganni. ¿Bixha da xhinnj benoꞌ naꞌn?
+zpu	Naꞌ bayoeꞌ da yobre ganꞌ llieꞌ llnebieꞌn, zancheꞌe
+zpu	Jesúsenꞌ, naꞌ llnnabreꞌ Leꞌe:
+zpu	Naꞌ kanꞌ ben akeꞌ naꞌ, bzoa diꞌll kanꞌ nyoj xtiꞌll
+zpu	Diosenꞌ nen: “Blaꞌ akeꞌ xharaꞌnaꞌn, naꞌ raꞌll
+zpu	danꞌ llakaꞌ naꞌ, bditj akeꞌn.”
+zpu	Le bllinte Simón Pedronꞌ, le byoꞌteꞌ lo brojenꞌ, naꞌ
+zpu	breꞌreꞌ raꞌll kaꞌ zjalliꞌn loe naꞌ.
+zpu	Beꞌnn kaꞌ yereꞌ: “Ba banit barán da xhinnj keré
+zpu	kaꞌ”, ba bnitraokzen naꞌ, naꞌ beꞌnn yereꞌ: “Bi nna
+zpu	yenitrao da xhinnj keré kaꞌ”, bi nna yenitraokzen naꞌ.
+zpu	Naꞌll bzaꞌl yixj bel ke akeꞌn. Naꞌ bel zan kwis bdoꞌl
+zpu	akreꞌ, to bi zoe akreꞌ yegoꞌ akeꞌn lo barconꞌ.
+zpu	Yeolol akeꞌ llaꞌa nak akeꞌ toze, llalwill akeꞌ Diosenꞌ
+zpu	yeo lla. Gannaꞌ ren María xhnaꞌ Jesúsenꞌ ren biꞌcheꞌ
+zpu	kaꞌ, naꞌ ye bal noꞌr non leakeꞌ txhen.
+zpu	Yeolol akeꞌ llaꞌa llakgan akreꞌ, naꞌ llabán akreꞌ lle
+zpu	ke len naꞌ notno soe wta wnne nadaꞌ.
+zpu	Naꞌ yeo lla lldop akeꞌ yodaꞌo braonꞌ, naꞌ weꞌj bdao
+zpu	akeꞌ txhen rill toto akeꞌ, naꞌ nbaraz kwis bllaꞌa akeꞌ
+zpu	Ke nak Diosenꞌ ba baliseꞌ Xhiꞌnneꞌn, zgaꞌtek
+zpu	bseꞌleꞌ Leꞌe radj lliꞌo beꞌnn Israelenꞌ,
+zpu	badyenlaꞌyeꞌ lliꞌo, nench wayakbeꞌllo da xhinnj
+zpu	Naꞌ rey da David naꞌ, beꞌe xtiꞌlloꞌ kanꞌ
+zpu	—Awaꞌ, to katenꞌ bayoꞌttoꞌn.
+zpu	Ka llen akreꞌ kanꞌ ne postl kaꞌ, to llakllaꞌa akeꞌ
+zpu	kwis, to lleꞌn akreꞌ got akeꞌ leakeꞌ.
+zpu	Ka breꞌe Moisésenꞌ kanꞌ llaken, llabanreꞌ kwis, naꞌ
+zpu	jabiꞌyeꞌ jawieꞌ, naꞌ bne Diosenꞌ, lleꞌe leꞌe:
+zpu	Ka llene beꞌnn kaꞌ kanꞌ ne Esteban, to llrok akeꞌ
+zpu	leꞌe, naꞌ llaoxoxj lay akeꞌ.
+zpu	Ka breꞌe Simón naꞌ kanꞌ ben postl kaꞌ, bxoa taꞌk
+zpu	akeꞌn yichj beꞌnn kaꞌ, nench bxhiꞌi akeꞌ Spíritunꞌ,
+zpu	naꞌ bchabreꞌ postl kaꞌ mell,
+zpu	—Ben okré bne nadaꞌ, ¿bixchen ne beꞌnnenꞌ kaꞌ, ke
+zpu	kwineꞌn neꞌe kaꞌ o chaꞌ ke beꞌnn yobrenꞌ neꞌe
+zpu	—Bi naꞌ, Xanaꞌ, ganni zoaꞌ.
+zpu	—Eneas, Jesucristonꞌ wayoneꞌ rweꞌ nnaꞌsteke, bayas
+zpu	Naꞌll benreꞌ bne Diosenꞌ:
+zpu	Pedronꞌ bzorao lloeꞌ diꞌll, naꞌ bneꞌe:
+zpu	Cornelionꞌ beꞌreneꞌ netoꞌ diꞌll ka gok broeꞌrao to
+zpu	anglenꞌ leꞌe, naꞌ goll anglenꞌ leꞌe: “Bseꞌl
+zpu	beꞌnn lljakeꞌ Jope, naꞌ lljaxiꞌi akeꞌ to beꞌnn re
+zpu	Naꞌll bayoll naꞌ, lleꞌe leꞌe:
+zpu	Ka bllin akeꞌ yellenꞌ nziꞌi Salamina, bzorao lljakeꞌ
+zpu	yodaꞌo ke beꞌnn Israel kaꞌ, naꞌ lloeꞌrén akeꞌ
+zpu	leakeꞌ xtiꞌll Diosenꞌ. Naꞌ nao Juan Marcos naꞌ
+zpu	Naꞌ broeꞌraweꞌ beꞌnn kaꞌ ben Leꞌe txhen kanꞌ
+zpu	bzeꞌe Galileanꞌ bllinteꞌ Jerusalén naꞌ, zan lla
+zpu	bdareneꞌ leakeꞌ kanꞌ babaneꞌn. Naꞌ leakeꞌn lloeꞌ
+zpu	xtiꞌll Jesucristonꞌ rao beꞌnn yell.
+zpu	Ni ke len naꞌ bagaꞌnn akeꞌ scha Iconionꞌ, lloeꞌ akeꞌ
+zpu	xtiꞌll Xanllonꞌ, ni ke lleb akzeꞌ, llroeꞌ akreꞌ kanꞌ
+zpu	nllieꞌ Diosenꞌ beꞌnn kaꞌ. Naꞌ Diosenꞌ llroeꞌreꞌ
+zpu	diꞌll likzenꞌ lloeꞌ akeꞌ, ke nak beꞌe leakeꞌ yel
+zpu	wak, naꞌ llon akeꞌ da yebánello.
+zpu	Kanꞌ llak kaꞌ, bal beꞌnn bzaꞌa yell kaꞌ ganꞌ nbane
+zpu	Judeanꞌ, bllin akeꞌ Antioquía naꞌ, naꞌ bzorao llsed
+zpu	akreꞌ beꞌnn kaꞌ nxenraꞌll Jesucristonꞌ, ne akeꞌ:
+zpu	Naꞌ postl kaꞌ, naꞌ beꞌnn gor brao kaꞌ, naꞌ yeolol
+zpu	beꞌnn kaꞌ lldop ll-llay llonliraꞌll Jesucristonꞌ,
+zpu	bayazraꞌll akeꞌ kanꞌ bne Jacobonꞌ. Naꞌ beꞌe akeꞌ
+zpu	diꞌll kwej akeꞌ chop beꞌnn lwellj akeꞌ kaꞌ, naꞌ
+zpu	wseꞌlrén akeꞌ leakeꞌ Antioquíanꞌ ren Pablonꞌ naꞌ
+zpu	Bernabénꞌ. Naꞌ brej akeꞌ Judas lekze nzieꞌ Barsabás,
+zpu	naꞌ Silas, beꞌnn kaꞌn nak beꞌnn brao radj akeꞌ.
+zpu	Naꞌll to bde akzeꞌ Misia, bllin akteꞌ yellenꞌ re Troas.
+zpu	—¿Bi llayaꞌl gonaꞌ nench yeraꞌ rao da xhinnjenꞌ?
+zpu	Naꞌ beꞌnn kaꞌ ba non txhen llonliraꞌll Jesucristonꞌ,
+zpu	le bseꞌl akteꞌ Pablonꞌ lloaꞌ nisdaꞌore, naꞌ Silas
+zpu	ren Timoteonꞌ goꞌy akeꞌ Berea naꞌze.
+zpu	naꞌ bzoreneꞌ leakeꞌ, le lekze llakeꞌ lloneꞌ ka llin
+zpu	naꞌ llon akeꞌn, llia akeꞌ raꞌll llej da llchirj akeꞌ
+zpu	Naꞌ lleꞌne beꞌnnenꞌ nziꞌi Apolos chejeꞌ yell kaꞌ
+zpu	ganꞌ nziꞌi Acaya, naꞌ beꞌnn kaꞌ lldop ll-llay
+zpu	llonliraꞌll Jesucristonꞌ, bayoꞌraꞌll akeꞌ ka naken
+zpu	llwieꞌ chejeꞌn. Naꞌ bzoj akeꞌ to yich beꞌxeꞌ, nench
+zpu	wreb beꞌnn kaꞌ llaꞌa ganꞌ nziꞌi Acayanꞌ leꞌe. Ka
+zpu	bllineꞌ gannaꞌ, da xhen gokreneꞌ beꞌnn kaꞌ ba brej
+zpu	Xanllo Diosenꞌ nxenraꞌll Leꞌe.
+zpu	Naꞌ ka zejze llaslas xtiꞌll Xanllonꞌ, naꞌ
+zpu	llroeꞌtereꞌ yel wak keꞌen.
+zpu	Bal beꞌnn kaꞌ byejrén akeꞌ Pablonꞌ, to beꞌnn re
+zpu	Sópater beꞌnn Berea, naꞌ Aristarco, naꞌ ren ye to beꞌnn
+zpu	re Segundo llopteze beꞌnn Tesalónica, naꞌll beꞌnnenꞌ re
+zpu	Gayo, beꞌnn zaꞌa yellenꞌ nziꞌi Derbe, naꞌ Timoteo,
+zpu	naꞌ chop beꞌnn zaꞌk ganꞌ nziꞌi Asia, toeꞌ reꞌe
+zpu	Tíquico, naꞌ ye toeꞌ reꞌe Trófimo.
+zpu	’Naꞌ reꞌ beꞌnn biꞌchaꞌ, llonaꞌ reꞌ rallnaꞌa
+zpu	Dios, xtiꞌlleꞌn napkzen yel wak gakrenen reꞌ, nench sere
+zpu	war llinte lla gonneꞌ reꞌ danꞌ bchebeꞌ weꞌe yeolol
+zpu	beꞌnn kaꞌ brejeꞌ, nench wxenraꞌll akeꞌ leꞌe.
+zpu	—Rweꞌ nnézkzeroꞌ beꞌnn zan beꞌnn Israel kaꞌ, ba
+zpu	llejleꞌ ke Jesucristonꞌ, naꞌ yeolol akeꞌ ne akeꞌ
+zpu	llonen bien gonllo kanꞌ ne ley danꞌ bzoj da Moisésenꞌ.
+zpu	Bdaꞌa blleꞌnawaꞌ beꞌnn kaꞌ nao nez kobenꞌ,
+zpu	gokraꞌllaꞌ got akeꞌ, naꞌ beꞌx akseꞌ broꞌ akeꞌ
+zpu	rill ya ka beꞌnn byio ren noꞌre.
+zpu	Bixha to bi nak xhiꞌnn noꞌr zan Pablonꞌ, bénebeꞌ kanꞌ
+zpu	llwia akeꞌ gon akeꞌn, naꞌ byejbeꞌ ganꞌ llaꞌa
+zpu	wakaꞌa ya kaꞌ, naꞌ gollbeꞌ Pablonꞌ kaꞌ.
+zpu	Naꞌ bi lleꞌnetoꞌ gontoꞌ zan diꞌll chaꞌ de billre da
+zpu	gonoꞌ, llnnabtoꞌ gonoꞌ okré wzenayoꞌ ketoꞌ chollteze.
+zpu	Festonꞌ lleꞌe beꞌnn kaꞌ ka nak Pablonꞌ yoeꞌ rill ya
+zpu	Cesareanꞌ, naꞌ leꞌen le wayejteꞌ Cesareanꞌ,
+zpu	—Rey Agripa, naꞌ yeololre llaꞌllo txhen ganni, ni ze
+zpu	beꞌnnenꞌ, yeolol beꞌnn Israel kaꞌ llao akeꞌ xhia
+zpu	keꞌe, ka beꞌnn llaꞌa Jerusalén, naꞌll beꞌnn kaꞌ
+zpu	llaꞌa Cesarea, naꞌ llchieꞌ akreꞌ kwis, llnnab akeꞌ
+zpu	—Llaktontoꞌn, Pablo, danꞌ ba bsedoꞌ da xhen naꞌ, ba
+zpu	Kat bdetoꞌ koꞌllre yellrionꞌ lliꞌ lo nisdaꞌon re
+zpu	Clauda, gannaꞌ bi datek beꞌn res. Naꞌ barconꞌ nxhoben ye
+zpu	to da daꞌo da llon llin kat bi llakre barconꞌ, baleptoꞌ da
+zpu	Bixha beꞌnnenꞌ nlan leakeꞌn, bi beꞌe latj nench
+zpu	basreꞌe Pablonꞌ. Naꞌ golleꞌ beꞌnn kaꞌ llak llxhoa
+zpu	yeonꞌ, wakse xiꞌt akeꞌ lo nisdaꞌon, naꞌ yob walloj
+zpu	akeꞌ ganꞌ de yo bill naꞌ.
+zpu	—Da li kwis llakte kanꞌ bzejnieꞌ Spíritu ke Diosenꞌ
+zpu	Isaías beꞌnnenꞌ beꞌe xtiꞌll Diosenꞌ kanaꞌ, nench
+zpu	Naꞌ Diꞌll Wen ke Jesucristonꞌ llzejnieꞌn lliꞌo, chaꞌ
+zpu	beꞌnn llonliraꞌlle Jesucristonꞌ, Dios naꞌ goneꞌ
+zpu	leakeꞌ beꞌnn wen, billre bi de da gonllo gakllo beꞌnn wen
+zpu	raweꞌn. Kanꞌ nyoj xtiꞌll Diosenꞌ nen: “Beꞌnnenꞌ
+zpu	llonliraꞌll Diosenꞌ, nakeꞌ beꞌnn wen raweꞌ, naꞌ
+zpu	Nnezjekze lo raꞌlldaꞌo akeꞌn llayaꞌl gon akeꞌ ka
+zpu	danꞌ nllia leyenꞌ biaꞌa gon akeꞌ naꞌ, le llon akeꞌ
+zpu	raꞌt wejenꞌ. Naꞌllenꞌ nneze yichjraꞌlldaꞌo akeꞌn
+zpu	danꞌ llon akeꞌn, chaꞌ naken wen o chaꞌ naken da xhinnj.
+zpu	Naꞌ lliꞌo laꞌkze benllo ka to beꞌnn llwie Dios naꞌ, ba
+zpu	bazoeꞌ lliꞌo nbaraz, ni ke danꞌ bzane Xhiꞌnneꞌ
+zpu	Cristonꞌ goteꞌ ni ke lliꞌo. Naꞌ nnaꞌ ba bazorenlloeꞌ
+zpu	wen naꞌ, naꞌ llakbeꞌllo zokze Cristonꞌ wasreꞌe lliꞌo.
+zpu	Ba bzejnieꞌraꞌ reꞌ, biaꞌa diꞌll ke bi da llak ke
+zpu	lliꞌo beꞌnnach nench naꞌ chejnieꞌre. Naꞌllenꞌ
+zpu	llepaꞌ reꞌ, kanꞌ bzore bentezre da nak zdoꞌ ren
+zpu	xpeꞌr-re, naꞌ benre da xhinnj kwis, kaꞌn llayaꞌl gon
+zpu	kwinre nnaꞌ rao naꞌa Dios, naꞌ gonre da wen nench naꞌ
+zpu	chazraꞌll Diosenꞌ kanꞌ llonre naꞌ.
+zpu	Naꞌ nnaꞌ ba nakllo Xanllo Jesucristonꞌ txhen, billbi yel
+zpu	llzaꞌkziꞌ gaꞌt kello nnaꞌ, le ba llonllo txhen Spíritu
+zpu	ke Dios naꞌ, nench gonllo da wen, bill gonllo kanꞌ ne da
+zpu	xhinnjenꞌ danꞌ yoꞌ lo raꞌlldaꞌollo naꞌ.
+zpu	¿Akxha ka nnerizllo ke da ni? Naꞌ chaꞌ Leꞌe zereneꞌ
+zpu	lliꞌo, ni to notno soe lliꞌo.
+zpu	Naꞌ llepaꞌ rweꞌ, ¿noxha nakoꞌ naꞌn, llakyollrenoꞌ
+zpu	Diosenꞌ bi danꞌ lleꞌnreꞌ goneꞌ ren rweꞌ? Ka to
+zpu	yeꞌs de yo, kere wak yen beꞌnnenꞌ ben len naꞌ:
+zpu	“¿Bixchen benoꞌ nadaꞌ ki?”
+zpu	¿Akxha ne xtiꞌll Diosenꞌ? Da ninꞌ ne xtiꞌlleꞌn:
+zpu	“Xtiꞌll Diosenꞌ ba zorenkzen rweꞌ, naꞌ ba yoꞌkzen
+zpu	lloaꞌo, naꞌ lo raꞌlldaꞌo.” Naꞌ da ninꞌ xtiꞌll
+zpu	Diosenꞌ danꞌ wxenraꞌll-llonꞌ llyixjweꞌtoꞌn.
+zpu	nench lljabix akeꞌ, naꞌ saꞌkziꞌ akeꞌ.
+zpu	Le Dios naꞌn ba beneꞌ yeolol da de, beneꞌ da kaꞌ nench
+zpu	sieꞌ yel baraꞌnne. Ke len naꞌ llayaꞌl weꞌraollo
+zpu	Diosenꞌ ke chnare. Kaꞌn gakchga.
+zpu	Ley naꞌ nen: “Bi tarenre noꞌr bi nak noꞌr keré, naꞌ
+zpu	beꞌnn byio bi nak beꞌnn keré, naꞌ bi gakre beꞌnn wen
+zpu	xhia, bi kwanre, bi chirjlaꞌllre xtiꞌll beꞌnne, bi
+zpu	seraꞌllre bi da de ke beꞌnne.” Naꞌ biteze diꞌll yobre
+zpu	danꞌ nllia Diosenꞌ biaꞌa gonllo, llayaken toze, naꞌ nen:
+zpu	“Llieꞌroꞌ beꞌnn lwelljoꞌ kaꞌkzenꞌ nllieꞌ
+zpu	Chaꞌ zollo wen rao Diosenꞌ danꞌ llonliraꞌll-lloeꞌ,
+zpu	lliꞌoze ren Dios naꞌ nnézello. Nbarazenꞌ zollo chaꞌ
+zpu	nnézello to lo raꞌlldaꞌollonꞌ bibi doꞌl kello de.
+zpu	Naꞌ llonen kanꞌ ne xtiꞌll Diosenꞌ:
+zpu	Naꞌ kate yedop yellayre, lewnoꞌp naꞌa lwelljre kat wapre
+zpu	lliox, naꞌ wroeꞌn nllieꞌ lwelljre. Naꞌ beꞌnn kaꞌ
+zpu	lldop ll-llay llonliraꞌll akeꞌ Cristonꞌ yeololte yell
+zpu	ganꞌ ba byaꞌa naꞌ, llwap akeꞌ reꞌ lliox.
+zpu	Ni llak kanꞌ nyoj danꞌ ne Diosenꞌ:
+zpu	Katenꞌ lloeꞌrentoꞌ reꞌ xtiꞌll Cristonꞌ, kere
+zpu	lloeꞌtoꞌ diꞌll ke yel llejnieꞌ ketoꞌn, diꞌll da
+zpu	bzejnieꞌ Spíritu ke Dios naꞌn lloeꞌtoꞌ, naꞌ beꞌnn
+zpu	ba yoꞌ Spíritu ke Diosenꞌ lo raꞌlldaꞌweꞌ, llzejnieꞌ
+zpu	aketoeꞌ yeololte da kaꞌ llzejnieꞌ Spíritunꞌ netoꞌ.
+zpu	Naꞌ ka nak nadaꞌ bibi de da wlliayiꞌllre nadaꞌ; ni
+zpu	koxchis ke yellrio ni, bibi de da wlliayiꞌll akeꞌ nadaꞌ,
+zpu	naꞌ ni nadaꞌ kwinaꞌ bibi de wlliayiꞌll kwinaꞌ.
+zpu	Bi naken rallnaꞌllo wchoybiaꞌllo ke beꞌnn kaꞌ bi
+zpu	nxenraꞌll Cristonꞌ chaꞌ llon akeꞌ da wen o chaꞌ llon
+zpu	akeꞌ da xhinnj, zan lliꞌo lldop nxenraꞌll-llo Cristonꞌ
+zpu	llayaꞌlkze wchoybiaꞌllo ke beꞌnn lwelljllo chaꞌ nao
+zpu	aktezeꞌ llon akeꞌ da xhinnj.
+zpu	Zan chet kaꞌ bi gak sore tozre, wenre wchaynaꞌre chet kaꞌ,
+zpu	nench ke soteze so da xhinnjenꞌ nnebiaꞌn reꞌ.
+zpu	Naꞌ noteze noꞌr nchaynaꞌa, llayaꞌl soreneꞌ beꞌnn
+zpu	keꞌen, zan chaꞌ ba got beꞌnn keꞌen, wakse yezieꞌ
+zpu	beꞌnn yobre, kon beꞌnn nxenraꞌll Xanllo Cristo naꞌ.
+zpu	Zan nadaꞌ bi nna nnabraꞌ reꞌ gonnre da yalljraꞌ, naꞌ
+zpu	kere llzojaꞌ da ni ke len naꞌ. Wenjere gataꞌ ker ka da
+zpu	nnabraꞌ reꞌ gonnre danꞌ yalljraꞌ, le nadaꞌ llaweraꞌ
+zpu	kwis bibi gan llonaꞌ danꞌ llyixjweꞌraꞌ xtiꞌll
+zpu	Lewiá kanꞌ llon beꞌnn Israel kaꞌ, llot akeꞌ bayiꞌx
+zpu	kat lloeꞌrao akeꞌ Dios, naꞌ noteze beꞌnne llao akeꞌ
+zpu	xpeꞌrbaꞌn, llak akeꞌ txhen lloeꞌrao akeꞌ Diosenꞌ.
+zpu	Zan naken to baraꞌnn xhen naꞌ ke noꞌrenꞌ weꞌe latj
+zpu	wllia yichjeꞌn tonn, le Dios naꞌn noneꞌ yich yichjeꞌn to
+zpu	Zan toze Spíritu ke Dios naꞌkzenꞌ llakrenen yeolol-llo
+zpu	nench llonllo danꞌ lleꞌnen gon totollo.
+zpu	Naꞌ katenꞌ yed kwineꞌ naꞌ, kanaꞌ da raꞌtenꞌ
+zpu	nombiaꞌllo naꞌ, bill yálljellon.
+zpu	Naꞌ chaꞌ nolre weꞌe diꞌll danꞌ bi nsedre, do chopzre o
+zpu	chonnzre wak weꞌren, naꞌ twej twejre soraore, naꞌ yeyoll
+zpu	naꞌ lloj beꞌnne yezejnieꞌreꞌ akre zeje diꞌllenꞌ
+zpu	Le chaꞌ bi llasbaneꞌ beꞌnn ba got, leskaꞌ bi basbaneꞌ
+zpu	Naꞌ nnaꞌ llreꞌllo kere braꞌ da nell danꞌ benn yel nban
+zpu	kellonꞌ, beꞌr llen naꞌn gok da nell. Naꞌllenꞌ braꞌ
+zpu	danꞌ benn yel nban zejlikane kellonꞌ.
+zpu	Beꞌnn ki ba bayonxhenraꞌll akeꞌ nadaꞌ kanꞌ ba ben
+zpu	akseꞌ ke reꞌ kanaꞌ, ke len naꞌ llayaꞌl bi ganraꞌllre
+zpu	beꞌnn kaꞌ llon kanꞌ llon beꞌnn ki.
+zpu	Nnézkzere kere lleꞌnetoꞌ nnebiaꞌtoꞌ lo
+zpu	yichjraꞌlldaꞌore; llakrenztoꞌ reꞌn nench naꞌ sore
+zpu	nbaraz, naꞌ wxenraꞌllyaꞌnnre.
+zpu	Naꞌ netoꞌ bi llontoꞌ kanꞌ ben da Moisésenꞌ, bkwaꞌch
+zpu	raweꞌ kone to raꞌll bllall nench bi breꞌe beꞌnn Israel
+zpu	kaꞌ len, naꞌ chaoraꞌll bagaꞌa raꞌt weje danꞌ llaktit
+zpu	Naꞌ laꞌkze bi nna reꞌllo da kaꞌ gonneꞌ kello naꞌ,
+zpu	Llaꞌtyoeraꞌ reꞌ ka llon to beꞌnne llaꞌtyoereꞌ
+zpu	xhiꞌnneꞌ, lewroeꞌ artk nllieꞌre nadaꞌ kanꞌ ba
+zpu	broeꞌraꞌ nadaꞌ nllieꞌraꞌ reꞌ.
+zpu	Laꞌkze gok yel yaꞌch yel ziꞌ kwis ke akeꞌ, Diosenꞌ
+zpu	beneꞌ ka bniꞌt akeꞌ nbaraz lo raꞌlldaꞌo akeꞌ, naꞌ
+zpu	bawé akreꞌ kwis btop akeꞌ mell xhen nench gokrén akeꞌ
+zpu	Diosenꞌ napeꞌ yel wak, naꞌ llakreneꞌ lliꞌo biteze da
+zpu	yálljello. Naꞌ lloneꞌ llaꞌt yeolol da yálljello batteze,
+zpu	nench gak weꞌllo da yallje beꞌnne, naꞌ gonllo billre da
+zpu	Llak nxhollraꞌ siyeꞌe beꞌnne reꞌ, naꞌ bill
+zpu	gonliraꞌllre Cristonꞌ do raꞌllre, naꞌ bill llieꞌre
+zpu	toze Leꞌe. Kaꞌn ben bel banꞌ nak ba xiꞌo, bxhiyeꞌbaꞌ
+zpu	Naꞌ ye to da gok kiaꞌ, kanꞌ bzoaꞌ yell ganꞌ re
+zpu	Damasco, beꞌnnenꞌ gokrén beꞌnn wnebiaꞌn nziꞌi Aretas,
+zpu	bzoeꞌ beꞌnn ak bdap akeꞌ ganꞌ llde beꞌnn kaꞌ ganꞌ
+zpu	zo zeꞌe danꞌ nechj yell naꞌ, nench goꞌx akeꞌ nadaꞌ
+zpu	Bitbi gak nnello ke da linꞌ, lete da llayaꞌl gonllo serenllo
+zpu	Naꞌ ben akeꞌ Diosenꞌ xhen, ka ben akreꞌ kanꞌ llonaꞌn.
+zpu	Naꞌ kaꞌn llon Diosenꞌ wen ke beꞌnne llonliraꞌll Leꞌe
+zpu	nnaꞌ, kanꞌ beneꞌ wen ke da Abraham beꞌnnenꞌ
+zpu	Ba llayonre xhen no lla nbaꞌnn kaꞌ, no beꞌo, no bi da
+zpu	Naꞌ lliꞌo danꞌ llonliraꞌll-llo Jesucristonꞌ, zokze
+zpu	Spíritu ke Diosenꞌ lo yichjraꞌlldaꞌollonꞌ, naꞌ llpen
+zpu	lliꞌo zello bexhllo, nneꞌe Diosenꞌ nakllo beꞌnn wen
+zpu	Naꞌ bi llayaꞌl wedllo gonllo da wen naꞌ, le wllin lla kate
+zpu	Diosenꞌ wzoeꞌ lliꞌo nbaraz kwis, kon chaꞌ bi kwej
+zpu	yichjllo gonllo danꞌ llazraꞌlleꞌ naꞌ.
+zpu	Naꞌ Cristonꞌ llnebiaꞌlleꞌ nnaꞌ rao yeolol angl, naꞌ
+zpu	rao yeolol beꞌnnach, naꞌ rao yeolol daxiꞌo, naꞌ rao
+zpu	yeolol biteze da llonliraꞌll beꞌnne, naꞌ noteze wnebiaꞌ.
+zpu	Naꞌ leskaꞌ llnebieꞌ da za zaꞌa.
+zpu	Danꞌ bzejnieꞌn lliꞌo, llroeꞌn beꞌnn kaꞌ bi nak
+zpu	beꞌnn Israel ren beꞌnn kaꞌ nak beꞌnn Israel, siꞌi
+zpu	akeꞌ danꞌ bcheb Diosenꞌ gonneꞌ ke lliꞌo nakllo
+zpu	rallneꞌe, ni ke danꞌ llejleꞌllo ke Diꞌll Wen ke Xanllo
+zpu	Jesucristonꞌ, naꞌ nakllo ka toz beꞌnne, naꞌ to chiꞌze
+zpu	llakrén Diosenꞌ lliꞌo kanꞌ ba bnekzeꞌ goneꞌ.
+zpu	Lleꞌnreꞌ yeolol-llo gakllo toze gonliraꞌll-llo
+zpu	Xhiꞌnneꞌn do yichj do raꞌll-llo, naꞌ gombiaꞌlloeꞌ
+zpu	kwasro. Naꞌ gakyaꞌnnllo kanꞌ llayaꞌl gakllo beꞌnn wen,
+zpu	Naꞌ bi llayaꞌl gonllo txhen ka da kaꞌ llon beꞌnn kaꞌ
+zpu	nchole yichjraꞌlldaꞌo, llon akeꞌ da xhinnj da bibi
+zpu	zaꞌke. Naꞌ llayaꞌl wroeꞌ akelloeꞌ da xhinnjenꞌ llon
+zpu	Lewzenay do yichj do raꞌllre, kere chak llwia akeꞌ reꞌ
+zpu	naꞌzenꞌ, gonre wen nench yeyazraꞌll akeꞌ kanꞌ
+zpu	llonrenꞌ, le naksre beꞌnn wen llin ke Cristo naꞌ, naꞌ
+zpu	kaꞌn yeyazraꞌll Diosenꞌ gonllo.
+zpu	Beꞌnn biꞌche, lleꞌnraꞌ nnézere yeolol danꞌ ba gok
+zpu	kiaꞌn, ba gokrenen nench beꞌnn zanll bzenay akeꞌ Diꞌll
+zpu	Naꞌ yeolol akeꞌ nne akeꞌ Jesucristonꞌ nakeꞌ Xanllo,
+zpu	gak kaꞌ nench Xallo Diosenꞌ sieꞌ yel baraꞌnne.
+zpu	Naꞌ zoaꞌ llbexhaꞌ yesbaneꞌ nadaꞌ radj beꞌnn wat
+zpu	Naꞌll weꞌraollo Xallo Diosenꞌ, le Leꞌen llayaꞌl siꞌi
+zpu	yel baraꞌnnenꞌ ke chnare. Kaꞌn gakchga.
+zpu	Diosenꞌ lleꞌnreꞌ nnézello lloneꞌ wen ke noteze beꞌnn,
+zpu	laꞌkze bi nak akeꞌ beꞌnn Israel. Le ba broeꞌreꞌ
+zpu	lliꞌo danꞌ gok ka to danꞌ ngaꞌchenꞌ, le Cristo naꞌ
+zpu	gokeꞌ ka danꞌ bgaꞌche, naꞌ nnaꞌ ba zereneꞌ lliꞌo,
+zpu	naꞌllenꞌ zollo rez yellinllo ganꞌ llieꞌ naꞌ, ganꞌ
+zpu	Ke len naꞌ llayaꞌl kwej yichjllo da xhinnj danꞌ nen gonllo
+zpu	ren kwerp kellonꞌ, ka da kaꞌ zjadé rao yellrio ni, danꞌ
+zpu	ne: bi wzoallo xtollo, bi gonllo billre da nake yel zdoꞌ ren
+zpu	kwerp kellonꞌ, naꞌ bi yewello bi da nak yel zdoꞌ. Bi
+zpu	seraꞌll-llo gonllo biteze da xhinnj, naꞌ bi seraꞌll-llo da
+zpu	zan da gaꞌt kello, le da ni leskaꞌ naken ka llon to beꞌnn
+zpu	llonliraꞌll lwaꞌa lsaꞌke ren yej wzan ake.
+zpu	Aristarconꞌ yoꞌreneꞌ nadaꞌ txhen rill yanꞌ ganni,
+zpu	llwapeꞌ reꞌ lliox. Leskaꞌ Marcos beꞌnnenꞌ nake biꞌch
+zpu	lwellj Bernabé llwapeꞌ reꞌ lliox. Naꞌ ba bnekzaꞌ kanꞌ
+zpu	llayaꞌl gónere Marcosenꞌ wen katenꞌ yedeꞌ ganꞌ sore
+zpu	Naꞌ golltoꞌ reꞌ gonre da wen kanꞌ llayaꞌl gon lliꞌo
+zpu	nakllo rao naꞌa Diosenꞌ, le ba brejeꞌ lliꞌo nench
+zpu	nnebiaꞌrenlloeꞌ, naꞌ nench goneꞌ gak wen kwis kello
+zpu	katenꞌ lljazorenlloeꞌ ganꞌ llieꞌ naꞌ.
+zpu	Bi llonen bien wzojaꞌ reꞌ, kanꞌ llayaꞌle llieꞌ lwellj
+zpu	lliꞌo beꞌnnach gonliraꞌll-llo Jesucristonꞌ. Dios naꞌn
+zpu	ba bzejnieꞌreꞌ reꞌ nench llieꞌ lwelljre.
+zpu	Naꞌ lewiayaꞌnn ke diꞌllenꞌ lloeꞌ akeꞌn, naꞌ sore
+zpu	wzenayre da kaꞌ nak da wen.
+zpu	Naꞌllenꞌ weꞌe Diosenꞌ latj siyeꞌn leakeꞌ, nench
+zpu	naꞌ weꞌrao akeꞌ diꞌll wenraꞌlle.
+zpu	Bal beꞌnn kaꞌ ba brej yichj akeꞌ diꞌll li naꞌ, naꞌ
+zpu	lloeꞌ akeꞌ diꞌll da bibi zaꞌke.
+zpu	De to diꞌll li da ne: Beꞌnn lleꞌne wia wyi yezikre beꞌnn
+zpu	nxenraꞌll Dios, da wenkzenꞌ llwieꞌ goneꞌ.
+zpu	Naꞌ diꞌll li naken da ni, zaꞌken chejleꞌllon, naꞌ
+zpu	zaꞌken wzenayllon do yichj do raꞌll-llo.
+zpu	Naꞌ danꞌ llak leꞌo, bi yeꞌjoꞌ toze nis, weꞌj raꞌt
+zpu	Ke len naꞌ llasnisraꞌ rweꞌ da yobre, naꞌ basaꞌraꞌll
+zpu	gonoꞌ danꞌ broꞌ Diosenꞌ lo naꞌo gonoꞌ, kanꞌ bxoa
+zpu	Ben ga zerao saꞌkroꞌ, nench yewé Diosenꞌ kanꞌ llonoꞌ
+zpu	naꞌ, ka llon to beꞌnn wen llin, bibi de sieꞌ yel zdoꞌ
+zpu	chaꞌ lloneꞌ da lixheje. Kaꞌ gonoꞌ rweꞌ, wroeꞌ
+zpu	wsedroꞌ xtiꞌlleꞌn lixheje.
+zpu	Xanllo Jesucristonꞌ yedeꞌ da yobre nench yedyeneꞌ yel
+zpu	koxchis ke yeolol beꞌnnach, ke beꞌnn ban, rente ke beꞌnn
+zpu	ba got. Kat yedeꞌ naꞌ, naꞌ sorao nnebieꞌ. Ke len naꞌ
+zpu	llasnisraꞌ rweꞌ rao Xanllo Jesucristonꞌ, naꞌ rao Dios
+zpu	Llayaꞌl gakeꞌ beꞌnn ze do raꞌlleꞌ, llzenayeꞌ diꞌll
+zpu	li ke Dios danꞌ bzejnieꞌreꞌn, nench naꞌ wzejnieꞌreꞌ
+zpu	beꞌnn yobre Diꞌll Wen naꞌ, naꞌ wtipraꞌlleꞌ leakeꞌ
+zpu	nench nniꞌt akeꞌ chejleꞌ akeꞌ danꞌ nak da li, naꞌ
+zpu	gak wroeꞌ akreꞌ beꞌnn kaꞌ nne chach ke diꞌll li ke
+zpu	Diosenꞌ, nench naꞌ nnez akreꞌ krerenꞌ llon akeꞌ.
+zpu	Da ki ba bniaꞌ ni, naken da li, naꞌ gonoꞌ bien wzenay
+zpu	beꞌnn kaꞌ, wzejnieꞌroꞌn len naꞌ. Le beꞌnn kaꞌ ba
+zpu	llonliraꞌll Dios, llayaꞌl kwek yichj akeꞌ gon akeꞌ da
+zpu	wen. Naꞌ da ki ba bniaꞌn naken da wen, naꞌ gakrenen noteze
+zpu	Epafras yoꞌreneꞌ nadaꞌ txhen rill ya ni, danꞌ
+zpu	llyixjweꞌreꞌ xtiꞌll Xanllo Jesucristonꞌ, llwapeꞌ
+zpu	Zan ka nak rweꞌ, toze ka naksoꞌ ke chnare, kbat llin lla te
+zpu	Ke len naꞌ benen bien gokeꞌ doxhen kanꞌ nak lliꞌo
+zpu	beꞌnnach, nench gokeꞌ bxoz brao kello rao Dios, naꞌ
+zpu	bayaꞌchraꞌlleꞌ lliꞌo. Bzane kwineꞌ ballayraweꞌ, ni
+zpu	ke da xhinnj kellonꞌ, nench naꞌ waziꞌxhen Diosenꞌ kello.
+zpu	Lliꞌo ba bénello Diꞌll Wen naꞌ, nench gak yerallo rao da
+zpu	xhinnjenꞌ, ka diꞌll danꞌ bene da xozxtaꞌollo kaꞌ
+zpu	kanaꞌ, naꞌ diꞌll danꞌ ben akreꞌn, bibi de benen ke
+zpu	akeꞌ le bi byejleꞌ akeꞌ keꞌe.
+zpu	Rweꞌ nakoꞌ bxoz ke chnare,
+zpu	Melquisedec naꞌ gokeꞌ beꞌnn wnebiaꞌ, naꞌ bnebieꞌ
+zpu	ganꞌ nziꞌi Salem, naꞌ Dios beꞌnnenꞌ nake zeraoze
+zpu	beꞌnn brao, brejeꞌ leꞌe gokeꞌ bxoz. Naꞌ Abraham naꞌ
+zpu	zazeꞌe rao wdile ganꞌ jeneꞌ gan gaꞌy beꞌnn wnebiaꞌ,
+zpu	naꞌ Melquisedekenꞌ jatileꞌ leꞌe, naꞌ benlaꞌyeꞌ
+zpu	Jesúsenꞌ nakeꞌ beꞌnn yálljello, gak bxoz brao kello
+zpu	nench gakreneꞌ lliꞌo, le nakeꞌ beꞌnn raꞌlldaꞌo yall.
+zpu	Bibi da xhinnj noneꞌ, naꞌ bibi doꞌl napeꞌ. Nllaꞌre
+zpu	nakeꞌ ka beꞌnnach beꞌnn llon da xhinnj. Jesúsenꞌ ba
+zpu	bayepeꞌ llieꞌ ganꞌ llia Dios naꞌ.
+zpu	Ben akeꞌ yodaꞌon, naꞌ brej akeꞌn chop kwenre, naꞌ to
+zpu	kwenen goken ganꞌ lloꞌ bxoz kaꞌ, naꞌ gannaꞌ bzoa
+zpu	akeꞌ to kandler, naꞌ to mes ga bkwaꞌa akeꞌ yet xtir da
+zpu	nak ke Dios. Naꞌ bsiꞌi akeꞌn Latj Laꞌye.
+zpu	Le xchen no bell daꞌo, naꞌ chiv daꞌo kaꞌ, bi gak
+zpu	yekaꞌn da xhinnj ke beꞌnnach.
+zpu	Kanaꞌ basoꞌt da xozxtaꞌollo kaꞌ noteze beꞌnne bi
+zpu	bzenay ke ley danꞌ bzoj da Moisésenꞌ, bi bayaꞌchraꞌll
+zpu	akeꞌ leakeꞌ, kon chaꞌ bniꞌt chop chonn beꞌnne, toz ka
+zpu	bne akeꞌ ke da xhinnjenꞌ noneꞌ naꞌ.
+zpu	Naꞌ Abraham naꞌ bxenraꞌlleꞌ Diosenꞌ, naꞌ bzoeꞌ
+zpu	diꞌll kanꞌ goll Diosenꞌ leꞌe, le Dios naꞌn bwieꞌ
+zpu	chaꞌ goneꞌ kanꞌ golleꞌ leꞌe, llayaꞌl got
+zpu	xhiꞌnneꞌ Isaakenꞌ raweꞌ naꞌ, nench gonxheneꞌ Leꞌe.
+zpu	Naꞌ ba zeteꞌ goteꞌ xhiꞌnneꞌn laꞌkze bnnezreꞌ goll
+zpu	naꞌ bi gakroꞌ kat dileꞌ rweꞌ.
+zpu	Bi seraꞌll-llo, llayaꞌl sollo yewello bi da daꞌo de kello,
+zpu	le Diosenꞌ ba bneꞌe: “Bi ganraꞌllaꞌ reꞌ, naꞌ bi
+zpu	Beꞌnn llon kaꞌ bi nnezreꞌ bi xhbabenꞌ lloneꞌ, bi
+zpu	llakbeꞌe yichjraꞌlldaꞌweꞌn binꞌ lleꞌnreꞌ.
+zpu	Dios naꞌkzenꞌ bneꞌe: “Bi tarenre noꞌr bi nak noꞌr
+zpu	keré, naꞌ beꞌnn byio bi nak beꞌnn keré”, leskaꞌ
+zpu	bneꞌe: “Bi gotre beꞌnne”. Naꞌ laꞌkze chaꞌ bi
+zpu	darenllo noꞌr yobre, o beꞌnn byio bi nak beꞌnn kello,
+zpu	chaꞌ ba nakllo beꞌnn wen xhia, naksen xhia kello rao ley
+zpu	Bi napre yel siꞌn da zaꞌa yebá, le xhbab keré naꞌ zaꞌn
+zpu	ke daxiꞌon, naꞌ nna llonre da xhinnj kon kanꞌ ne
+zpu	raꞌlldaꞌore naꞌ, kanꞌ llon beꞌnn kaꞌ bi nombiaꞌ
+zpu	Lewayón xhbab ke beꞌnn kaꞌ beꞌe xtiꞌll Xanllo Diosenꞌ
+zpu	kanaꞌ. Bitez bi da bsaꞌkziꞌ beꞌnne leakeꞌ, naꞌ
+zpu	Za xe yellrio naꞌtenꞌ brej Diosenꞌ Cristonꞌ, naꞌ
+zpu	bseꞌleꞌ Leꞌe ganni nnaꞌ ba rez yeyoll yellrionꞌ, nench
+zpu	Diosenꞌ lleꞌnreꞌ gonllo da wen nench naꞌ beꞌnn kaꞌ
+zpu	bi llejnieꞌ, beꞌnn nchol yichjraꞌlldaꞌo akeꞌ, bi llel
+zpu	akreꞌ diꞌll da nne akeꞌ kello.
+zpu	Zan llayaꞌl wxenraꞌll-llo Cristonꞌ lo raꞌlldaꞌollo, le
+zpu	nakeꞌ Xanllo. Naꞌ batteze llayaꞌl sollo kwexhllo nench
+zpu	yelliꞌllo xtiꞌll beꞌnne chaꞌ nnabreꞌ lliꞌo, bixchen
+zpu	zollo rez yellinllo ganꞌ llia Diosenꞌ ke chnare. Naꞌ
+zpu	llayaꞌl gap aklloeꞌ baraꞌnne, weꞌrén aklloeꞌ diꞌll
+zpu	Xanllo Jesucristonꞌ nakeꞌ ka xan yeololte gop xhiꞌre.
+zpu	Naꞌ kate yedeꞌ da yobre, kanaꞌ wzoeꞌ reꞌ nbaraz kwis
+zpu	chaꞌ benre xchin Diosenꞌ do raꞌllre, naꞌ kere da yeyoll
+zpu	yedó ka danꞌ gonneꞌ reꞌn.
+zpu	Breꞌtoeꞌ kanꞌ beꞌe Xallo Diosenꞌ Leꞌe yel baraꞌnn
+zpu	xhen naꞌ, naꞌ kanꞌ bzechj Dios beꞌnnenꞌ zaꞌk xen
+zpu	naꞌ Leꞌe to beniꞌ xhen, naꞌ bneꞌe: “Beꞌnn ninꞌ
+zpu	xhiꞌnnaꞌ nllieꞌraꞌ llawereꞌ, naꞌ
+zpu	llazaꞌkraꞌllaꞌ kanꞌ nakeꞌn.”
+zpu	Naꞌ wtitj akreꞌ da nak ke Diosenꞌ nne akeꞌ:
+zpu	“¿Batxhanꞌ gak kanꞌ bne Diosenꞌ danꞌ yed Cristonꞌ
+zpu	da yobre? Ba got xozxtaꞌollo kaꞌ, naꞌ toz ka nna llakse
+zpu	Naꞌ noteze lliꞌo chaꞌ nello nakllo txhen Diosenꞌ,
+zpu	llayaꞌl sollo gonllo ka da wen naꞌ ben Jesucristo naꞌ.
+zpu	Naꞌ chaꞌ lliꞌo llzoatezllo xtiꞌlleꞌn, bibi da xhinnj
+zpu	llonllo, zan chaꞌ lliꞌo zokzllo llonllo da xhinnjenꞌ, bi
+zpu	llejleꞌllo keꞌe, bi nna gombiaꞌlloeꞌn chaꞌ kaꞌ
+zpu	Ni to beꞌnne bi nna reꞌreꞌ Diosenꞌ. Zan chaꞌ lliꞌo
+zpu	nniꞌtllo llieꞌ lwelljllo, nakbieꞌ zorenkze Diosenꞌ
+zpu	lliꞌo, naꞌ nllieꞌlloeꞌ kanꞌ llayaꞌl llieꞌlloeꞌ
+zpu	Xhiꞌnnaꞌ daꞌo ak, lewiá ke wxenraꞌllrizre lwaꞌa
+zpu	Llnnabaꞌ rao Xallo Diosenꞌ wayaꞌchraꞌlleꞌ reꞌ, naꞌ
+zpu	wzoeꞌ yichjraꞌlldaꞌorenꞌ so kwezre nbaraz, naꞌ
+zpu	Nna wiákere kat yedeꞌ lo bej naꞌ, yeolol beꞌnne reꞌe
+zpu	akreꞌ Leꞌe, rente beꞌnn kaꞌ basoꞌt Leꞌe. Naꞌ
+zpu	beꞌnn zjallaꞌa toto latj yellrio ni, ka reꞌe akreꞌ
+zpu	Leꞌen, naꞌll yesbell akeꞌ. Kanꞌ ba bniaꞌ naꞌn gak.
+zpu	Leskaꞌ niꞌt balre naore danꞌ llwieraꞌ nadaꞌ, danꞌ
+zpu	llroeꞌ llsede beꞌnn kaꞌ nziꞌi nicolaítas.
+zpu	Naꞌ ni ke danꞌ nakre ka to da baꞌl, naꞌ bi nakre ka to
+zpu	da zay, naꞌ ni ke nakzre ka to da la, waxhejaꞌ reꞌ kaꞌle.
+zpu	Naꞌ ni to nono llraꞌ wchache yich kaꞌ, ni yebá, ni
+zpu	yellrio ni, ni ganꞌ llaꞌa beꞌnn wat kaꞌ, ni to nono
+zpu	bllelkze wcheꞌzeꞌn, naꞌ wia akeꞌn akre naken.
+zpu	Ka nak sey gall kaꞌ, breꞌraꞌ beꞌnnenꞌ nak ka xhiꞌr
+zpu	daꞌon bxhoxhjeꞌ sey nellenꞌ, naꞌ beꞌnn tap kaꞌ
+zpu	zjallia xirenꞌ, toeꞌ bnneꞌe zillj kwis kaꞌkze ga llachj
+zpu	Chllinn mire (12,000) zaꞌk rao dialla ke da Judá,
+zpu	Ke len naꞌ niꞌt akeꞌ rao Diosenꞌ ganꞌ llieꞌ
+zpu	llnebieꞌn, llon akeꞌ Leꞌe xhen do lla do yere. Naꞌ Dios
+zpu	beꞌnnenꞌ llia llnebiaꞌn, zoeꞌ llapeꞌ leakeꞌ.
+zpu	Naꞌll balwilleꞌ angl wxhopenꞌ noꞌx trompetenꞌ, lleꞌe
+zpu	Naꞌ chaꞌ no lleꞌne bi gonre leakeꞌ, le llojte yiꞌ lo
+zpu	lloaꞌ akeꞌ, naꞌ wzeyen beꞌnn kaꞌ lleꞌne bi gone
+zpu	Breꞌdaꞌoraꞌ to da yebánello leꞌ yebánꞌ, breꞌraꞌ
+zpu	to noꞌre nechjeꞌ willenꞌ, naꞌ naken ka xheꞌe. Naꞌ
+zpu	nrejeꞌ lo beꞌon, naꞌ nzoeꞌ to corona da llia chllinn
+zpu	Naꞌ bell xiꞌo nellenꞌ benbaꞌ nench nnebiaꞌ bell xiꞌo
+zpu	wllopenꞌ ka lebaꞌ, naꞌ bell xiꞌo wllopenꞌ benbaꞌ
+zpu	nench yeolol beꞌnn llaꞌa yellrio, wxenraꞌll akeꞌ bell
+zpu	xiꞌo nellenꞌ banꞌ bayak weꞌe kebaꞌ danꞌ nak zi
+zpu	Naꞌll blloj ye to angl loe ganꞌ lloeꞌrao akeꞌ Diosenꞌ
+zpu	yebánꞌ, naꞌ leskaꞌ noꞌxeꞌ ye to da látit rawe.
+zpu	—Xa Dios, rweꞌn napoꞌ le zerawe yel wak xhen, llonoꞌ
+zpu	danꞌ llayaꞌl gonoꞌ, naꞌ llonoꞌ da zej lixheje kat bi
+zpu	da llchoybiaꞌo ke beꞌnne.
+zpu	’Naꞌ chi lozbaꞌ kaꞌ breꞌroꞌn, zejen chi beꞌnn
+zpu	wnebiaꞌ kaꞌ beꞌnn za zaꞌke nench nnebiaꞌ akeꞌ. Naꞌ
+zpu	nnebiaꞌrén akeꞌ bellenꞌ txhen chollze.
+zpu	Naꞌ yeololte xan barco kaꞌ, naꞌ yeololte beꞌnn lljak lo
+zpu	barco, ren beꞌnn llon ak llin lo barco, naꞌ nollre beꞌnn
+zpu	llon ak llin lo nisdaꞌon, yeololeꞌ se akeꞌ ziꞌtre.
+zpu	Nbaraz nniꞌt beꞌnn kaꞌ basbaneꞌ radj beꞌnn wat kaꞌ
+zpu	da nelle, beꞌnn kaꞌ ba brej Diosenꞌ nak beꞌnn keꞌe. Bi
+zpu	gak ke akeꞌ kanꞌ gak ke beꞌnn kaꞌ yellayrao akeꞌ ke
+zpu	chnare bi da xhinnj ba ben akeꞌ, da naꞌn nello yel got
+zpu	wllope. Len naꞌ niꞌt akeꞌ nxenraꞌll akeꞌ Dios, naꞌ
+zpu	nxenraꞌll akeꞌ Cristo naꞌ, naꞌllenꞌ gak akeꞌ bxoz,
+zpu	naꞌ nnebiaꞌrén akeꞌ Cristonꞌ to mir iz.
+zpu	Naꞌ angl beꞌnnenꞌ beꞌrén nadaꞌ diꞌll naꞌ,
+zpu	noꞌxeꞌ to ya da nak de ya chaꞌo danꞌ nziꞌi oro da
+zpu	gonreneꞌ llin wllixeꞌ yell naꞌ, ren zeꞌe naꞌ, naꞌ
+zpu	lloaꞌ ganꞌ nak zi choꞌllo.
+zpu	—Yeolol diꞌll ki ba benroꞌn naken da li, gak kon kanꞌ ba
+zpu	bnetoꞌ naꞌ. Xanllo Dios naꞌ llsenieꞌ lo
+zpu	yichjraꞌlldaꞌo beꞌnne lloeꞌ ak xtiꞌlleꞌn, naꞌ
+zpu	llzejnieꞌreꞌ leakeꞌ akrenꞌ nne akeꞌ, Leꞌen
+zpu	bseꞌleꞌ nadaꞌ zadzejnieꞌraꞌ beꞌnn llon xchin Dios,
+zpu	nench wroeꞌ akreꞌ da kaꞌ ba zaꞌa aken.

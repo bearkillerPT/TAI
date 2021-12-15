@@ -1,0 +1,952 @@
+ssd	Tugu mbolŋge Kuate nu samba kilke kile-mayokkina.
+ssd	Ait 7-nu mbolŋge Kuate nu piro ŋakmba ke likina ta piroke
+ssd	Nale nyinaik sulumba wamdus pulunikina le nale wagek minnaik ta
+ssd	katesemba kila pilnaik sulumba kikonikina le fik waŋenu kilmba
+ssd	Taŋakina le Kain ndek lafumba Suŋgo sana: Ta tuku lafunu ye pa
+ssd	Kuate tuku kuasmbi nane pino kame ndoŋ minnaig sulumba taŋgo
+ssd	sugo saŋgriknu kile-patikinaig. Ait ta mbolŋge ŋgumneŋga
+ssd	mata taŋgo sugo saŋgri ŋak ta kilke te mbolŋge mine
+ssd	likinaig. Nane saŋgri sugo nyu ŋak minnaig.
+ssd	Ki ait ndui ta mbolŋge Noa nuŋe piyo nuŋe kiŋo kat nuŋe Sem
+ssd	Ham Yafet nuŋe rugan kat nuŋe keŋmba ndoŋ nane waŋ
+ssd	Ibeŋ kinaig le Noa nu Suŋgo tuku idusmba ndame afu kilmba
+ssd	atraukam tuku pa laŋlaŋ wakeina. Wakeina sulumba sar umaŋ
+ssd	agaŋmor nyam tuku ndui ndui kilmba bale farmba pa laŋlaŋ ta
+ssd	mbolŋge patika Suŋgo atraukam tuku pasokina le ugmba
+ssd	Kule suŋgo ta kugana le Noa nu maŋ lato yar 350 minna.
+ssd	Nane ki prote kumamŋge kine promba minnaig. Taŋamba minnaig ma
+ssd	ma mara ande nane kinaig ka Babilonia tuku ma gutoŋ ande mbol
+ssd	pronaig sulumba nane taŋge tumbraŋ ulnaig.
+ssd	Yeŋge ki le ne tuku ndare tugeka taŋgo kuasmbi suŋgokanu
+ssd	mayok kaŋgat. Yeŋge ne nyaro tini le ne taŋgo suŋgo nyu ŋak
+ssd	minamŋgat. Taŋawa le nane ŋgumneŋga ne tuku saka nane afu
+ssd	Abram nu Kanan kilke mbolŋge minna le Lot nu Yordan ma gutoŋ
+ssd	ta kumba ka taŋge minyokina sulumba nuŋe baibai Sodom tumbraŋ
+ssd	patumba patike likina sulumba nu taŋge minna.
+ssd	Ne ŋgumneŋga sakikat: Yeŋge Abram agaŋ ndende suŋgomba
+ssd	tuwen le kile nu agaŋ ndende suŋgomba ŋak minit ŋga sakikat
+ssd	tukunu ye ne tuku agaŋ inum te nda. Muli foŋfoŋ afu ko kupe
+ssd	ŋgaro tuku muli ande mata ye te nda.
+ssd	Yeŋge ki le ne tuku ndare tugeka kuasmbi suŋgokanu mayok
+ssd	kaŋgat. Burnu kumuŋ kuga ŋgina.
+ssd	Kile Abraham nu Kuate tuku miŋge dubimba ki ait ndui ta
+ssd	mbolŋge kiŋo nuŋe Ismael tuku ŋgaro pikna sulumba nu tuku
+ssd	wande tuma mbal nu taŋgo ndametiŋmbi piyamba kile-likinaig ta
+ssd	ŋakmba tuku ŋgaro pike likina.
+ssd	Suŋgo nu lafumba sana: Ye Sodom taŋgo tiŋreknu burka ka 50 ta
+ssd	ye nanenu ŋga ŋakmba mapenuŋgit ŋgina.
+ssd	Lot nu tumbraŋ ta fudiŋndo ŋgina tukunu nane tumbraŋ ta
+ssd	Abraham nu taŋamba Abimelek sana le
+ssd	Taŋanaik sulumba Abraham nu sipsip fat 7 kilmba yamokŋge
+ssd	Sara nu yar 127 ŋak minna sulumba
+ssd	Ki butuŋgina le furiram pino kame nane kule kunyam prowam
+ssd	Ye kite kule burok tugum nziŋge prowit sulumba teŋenmba
+ssd	yabaŋit: O Suŋgo, yiŋe gabat Abraham tuku Mbara, ye ilit ta
+ssd	tuku agaŋ alonu te-mayokmba tumya le kaŋgeri.
+ssd	Midian nu kiŋo 5 kile-patikina. Nane tuku nyu ta teŋenmba.
+ssd	Efa, Efer, Hanok, Abida, Elda. Kiŋo kame ta ŋakmba Ketura tuku
+ssd	Taŋana le Suŋgo nu Isak tugum promba sana: Ne Isip kilke mbol
+ssd	ndakaye. Ne ye tuku miŋge dubimba kilke te mbolŋge ndo mina le
+ssd	nu kule burok ta nyun ta Seba  ŋgina. Ta tuku tumbraŋ ta kile
+ssd	Kuateŋge sakuwa le mbai ŋgislu ne tuku piro mbolŋge minwa le
+ssd	nyamagaŋ suŋgomba prowamŋgaig. Nu wit, grep suŋgomba ne
+ssd	Taŋana le Suŋgo nu nu tugum taŋge mayok ka ndek sana: Ye wa
+ssd	naŋe Abraham mam naŋe Isak tuku Mbara Suŋgo. Ne kinymba minit
+ssd	kilke te ta ye ne naŋe mbuŋ kat naŋe ndoŋ sertiŋgamŋgit.
+ssd	Ait ta kumuŋgina le Yakob nu ŋga nuŋe sana: Ne ait sakina ta
+ssd	kile kumuŋgat. Ye kile kulim naŋe tamŋgit ŋgina.
+ssd	Furiram bafuna le Yakob nu piro mbolŋge prona le Lea nu tugum
+ssd	kumba sana: Furir te ne ye ndoŋ kinyamkik. Ye yiŋe kiŋo tuku
+ssd	ŋgirman agaŋ tambi ye ne piyanit ŋgina. Ta tuku Yakob nu
+ssd	furir ta mbolŋge Lea ndoŋ kinynaik le
+ssd	Taŋana le Suŋgo nu ndek Yakob sana: Ne luka wa mbuŋ tuku
+ssd	kilke mbol naŋe ndare kame sota kaye le ye ne ndoŋ minamŋgit
+ssd	Rahel nu mbara kanunu ta kilmba baibai sinamŋge kamel tuku
+ssd	kumiŋ saŋgil mbolŋge depolka kusam tuku pale ta sinamŋge
+ssd	sigrikina sulumba nu ta mbolŋge minyokina. Taŋge minyokina le
+ssd	mam nuŋe pro baibai sinamŋge mambilna ta agaŋ inum kaŋger
+ssd	O Suŋgo, ye kile ne yabaŋnet. Aba Esauŋge ye yiŋe pino kiŋo
+ssd	kame ndoŋ balesiŋgikat ŋga ye kuru-kuruket. Ta tuku ne sine
+ssd	kigraibka ŋga ne yabaŋnet.
+ssd	Taŋanaig le nu mambo nuŋe kusnana: Kuasmbi amboŋga ye tugum
+ssd	prowaig ta ndaŋam tuku ŋgina le mambo nuŋe nu sana: Ye ne
+ssd	tuku wamdus te-ibeŋam tuku nane kukulniŋgit le ne sota kagig
+ssd	Tane wam sakeg te kam mbulap ndeta sine siŋgine kulim tumba ma
+ssd	tugu te kusrewamŋgig ŋginaig le
+ssd	Yakob nuŋe kuasmbi ndoŋ Betel tumbraŋ kusremba Efrat tumbraŋ
+ssd	patu ndanaig le Rahel nu kiŋo te-palmbim tuku ait kumuŋgina le
+ssd	Esau piyo nuŋe Oholibama nu Ana kulim nuŋe. Oholibama nu Yeus
+ssd	mbal Yalam mbal Kora mbal ta ŋakmba tuku mbuŋ naŋgine.
+ssd	Furir ande Yosef nu kiŋatina sulumba mafena le maratukuk tiŋga
+ssd	nu kumba ka aba kat nuŋe kubeu niŋgina sulumba
+ssd	nu tuku kiŋo kat nuŋe kulim kat nuŋe nane ŋakmba mam
+ssd	naŋgine wamdus te-ibeŋam tuku pronaig ta nu nane ise ndakina
+ssd	sulumba sakina: Ye yiŋe kiŋo tuku ninanka malmbika ma ma kumi
+ssd	sulumba kumanu mbal tuku ma mbolŋge nu ndoŋ minamkik ŋgina.
+ssd	Taŋakina sulumba Yakob nu kiŋo nuŋe Yosef tuku wamdus
+ssd	tatrukina le ninanka minna.
+ssd	kiŋo ta wai te-lukina le kiŋo inum ta amboŋga prona. Taŋana
+ssd	le kulat pino ta nu sakina: Ne sonndo sambrimba prote ŋgina. Ta
+ssd	tuku nane kiŋo ta nyunu Peres  ŋginaig.
+ssd	Taŋamba minnaig ma ma kame gabat suŋgo ta Yosef nale tuku
+ssd	kulat taŋgo minwa ŋga madina.
+ssd	Taŋge minkeŋ sulumba furir ande mbolŋge sile kiŋatikeŋ.
+ssd	Kiŋatikeŋ ta tugunu yimyam.
+ssd	Kile ye ne tumba Isip kilke tugu te ŋakmba tuku gabat suŋgo
+ssd	Ye katesewam tuku tane teŋenmba tagotiŋgamŋgit. Ye sonndo
+ssd	Farao tuku nyu mbolŋge pasa saŋgri pilewet. Tane tuku maib
+ssd	taŋgine te nda prowa ta tane ŋakmba maŋ luka taŋgine
+ssd	nane ndek nu sanaig: Taŋgo ta nu sine kusnasiŋmba lok ndeka
+ssd	minna sulumba nu sine tuku tugu mata kusnaŋgina le sine maŋau
+ssd	ke fugugeŋ. Ne tuku mata kusnaŋgina. Nu teŋenmba sakina. Tane
+ssd	mambo taŋgine ande minit e ko kuga ŋgina. Taŋakina le sine nu
+ssd	sageŋ. Nu siŋgine mambo tumba nu tugum kambim tuku ta sine
+ssd	kila kande nu sa ndageŋ kande ŋginaig.
+ssd	Mafena le maratukuk tiŋga piro taŋgo taŋge nane kukulniŋgina
+ssd	le nane doŋki kilmba kinaig.
+ssd	Kiŋo te ye ndoŋ luka ndakuwa ta ye luka mam tugum kambim
+ssd	kumuŋ kuga. Piti ta ye mam mbol kaŋgeram mbulit ŋga Yosef
+ssd	Furir ta mbolŋge nu kiŋatanu suk Kuateŋge Yakob tugum promba
+ssd	wika sana: Yakob, Yakob ŋgina le nu woka sakina: Ye minet te
+ssd	Kile Yosef ndek aba kat nuŋe mam nuŋe tuku kuasmbi ŋakmba wam
+ssd	paguka saniŋgina: Ye kile ka Farao teŋenmba sawamŋgit. Yiŋe
+ssd	aba kame mam tuku kuasmbi Kananŋge minnaig ta kile prowaig.
+ssd	Israel nane Isip kilke Gosenŋge minyoka kiŋo kame suŋgomba
+ssd	kile-patikinaig sulumba agaŋ ndende mata suŋgomba kilnaig.
+ssd	Ne kule saŋgrinu ndekate taŋaŋ ta ne ye tuku pino ndoŋ
+ssd	kinyna sulumba kiko maŋau ye sina. Ta tuku ne mambo kat naŋe
+ssd	Kumna le Yosef ndek mam nuŋe tuku tumail mbol loka malmbika mam
+ssd	Suŋgo nu nuŋe mbal Israel nyamagaŋ ait mayenu niŋgina pasa
+ssd	ta Neomi nu isna sulumba nu nuŋe rugan ar ta ndoŋ kuaneka Moab
+ssd	Kile mabta isukusam bafumba Boas nu Rut sana: Ne te ilmba bret
+ssd	bateŋ inum tumba grep kule tomba nya ŋgina. Taŋakina le Rut
+ssd	nu kumba piro mbal tugum taŋge minyokina le Boas nu wit afu
+ssd	pasokinaig ta kilmba Rut tuna le nyumba marona le nyamagaŋ
+ssd	Minyokina le Boas nu tumbraŋ ta tuku gabat kame 10 saniŋgina
+ssd	le nane mata promba taŋge minyokinaig.
+ssd	9-10 Taŋamba minnaig ma ma ait ande nane Silo tumbraŋŋge
+ssd	atrauka isukusmba minnaig. Isukuse deŋpurnaig sulumba Hana nu
+ssd	ŋgamuŋgal tatruka wamdus ndekina le nu ndek tiŋga nane
+ssd	kusreka ka Suŋgo tuku tukul wandek sinam kumba ka taŋge
+ssd	malmbika Suŋgo yabaŋmba minna. Yabaŋmba minna le Kuate tuku
+ssd	pris Elai nu malaŋga tugum taŋge minyok minna.
+ssd	Afu buk kutu suŋgomba kile-patikinaig ta nane kile niŋanu
+ssd	Ye tane Israel mbal tuku Mbara Suŋgo ye o buk tane tuku mbuŋ
+ssd	kat taŋgine teŋenmba saniŋgen: Tane taŋgine ndare ndoŋ ye
+ssd	tuku am mbolŋge pris piroka minmba minamŋgaig ŋga saniŋgen
+ssd	ta kile tane maŋ piro ta ke nda. Taŋgo ima nu ye tuku nyu
+ssd	te-duŋguwa ta yeŋge nu nyu suŋgo tambimŋgit. Taŋgo ima nu
+ssd	ye talayate ta yeŋge nu mata talawamŋgit ŋgina.
+ssd	Taŋamba nane taŋgo afu kukulniŋginaig le Silo kinaig sulumba
+ssd	Suŋgo Saŋgri Ŋayo eŋel kanunu armba ŋgamukŋge minyok minit
+ssd	nu tuku pasa katanu bokis ta tumba luka ilnaig. Elai tuku kiŋo
+ssd	armba Hofni le Pineas mata bokis ta ndoŋ ndoŋ ilnaik.
+ssd	Suŋgo tuku tukul bokis ta Filistia mbal tugumŋge minna le ma
+ssd	Samuel nu atrauka minna le Filistia mbal buk nane ndoŋ kame
+ssd	buwam tuku ilmba patuniŋginaig. Patuniŋginaig le Suŋgoŋge
+ssd	pitik ndo kuaila pilna le samba mbolŋge nane tugum taŋge
+ssd	suŋgomba puluka nane tuku wamdus ŋginŋgan serniŋgina le nane
+ssd	kuru kuru mayemba kua ka sili-silinaig.
+ssd	Kis nu maror taŋgo ande. Nu nyu suŋgo ŋak Benyamin ma tugu
+ssd	mbolŋge minna. Kis mam nuŋe Abiel. Wa nuŋe Seror. Mbuŋ mbuŋ
+ssd	nuŋe Bekorat. Sikar sikar nuŋe Afia. Tumbraŋ mboŋ naŋgine
+ssd	Taŋawaig le Suŋgo tuku Guwa ne mbol kuwa le ne mata nane ndoŋ
+ssd	ulendika pasa yeki yeki kukliwamŋgat. Taŋawa sulumba ne
+ssd	kisemba kiteknu mayok kaŋgat.
+ssd	Kile nane pasa tumba pronaig mbal ta saniŋginaig: Tane luka
+ssd	kape sulumba Yabes taŋgo kame teŋenmba saniŋgap. Indole ki
+ssd	mbol ka pa pakuwa ait ta mbolŋge sine promba ŋgueu mbal
+ssd	pitaika tane luka kilamŋgig ŋginaig. Taŋakinaig le taŋgo
+ssd	kame ta luka Yabes kinaig sulumba nane kila saniŋginaig le nane
+ssd	ndek gare-garekinaig sulumba
+ssd	Tane Suŋgo tuku miŋge kumnem kape sulumba wamdus ndindo tumba
+ssd	nu tuku ndo piroka minap. Suŋgoŋge tane turkam tuku wam ke
+ssd	likina ta tane ŋakmba kila.
+ssd	nu tuku kame agaŋ kugrakanu taŋgo taŋge lafumba sakina: Ta
+ssd	maye. Ne ame maŋau kam bafuwa ta ye ne turnamŋgit ŋgina le
+ssd	Taŋakina le Saulŋge Kuate kusnamba sakina: Sine kumba Filistia
+ssd	mbal yokerkube ta ne sine sinzaŋsiŋmba nane kilmba sine wai
+ssd	mbolŋge patikamŋgat e ŋgina kande Suŋgo nu ait ta mbolŋge
+ssd	Saul tuku pasa lafu ndana.
+ssd	Taŋakina le nu lafumba sana: Ne ŋgumbeyu isit ta taŋgo
+ssd	kameŋge Amalek mbal tugumŋge kilmba pronaig. Nane sipsip makau
+ssd	mage mage naŋe Mbara Suŋgo atraukam saka mapeka kilmba
+ssd	pronaig. Agaŋmor afu ta ŋakmba bale far sulugeŋ ŋgina le
+ssd	Taŋakina le Yesi nu maŋ ka Sama tumba prona le Samuel nu
+ssd	sakina: Suŋgoŋge taŋgo te mata madi ndana ŋgina.
+ssd	David nu ait afu Saul tugumŋge piroka minanu. Ait afu nu Saul
+ssd	kusremba ka Betlehemŋge mam nuŋe tuku sipsip kulatka minanu.
+ssd	Taŋakina le David ndek miŋge lafumba sana: Ne naŋe kame bagi,
+ssd	mbanduwaŋ, kandim agaŋ ndende ta kilmba ye ndoŋ kame buwam
+ssd	prote ta ye Israel kame kuasmbi tuku Mbara Saŋgri Ŋayo ne nu
+ssd	maim maim te-tuwit Mbara Suŋgo ta nu tuku nyu mbolŋge ne ndoŋ
+ssd	Saul nu kaŋgermba David tuku kuru-kurukina.
+ssd	Taŋana le piyo nuŋe nu mbara kanunu ande tumba David tuku
+ssd	kinyam mbili mbolŋge te-kinyena sulumba gabat tatu ande meme
+ssd	ŋguenumbi wakeiwanu ta tumba gabat mbolŋge pilmba tawi kaina.
+ssd	Taŋawa sulumba ne aspile maŋ ka ne amboŋga kuirkina ma ndame
+ssd	suŋgo Esel ŋgade ta ŋgumnemŋge kuirka mina le
+ssd	Nyamagaŋ afu mine ndakinaig tukunu pris ta tukul bret ta kilmba
+ssd	David kile-tuna. Nane tuku maŋau ta bret ambokok ta kilmba
+ssd	kile-kasoka bret kitek kilmba Kuate am mbolŋge patikanu.
+ssd	Saulŋge Suŋgo tuku pris kame bale farniŋgina wam ta kubeu
+ssd	kile Saul tuku piro taŋgo ande tumbraŋŋge pasa tumba promba
+ssd	Saul sana: Filistia mbal pro sine ndoŋ kame bude tukunu ne
+ssd	braiŋ luka yale ŋga sana le
+ssd	David nu Paran ma baknu taŋge minmba nane pirokinaig pasa ta
+ssd	Israel mbal tuku Mbara Suŋgo abo tugu ŋak nuŋge ye peuyat. Ye
+ssd	nu tuku nyu mbolŋge sanet. Ne ndinŋge ye te-sili ndakat kande
+ssd	indole maratukuk Nabal tuku kuasmbi inum mine ndakate kande
+ssd	Ta tuku ye Suŋgo kasomŋge mini le tane ye tuku ndare kutu
+ssd	ndawap. Ne sine Israel mbal tuku gabat suŋgo ta ne ye ŋai
+ssd	ŋguesuk kuga meu taŋaŋ baleyam tuku sota taŋgo afu tabe
+ssd	mbolŋge mula nindam tuku kuraukade taŋamba ne kate ŋga Saul
+ssd	Saul ndek nu kusnana: Taŋgo ta ndaŋ ndaŋ ŋgina le pino ta nu
+ssd	sakina: Taŋgo saibo tawi kuennu silika mayok ket ŋgina le Saul
+ssd	nu katesena ta Samuelŋge ŋga nu ndek dagol tidroŋga lokina.
+ssd	Pronaig sulumba taŋgo 200 nane saŋgri kugamba Besor kule
+ssd	pakarke fugunaig ta taŋge kusrekinaig le minnaig le David nu
+ssd	taŋgo 400 ta ndo kilmba Amalek mbal dubika kinaig.
+ssd	Kaŋgerkinaig sulumba nane ndek Saul tuku ŋinfok kat purmba
+ssd	kame tuku agaŋ ndende paska kilmba nane taŋgo afu
+ssd	kukulniŋginaig le pasa tumba Filistia ma tugu ŋakmba mbol kine
+ssd	likinaig sulumba naŋgine zugu wandek sinam kumba taŋge
+ssd	maŋgurka kubeu niŋge likinaig le taŋgo pino ŋakmba ismba
+ssd	Ta tuku sawe le mbai ŋgislu tabe ta mbolŋge nde ndakuwaik le
+ssd	nyamagaŋ mata tabe ta mbolŋge prowe nda.
+ssd	Taŋanaig sulumba Abner ndek Yoab sana: Ye taŋgo mo afu
+ssd	madiniŋgi le ne mata taŋgo mo afu madiniŋga le nane kame
+ssd	agaŋ ndende kilmba kame saŋgri muŋgu tumkuwaig ŋgina le Yoab
+ssd	nu lafumba sana: Ta maye ŋgina.
+ssd	9-10 Taŋakina sulumba nu maŋ lato sana: Suŋgo nu buk David
+ssd	sana: Yeŋge Saul tuku gageu pitaiki le nane Israel mbal tuku
+ssd	gabat sugo mine nda ŋgina. Suŋgoŋge David nu Israel mbal Yuda
+ssd	mbal tuku gabat suŋgo minam tuku madina le nu Israel ma tugu
+ssd	ŋakmba kulatkamŋgat. Ta tuku ye ne sanet. Ye mata David
+ssd	sinzaŋamŋgit. Ye pasa sanet te kumu ndawi ta Kuateŋge ye
+ssd	mapeye nda ŋga Isboset sana le
+ssd	Israel mbal ŋakmba Davidŋge siseŋkat le Abner bale ndawaig
+ssd	David ndek Suŋgo kusnamba sakina: Ye ka nane Filistia mbal
+ssd	ndoŋ kame buwi e ko kuga. Ye kame ka le ne ye sinzaŋyamŋgat e
+ssd	ŋgina le Suŋgo nu lafumba sana: Ne kaye. Ye nane kilmba ne
+ssd	tuku wai mbolŋge patiki le ne nane kile-ibeŋkamŋgat ŋgina.
+ssd	David Suŋgoŋge kigraibka sinzaŋna le nu nuŋe wande mbolŋge
+ssd	mine mayemba ŋgueu mbalŋge nu ŋayo sili ndanaig.
+ssd	Tina sulumba kile nu ka Moab mbal ndoŋ kame bumba nane afu bige
+ssd	tidiŋgina. Bige tidiŋga nane kile-maŋgurka kilke mbolŋge
+ssd	truk ka kuit nduimba kinyap ŋga saniŋgina le nane taŋamba
+ssd	kilke mbolŋge truk ka kinynaig. Truk ka kinynaig le nu ndek
+ssd	taŋgo keŋ keŋ burka armba baleniŋmba ndindo mapemba armba
+ssd	baleniŋmba ndindo mapemba taŋamba ndo ka ka bitekŋgina. Afu
+ssd	mapekina ta nane David kumnemŋge nu tuku piro taŋgo minmba
+ssd	naŋgine pirokanu piya ta nu tumba minnaig.
+ssd	Ta tuku ne naŋe kiŋo kame naŋe piro mbal taneŋge ndo kilke
+ssd	ta mbolŋge piroka nyamagaŋ ŋguka minap. Nyamagaŋ ka
+ssd	magekuwaig le alonu kilmba naŋe gabat suŋgo Saul tuku kuasmbi
+ssd	ta niŋgap. Mefibosetŋge ndo ye tugum teŋge isukusmba
+ssd	minamŋgat ŋga Siba sana le
+ssd	Nu pro David te-silikina le nu ndek Uria kusnana: Yoab nuŋe
+ssd	kame kuasmbi ndoŋ mage minig e ko kuga? Kame kile ndaŋndaŋmba
+ssd	minit? Siŋgine kuasmbiŋge nane kile-ibeŋkade e ko kuga ŋgina
+ssd	le Uria ndek wam kame ta ŋakmba kubeu tuna.
+ssd	9-10 Ta tuku ne ndaŋam saka ye tuku miŋge ŋgurmba une maŋau
+ssd	ta kina? Ne ye talayumba Uria tumba Amon mbal tuku wai mbolŋge
+ssd	pilna le balenaig. Taŋanaig le ne nu tuku piyo nuŋe tina. Ta
+ssd	tuku naŋe ndare mbolŋge wa kat naŋe tuku ndare mbolŋge
+ssd	tuturmba lafunu ndare kutumba minamŋgat.
+ssd	Taŋakina le Amnon nu Yonadab tuku pasa dubimba guazeŋget
+ssd	guazeŋget ŋga nuŋe mbili mbolŋge kinymba minna le gabat
+ssd	suŋgo David nu ismba nu ka Amnon kaŋgeram kina le nu ndek
+ssd	sana: Ye guaze ŋak tukunu ne ka yiŋe kulim Tamar sawa le pro
+ssd	teŋge ye tuku bret foŋfoŋ pasoka kilmba pro yiŋe mbili mbol
+ssd	teŋge suwa le nyi ŋga sana.
+ssd	Yonadab ndek David sana: Ye buk ne wam kube sanit ta naneŋge
+ssd	Nu tuku gabat waŋe ta suŋgokanu kuen ŋayo. Yar nduik nduik
+ssd	sinamŋge ait ndindo ndo nuŋe gabat kuerkanu. Gabat waŋe ta
+ssd	David ndek lafumba sakina: Ta maye. Silap ŋgina le Itai tuku
+ssd	kame kuasmbi naŋgine gageu ŋakmba kuasmbi amboŋga kinaig ta
+ssd	Kile Absalom Israel kuasmbi ŋakmba kilmba Ahitofel ndoŋ
+ssd	David nu pasa ta ismba nuŋe kuasmbi ta ŋakmba kule pakarka sim
+ssd	nu ndek Etiopianu piro taŋgo nuŋe wika kukulmba sana: Ne kaye
+ssd	ka kame mbolŋge wam prowe likaig ta ka gabat suŋgo kubeu tawe
+ssd	ŋgina le piro taŋgo ta ndek Yoab tugum taŋge loka pinderka
+ssd	Taŋamba pasa pilmba Yuda kuasmbi suŋgomba nane kinaig ka
+ssd	Gilgal tumbraŋŋge kule make mbiŋge gabat suŋgo prowa le
+ssd	te-temam tuku tair minnaig. Taŋanaig le David nu nuŋe kuasmbi
+ssd	ta kilmba ka Yordan kule mbol pronaig le
+ssd	Taŋakinaig kande nane Yuda mbal pasambi kualeyauka Israel mbal
+ssd	Sadok le Abiatar nale pris pirokinaik.
+ssd	Sine Suŋgo tuku nyu te-duŋgube.
+ssd	O Suŋgo, ne ye tuku bulu taŋaŋ ma furir pitaite.
+ssd	Ye David Yesi tuku kiŋo nuŋe yeŋge wam pagu pasa te saket.
+ssd	Yakob tuku Mbara Suŋgo Saŋgri Ŋayo nuŋge ye gabat suŋgo
+ssd	minam tuku madiyina le taŋgo ŋakmba tuku am mbolŋge ye nyu
+ssd	suŋgo ŋak minet. Ye mune magenu suŋgomba Israel mbal nindam
+ssd	tuku kuyarke liken. Ye yiŋe pasa tukulmba teŋenmba saket.
+ssd	Kame gabat 30 ta tuku nyu kat naŋgine ta teŋenmba.
+ssd	Mafena le David nu aboŋgina le Gad nu tugum promba pasa ta
+ssd	ŋakmba David kubeu tumba sana: Suŋgo nu piti sugo keŋmba ne
+ssd	tanmbim iduste ta ne ta tuku inum madiwa. Ne kilke tugu te mbol
+ssd	guba suŋgo yar 7 minwa ŋga madiwamŋgat e? Ko naŋe ŋgueu
+ssd	mbalŋge kamembi yokernuwaig le tambun keŋmba kua ka ma baknu
+ssd	mbolŋge kuirka minamŋgat e? Ko guaze suŋgo ait keŋmba Israel
+ssd	taŋgo pino bale farwa ŋga idusmba madiwamŋgat e? Ne wamdus
+ssd	pile timba piti sugo keŋmba te tuku inum madiwa le ye ka Suŋgo
+ssd	Ne ye pitai ndayumba naŋe Tukul Guwa mata ye yai ndaya.
+ssd	Yona nu kualegaŋ fuŋgul sinamŋge minmba nuŋe Mbara Suŋgo
+ssd	Taŋakina le Suŋgo nu Yona sana: Furir ndindo mbolŋge ail te
+ssd	promba suŋgokat. Furir ande mbolŋge nu kummba kareŋgat. Ne ta
+ssd	tuku piro kareŋ ndakat. Neŋge nu te-suŋgo ndawat. Ndaŋam
+ssd	tuku ne ail ta tuku ninankate?
+ssd	Nu kiŋo te-palmbimŋgat ta nyunu Yesus ŋga. Israel mbal une
+ssd	maŋauŋge nane tidoŋgate ta nuŋge nane tuku muskil
+ssd	kile-tidiŋge niŋgamŋgat ŋga Yosef sana.
+ssd	Herodus nu kumna le Yosef nu Isipŋge minmba kiŋambi Suŋgo
+ssd	tuku eŋel ande nu tugum promba sana:
+ssd	Kuate nu nuŋe eŋel kame kukulniŋguwa le pro ne
+ssd	kulatkamŋgaig. Ne ndame mbolŋge naŋe kupe daŋŋga fetkikat
+ssd	ŋga nane pro waimbi ne biye-biyenamŋgaig ŋga sakate ŋgina.
+ssd	Tane tiŋreknu mayok kambim tuku dirnaŋga minig mbal tane gare
+ssd	maŋau mbolŋge minap. Kuate nu lafunu kumumbi tiŋgamŋgat.
+ssd	Ima nu piyo nuŋe pitaiwam ndeta nu pitaiwam tuku waŋe kuyarmba
+ssd	Ne Kuate ndoŋ pasatam ndeta naŋe mata wandek sinam kumba
+ssd	malaŋga tukulmba nu ndoŋ pasata. Ne taŋawa le ne tuku Mam nu
+ssd	wam kuirok kaŋgerkate ta nuŋge lafunu mayenu tanmbimŋgat.
+ssd	Ye tane satiŋget. O buk gabat suŋgo Solomon nu mindepiye
+ssd	maditaknu silikina ta aŋga bot tuku mindepiye li ndaniŋgina.
+ssd	Ŋgumneŋga sawe suŋgo piymba kule suŋgo ndeka bubre saŋgrinu
+ssd	tiŋga wande ta kulisokŋga buruna kande wande sur ndakina.
+ssd	Wande ta makek ndamembi daŋŋgina tukunu wande saŋgri ŋak
+ssd	nane nu kuanemba sanaig: Suŋgo, ne pitik sine tursiŋga. Sine
+ssd	ŋgisikam bafuweg ŋginaig le
+ssd	Nu teŋenmba idusna: Ye nu tuku tawi ndo kirewi ta ye
+ssd	Tane wande ande poŋga wande tuku mbal ŋgamuŋgal mukuk ŋak
+ssd	Ye siŋka satiŋgamŋgit. Ande nu nyu kugatok minmba ye dubiyanu
+ssd	taŋgo taŋaŋ minit le andeŋge nu kule tidonu ndo tuwit ta
+ssd	Kuate nu wam ta mata lafunu tambimŋgat ŋga saniŋgina.
+ssd	Ye tuku miŋge pasa ta piti kuga. Ye tane mbolŋge agaŋ pilet
+ssd	ta buloknu ndo ŋga saniŋgina.
+ssd	Farisi mbal nane pasa ta ismba ndek sakinaig: A ... bukla kame
+ssd	tuku gabat Belsebulŋge nu saŋgri ta tuwit le nu bukla pitaike
+ssd	Taŋgo ande nu agaŋ tumunu bareŋniŋgam piro mbol kina.
+ssd	nu ndek nane saniŋgina: A ... ŋgueu taŋgo andeŋge taŋana
+ssd	ŋgina. Taŋakina le nane nu kusnanaig: Sine ka aŋga ta fulkube
+ssd	e ŋginaig le nu saniŋgina:
+ssd	nu talamba gubra tinaig le nu nane saniŋgina: Kuate tuku tuan
+ssd	taŋgo nane ŋakmbaŋge nu tuku nyu te-mayokde. Nuŋe tumbraŋ
+ssd	tuguk nuŋe tugu ndare tuma kat nuŋe naneŋge ndo nu talade
+ssd	Nu kumba minna sulumba nu bubre suŋgo ta kaŋgermba kuru-kuruka
+ssd	nu buto kambim bafuna sulumba wika sakina: Suŋgo, ye turya
+ssd	Nu kumba ka ma ta prona le Kanannu pino ande pro Yesus wika
+ssd	sana: O Suŋgo, ne David tuku mbuŋ. Ne ye sinanu turya. Yiŋe
+ssd	kulim buklaŋge wanena le sinamanzer suŋgo ŋak minit ŋga sana.
+ssd	Yesus nane Sesarea Filipi ma tugu mbol pronaig sulumba nu nuŋe
+ssd	dubinaig mbal kusnaniŋgina: Taŋgo pino nane ye Ndindo Katesek
+ssd	Taŋgo ye ima ŋgade ŋga kusnaniŋgina le
+ssd	O Suŋgo, ne ye tuku kiŋo sinanu tura. Zulbarek maŋau nu mbol
+ssd	prote le nu sinamanzer suŋgo ŋak minit. Maŋau taŋge nu tate
+ssd	le ait afu nu pa mbol ndekate. Ait afu nu kule sinamŋge ndekate.
+ssd	Taŋgo armba ko keŋmba nane ye tuku nyu mbolŋge maŋgurkade ta
+ssd	ye nane ŋgamukŋge minet ŋga saniŋgina.
+ssd	Taŋanaig le Yesus nu nane saniŋgina: Kiŋo kame peu
+ssd	ndaniŋgap. Nane ye tugum te prowaig. Kiŋo kame nane Kuate tuku
+ssd	ma mbol kambim tuku minig ŋgina.
+ssd	Ne naŋe ndametiŋ ta tumba kaye. Ye yiŋe nzalimbi nane afu
+ssd	furiram prowaig ta ne ndoŋ kumu kumu ndametiŋ niŋgam iduset.
+ssd	Sine David tuku mbuŋ tuku nyu te-duŋgube o.
+ssd	Kile taŋgo ta nu maŋ kumba ka maib nuŋe pasa ndui ta ndo sana
+ssd	le nu lafumba sakina: Ta maye. Ye kaŋgit ŋgina ta nu kine
+ssd	Gabat suŋgo nu pronaig mbal ta kaŋgerkam wandek sinam kumba
+ssd	ande nu pagumba nye tuku kumiŋ tiŋge ndaka ake kumiŋ tiŋgina
+ssd	Farisi mbal nane taŋge maŋgurka minnaig le Yesus nu nane
+ssd	Tane am tukulok minmba taŋgo pino tugusemba ndin tum
+ssd	ndaniŋgig. Tane ŋgailmbo kule sinamŋge kaŋgermba pitaide
+ssd	sulumba kamel kule sinamŋge minit ta kaŋger ndamba kule tur
+ssd	Tuan taŋgo Daniel tuku pasa ŋgumneŋga kumuŋguwa le ande
+ssd	ŋule parak tukul ma mbolŋge mayok ka tukul kuerka kutur
+ssd	tambimŋgat. (Tane pasa te burkade mbal tane wamdus
+ssd	Yesus nu maŋ lato sakina: Taŋgo ande wamdus kuyar mayenu ŋak
+ssd	piro mayete ta taŋgo suŋgo nu tumba nuŋe piro mbal kulatka
+ssd	ait kumuŋguwa le nyamagaŋ walmba niŋgam tuku nu pilit.
+ssd	Kile ande nu soŋ 100 tuna ta nu pro teŋenmba sana: Suŋgo, ne
+ssd	taŋgo wamdus kareŋnu ŋak ta ye kila. Nane afu pirokade le ne
+ssd	pro alonu ake kilit. Afu agaŋ tumunu ŋgukade le ne pro
+ssd	Taŋana le nuŋe dubiwanu taŋgo wam ta kaŋgermba nane
+ssd	palseŋniŋgina le sakinaig: Ndaŋam saka gureŋ mayenu ake
+ssd	Taŋaka nu ndek Petrus le Sebedeus tuku kiŋo armba Yakobus
+ssd	Yohanus nane keŋ ta kilmba kina ka taŋge nu ŋgamuŋgal piti
+ssd	suŋgo kamusmba wamdus fagka minna.
+ssd	Taŋamba nane afu tiŋga ka Yesus tumailnu ŋguspemba nu waimbi
+ssd	Taŋakinaig le Pilatus nu nane saniŋgina: Ye Barabas paski
+ssd	sulumba Yesus nane Kristus ŋgade te ye nu ndaŋi ŋga idusde
+ssd	ŋgina le nane ŋakmba lafumba sakinaig: Ail kazrai mbolŋge nil
+ssd	Ndame burok afu mindesiŋ ŋgukanu ta kakerke likinaig le Kuate
+ssd	tuku mbal gudommba o buk kume likinaig tuku maŋ aboŋga
+ssd	Nuŋe dubiwanu taŋgo 11 nane Galilea ma tugu mbol kinaig ka
+ssd	taŋge Yesus nu o buk nane tabe ande saniŋgina ta nane ta
+ssd	Naŋgine kusem wandek sinam taŋge taŋgo ande bukla ŋak minna.
+ssd	nu pitik nane tuku wamdus kamusmba ndek saniŋgina: Ndaŋam saka
+ssd	tane wamdus te-pilemba minig.
+ssd	Mara mindek bukla ŋaigonu nane Yesus kaŋgermba ka nu tugumŋge
+ssd	bariŋge lika wikaraumba sakanu: Ne Kuate tuku Kiŋo ŋganu le
+ssd	Pronaig ta ki suŋgo promba pasokina le sumbailnu sinam nzi kine
+ssd	ndakinaig tukunu kareŋga kume sulunaig.
+ssd	Taŋaka nane maŋgur suŋgo ta kusreka Yesus minna waŋ ta
+ssd	poŋga kinaig le nane afu waŋ kise poŋge lika nu ndoŋ kinaig.
+ssd	Pino ta nu Yesus tuku nyu isna sulumba nu taŋgo ŋgamuk kina ka
+ssd	Yesus ŋgumnemŋge nu tuku tawi kirena.
+ssd	Yesus tuku nyu suŋgoka tugekina le nane afu ismba sakinaig:
+ssd	Yohanus kule pisne taŋgo kumna ta nu maŋ aboŋga tiŋgina. Ta
+ssd	tuku nu saŋgri kitek ŋak wam ta ke likate ŋga saka minnaig.
+ssd	Kile Yesus nu maŋgur suŋgo ta kukulniŋmba nane naŋgine
+ssd	tumbraŋ tumbraŋ kuwaig ŋga saniŋgina sulumba ndek nuŋe
+ssd	dubiwanu taŋgo amboŋga waŋ poŋga luka kule kualiŋ sim
+ssd	Betsaida kuwaig ŋga saniŋgina.
+ssd	Nyamagaŋ taŋgo tuku ŋgamuŋgal sinam kine ndakate. Falŋgu
+ssd	sinam kumba nu sumbikate le mayok kinit ŋgina. Nyamagaŋ
+ssd	ŋakmba tukul kugatok ŋakmba sine nyam tuku minig ta Yesus nu
+ssd	yaba pasa tembi sine tumsiŋgina.
+ssd	Farisi taŋgo afu pro Yesus ndoŋ kualeyauka minnaig sulumba nu
+ssd	tagowam tuku wam kitek saŋgrinu ande te-mayokuwa le kaŋgeram
+ssd	nu tuku tawi ta kauknu uge liŋnu ndo mayok kina. Ma tugu
+ssd	ŋakmba mbolŋge ande nu kumiŋ kauknu minyaŋgate le taŋamba
+ssd	Taŋakina sulumba nu kiŋo ande tumba nane ŋgamukŋge te-timba
+ssd	Taŋakina sulumba nu kiŋo kame kilmba bagailniŋmba wai nane
+ssd	mbol patika nane nyaro niŋgina.
+ssd	Ye Ndindo Katesek Taŋgo ye mata taŋgo pino ye sinzaŋyuwaig
+ssd	ŋga pro ndawen. Ye nane sinzaŋniŋmba yiŋe ŋgarosu kumam
+ssd	tuku pilmba nane gudommba muskil kile-tidiŋge niŋgam tuku
+ssd	Furirna le Yesus nane tumbraŋ suŋgo ta kusremba kinaig.
+ssd	Nane pro nu sanaig: Tum Taŋgo, ne taŋgo tugusek ta sine kila.
+ssd	Ne ande tuku kiko ndanate. Ne taŋgo nyu ŋak tuku kuru kuru
+ssd	ndakate. Ne taŋgo ŋakmba Kuate tuku maŋau dubikam tuku
+ssd	tumsiŋgit. Ne sine sasiŋga. Sine Zu mbal siŋgine tukul maŋau
+ssd	dubimba Rom tuku gabat Sesar takis tambim kumuŋ e? Sine takis
+ssd	patikube e ko mbulbe ŋga sanaig le
+ssd	Yesus nu kusem wande sinamŋge ndametiŋ patikam tuku ma ta
+ssd	tumail tumba minyoka nane ndametiŋ pankinaig le kaŋgerka
+ssd	minna. Nane agaŋ ndende suŋgomba ŋak mbal ndametiŋ sugokanu
+ssd	Ye ndeka eŋel kame kukulniŋgi le kilke tugu ŋakmba mbolŋge
+ssd	Kuate nuŋe madiniŋgina mbal kile-maŋgurkamŋgaig.
+ssd	Taŋakina le nane wamdus ŋaigoŋga ndui ndui nu kusnanaig: i
+ssd	... Ne yeŋge ŋga iduste e ŋginaig le
+ssd	Ye mara mindek tane ŋgamukŋge kusem wande suŋgo sinamŋge
+ssd	taŋgo pino wam paguka minen ta tane ye biye tiyam kuga e? Ta
+ssd	maye. Kuate tuku kuyar pasa kumumba mayok kuwa ŋgina.
+ssd	Ait ta mbolŋge taŋgo afu nane gabat kame ndoŋ kame bumba ande
+ssd	balenaig le nane kilmba muli wandekŋge patikinaig le minnaig.
+ssd	Yesus nu kumna le kusem wande suŋgo sinamŋge tukul wande
+ssd	tukulanu tawi suŋgo ta mbolŋge fetka ibeŋŋge bitekŋgina.
+ssd	eŋel ndek nu sana: Maria, ne kuru kuru ndaka. Kuate nu ne make
+ssd	54-55 Nu siŋgine mbuŋ pasa saŋgrinu saniŋgina ta kumumba nu
+ssd	nuŋe piro mbal Israel sine tursiŋgit.
+ssd	Sakaria nu taŋamba dir pasa sakina.
+ssd	Yiŋe ammbi sine muskil kile-tidiŋgam tuku taŋgo kaŋgeret.
+ssd	Ŋguruŋ ŋakmba kilke diŋniŋgam tuku.
+ssd	Levi nu Simeon tuku kiŋo. Simeon nu Yuda tuku kiŋo. Yuda nu
+ssd	Yosef tuku kiŋo. Yosef nu Yonam tuku kiŋo. Yonam nu Eliakim
+ssd	Nuŋge ye madiyina le ye piro teŋenmba kam tuku minet.
+ssd	Yesus nu Genesaret kule kualiŋ tuku piyalŋge minna le nane
+ssd	gudommba Kuate tuku pasa isam tuku muŋgu signa-signaŋga nu
+ssd	Afu sine magenu ŋgade ta nane ŋgamuŋgal mbilwaig ŋga ye pro
+ssd	ndawen. Ye une ŋak mbal ŋgamuŋgal mbilwaig ŋga prowen ŋgina.
+ssd	Tane ye Katesek Taŋgo tuku mbal minig tukunu afuŋge tane
+ssd	kasurtiŋmba pitaika tumail pantiŋmba nyu kile-ibeŋkade ta
+ssd	tane gare maŋau mbolŋge minap.
+ssd	Tumbraŋ taŋge Rom mbal tuku kame gabat ande minna. Taŋgo ta
+ssd	tuku piro taŋgo ande guazeŋga buk kumam bafuna. Nu taŋgo ta
+ssd	tuku nzali suŋgo ŋak minna.
+ssd	Nane Farisi mbal kusem pasa bitekŋganu mbal Yohanusŋge buk
+ssd	kule pisne ndaniŋgina tukunu nane Kuateŋge turniŋgam tuku
+ssd	ndin ta mbulmba pitainaig.
+ssd	nu ndek saniŋgina: Kuate nu nuŋe gageu kulatkate wam afu
+ssd	kuirok minig ta tane kila palmbim tuku ye tane maditiŋgen. Afu
+ssd	nane yaba pasa ndo isig. Nane wam kaŋgerka alonu kaŋger tiwe
+ssd	nda. Nane pasa ismba tugunu katesewe nda ŋga saniŋgina.
+ssd	Nu kulim ndindo yar 12 ŋak taŋaŋ kumam tuku tawo ndo minna.
+ssd	Yesus nu ndek taŋgo ta dubimba kina le nane gudommba nu
+ssd	Taŋakina le nane ndek saniŋginaig le taŋamba minyoke likinaig.
+ssd	Nane ŋakmba Yesus nu wam ke likina ta tuku pirerek purka
+ssd	minnaig le nu ndek nuŋe dubinaig mbal ta saniŋgina:
+ssd	Ata. Tumbraŋ te tuku tuptup sine tuku kupe mbolŋge deŋganu
+ssd	minig te sauke suluweg. Taŋgine mbar riroŋkap. Kuate nu nuŋe
+ssd	gageu kulatkate wam ta tane tugum prote le tane pitaide ŋga
+ssd	nu ndek sana: O Marta, ndaŋam ne wamdus suŋgomba teroka
+ssd	Nu pro nane buk firfir gureŋmba agaŋ ndende ŋakmba
+ssd	kile-tidiŋga patikinaig le kaŋgerkumba
+ssd	Ait ta mbolŋge taŋgo suk suk kuga pro maŋgurka muŋgu
+ssd	tido-tidoŋginaig le Yesus nu pasa tugu pilmba nu dubinaig mbal
+ssd	ta saniŋgina: Farisi mbal tuku yis agaŋ ta riroŋkap. Yis ta
+ssd	Tane Kuate tuku gageu nu tuku miŋge kumnemŋge minam tuku
+ssd	wamdus saŋgrinu palpe le Kuate nu ŋgarosu mine mayewam tuku
+ssd	agaŋ ndende kumumbi tiŋgamŋgat.
+ssd	Tane ŋgamuŋgal biye mbil ndawap ta tane mata kume ŋayonu
+ssd	Nu teŋge ye baleyam sakate e? Nu teŋge baleye nda. Ye kite
+ssd	indole aspile ndin dubimba piroka Yerusalem kaŋgit. Yerusalem
+ssd	mbalŋge ye baleyamŋgaig. Naneŋge Kuate tuku tuan taŋgo kame
+ssd	Ande nu ye tuku ŋga idusmba nu nuŋe miroŋ nuŋe ail kazrai
+ssd	kuramba ye dubi ndayate ta nu ye dubiyanu taŋgo minam kumuŋ
+ssd	mam nuŋe piro mbal wika saniŋgina: Tane pitik kumba tawi
+ssd	mayenu ande tumba ilmba siluk tape. Wai tok yubi mayenu pile
+ssd	tumba kupe ŋgaro kilmba pro siluk tape.
+ssd	Ande nu piyo nuŋe pitaimba pino kise tate ta nu pino kuayarmba
+ssd	unekate. Taŋgo ande nu andeŋge pino pitaite le tate ta nu mata
+ssd	pino kuayarmba unekate ŋgina.
+ssd	Taŋana le nu ndek sana: Taŋgo 10 magekaig ta nane 9 ta animbi
+ssd	Ye tane satiŋgamŋgit. Takis kilanu taŋgo ta Kuate am mbolŋge
+ssd	tiŋreknu mayok ka luka nuŋe tumbraŋ kina le Farisi taŋgo ta
+ssd	nu pitik ndo am maraŋga mambilmba Kuate tuku nyu te-duŋga
+ssd	Yesus dubimba kina. Taŋana le nane ŋakmba wam ta kaŋgermba
+ssd	Kuate tuku nyu te-duŋginaig.
+ssd	Tale tumbraŋ si kumba bitekŋga doŋki fat ande pannaig le tiŋ
+ssd	minit afu muskilnu mbolŋge buk minyo ndakinaig ta tale
+ssd	kaŋgeramŋgaik. Kaŋgermba muli kuklimba tumba ye tugum te
+ssd	Ko sine taŋgoŋge ŋgube ta taŋgo pino ndamembi sine bale
+ssd	farsiŋgamŋgaig. Nane ŋakmba Yohanus nu Kuate tuku tuan taŋgo
+ssd	Taŋakinaig le nu nane saniŋgina: Kilke te mbolŋge taŋgo pino
+ssd	Taŋgine ina mam, tira kat taŋgine, ndare tuma, gulab kat
+ssd	taŋgine nane mata tane kilmba ŋgueu mbal tuku wai mbolŋge
+ssd	patikuwaig le tane afu bale faramŋgaig.
+ssd	Yesus nu Petrus le Yohanus sanikina: Tale kumba ka Pasowa tuku
+ssd	agaŋ kuanekap le sine ŋakmba kumba nyube ŋgina.
+ssd	Nane nu kaŋgermba wam ŋaigonu kanu mbal ndoŋ ulendiwamŋgaig
+ssd	Nane taŋamba kasur pasa samba nu tumail panmba minnaig.
+ssd	nane nu ail kazrai mbolŋge nil daŋŋgam tuku saŋgri maramba
+ssd	wi kueŋka Pilatus tuku pasa kuerka te-ibeŋnaig.
+ssd	Kile nu ka Yesus tuku mindesiŋ tam tuku Pilatus sana le nu
+ssd	Taŋaka Yesus nu Moses le tuan taŋgo ŋakmba tuku kuyar ta
+ssd	mbolŋge tugu pilmba kuyar pasa nu tuku sakade ta ŋakmba
+ssd	Nu agaŋ ndende ŋakmba kile-mayokkina. Nu kile-mayok ndakina
+ssd	kande agaŋ ndindo mata mine ndakate kande. Nu ndo tugu.
+ssd	Ye mata nu gilai minen ta tane Israel mbal nu kila palmbim tuku
+ssd	ye pro kule pisne piro biymba minet ŋgina.
+ssd	Yesus nu Galilea ma tugu Kana tumbraŋŋge wam tambi tugu pilmba
+ssd	nuŋe saŋgri te-mayokna. Taŋana le nuŋe dubinaig mbal nu
+ssd	siŋka Kuateŋge madina taŋgo ta son ŋginaig.
+ssd	Ye te-duŋguwaig le ande nu ye kumuŋ ŋga son ŋguwa ta nu abo
+ssd	tugu tumba minmba minamŋgat ŋgina.
+ssd	pino ta nu sana: Suŋgo, burok te kule o sinam nziŋge minit. Ne
+ssd	kunyam tuku murko kuga. Ne aniŋge kule abo ŋak tumba samŋgat.
+ssd	Afu gudommba nu tuku pasa ismba nu tuku son ŋga
+ssd	Taŋakina le Zu mbal nane pasa ta ismba sakinaig: A ... nu
+ssd	amboŋga kusem lukawat. Kile nu lato mbarmba Kuate nu yiŋe Mam
+ssd	ndinok ŋgat ta nu Kuate ndoŋ kumu kumu minanu taŋaŋ ŋgate
+ssd	ŋginaig. Taŋaka nane maŋ gubra tumba nu siŋka balewam tuku
+ssd	Kile Yesus nu waŋ poŋga Galilea kule kualiŋ sim kina. Kule
+ssd	kualiŋ ta nyunu ande Tiberias.
+ssd	O buk sine tuku wa mbuŋ kame nane ma baknu mbolŋge minnaig
+ssd	sulumba mana nyumba minnaig. Kuyar pasa nu teŋenmba sakate.
+ssd	Yesus nu Kaperneum kusem wande sinamŋge nane pasa tumniŋmba
+ssd	minmba nu pasa ta kuklimba saniŋgina le
+ssd	Ande nu nuŋe wamdusmbi pasa kuklite ta nu nuŋe nyu mbol kuwa
+ssd	ŋga pasa kuklite. Ande nu nuŋe suŋgo tuku nyu mbol kuwa ŋga
+ssd	pasa kuklite ta nu tugusek. Nu yabri kugatok.
+ssd	Sine Farisi ko gabat ande nu tuku son ŋgate le kaŋger ndade
+ssd	Ta tuku ye satiŋgit. Tane une ŋak minmba kumamŋgaig. Tane
+ssd	yiŋe miroŋ tuku sakit ta son nda ŋgap ta tane siŋka une ŋak
+ssd	nu ndek saniŋgina: Ye yiŋe miroŋ yiŋe nyu payam ndaket.
+ssd	Yiŋe Mam nuŋge ye tuku nyu te-duŋgate. Tane nu sine tuku
+ssd	nu lafumba saniŋgina: A ... ye buk satiŋgit le tane isaig.
+ssd	Ndaŋam saka maŋ lato isam tuku kusnaŋgade. Tane mata nu
+ssd	dubiwanu taŋgo minam idusde e ŋgina le
+ssd	Ye yiŋe ŋgarosu mape ndamba kumi sulumba maŋ abo tumba
+ssd	tiŋgamŋgit. Ta tuku yiŋe Mam nu ye tuku kume purte.
+ssd	Yesus nu Maria le Marta leu nakile Lasarus nu nane tuku kume pur
+ssd	Sanzal mbal nane mara mara tane ŋgamukŋge minamŋgaig. Ye tane
+ssd	ndoŋ ait kuennu mine nda ŋgina.
+ssd	Kile kilke mbol mbal pileniŋgam tuku ait prote. Kilke te tuku
+ssd	gabat Satan Kuateŋge te-ibeŋamŋgat.
+ssd	Nu nane tuku kupe minyaŋge deŋpurmba nu tiŋga nuŋe siot
+ssd	tumba silika isukusam tuku ma mbol kina sulumba nane
+ssd	kusnaniŋgina: Ye tane mbolŋge maŋau kit ta tane tugunu
+ssd	Mam tuku tumbraŋŋge wande gudommba minig. Taŋamba mine
+ssd	ndakuwaig ta ye satiŋge nda. Ye kumba ka tane tuku ma
+ssd	Ariya. Kile tiŋgap le kab ŋgina.
+ssd	Tane son maŋau kusrebekaig ŋga ye pasa ŋakmba ta sake likit.
+ssd	nu ndek sakina: Tane kile ye tuku son ŋgade e?
+ssd	Yesus nuŋe dubiwanu mbal ndoŋ mara mara piro ta mbolŋge
+ssd	maŋgurka minanu tukunu Yesus tuku kupet taŋgo Yudas nu ma ta
+ssd	Pilatus nu luka wande sinam kina sulumba afu saniŋgina le nane
+ssd	Yesus tumba pronaig le nu kusnana: Ne Zu mbal tuku gabat suŋgo
+ssd	Pilatus nu nane saniŋgina: Kuga. Ye kuyarit ta ndo minwa ŋgina.
+ssd	Taŋamba minna le Simon Petrus pinderka pro burok sinam kina
+ssd	sulumba tawi mindesiŋ kusnaig ta ndo minna le kaŋgerna.
+ssd	Kile nu nane wika kusnaniŋgina: Oi. Mata kame, tane kualegaŋ
+ssd	afu kilaig e ŋgina le kualegaŋ kuga o ŋginaig.
+ssd	Taŋamba saniŋmba minna le nane nu kaŋgermba minnaig le
+ssd	Kuateŋge nu te-duŋga tumba samba mbol kina le gau kaukauk ande
+ssd	pro nu soŋgina le nane maŋ nu kaŋger ndanaig.
+ssd	Sine afu Partianu, Medianu, Elamnu, Mesopotamianu. Sine afu
+ssd	Yudeanu, Kapadosianu, Pontusnu, afu Asianu.
+ssd	Tira kame, ye pasa satiŋgamŋgit te tane kila. Siŋgine mbuŋ
+ssd	David nu kumna le ŋgukinaig. Nu tuku kumu ta kile minit le
+ssd	Taŋgo ta Petrus le Yohanus bigmba nane ma ande nyunu Solomon
+ssd	tuku kawaŋ pronaig le nane gudommba pinder-pindermba pro taŋgo
+ssd	ta kaŋgermba pirerek purka wai makemba minnaig le
+ssd	Taŋgo ande nyunu Ananias nu piyo nuŋe Safira ndoŋ kilke inum
+ssd	piyamba ndametiŋ kilnaik.
+ssd	Sine Israel mbal ŋgamuŋgal biye mbilbe le Kuate nu sine tuku
+ssd	une saukamŋgat. Ta tuku nu Yesus tumba te-duŋga nuŋe ndinam
+ssd	kumamŋge pilna le kile nu sine ŋakmba tuku gabat suŋgo minit.
+ssd	Nu sine tuku muskil kile-tidiŋge siŋgit tuku taŋgo.
+ssd	Ne naŋe kuasmbi naŋe kilke kusreka kaye. Yeŋge kilke kise
+ssd	Suŋgoŋge nu sana: Ne tiŋ minit ma ta tukul ma. Ne kupe ŋgaro
+ssd	Kaŋgermba nu ndek sakina: Ambe kaŋgerap. Samba talkat le
+ssd	Katesek Taŋgo nu Kuate tuku ndinam kumamŋge tiŋ minit le
+ssd	Suŋgo tuku eŋel ande Filipus tugum promba sana: Ne tiŋga
+ssd	Yerusalem kumam si kaye. Yerusalem kusremba Gasa kambim tuku
+ssd	ndin ma baknu mbol kinit ta dubimba kaye ŋgina.
+ssd	Taŋakina le Ananias ndek nu sana: O Suŋgo, taŋgo ta
+ssd	Yerusalemŋge ne tuku mbal kilmba ŋaigo siglikanu ŋga
+ssd	gudommbaŋge sakade le iset.
+ssd	Wam ta Yopa tumbraŋ suŋgo kumuŋgina le nane gudommba Suŋgo
+ssd	Kaŋgerka nu ndek saniŋgina: Sine Zu taŋgo tane kasomok mbal
+ssd	tuku wande mbol kumba ko tane ndoŋ isukusam tuku tukul suŋgo
+ssd	ŋak ta tane kila. Kuate nu wam ande ye tumyina tukunu ye wamdus
+ssd	kitek tumba kasomok mbal ta ŋaigonu ŋge nda.
+ssd	Kina le ait ndui ta mbolŋge ndo Sesareaŋge Kornelius nu taŋgo
+ssd	keŋmba ye tam tuku kukulniŋgina le ye wande minen ta tugum
+ssd	Kina le nu wamdus puluna le wamdusmbi sakina: Herodus nu ye
+ssd	ŋayo siliyam iduste le Zu mbal wam ta tairŋga minig ta Kuate
+ssd	nu ye nane tuku wai mbolŋge te-luka tam tuku eŋel te kukulat
+ssd	Pro taŋge minmba kusem ait ande mbolŋge nale kumba ka Zu mbal
+ssd	tuku kusem wande sinam taŋge minyokinaik.
+ssd	Kuate talaka nzumil te-tuwig mbal tane isap.
+ssd	Taŋgo kame, ndaŋam saka tane wam te kam bafude. Sile taŋgo
+ssd	tane minig taŋaŋ. Sile pasa mayenu tumba te prokik. Taŋgine
+ssd	maŋau alo kugatok te kusremba mbilka Mbara ndindo abo tugu ŋak
+ssd	nu ndo dubiwap ŋga tumtiŋgam prokik. Nuŋge samba tugu kilke
+ssd	tugu yu tugu agaŋ ndende ŋakmba wakeikina.
+ssd	Afuŋge David tuku tugu ŋaigo siglika kile-ibeŋkinaig ta
+ssd	ŋgumneŋga ye pro wakeiki le maŋ mayok kaŋgaig.
+ssd	Nale kumba ka Derbe promba Listra kinaik. Ka taŋge taŋgo ande
+ssd	Yesus dubina tuku nyunu Timoteus minna le kaŋgernaik. Ina nuŋe
+ssd	Zu pino. Nu mata Yesus son ŋgina. Mam nuŋe Grik taŋgo.
+ssd	nale nu sanaik: Ne Suŋgo Yesus tuku son ŋga le nu ne tuku
+ssd	muskil te-tine tinwa sulumba naŋe ndare tuma mbal turmba
+ssd	kile-tidiŋge niŋguwa ŋginaik.
+ssd	Atens mbal rawe mbal taŋge minnaig ta turmba nane ait ŋakmba
+ssd	mbolŋge wam kube kitek saka ismba minanu.
+ssd	Nane ka kusem wande kulat taŋgo Sostenes biye timba tumba ka
+ssd	pasa pilewanu wande tugum taŋge paniŋtinaig ta Galio nu wam ta
+ssd	kaŋgermba nda kaŋgeranu sukmba minna.
+ssd	Wam ŋakmba ta mayok kinaig le Paulus nu wamdus tumba nu
+ssd	Masedonia le Akaia ma tugu kuwa sulumba maŋ luka Yerusalem
+ssd	kambim tuku sakina. Ŋgumneŋga nu Rom mata kaŋgeram tuku saka
+ssd	Taŋanaig le Paulus nu ibeŋ ka nu mbolŋge baufka bagailmba
+ssd	sakina: Tane wamdus fulil ndakap. Nu abo ŋak minit ŋgina.
+ssd	Pro taŋge waŋ ande Finisia kambim bafuna le ta poŋga kageŋ.
+ssd	nu pitik ndo kame gabat afu kame mbal ndoŋ kilmba pinderka nane
+ssd	tugum pronaig. Pronaig le nane Paulus paniŋta minmba kame gabat
+ssd	suŋgo nuŋe kame mbal ndoŋ kaŋgerka nane Paulus kusrenaig.
+ssd	nu ye sayina: Kuga. Ne tiŋga le kukulni le ma masken kasomok
+ssd	mbal tugum kaŋgat ŋga sayina ŋgina.
+ssd	Taŋaka sana le kame gabat suŋgo ndek nu sana: Pasa sayate te
+ssd	ye nu sawit ŋga ande sa ndawa ŋgina. Taŋamba wam pagumba kaye
+ssd	Zu mbal nane taŋgo magenu ŋaigonu kumwaig le Kuateŋge
+ssd	kile-tidiŋgamŋgat ŋga idusde ta ye mata taŋamba iduset.
+ssd	Taŋanaig le nu pasa mbolŋge pilnaig mbal nane tiŋga Paulus nu
+ssd	mbar suŋgowanu sakinaig le mbar ande ŋayonu kanu ŋga idusen
+ssd	Baleyam sakinaig ta mara mara Kuate ye turyumba ka kile turyate
+ssd	le tane nyu ŋak mbal nyu kugatok ŋgamukŋge pasa kukliwet.
+ssd	Moses tuan taŋgo ŋakmba wam prowam tuku buk sake likinaig ta
+ssd	ndo kuklimba saket. Ye pasa kise sa ndaket.
+ssd	Kageŋ ka ait afu ma dabuka pa guwa tiŋgina le sine ki mbai
+ssd	kaŋger ndakigeŋ. Bubre yu suk suk nda tiŋga sine kilmba
+ssd	kublisiŋgina le sine wamdus mayenu pro kinaig le ŋgisikamŋgig
+ssd	Kile Malta mbal nane nu tuku wai fulilkamŋgat e ko nu am purwa
+ssd	le ndekamŋgat e ŋga idusmba nu kaŋgermba minnaig. Taŋamba
+ssd	idusmba minnaig ta Paulus tuku ŋgaro mbolŋge maŋau ande mayok
+ssd	ndakina le nane wamdus mbilmba sakinaig: Nu mbara ande ŋginaig.
+ssd	Taŋamba saniŋgina le Zu mbal nane wamdus pur yimyamka
+ssd	kualeyauka sili-silinaig.
+ssd	Nane taŋamba Kuate pitaide tukunu Kuate nu nane wai kusrekate.
+ssd	Taŋate le nane nzali ŋaigonu kikokam tuku maŋau saŋgri
+ssd	kumnemŋge minig. Pino kame nane taŋgo ndoŋ minam tuku maŋau
+ssd	ndinok ta mbilmba kiko maŋau ke likade.
+ssd	Kuyar pasa tane Zu mbal tuku teŋenmba sakate.
+ssd	Ŋgamuŋgal mukuk wamdus bulok minam tuku maŋau ta nane gilai.
+ssd	Tukul pasa ŋakmba kumumbi dubide mbal Kuate tuku wam magenu
+ssd	kilam tuku minwaig ndeta sine Kuate tuku saŋgri tomba tiŋgeg
+ssd	wam ta alo kugatok. Taŋamba kande ande nu wam magenu ta kilam
+ssd	Adam nu ande ŋgumneŋga prowamŋgat ta kubena. Kuate nu wam
+ssd	mayenu piya kugatok siŋgina ta Adam nu unekina wam ta limba
+ssd	siŋka kise. Taŋgo ande tuku une maŋau mbolŋge taŋgo ŋakmba
+ssd	kume likinaig ta taŋgo ande Yesus Kristus tuku wam mayenu
+ssd	mbolŋge Kuate nu taŋgo ŋakmba tursiŋgit. Nuŋe ake sinaŋ
+ssd	make patikate wam mbolŋge Kuate nu wam mayenu piya kugatok
+ssd	taŋgo ŋakmba mbolŋge lato lato pilit.
+ssd	Tira kame, tane tukul pasa ŋak minig mbal ye tane
+ssd	satiŋgamŋgit. Taŋgo abo minig ait mbolŋge ndo tukul pasaŋge
+ssd	nu kulatka minit ta tane kila.
+ssd	Nane taŋgo tuku maŋau gisleknu kumnemŋge minig mbal naŋgine
+ssd	wamdus taŋgo tuku wam mbolŋge ndo minig. Tukul Guwa tuku nzali
+ssd	kumnemŋge minig mbal naŋgine wamdus Tukul Guwa tuku wam
+ssd	Kristus nu sine tuku kume purmba minit ta imaŋge nu tuku kume
+ssd	purte wam ta kuerkam kumuŋ? Piti ait, sinamanzer, afuŋge
+ssd	kasursiŋgig, gubak mineg, agaŋ denkanu mineg, kame agaŋ sine
+ssd	tugum prode, afu balesiŋgam bafude wam kame ta ŋakmba nu tuku
+ssd	kume purte wam ta kuerkam kumuŋ kuga.
+ssd	Ata. Kuate nu nuŋe nzali dubimba afu mapekate sulumba afu nuŋe
+ssd	pasa pitaiwam tuku wamdus kareŋnu niŋgit.
+ssd	Sine pasa tambi ande nu samba mbol kumba Kristus tumba ndekuwa
+ssd	le son ŋgam kumuŋ ŋganu sukeg.
+ssd	O Suŋgo, nane Israel mbal ne tuku tuan taŋgo ŋakmba kilmba
+ssd	bale farmba ne atraukam tuku mbain ta kilmba ŋaigo siglikade.
+ssd	Kile ye yiŋe ndo ne dubinumba minet le nane ye mata baleyam
+ssd	Taŋamba ye nane ndoŋ pasa katen ta kumumba nane tuku une
+ssd	Suŋgo nu sakate: Maŋau ŋaigonu lafunu ta ye tuku piro. Yeŋge
+ssd	Suŋgo nu sakate: Ye siŋka abo minet taŋaŋ pasa te siŋka
+ssd	mayok kaŋgat. Taŋgo ŋakmba ye tugumŋge dagol
+ssd	tidroŋgamŋgaig. Nane ŋakmba ye tuku nyu te-duŋgamŋgaig
+ssd	Tuan taŋgo Aisaia nu mata sakina:
+ssd	Mbal ŋakmba nyu kilamŋgit te yiŋe gare pasa te saniŋgap.
+ssd	Yiŋe gulab mayenu Epenetus. Asia mbal ŋgamukŋge nu amboŋga
+ssd	Kuate nu nuŋe Kiŋo siŋgine Suŋgo Yesus Kristus tane nu ndoŋ
+ssd	muŋgu gare ŋak minam tuku wikina. Nu siŋka wam ta
+ssd	Kuate tuku mbal nane kila sugo ŋak nane ŋgamukŋge sine wamdus
+ssd	kila sugo niŋgeg. Wamdus kila ta kilke te mbolok kuga. Kilke te
+ssd	tuku sugo sugo kila kilig taŋaŋ sine kile ndakeg. Mbal ta
+ssd	Sine Kuate tuku tukul wande mineg. Nuŋe Guwa sine sinamŋge
+ssd	Tane tuku ande nu mam nuŋe tuku pino kuayarmba nu ndoŋ minit
+ssd	ŋga sakade le ye iset. i ... Kuate gilai mbal mata taŋamba
+ssd	Tane nu tuku taŋgo minam tuku Kuate nu piya suŋgo kusrena. Ta
+ssd	tuku taŋgine ŋgarosumbi nu tuku nyu te-duŋgam tuku maŋau
+ssd	mayenu kam tuku palpe le minwa.
+ssd	Kilke kaŋgereg te ŋgisikamŋgat. Ta tuku tane kilke te tuku
+ssd	wam ŋakmba tuku suŋgomba idus ndaniŋgap.
+ssd	Maŋau ta taŋgo tuku wamdus ndo kuga. Kuate tuku wamdus mata.
+ssd	Sine nane taŋaŋ gubra tumba wam sak pile ndabe. Wam ta tuku
+ssd	kame eŋelŋge nane bale farna.
+ssd	Pino ande nu gabat soŋgam mbulmba ndeta andeŋge nu tuku gabat
+ssd	waŋe kuer suluwa. Taŋawa le nu ta tuku kikowa le nu gabat
+ssd	Ta tuku ye kilimok tane satiŋgamŋgit. Ande nu Kuate tuku
+ssd	Guwaŋge wamdus tuwit le nu Yesus kasurmba tapra ndate. Nu Tukul
+ssd	Guwaŋge wamdus tuwit le ndo Yesus nu Suŋgo ŋgate.
+ssd	Ye Tukul Guwa tuku saŋgri afu ŋak minmba Tukul Guwaŋge pasa
+ssd	sayate le ismba kile-mayokka wam kuirok ŋakmba katesemba ye
+ssd	Kuate tuku saŋgri tomba tiŋga tabe dirniŋgam kumuŋ minet
+ssd	sulumba kume pur maŋau denket ta ye ake agaŋ taŋaŋ minet.
+ssd	Ye pasa kuale gilai gudommba ŋak minet ta kusem mbolŋge ye
+ssd	sakam idus ndawet. Ye pasa kila ta ndo sakam iduset. Pasa kila
+ssd	ndui ndui saket ta pasa kuale gilai gudommba saket wam lite. Ye
+ssd	pasa kila saket tambi Kuate tuku wam afu nane tumniŋgam kumuŋ.
+ssd	Ye Kuate tuku kuasmbi kilmba ŋaigo sigliken tukunu ye aposel
+ssd	nyu tet ta denkate. Ye aposel ŋakmba kumnemŋge minet.
+ssd	Yoi. Ne agaŋ tumu ŋgukate le kilkek sinamŋge kumit sulumba
+ssd	Ye Masedonia kilke mbol kambim idusmba minet. Ye ka sulumba tane
+ssd	Sine kume dirgeŋ le nu sine turkina. Nu taŋamba maŋ
+ssd	tursiŋgamŋgat ŋga sine wamdus bulok mineg.
+ssd	Kuateŋge nuŋe piro kam tuku madisiŋgina mbal sineŋ ndo
+ssd	kumuŋ. Sine Kristus ndoŋ ulendika Kuate am mbolŋge wamdus
+ssd	tugusekmbi nuŋe pasa kukliweg. Nane afu ndametiŋ kilam tuku
+ssd	ndo nu tuku pasa kuklide ta sine nane taŋaŋ kuga.
+ssd	Ande nu kuyar pasa mbolŋge teŋenmba kuyarna.
+ssd	Kuate nu teŋenmba sakate.
+ssd	Nu prona ta tuku ndo wamdus bul ndakinaig. Nu pro tane tuku
+ssd	maŋau kaŋgermba wamdus bulok tina ta kubeu siŋgina le ismba
+ssd	sine mata wamdus bulkinaig. Tane ye suŋgomba idusyumba taŋgine
+ssd	mbar tuku kiko kamusmba malmbikade. Tane ye tuku pasa dubiwam
+ssd	tuku suŋgomba idusde. Ye wam ta ŋakmba ismba tane tuku gare
+ssd	20-21 Taŋamba idusmba afu sine talasiŋmba ndametiŋ suŋgo ta
+ssd	kulat maye ndade ŋgubekaig ŋga sine nu tumba likeg. Sine
+ssd	Suŋgo am mbolŋge piro mayemba taŋgo am mbolŋge mata piro
+ssd	mayebe le kilimok mayok kuwa ŋga iduseg.
+ssd	Taŋakade mbal tane ye tuku pasa te ise mayewap. Sine waŋe
+ssd	kuyarka pasa saŋgrinu sakeg te tane tugumŋge taŋamba ndo ke
+ssd	Yabri aposel naŋgine maŋau tuku payamkade. Ta tuku ye mata
+ssd	ŋgin ŋgan maŋau tambi payamkam kumuŋ.
+ssd	Tane waŋe te burka sine tane am mbolŋge tiŋreknu mayok kambim
+ssd	tuku kuyaraig ŋga idus ndawap. Sine Kristus ndoŋ ulendika
+ssd	nuŋe wamdus dubimba Kuate am mbolŋge pasa te kuyarkeg. Tane
+ssd	tuku son ta saŋgri pilewam tuku ndo kuyarkeg.
+ssd	Ye siŋgine mbuŋ kame tuku maŋau ŋakmba mage minam tuku
+ssd	ŋgamuŋgal kunde-kundeyina le sine Zu mbal tuku tukul pasa dubi
+ssd	mayemba yiŋe usre tuma mbal ŋakmba liniŋgen.
+ssd	O Galesia mbal, tane ŋginŋgan wamdus ndo tade. Yesus Kristus
+ssd	nu sinenu ŋga ail kazrai mbolŋge kumna ta ye tugusemba
+ssd	satiŋmba tumtiŋgen le tane kila pile mayenaig. Imaŋge ŋule
+ssd	parak pasambi tane tuku wamdus mayenu ta didika balena?
+ssd	Kristus nu prona le sine nu tuku kume tuku saŋgri toweg le
+ssd	maŋau ande sine kulatkam tuku mine ndakate.
+ssd	Sine samba mbolŋge Yerusalem kitek tuku mbal mineg ta tukul
+ssd	kumnemŋge ndalekanu mine ndakeg. Sine Sara tuku kiŋo kame
+ssd	Tane Tukul Guwa tuku wamdus dubide sulumba tukul pasa kumnemŋge
+ssd	Siŋgine Suŋgo Yesus Kristus tuku Mam Kuate sine nu tuku nyu
+ssd	te-duŋgube. Sine Kristus ndoŋ ulendikeg le Kuate nu samba
+ssd	mbolok wam magenu ŋakmba Tukul Guwa mbolŋge siŋgit le gare
+ssd	Sine Kuate tuku wai kuyar mineg. Nu Kristus Yesus mbolŋge sine
+ssd	wam magenu ke likam tuku nu sine abo kitek siŋgina. Nu o buk
+ssd	sine taŋamba minbe ŋga idusna.
+ssd	18-19 Tane taŋamba minap sulumba tane Kuate tuku mbal ŋakmba
+ssd	ndoŋ Kristus tuku kume pur wam ta katese mayewamŋgaig. Nu tuku
+ssd	kume pur maŋau ta suŋgokanu o mbolŋge. Ande nu tuku kume pur
+ssd	maŋau suŋgo ta kila pile suluwam kumuŋ kuga. Tane lato lato
+ssd	kila palpe ta tane Kuate tuku maŋau ŋakmba te-puramŋgaig. Ye
+ssd	tanenu ŋga taŋamba Kuate yabaŋet.
+ssd	Satan pirokam tuku ndin wakei ndawap.
+ssd	Kristus tuku kuasmbi nane nu kumnemŋge minig taŋamba ndo pino
+ssd	kame tane wam ŋakmba mbolŋge taŋgine taŋgo kumnemŋge minap.
+ssd	Ye pasa mayenu tuku kukul taŋgo minet tukunu ye muliŋtanu
+ssd	wande te mbolŋge minet. Tane Kuate yabaŋap le ye kuru kuru
+ssd	kugatok kumumbi pasa ta kukliwi.
+ssd	Ta tuku ye teŋenmba iduset. Ye tane saŋgri piletiŋgi le
+ssd	taŋgine ŋgamuŋgal son suŋgokuwa le tane gare ŋak minam tuku
+ssd	Nu maŋ tane kaŋgerkam tuku wamdus suŋgo ŋak minit. Nu guaze
+ssd	ŋak minna ta tane isnaig tukunu nu piti ŋak minit.
+ssd	Tane taŋgo ŋakmba ŋgamukŋge ŋgan maŋau te-mayokap le kila
+ssd	pilwaig. Suŋgo prowam tuku ait buk patukate.
+ssd	Tane Mam Kuate tuku nyu te-duŋgap. Nu nuŋe wam magenu kilam
+ssd	tuku nyu siŋgina ta sine nuŋe bulu ŋak ma mbol kumba
+ssd	Tane o buk uneka kumaknu minmba kasomŋge Kuate gilai minnaig ta
+ssd	kile Kuate nu tane tuku une ŋakmba saukina sulumba tane Kristus
+ssd	ndoŋ abo ŋak kile-tidiŋgina.
+ssd	Kiŋo kame, tane wam ŋakmba mbolŋge ina mam tuku miŋge
+ssd	dubikap. Suŋgo nu wam ta nzalite.
+ssd	Tane pasa mayenu ismba dubimba piti suŋgomba kaŋgerkinaig ta
+ssd	Tukul Guwa tane turka sinzaŋtiŋgina le tane wamdus bulkinaig.
+ssd	Taŋamba tane Suŋgo tuku maŋau sine tuku maŋau ndui ta
+ssd	O tira kame, sile piti suŋgo sinamanzer ŋak minmba tane tuku
+ssd	ŋgamuŋgal son tuku maŋau isek le wamdus bul sersikit.
+ssd	Ta tuku afu kinyanu taŋaŋ minig ta sine kinye ndakube. Sine
+ssd	wamdus kuyar mayenu ŋak mambilmba minbe.
+ssd	Nu nane pa niŋguwa le nane Suŋgo tuku tumail nuŋe kilŋa maŋ
+ssd	kaŋger ndamba mine ŋayonu mbolŋge minmba minamŋgaig.
+ssd	Sine tane ŋgamukŋge mingeŋ sulumba teŋenmba wam
+ssd	pagutiŋgigeŋ. Taŋgo ima nu piro ndaka ake minwa kande nu
+ssd	nyamagaŋ nye ndakuwa ŋgigeŋ.
+ssd	Ne taŋamba Kuate yabaŋa ta ne wam mayete. Kuate nu sine muskil
+ssd	kile-tidiŋge siŋgit nu yabaŋ maŋau ta nzalite.
+ssd	Tukul Guwaŋge maŋau mayok kaŋgaig ta kilimok sakate.
+ssd	Ŋgumneŋga afu Kristus tuku son ŋgade ta kusremba guwa
+ssd	ŋaigonuŋge nane yabriniŋguwaig le ismba bukla tuku pasa
+ssd	Kuyar pasa ande teŋenmba sakate.
+ssd	Nane afu sine kila ŋak ŋga wamdus mbarmba Kristus tuku son nda
+ssd	Sine piti sinamŋge saŋgri tiŋga minmba minbe ta sine Kristus
+ssd	ndoŋ gabat sugo minamŋgig. Sine nu ŋgumnebe ta nu mata sine
+ssd	ne wamdus saŋgrinu pilmba pasa kuklimba nane saniŋgina. Nane
+ssd	ne tuku pasa isam tuku nzali ŋak e ko nzali kugatok ta taŋaig
+ssd	ŋga ne pasa te kuklimba nane tuku wamdus purfeu serniŋmba
+ssd	kile-tidiŋga wamdus kuagneka. Ne kanyum ndamba pasa ta
+ssd	Nane gudommba miŋge kumnemŋge mine ndaka pasa alo kugatok saka
+ssd	afu yabriniŋgig. Zu mbal afu kile Kristen ŋgamukŋge minig ta
+ssd	Pasa te siŋka son pasa ndo. Ta tuku ye pasa sake likit te
+ssd	ŋakmba saŋgri tiŋga saniŋga le Kuate tuku son ŋgade mbal
+ssd	nane wam magenu kam tuku wamdus saŋgrinu pilwaig. Wam kame ta
+ssd	magenu ndo taŋgo pino turkade.
+ssd	Markus Aristarkus Demas Lukas yiŋe piro tuma mbal nane mata ne
+ssd	Nane tawi abonu kilmba tiŋgig taŋaŋ ne samba kilke urfunu
+ssd	kile-sika maŋ abonu kile-mayokkamŋgat.
+ssd	sine kumam tuku kuru-kuruka mineg ta sine tuku muskil
+ssd	kile-tidiŋga kuru kuru wam ta tukulna.
+ssd	3-5 Sine nu tuku pasa ismba son ŋgeg mbal ndo Kuate ndoŋ mabta
+ssd	mineg. Kuate nu tugu mbolŋge agaŋ ndende ŋakmba kile-mayokka
+ssd	nuŋe piro ŋakmba sugluka mabtina. Kuate tuku pasa mbolŋge
+ssd	ande nu mara 7 tuku teŋenmba kuyarna.
+ssd	Taŋgo sugoŋge ndo nyamagaŋ kareŋnu nyade. Nane mara mara
+ssd	maŋau tiŋreknu dubika wam magenu ŋaigonu pitik katesede
+ssd	sulumba wam magenu ta ndo dubikade.
+ssd	9-10 Melkisedek nu ndinŋge Levi tuku mbuŋ Abraham kaŋgerna le
+ssd	ait ta mbolŋge Levi kugatok ta nu mbuŋ nuŋe tuku fuŋgul
+ssd	sinamŋge minna. Abraham nu nuŋe agaŋ ndende maŋgur 10 patika
+ssd	ande Melkisedek tuna ta nu nuŋe ndare Levi tuku turmba
+ssd	Melkisedek tambinu taŋaŋ kina. Ta tuku kile Levi tuku mbuŋ
+ssd	afu naŋgine mbal tuku agaŋ ndende ndui ndui yaika kilig ta
+ssd	nane pris suŋgo Melkisedek li ndade.
+ssd	Nyu ŋak nyu kugatok mbal nane ŋakmba ait ta mbolŋge ye kila
+ssd	Taŋamba ndo Kristus nu nuŋe ŋgarosu pilna le nane nu balenaig
+ssd	le nu kumam nduina sulumba taŋgo gudommba tuku une saukina. Nu
+ssd	maŋ luka prowamŋgat ta une saukam tuku prowe nda. Sine nu
+ssd	minde mineg mbal sine tuku muskil kile-tidiŋge siŋgam tuku
+ssd	Sine taŋamba mineg ta sine pilesiŋgam tuku ait Kuate nuŋe
+ssd	ŋgueu mbal kilmba pa kame ŋayo mbol pankamŋgat ta tairŋga
+ssd	Nane ma kise mayenu ndo sota minnaig. Ma ta samba mbolok. Nane
+ssd	Kuate nu sine tuku Mbara ŋginaig le nu nane tuku nyu yabu ndaka
+ssd	samba mbolŋge tumbraŋ ta kuaneke niŋgina.
+ssd	Ye ne sane liket ta saŋgri kusremba baklel ndawa.
+ssd	Pino taŋgo ndoŋ muŋgu kilik maŋau mayenu ta ake agaŋ ŋga
+ssd	idus ndamba kurau mayewap. Ande nu maŋau ta purte ta nu mbar
+ssd	suŋgote. Pino taŋgo ŋak ko mbanzonu kuayarde mbal Kuate nu
+ssd	nane ŋakmba pileniŋgamŋgat.
+ssd	Tane Kuate tala ndamba nu kumuŋ ŋga nu yabaŋap. Ande nu
+ssd	wamdus terokate ta nu bubreŋge yu fitte le yu toŋgel tiŋgate
+ssd	Tane Kuate tuku tukul pasa ŋakmba dubika ndindo ndo lukawap ta
+ssd	tane tukul ŋakmba lukakanu taŋaŋ.
+ssd	Ne nane afu tuku mine mayenu tuku gubra pilmba naŋe ŋgarosu
+ssd	ndo idusmba ŋakmba tidoŋ panka minit ta naŋe nyu payamka ye
+ssd	wamdus kuyar mayenu ŋak minet ŋga yabri ndaka.
+ssd	Taŋamba ndo tane ŋgamuŋgal wamdus bulok ŋak minmba saŋgri
+ssd	tiŋgap. Suŋgo prowam tuku ait buk patukate.
+ssd	Tane Kuate nu siŋgine Mam ŋgade ta nu sine taŋgo ŋakmba tuku
+ssd	maŋau kumumbi pilesiŋgit. Ta tuku tane riroŋka kilke te
+ssd	mbolŋge minmba nu kumnemŋge minap.
+ssd	Kilke tuku gabat suŋgo ko gabat foŋfoŋ nu tuku nyu mbolŋge
+ssd	pirokade nane ŋakmba kumnemŋge minap. Gabat foŋfoŋ nane
+ssd	mbarde mbal lafu ŋayonu niŋmba wam mayede mbal nyu
+ssd	kile-duŋgam tuku nu patikate le nane piro ta kade.
+ssd	Ko afuŋge tane maŋau magenu kap le kilmba rar tiŋguwaig kande
+ssd	taŋaig. Kuate nu tane mbolŋge wam magenu kamŋgat. Tane taŋgo
+ssd	tuku wam idusmba kuru kuru ndakap.
+ssd	Tane gabat kame, ye mata gabat taŋgo minet. Kristus nu rar
+ssd	suŋgo tina ta yiŋe ammbi nu kaŋgeren. Nu nyu suŋgo kilŋa
+ssd	saŋgri ŋak mayok kuwa le ye nu ndoŋ kilŋa saŋgri ŋak
+ssd	minamŋgit. Ye tane sarsartiŋmba satiŋgamŋgit.
+ssd	Sine siŋgine Suŋgo Yesus Kristus saŋgri ŋak maŋ luka ndekam
+ssd	tuku satiŋgigeŋ ta taŋgo tuku wamdus kuyarmbi yabri wam kube
+ssd	sa ndatiŋgigeŋ. Kuga. Sine siŋgine ammbi nu tuku kilŋa
+ssd	tane pasa te katese mayewap. Kugawam tuku ait mbolŋge afu
+ssd	promba naŋgine ŋgarosu tuku nzali dubika ŋgamuŋgal son tuku
+ssd	maŋau talaka nzumilmba sakamŋgaig:
+ssd	Kile ma make buk kugate le bulu tugusek tane kilŋatiŋmba
+ssd	minit. Ta tuku pasa kitek taŋaŋ kuyaret. Tukul pasa te alonu
+ssd	Kristus mbolŋge mayok ka tane mbolŋge mata mayok kinit.
+ssd	Ande nu Kristus ndoŋ sailkate ta nu une maŋau kumba mine
+ssd	ndakate. Ande nu une maŋau kumba minit ta nu Kristus kaŋger
+ssd	Kuate nu nuŋe Guwa siŋgina wam ta mbolŋge sine kateseweg.
+ssd	Sine Kuate ndoŋ sailkeg le nu sine ndoŋ minit ŋga kateseweg.
+ssd	Ne tuku kiŋo kame afu Mam Kuate tuku miŋge ta kumumba tugusek
+ssd	maŋau dubikade le ye ismba gare toret.
+ssd	Tane gilai minig le Kuate ŋgumnede mbal afu tane ŋgamukŋge
+ssd	mayok kinig ta ye tane kila satiŋget. Nane naŋgine wamdusmbi
+ssd	Kuate tuku maŋau mayenu mbilmba nu sine make patikate ŋga kiko
+ssd	kugatok unekade sulumba siŋgine Suŋgo Yesus Kristus pitaide. O
+ssd	buk Kuate nu nuŋe kuyar pasa mbolŋge mbal ta ŋgisikamŋgaig
+ssd	Tane isap. Nu gau mbolŋge ndekuwa le taŋgo ŋakmba nu
+ssd	kaŋgeramŋgaig. Nane nu tuku ŋgarosu soburonaig mbal mata nu
+ssd	kaŋgeramŋgaig. Kilke mbolok mbal ŋakmba nu kaŋgermba malmbi
+ssd	wikarauwamŋgaig. Siŋka taŋamba prowamŋgat. Son.
+ssd	Tane maŋau ŋaigonu ta kusreka ŋgamuŋgal biye mbilap. Kuga ta
+ssd	ye dal ndaka tane tugum promba bagi miŋgekŋge minit tembi tane
+ssd	Tane ŋgamuŋge minig tukunu ye tane ŋgilikam bafuwet.
+ssd	Nane mune kitek teŋenmba ulnaig.
+ssd	Tabe ndame tane ndeka sine tidoŋ patikap le Kuate nu minyo
+ssd	mbili maditaknu mbolŋge minyok minit nale Sipsip Fat ndoŋ sine
+ssd	tuku gubra ŋak ta nale sine kaŋger ndakuwaik.
+ssd	Kile eŋel bailkanu ta nuŋe tabil fitkina le ki tambun mbai
+ssd	ŋakmba fet keŋanu ta inum ŋayo silimba armba mine likinaig.
+ssd	Taŋamba ki ait inumnu dabuka armba bulu ŋak. Furir ait inumnu
+ssd	Eŋel 7-nu nuŋe tabil fitkuwa le Kuate tuku wamdus kuirkanu o
+ssd	buk nuŋe tuan taŋgo kame saniŋgina ta kumuŋgamŋgat ŋgina.
+ssd	Pino ta kua ka Kuate nu minam tuku ma ma baknu mbolŋge wakeina
+ssd	ta mbol kina ka taŋge nu ki ait 1,260 minna le Kuateŋge nu
+ssd	Ye kiŋatanu suk Sion tabe mbolŋge Sipsip Fat tiŋ minna le
+ssd	kaŋgeren. Nane gudommba 144,000 nu ndoŋ tiŋ minnaig. Nane
+ssd	Sipsip Fat le Mam nuŋe tuku nyu tumail mbolŋge kuyaranu ŋak.
+ssd	Wande ta sinamŋge eŋel 7 piti 7 kile-mayokkam tuku mayok
+ssd	kinaig le kaŋgerken. Naŋgine tawi kugennu kaukauk kilŋa ŋak.
+ssd	Nane tuku tawo mbolŋge gol let laipmba tiŋganu ŋak.
+ssd	eŋel nu ndek ye sayina: Ne wamdus te-sulu ndawa. Pino agaŋmor
+ssd	ŋguikok mbolŋge minit si agaŋmor ŋguikok gabat 7 nau 10 ŋak
+ssd	ta ye nale tuku tugu bitekŋga sanamŋgit.
+ssd	Samba mbolok mbal tane gare-garekap. Aposel tuan taŋgo Kuate
+ssd	tuku mbal tane ŋakmba gare-garekap. Tumbraŋ suŋgo ta tane
+ssd	kilmba ŋaigo siglikina ta kile Kuate nu kumumbi lafunu tuwit.
+ssd	gabat sugo, kame gabat, taŋgo saŋgri ŋaigo, hos kame, hos
+ssd	poŋganu mbal, taŋgo nyu ŋak, taŋgo nyu kugatok ta ŋakmba
+ssd	tuku ndem nyam tuku pro maŋgurkap ŋga saniŋgina.
+ssd	Nu ndame fonde o mbolok malaŋga 12 ŋak. Eŋel 12 malaŋga
+ssd	kulatke likinaig. Malaŋga ta mbolŋge Israel tugu 12 tuku nyu
+ssd	Nane afu wam ŋaigonu kusreka naŋgine tawi minya magede ta nane
+ssd	gare suŋgo tamŋgaig. Kuate nu nane nyu niŋguwa le nane ail
+ssd	alonu nyumba minmba minam tuku ta kilmba nyumba minamŋgaig.
+ssd	Nane tumbraŋ ta tuku malaŋga sinam kaŋgaig.

@@ -1,0 +1,910 @@
+eus	40N	1	5	40N	1	5		50	Eta Salmonec engendra ceçan Booz Rachabganic. Eta Boozec engendra ceçan Obed Ruthganic. Eta Obed-ec engendra ceçan Iesse.
+eus	40N	3	17	40N	3	17		650	Eta huná vozbat cerutic, cioela, Haur da ene Seme maitea, ceinetan neure atseguin ona hartzen baitut.
+eus	40N	5	35	40N	5	35		1250	Ezeta Lurraz, ecen haren oinetaco alkia da: ezeta Ierusalemez, ecen regue handiaren ciuitatea da.
+eus	40N	7	13	40N	7	13		1850	Sar çaitezte bortha herssitic: ecen bortha largoa eta bide çabala da perditionetara irioiten duena, eta anhitz dirade hartaric
+eus	40N	8	14	40N	8	14		2150	Eta Iesusec Pierrisen etchera ethorriric, ikus ceçan haren ama-guinharreba ohean cetzala, eta helgaitzac çaducala.
+eus	40N	9	10	40N	9	10		2450	Eta guertha cedin Iesus haren etchean mahainean iarriric cegoela, huná, anhitz publicano eta vicitze gaichtotacoric ethorriric, iar
+eus	40N	10	2	40N	10	2		2750	Bada hamabi Apostoluén icenac dirade hauc: lehena, Simon erraiten dena Pierris, eta Andriu haren anayea: Iacques Zebedeoren semea, eta
+eus	40N	10	32	40N	10	32		3050	Bada norc-ere aboaturen bainau guiçonén aitzinean, aboaturen dut nic-ere hura ene Aita ceruètan denaren aitzinean.
+eus	40N	11	20	40N	11	20		3350	Orduan has cequién hunela reprochatzen haren verthuteric anhitz eguin içan cen hiriey, ceren emendatu etziraden:
+eus	40N	12	20	40N	12	20		3650	Canabera çarthatua eztu chehaturen, eta kea darión lihoa eztu iraunguiren: iugemendua victoriatan ilki eraci diroeno.
+eus	40N	12	50	40N	12	50		3950	Ecen norc-ere eguinen baitu ene Aita ceruètan denaren vorondatea, hura da ene anaye, eta arreba, eta ama.
+eus	40N	13	30	40N	13	30		4250	Vtzitzaçue biac elkarrequin handitzera vzta-arterano: eta vzta demborán, erranen drauet biltzaley, Bil eçaçue lehenic hiracá, eta
+eus	40N	14	2	40N	14	2		4550	Eta erran ciecen bere cerbitzariey, Haur Ioannes Baptistá da, hura resuscitatu içan da hiletaric, eta halacotz verthutéc obratzen
+eus	40N	15	26	40N	15	26		5150	Eta harc ihardesten çuela erran ceçan, Eztun gauça bidezcoa haourrén oguiaren hartzea, eta chakurrey egoiztea.
+eus	40N	16	17	40N	16	17		5450	Eta ihardesten çuela Iesusec erran cieçón hari, Dohatsu aiz Simon Ionaren semeá: ecen haraguiac ez odolac eztrauc hori reuelatu,
+eus	40N	17	19	40N	17	19		5750	Orduan ethorriric Iesusgana appart discipuluéc erran cieçoten, Cergatic guc ecin campora egotzi vkan dugu hura?
+eus	40N	19	17	40N	19	17		6350	Eta harc erran cieçón, Cergatic deitzen nauc on? eztuc nehor onic bat baicen, eta hura, Iaincoa: baldin vicitzean sarthu nahi bahaiz,
+eus	40N	20	17	40N	20	17		6650	Eta Iesusec Ierusalemera igaitean, har citzan hamabi discipuluac appart bidean, eta erran ciecén,
+eus	40N	21	13	40N	21	13		6950	Eta dioste, Scribatua da, Ene etchea, orationetaco etche deithuren da: baina çuec hura gaichtaguin lece eguin duçue.
+eus	40N	21	43	40N	21	43		7250	Halacotz diotsuet ecen edequiren çaiçuela Iaincoaren resumá, eta emanen çayola, hartaco fructuac eguinen dituen populuari.
+eus	40N	24	2	40N	24	2		8150	Eta Iesusec erran ciecén, Eztacusquiçue gauça hauc guciac? eguiaz erraiten drauçuet, ezta gueldituren hemen harria harriaren
+eus	40N	24	32	40N	24	32		8450	Bada ficotzétic ikas eçaçue comparationea, ia haren adarra ninicatzen denean eta hostatzen, badaquiçue vdá hurbil dela.
+eus	40N	25	41	40N	25	41		9050	Orduan erranen draue ezquerrecoy-ere, Maradicatuác, parti çaitezte eneganic seculaco sura, deabruari eta haren aingueruèy
+eus	40N	26	25	40N	26	25		9350	Eta ihardesten çuela Iudasec, ceinec hura traditzen baitzuen, erran ceçan, Magistruá, ni naiz? Diotsa, Hic erran duc.
+eus	40N	26	55	40N	26	55		9650	Ordu hartan berean erran ciecén Iesusec gendetzey, Gaichtaguin baten ondoan beçala ilki içan çarete ezpatequin eta vhequin, ene
+eus	40N	27	10	40N	27	10		9950	Eta eman dituzte hec tupinaguile baten landaren erosteco, Iaunac niri ordenatu cerautan beçala.
+eus	40N	27	40	40N	27	40		10250	Eta cioitela, Hic templea deseguiten duanorrec, eta hirur egunez edificatzen, empara eçac eure buruä: baldin Iaincoaren Semea bahaiz,
+eus	41N	1	14	41N	1	14		10850	Eta Ioannes hatzaman ican cenean, ethor cedin Iesus Galileara, predicatzen çuela Iaincoaren resumaren Euangelioa:
+eus	41N	1	44	41N	1	44		11150	Eta erran cieçón, Beguirauc nehori deus ezterroan: baina ohá, eta eracuts aquio Sacrificadoreari, eta presenta itzac eure
+eus	41N	3	31	41N	3	31		11750	Ethorten dirade bada haren anayeac eta haren ama: eta lekorean ceudela igor citzaten batzu harengana, haren deitzera.
+eus	41N	4	26	41N	4	26		12050	Guehiago erraiten çuen, Iaincoaren resumá da, guiçón hacia lurrera egotziric gau eta egun lo etzaten eta iaiquiten liçaten baten
+eus	41N	5	15	41N	5	15		12350	Eta ethorten dirade Iesusgana, eta ikusten dute demoniatu içan cena iarriric eta veztituric eta cençaturic, legionea vkan çuena
+eus	41N	6	2	41N	6	2		12650	Eta ethorri cenean Sabbathoa, has cedin synagogán iracasten, eta ençuten çutenetaric anhitzec miresten çuten, cioitela, Nondic huni
+eus	gauça hauc? eta ceric da huni eman içan çayon sapientia haur, eta are hunelaco verthuteac hunen escuz eguiten baitirade?
+eus	41N	7	6	41N	7	6		13250	Baina harc ihardesten çuela erran ciecén, Segurqui vngui prophetizatu vkan du Esaiasec çueçaz hypocritoz, scribatua den beçala,
+eus	41N	7	36	41N	7	36		13550	Eta mana citzan nehori ezlerroten: baina cembat-ere harc defenda baitziecén, vnguiz guehiago publicatzen çutén.
+eus	41N	8	29	41N	8	29		13850	Orduan harc dioste, Eta çuec ni nor naicela dioçue? Eta ihardesten duela Pierrisec diotsa, Hi aiz Christ.
+eus	41N	9	21	41N	9	21		14150	Orduan interroga ceçan Iesusec haren aita, Cembat dembora du haur heldu çayola? Eta harc diotsa, Haourra-danic.
+eus	41N	10	1	41N	10	1		14450	Guero handic partituric, ethor cedinIudeaco aldirietara Iordanaren berce aldeaz: eta berriz gendetze bil cedin harengana: eta ohi
+eus	41N	11	9	41N	11	9		15050	Eta aitzinean cioacenéc, eta iarreiquiten ciradenéc, oihu eguiten çuten, cioitela, Hosanna, benedicatu dela Iaunaren icenean
+eus	41N	12	6	41N	12	6		15350	Oraino bada bere seme maitebat vkan eta, hura-ere igorri vkan du hetara azquenic, cioela, Ahalque içanen dirade ene semearen.
+eus	41N	12	36	41N	12	36		15650	Ecen Dauid-ec berac erran du Spiritu sainduaren inspirationez, Erran drauca Iaunac ene Iaunari, Iar-adi ene escuinean, eçar
+eus	41N	13	22	41N	13	22		15950	Ecen altchaturen dirade Christ falsuac, eta propheta falsuac: eta eguinen dituzte signoac eta miraculuac seducitzeco, baldin possible
+eus	41N	14	45	41N	14	45		16550	Eta ethorri cenean, bertan harengana hurbilduric diotsá, Magistruá, Magistruá, eta pot eguin cieçón.
+eus	41N	16	16	41N	16	16		17450	Sinhetsiren duena eta batheyaturen dena saluaturen da: baina sinhetsiren eztuena condemnaturen da
+eus	42N	1	26	42N	1	26		17750	Eta seigarren hilebethean igor cedin Gabriel Aingueruä Iaincoaz Galileaco hiri Nazareth deitzen denera:
+eus	42N	2	36	42N	2	36		18650	Bacén prophetessabat-ere Anna deitzen cenic Phanuel-en alaba, Aser-en leinuco, cein baitzén ia adin handitacoa, eta vici içan cen
+eus	42N	3	14	42N	3	14		18950	Interroga ceçaten gendarmesec-ere, cioitela, Eta guc cer eguinen dugu ? Eta dioste, Nehor ezteçaçuela tormenta, ez iniuria: eta
+eus	42N	4	6	42N	4	6		19250	Eta diotsa deabruac, Emanen drauat bothere hori gucia, eta resuma horien gloriá: ecen niri eman içan ciaitadac, eta nahi dudanari
+eus	42N	4	36	42N	4	36		19550	Eta spantamendu iar cedin gucietan, eta minço ciraden elkarren artean, cioitela, Cer hitz da haur, authoritaterequin eta bothererequin
+eus	42N	5	22	42N	5	22		19850	Eta Iesusec eçaguturic hayén pensamenduac, ihardesten çuela erran ciecén, Cer pensatzen duçue çuen bihotzetan?
+eus	42N	6	13	42N	6	13		20150	Eta arguitu cenean dei citzan bere discipuluac, eta hetaric hauta citzan hamabi, cein Apostolu-ere dei baitzitzan,
+eus	42N	6	43	42N	6	43		20450	Segur ezta arbore ona, fructu gaichtoa eguiten duena: ez eta arbore gaichtoa, fructu ona eguiten duena.
+eus	42N	7	24	42N	7	24		20750	Eta partitu ciradenean Ioannesen mandatariac, has cequión, Ioannesez populuari erraiten, Ceren ikustera ilki içan çarete desertura?
+eus	42N	8	4	42N	8	4		21050	Eta nola gendetze handia biltzen baitzen, eta hiri gucietaric anhitz harengana ioaiten, erran ceçan comparationez,
+eus	42N	8	34	42N	8	34		21350	Eta vrdainéc ikussi çutenean cer eguin içan cen, ihes eguin ceçaten: eta partituric conta ceçaten hirian eta campoetan.
+eus	42N	9	38	42N	9	38		21950	Eta huná, compainiaco guiçombat oihuz iar cedin, cioela, Magistruá, othoitz eguiten drauat beha-eçac ene semeaganát: ecen haur
+eus	42N	10	6	42N	10	6		22250	Eta baldin han baquezco semeric batre bada, paussaturen da çuen baquea haren gainean: ezpere çuetara itzuliren da.
+eus	42N	11	24	42N	11	24		22850	Spiritu satsua ilki denean cembeit guiçonaganic leku leihorréz dabila, paussu bilha: eta erideiten eztuenean, dio, Itzuliren naiz
+eus	42N	12	30	42N	12	30		23450	Ecen gauça hauc guciac munduco gendéc bilhatzen dituzté: baina çuen Aitac badaqui, ecen hauèn beharra baduçuela.
+eus	42N	13	1	42N	13	1		23750	Eta baciraden batzu dembora hartan berean hari contatzen ceraucatenic Galileanoéz, ceinén odola Pilatec nahassi vkan baitzuen hayén
+eus	42N	13	31	42N	13	31		24050	Egun hartan berean hurbil citecen Phariseuetaric batzu, erraiten ceraucatela, Ilki adi, eta oha hemendic: ecen Herodesec hil nahi au.
+eus	42N	14	26	42N	14	26		24350	Baldin nehor enegana ethorten bada eta gaitzesten ezpaditu bere aita eta amá, eta emaztea eta haourrac, eta anayeac eta arrebác,
+eus	42N	15	21	42N	15	21		24650	Eta erran cieçón semeac, Aitá, huts eguin diat ceruären contra, eta hire aitzinean, eta guehiagoric eznauc digne hire seme
+eus	42N	16	19	42N	16	19		24950	Cen bada guiçon abratsbat, eta veztitzen cen escarlataz eta cetaz, eta egun oroz tractatzen cen vngui eta magnificoqui.
+eus	42N	18	11	42N	18	11		25550	Phariseuac cegoela gauça hauçaz bere baithan othoitz eguiten çuen, Iaincoá, esquerrac emaiten drauzquiat ceren ezpainaiz berce
+eus	42N	20	10	42N	20	10		26450	Eta sasoinean igor ceçan laborari hetara cerbitzaribat, mahastico fructutic lemotençat: baina hec hura cehaturic igor ceçaten
+eus	42N	21	23	42N	21	23		27050	Eta dohain gaiz emazte içorrén eta eredosquiten duqueitenén egun hetan, ecen necessitate handia içanen da lur haren gainean, eta
+eus	42N	22	15	42N	22	15		27350	Eta erran ciecén, Desirez desiratu vkan dut Bazco hunen çuequin iatera, nic suffri deçadan baino lehen.
+eus	42N	22	45	42N	22	45		27650	Guero orationetic iaiquiric ethor cedin bere discipuluetara, eta eriden citzan tristez lo ceunçala.
+eus	42N	23	4	42N	23	4		27950	Eta erran ciecén Pilatec Sacrificadore principaley eta gendetzey, Hoguenic batre eztut erideiten guiçon hunetan.
+eus	42N	23	34	42N	23	34		28250	Eta Iesusec erraiten çuen, Aitá, barka iecec: ecen etzeaquie cer eguiten dutén. Guero haren abillamenduac partituric, çorte egotz
+eus	42N	24	38	42N	24	38		28850	Orduan erran ciecén, Cergatic trublatu çarete, eta cergatic pensamenduac igaiten dirade çuen bihotzetara?
+eus	43N	1	15	43N	1	15		29150	Ioannesec testificatu vkan du harçaz, eta oihu eguin, cioela, Haur da ceinez erraiten-bainuen, Ene ondoan ethorten dena, ni baino
+eus	43N	1	45	43N	1	45		29450	Erideiten du Philippec Nathanael, eta diotsa, Eriden diagu Iesus Nazarethecoa, Iosephen semea, ceinez scribatu baitu Moysesec Leguean
+eus	43N	3	29	43N	3	29		30050	Sposa duena sposo da: baina sposo denaren adisquide han dena eta hura ençuten duena, haguitz alegueratzen da sposoaren vozagatic:
+eus	43N	4	23	43N	4	23		30350	Baina ethorten dun orena, eta orain dun, noiz adoraçale eguiazcoéc adoraturen baitute Aita spirituz eta eguiaz: ecen Aita-ere halaco
+eus	43N	4	53	43N	4	53		30650	Eçagut ceçan bada aitác ecen oren hartan cela Iesusec erran ceraucana, Hire semea vici duc. Eta sinhets ceçan berac, eta haren
+eus	43N	5	29	43N	5	29		30950	Eta ilkiren dirade vngui eguin duqueitenac, vicitzeco resurrectionera: baina gaizqui eguin duqueitenac, condemnationeco
+eus	43N	6	12	43N	6	12		31250	Eta ressasiatu içan ciradenean erran ciecén bere discipuluey, Bil itzaçue soberatu diraden çathiac, deus gal eztadin.
+eus	43N	6	42	43N	6	42		31550	Eta erraiten çutén, Ezta haur Iesus, Iosephen semea, ceinen aita eta ama guc eçagutzen baititugu? Nola dio bada hunec, Cerutic
+eus	43N	7	1	43N	7	1		31850	Eta guero baçabilan Iesus Galilean: ecen etzén Iudean ebili nahi, ceren Iuduac baitzabiltzan hura hil nahiz.
+eus	43N	7	31	43N	7	31		32150	Eta gendetzecoataric anhitzec sinhets ceçaten hura baithan, eta erraiten çutén, Christec dathorrenean guehiago miraculu eguinen othe
+eus	43N	8	38	43N	8	38		32750	Nic erraiten dut neure Aita baithan ikussi dudana: eta çuec eguiten duçue çuen aita baithan ikussi duçuena.
+eus	43N	9	9	43N	9	9		33050	Batzuc erraiten çutén, Haur da: eta bercéc, Hura dirudi, Baina berac erraiten çuen, Ni naiz hura.
+eus	43N	9	39	43N	9	39		33350	Eta erran ceçan Iesusec, Iugemendu eguitera ni mundu hunetara ethorri naiz: ikusten eztutenéc, ikus deçatençát: eta ikusten
+eus	43N	10	28	43N	10	28		33650	Eta nic vicitze eternala emaiten drauet hæy: eta eztirade galduren seculan: eta eztitu harrapaturen hec nehorc ene escutic.
+eus	43N	11	16	43N	11	16		33950	Erran ciecén bada Thomas Didymus deitzen denac discipulu laguney, Goacen gu-ere horrequin hil gaitecençát.
+eus	43N	11	46	43N	11	46		34250	Baina hetaric batzu ioan citecen Phariseuetara, eta erran cietzen hæy Iesusec eguin cituen gauçác.
+eus	43N	12	19	43N	12	19		34550	Eta Phariseuéc erran ceçaten bere artean, Eztacussaçue ecen etzaretela deus probetchatzen? horrá, mundua haren ondoan ioan da.
+eus	43N	12	49	43N	12	49		34850	Ecen ni neure burutic eznaiz minçatu: baina ni igorri nauen Aitac berac manamendu eman draut, cer erran deçaquedan eta cer minça
+eus	43N	13	29	43N	13	29		35150	Ecen batzuc vste çuten, ceren mulsá baitzuen Iudasec, ecen erran ceraucala Iesusec, Eros itzac bestacotzát behar ditugun gauçác:
+eus	43N	14	21	43N	14	21		35450	Ene manamenduey datchetena, eta hec beguiratzen dituena, da niri on dariztana: eta niri on dariztana, ene Aitaz onhetsia içanen da:
+eus	43N	15	20	43N	15	20		35750	Orhoit çaitezte nic erran drauçuedan hitzaz Ezta cerbitzaria bere nabussia baino handiago: baldin ni persecutatu banauté, çuec-ere
+eus	43N	16	23	43N	16	23		36050	Eta egun hartan eznauçue deusez interrogaturen. Eguiaz eguiaz erraiten drauçuet ecen cer-ere escaturen baitzaizquiote ene Aitari ene
+eus	43N	17	20	43N	17	20		36350	Eta eztiat hecgatic solament othoitz eguiten, baina hayén hitzaz ni baithan sinhetsiren dutenacgatic-ere bay:
+eus	43N	19	14	43N	19	14		36950	Eta cen orduan Bazcoco preparationea, eta sey orenén inguruä: orduan dioste Pilatec Iuduey, Huná çuen Reguea.
+eus	43N	20	2	43N	20	2		37250	Orduan laster eguiten du eta ethorten da Simon Pierrisgana, eta berce discipulu Iesusec maite çuenagana, eta dioste, Kendu duté Iauna
+eus	43N	21	1	43N	21	1		37550	Guero manifesta cequién berriz Iesus discipuluey Tiberiaco itsas aldean, manifesta cedin bada hunela:
+eus	44N	1	6	44N	1	6		37850	Hec bada bildu ciradenean interroga ceçaten hura, cioitela, Iauna, dembora hunetan bere staturaco draucac resumá Israeli?
+eus	44N	2	10	44N	2	10		38150	Phrygian eta Pamphylian, Egypten, eta Lybia bazterretan, baita Cyreneco aurkán, eta Roman daudenéc, eta Iuduéc eta Proselytoéc,
+eus	44N	2	40	44N	2	40		38450	Eta anhitz berce hitzez testificatzen çuen, eta exhortatzen cituen, cioela, Salua çaitezte natione gaichto hunetaric.
+eus	44N	3	23	44N	3	23		38750	Eta içanean da, nor-ere Propheta hari behaturen ezpaitzayo, deseguinen baita populuaren artetic.
+eus	44N	4	27	44N	4	27		39050	Ecen bildu içan dituc eguiaz hire seme saindu Iesusen contra, cein vnctatu baituc, Herodes eta Ponce Pilate Gentilequin eta Israeleco
+eus	44N	7	23	44N	7	23		39950	Baina bethe çayonean berroguey vrtheren demborá, igan cequión bihotzera bere anayén Israeleco semén, visitatzera ioan ledin:
+eus	44N	9	13	44N	9	13		40850	Eta ihardets ceçan Ananiasec, Iauna, ençun diat anhitzetaric guiçon hunez, cembat gaitz eguin drauen hire sainduey Ierusalemen.
+eus	44N	9	43	44N	9	43		41150	Eta guertha cedin, egon baitzedin anhitz egun Ioppen Simon deitzen cen larru appainçale batenean.
+eus	44N	10	30	44N	10	30		41450	Orduan Cornelioc dio, Laur egun dic ordu hunetarano bainincen barur, eta bedratzi orenetan niangoán, othoizte eguiten neure etchean:
+eus	44N	11	12	44N	11	12		41750	Eta erran cieçadan Spirituac hequin ioan nendin, dudaric eguin gabe. Eta ethor citecen enequin sey anaye hauc-ere, eta sar guentecen
+eus	44N	12	12	44N	12	12		42050	Eta gauçá consideraturic ethor cedin Maria Ioannesen, icen goiticoz Marc deitzen cenaren amaren etchera, non baitziraden anhitz
+eus	44N	13	17	44N	13	17		42350	Israeleco populu hunen Iaincoac elegitu vkan ditu gure aitác, eta populu haur goratu vkan du, Egypteco lurrean ceudenean, eta besso
+eus	44N	13	47	44N	13	47		42650	Ecen hala manatzen draucu Iaunac, dioela, Ordenatu aut hi Gentilén argui içateco, saluamendu aicençat lurraren bazterrerano.
+eus	44N	16	16	44N	16	16		43550	Eta guertha cedin gu othoitzara guendoacela, nescato Pythonen spiritua çuembat aitzinera ethor baitzequigun: ceinec irabaci handia
+eus	44N	17	6	44N	17	6		43850	Eta eriden etzituztenean, tira citzaten Iason eta anayetaric batzu hirico Gobernadoretara, oihuz ceudela. Hauc mundu gucia erauci vkan
+eus	44N	18	2	44N	18	2		44150	Eta eridenic Aquila deitzen cen Ponte nationeco Iudubat, cein aitzinchetic ethorri baitzén Italiatic, eta Priscilla haren emaztea
+eus	44N	19	4	44N	19	4		44450	Orduan Paulec erran ceçan, Ioannesec batheyatu vkan du emendamenduco Baptismoaz, ciotsala populuari, haren ondotic ethorteco cena
+eus	44N	19	34	44N	19	34		44750	Baina eçagutu çutenean ecen hura Iudu cela, altcha cedin gucietaric vozbat, quasi bi orenez oihu eguiten çutela, Ephesianoén Diana
+eus	44N	20	23	44N	20	23		45040	Salbu Spiritu sainduac hiriz hiri testificatzen baitraut, dioela ecen estecadurác eta tribulationeac ene beguira daudela.
+eus	44N	22	5	44N	22	5		45640	Sacrificadore subiranoa-ere testimonio dudan beçala, eta Ancianoén compainia gucia: are hetaric guthunac anayetara harturic,
+eus	44N	23	5	44N	23	5		45940	Eta erran ceçan Paulec, Anayeác, ez naquian Sacrificadore subirano cela: ecen scribatua da, Eure populuaren princeaz eztuc gaizqui
+eus	44N	23	35	44N	23	35		46240	Ençunen aut dio, hire accusaçaleac-ere ethorri diratenean. Eta mana ceçan Herodesen palatioan beguira ledin.
+eus	44N	25	3	44N	25	3		46540	Fauore esquez ceudela haren contra, hurá erekar leçançát Ierusalemera: celata çaizcolaric hura bidean hil leçatençat.
+eus	44N	26	6	44N	26	6		46840	Eta orain Iaincoaz gure aitey eguin içan çayen promesseco sperançaren causaz, iudicioan accusaturic nago.
+eus	44N	27	34	44N	27	34		47440	Hunegatic exhortatzen çaituztet har deçaçuen iatera: ceren haur çuen emparatzeari appertenitzen baitzayó: ecen çuetaric baten-ere
+eus	44N	28	20	44N	28	20		47740	Causa hunegatic bada deithu çaituztet, ikus cinçatedan eta minça nenguiçuençát: ecen Israeleco sperançaren causaz cadena hunez
+eus	45N	1	19	45N	1	19		48040	Ceren Iaincoaz eçagut ahal daitena manifest baita hetan: ecen Iaincoac hæy manifestatu vkan draue.
+eus	45N	2	17	45N	2	17		48340	Huná, hi icen goiticoz deitzen aiz Iudu, eta reposatzen aiz Leguean, eta gloriatzen aiz Iainco Iaunean.
+eus	45N	4	17	45N	4	17		48930	(Scribatua den beçala, Anhitz nationeren aita ordenatu vkan aut) Iaincoaren aitzinean, cein sinhetsi vkan baitu: ceinec hiley vicitze
+eus	45N	7	8	45N	7	8		49530	Baina bekatuac occasione harturic manamenduaz engendratu vkan du nitan guthicia gucia. Ecen Leguea gabe, hila da bekatua.
+eus	45N	8	13	45N	8	13		49830	Ecen baldin haraguiaren araura vici baçarete, hilen çarete: baina baldin Spirituaz gorputzaren eguitateac mortificatzen badituçue,
+eus	45N	9	4	45N	9	4		50120	Cein baitirade Israeltár: ceinena baita adoptionea, eta gloriá, eta alliançác, eta Leguearen ordenançá, eta cerbitzu diuinoa eta
+eus	45N	10	1	45N	10	1		50420	Anayeác, ene bihotzeco affectione ona eta Iaincoagana Israelgatic eguiten dudan othoitzá da salua ditecen.
+eus	45N	12	4	45N	12	4		51020	Ecen nola gorputz batetan anhitz membro baitugu, eta membro guciéc ezpaitute operationebat bera:
+eus	45N	13	13	45N	13	13		51320	Egunáz anco honestqui ebil gaitecen: ez gormandicetan eta hordiquerietan, ez ohatzetan eta insolentietan, ez gudutan eta inuidiatan.
+eus	45N	15	6	45N	15	6		51620	Gogo batez eta aho batez glorifica deçaçuençát Iaincoa, cein baita Iesus Christ gure Iaunaren Aita.
+eus	46N	3	19	46N	3	19		52820	Ecen mundu hunetaco çuhurtziá, erhogoa da Iaincoaren aitzinean: ecen scribatua da, Hatzamaiten ditu çuhurrac hayén finecian.
+eus	46N	5	5	46N	5	5		53110	Halacoaren Satani liuratzera haraguiaren destructionetan, spiritua salbu dençát Iesus Iaunaren egunean.
+eus	46N	7	2	46N	7	2		53410	Baina paillardiçari ihes eguiteagatic, batbederac bere emaztea biu, eta batbederac bere senharra biu.
+eus	46N	7	32	46N	7	32		53710	Eta nahi nuque çuec arrangura gabe cineten. Emazte gabe denac, artha du Iaunaren gaucéz, nolatan Iaunaren gogaraco daten:
+eus	46N	9	9	46N	9	9		54010	Ecen Moysesen Leguean scribatua da, Eztraucac ahoa lothuren idi bihitzen ari denari. Ala artha du idiéz Iaincoac?
+eus	46N	13	4	46N	13	4		55210	Charitatea patient da, benigno da, charitatea ezta inuidioso: charitateac eztu insolentiaric, eta ezta hancen:
+eus	46N	14	21	46N	14	21		55510	Leguean scribatua da, Halacotz berce lengoagetaco gendez, eta ezpain arrotzez minçaturen natzayo populu huni: eta are halatan eznaute
+eus	46N	15	41	46N	15	41		56110	Berce da iguzquiaren gloriá, eta berce ilharguiaren gloriá, eta berce içarren gloriá: ecen içarra içarraganic different da
+eus	47N	1	19	47N	1	19		56710	Ecen Iaincoaren Seme Iesus Christ guçaz çuen artean predicatu içan dena, niçaz eta Syluanoz eta Timotheoz, ezta içan Bay eta Ez,
+eus	47N	8	7	47N	8	7		57910	Bada gauça gucietan abundos çareten beçala fedez, eta hitzez, eta eçagutzez, eta diligentia oroz, eta çuen gureganaco charitatez,
+eus	47N	9	13	47N	9	13		58210	(Aiuta hunen phorogança hunez Iaincoa glorificatzen dutela çuen gogo batetaco suiectionearen gainean Christen Euangeliora, eta çuen
+eus	47N	12	7	47N	12	7		58810	Eta reuelationearen excellentiagatic altchegui eznendinçát, eman içan çait escardabat haraguian, eta Satanen aingueruä ene
+eus	48N	2	9	48N	2	9		59410	Eta eçagutu çutenean niri eman içan çaitadan gratiá, Iacquesec eta Cephasec eta Ioannesec (habe diradela estimatuéc) lagunçazco
+eus	48N	3	18	48N	3	18		59710	Ecen baldin heretagea Leguetic bada, ez ia promessetic: baina Abrahami promessetic eman vkan drauca Iaincoac.
+eus	49N	1	4	49N	1	4		60610	Nola elegitu vkan baiquaitu hartan mundua funda cedin baino lehen, saindu guinençat eta irreprehensible haren aitzinean charitatez:
+eus	49N	2	11	49N	2	11		60910	Halacotz, orhoit çaitezte nola çuec noizpait Gentilac haraguian, Preputio deitzen baitzineten, haraguian Circoncisione deitzen denaz
+eus	49N	3	19	49N	3	19		61210	Eta eçagut deçaçuen Christen amorio eçagutze gucia iragaiten duena: compli çaiteztençát Iaincoaren complimendu gucian.
+eus	49N	4	28	49N	4	28		61510	Ebaisten çuenac ezteçala guehiagoric ebats: baina aitzitic trabailla bedi on daten gauçaric eguiten duela, beharra duenari emaiteco
+eus	49N	6	23	49N	6	23		62110	Baquea dela anayeoquin, eta charitatea federequin Iainco Aitaganic eta Iesus Christ Iaunaganic.
+eus	50N	1	29	50N	1	29		62410	Ecen çuey eman içan çaiçue Christgatic, ez solament hura baithan sinhestea, baina harengatic suffritzea-ere:
+eus	50N	2	29	50N	2	29		62710	Recebi eçaçue bada hura gure Iaunean bozcario gucirequin: eta halaco diradenac estimatan eduquitzaçue.
+eus	50N	4	8	50N	4	8		63010	Gaineracoaz, anayeác, gauça eguiazco diraden guciac gauça honest guciac, iustoac, purac, amoriotacoac, icen onetacoac, baldin
+eus	51N	2	16	51N	2	16		63610	Nehorc bada etzaitzatela condemna ianean, edo edanean, edo besta egunaren, edo ilhargui berriaren, edo Sabbathoén respectuz:
+eus	52N	1	10	52N	1	10		64210	Eta haren Seme Iesusen beguira cinaudetençát ceruètaric, cein resuscitatu vkan baitu hiletaric, cein baita, gu ethorteco den hiratic
+eus	52N	3	10	52N	3	10		64510	Gau eta egun abundantquiago othoitz eguiten dugula ikus deçagunçát çuen beguithartea, eta compli deçagunçát çuen fedean peitu
+eus	52N	5	9	52N	5	9		64810	Ecen ezgaitu ordenatu Iaincoac hiracotzát, baina saluamenduaren vkaitecotzát Iesus Christ gure Iaunaz,
+eus	53N	1	11	53N	1	11		65110	Causa hunegatic-ere othoitz eguiten dugu bethiere çuengatic, çuec vocationearen digne gure Iaincoac eguin çaitzatençat, eta compli
+eus	53N	3	12	53N	3	12		65410	Bada halaco diradeney denuntiatzen drauegu, eta othoitz eguiten Iesus Christ gure Iaunaz sossegurequin trabaillatzen ari diradela bere
+eus	54N	4	3	54N	4	3		66010	Defendatzen dutelaric ezconcea eta viandetaric iatea, cein Iaincoac creatu baitrauzte vsatzeco remerciamendurequin fideley, eta eguiá
+eus	54N	5	17	54N	5	17		66310	Vngui presiditzen duten Ancianoac ohore doblaren digne estima bitez: principalqui hitzean eta doctrinán trabaillatzen diradenac.
+eus	55N	1	1	55N	1	1		66610	PAVLEC Iesus Christen Apostolu Iaincoaren vorondatez denac, Iesus Christ baithan den vicitzearen promessaren araura,
+eus	56N	3	7	56N	3	7		67810	Haren gratiaz iustificaturic heredero eguin guentecençát vicitze eternaleraco sperançaren araura.
+eus	57N	1	22	57N	1	22		68110	Baina are bertaric ostatu appain ieçadac: ecen sperança diát çuen orationéz emanen natzaiçuela:
+eus	58N	2	13	58N	2	13		68410	Eta berriz, Ni fida içanen naiz hartan. Eta berriz, Huná ni eta Iaincoac niri eman drauzquidan haourrac.
+eus	58N	4	6	58N	4	6		68710	Ikussiric bada oraino batzu sartzen diradela hartan, eta lehenic denuntiatu içan çauenac eztiradela sarthu içan bere
+eus	58N	6	6	58N	6	6		69010	Baldin eror baditez, berriz arramberri ditecen penitentiatara, ikussiric ecen Iaincoaren Semea berriz crucificatzen dutela hetan den
+eus	58N	7	16	58N	7	16		69310	Cein ezpaita Sacrificadore eguin içan manamendu carnaleco Leguearen arauez, baina vicitze immortaleco puissançaren arauez.
+eus	58N	9	5	58N	9	5		69610	Eta haren gainean gloriazco Cherubinac ciraden Propitiatorioari itzal eguiten ceraucatela, ezta gauça hauçaz orain particularqui
+eus	58N	10	7	58N	10	7		69910	Orduan erran vkan dut, Huná, ethorten nauc (liburuären hatsean scribatua da niçaz) eguin deçadan, o Iaincoá hire vorondatea:
+eus	58N	10	37	58N	10	37		70210	Ecen oraino dembora appurto appurtobat, eta ethorteco dena ethorriren da, eta eztu beranthuren .
+eus	58N	11	28	58N	11	28		70510	Fedez eguin citzan Bazcoa eta odol issurtzea: lehen sorthuac deseguiten cituenac, hec hunqui ezlitzançát.
+eus	58N	12	18	58N	12	18		70810	Ecen etzarete ethorri escuz hunqui ahal daitequeen mendi batetara, ez erratzen den sura, ez haice buhumbara, ez lanhora eta
+eus	58N	13	19	58N	13	19		71110	Eta hambatez guehiago othoitz eguiten drauçuet haur daguiçuen, sarriago restitui naquiçuençát.
+eus	59N	3	1	59N	3	1		71710	Ene anayeác, etzaretela magistru anhitz: daquigularic ecen condemnatione handiagoa recebituren dugula.
+eus	59N	4	13	59N	4	13		72010	Eya orain erraiten duçuenác, Egun edo bihar ioanen gara hiri batetara, eta egonen gara han vrthebat, eta merkatalgoa eguinen dugu,
+eus	60N	1	6	60N	1	6		72310	Cein gauçatan alegueratzen baitzarete, dembora appurbat orain (baldin behar bada) tristetuac çaretelaric tentatione diuersetan:
+eus	60N	2	11	60N	2	11		72610	Maiteác, othoitz eguiten drauçuet, estrangeren eta bideazcoén ançora, beguira çaitezten haraguiaren guthicietaric, ceinéc guerla
+eus	60N	3	16	60N	3	16		72910	Conscientia ona duçuelaric: çuen contra gaizquiguiléz beçala minço diraden gauçán, confus diradençat, çuen conuersatione
+eus	60N	5	5	60N	5	5		73210	Halaber gazteác, çareten çaharrén suiet, eta guciac çareten bata bercearen suiet: çareten humilitatez barnetic appainduac: ecen
+eus	61N	1	21	61N	1	21		73510	Ecen prophetiá ezta guiçonén vorondatez ekarria içan lehenago: baina Spiritu sainduaz inspiraturic minçatu içan dirade Iaincoaren
+eus	61N	3	8	61N	3	8		73810	Baina hunez etzaretela ignorant, maiteác, ecen egun-bat Iauna beithan milla vrthe beçala, eta milla vrthe egun-bat beçala diradela.
+eus	62N	4	17	62N	4	17		74710	Huneçaz complitu içan da charitatea guregana, iudicioco egunean segurança dugunçát, ceren hura den beçalaco baicara gu-ere mundu
+eus	63N	1	5	63N	1	5		75010	Eta orain othoitz eguiten draunat, andreá, ez manamendu berriric scribatzen banaraun beçala, baina hatseandanic vkan duguna, elkarri
+eus	65N	1	7	65N	1	7		75310	Sodoma eta Gomorrha, eta hayén aldirietaco hiri hayén moldera paillardatu çutenac, eta berce haraguiaren ondoan ioan ciradenac,
+eus	66N	1	12	66N	1	12		75600	Orduan itzul nendin enequin minçatu içan cen vozaren ikustera: eta itzuliric ikus nitzan çazpi candelér vrrhezcoric:
+eus	66N	2	22	66N	2	22		75900	Huná, nic diát hura eçarten ohean: eta harequin adulteratzen dutenac gucizco tribulatione handitan, baldin bere obretaric emenda
+eus	66N	4	1	66N	4	1		76200	Gauça hauen buruän beha neçan, eta huná, borthabat irequia ceruän: eta lehen ençun vkan nuen voza, cen enequin minço liçaten
+eus	66N	6	6	66N	6	6		76500	Eta ençun neçan vozbat laur animalén artean, cioela, Chenicabat ogui bihi dinero batetan, eta hirur chenica garagar dinero batetan:
+eus	66N	8	2	66N	8	2		76800	Eta ikus nitzan çazpi Aingueru Iaincoaren aitzinean assistitzen dutenac, eta eman cequiztén çazpi trompetta.
+eus	66N	9	19	66N	9	19		77100	Ecen hayén botherea cen hayén ahoan eta hayén buztanetan: ecen hayén buztanac sugueac irudi ciraden, cituztela buruäc, ceinéz
+eus	66N	11	17	66N	11	17		77390	Cioitela, Esquerrac drauzquiagu hiri Iainco Iaun bothere-gucitacoá, Cein baitaiz, eta Baihincén, eta Ethorteco baitaiz, ceren hartu
+eus	66N	13	10	66N	13	10		77690	Baldin nehorc captiuitatera eramaiten badu, captiuitatera eramanen da bera: baldin nehorc ezpataz hil badeça, behar da hura ezpataz
+eus	66N	15	2	66N	15	2		77990	Eta ikus neçan beirazco itsassobat beçala suz nahastecatua: eta victoria eraman vkan çutenac bestiaganic, eta haren imaginaganic,
+eus	eta haren mercaganic, eta haren icenaren contuaganic, ceudela itsasso beirazco irudian, eta cituztela Iaincoaren guittarrác:
+eus	66N	17	3	66N	17	3		78290	Eta spirituz desertu batetara eraman nençan: eta ikus neçan emaztebat, bestia escarlata coloretaco, blasphemiotaco icenez bethe,
+eus	66N	18	15	66N	18	15		78590	Gauça hauén merkatariac bada abrastu içanic vrrun harenganic egonen dirate haren tormentaren beldurrez, nigarrez eta deithorez
+eus	66N	19	21	66N	19	21		78890	Eta goiticoac hil içan ciraden çaldi gainean iarriric cegoenaren ahotic ilkiten cen ezpatáz: eta chori guciac asse citecen hayén
+eus	66N	21	15	66N	21	15		79190	Eta enequin minço cenac çuen vrrhezco canaberabat, Ciuitatearen eta haren borthén eta haren murraillaren neurtzeco.
+eus	66N	22	18	66N	22	18		79490	Ecen protestatzen draucat liburu hunetaco prophetiaren hitzac ençuten dituen guciari, Baldin nehorc gauça hauey eratchequi badiecé,
+eus	40N	1	19		190	Orduan bere senhar Iosephec, ceren iusto baitzen eta ezpaitzuen hura diffamatu nahi, secretuqui vtzi nahi vkan çuen.
+eus	40N	5	19		1090	Norc-ere beraz hautsiren baitu manamendu chipién hautaric bat, eta iracatsiren baititu hunela guiçonac, chipién deithuren da hura ceruètaco resumán: baina
+eus	40N	6	1		1390	Beguirauçue çuen elemosyná eztaguiçuen guiçonén aitzinean heçaz ikus çaiteztençát: ezpere sariric eztuçue vkanen çuen Aita ceruètan dena baithan.
+eus	40N	6	31		1690	Eztuçuela beraz artharic erraiten duçuela, Cer ianen dugu, edo cer edanen dugu, edo cerçaz veztituren gara?
+eus	40N	7	27		1990	Eta erori içan da vria, eta ethorri içan dirade vr sobernác, eta haicéc eraunsi vkan duté, eta io vkan duté etche haren contra, eta erori içan da, eta
+eus	40N	8	28		2290	Eta iragan cenean berce aldera, Gergesenén regionera, aitzinera ethorri içan çaizcan bi demoniatu thumbetaric ilkiric, gucizco terribleac, hambat non nehor
+eus	40N	10	16		2890	Huná, nic igorten çaituztet çuec, ardiac otsoén artera beçala: çareten bada çuhur sugueac beçala, eta simple vsso columbác beçala.
+eus	40N	11	4		3190	Eta ihardesten çuela Iesusec erran ciecén, Çoazte eta conta ietzoçue Ioannesi, ençuten eta ikusten dituçuen gauçác:
+eus	40N	12	4		3490	Nola sarthu içan cen Iaincoaren etchean, eta propositionezco oguiac ian cituen: hetaric iatea ez haren, ez harequin ciradenén, Sacrificadorén baicen sori
+eus	40N	12	34		3790	Viperén castá, nolatan vngui minça ahal çaitezquete gaichto çaretelaric? ecen bihotzeco abundantiatic ahoa minço da.
+eus	40N	13	14		4090	Hala complitzen da hetan Esaiasen prophetiá, ceinec baitio, Ençutez ençunen duçue, eta ez adituren: eta dacussaçuela ikussiren duçue eta etzaizquiote
+eus	40N	13	44		4390	Berriz comparatu da ceruètaco resumá thesaur landa batetan gorderic dagoenarequin, hura eridenic guiçon batec estali vkan du: eta harçazco bozcarióz
+eus	40N	16	1		5290	Eta ethorriric Phariseuéc eta Sadduceuéc, tentatzen çutela requiri ceçaten cembeit signo cerutic eracuts liecén.
+eus	40N	18	6		5890	Baina norc-ere scandalizaturen baitu ni baithan sinhesten duten chipi hautaric bat, harc hobe luque vrka lequión bere leppoan asto-errota harribat, eta hunda
+eus	40N	19	1		6190	Eta guertha cedin, Iesus propos hauc acabaturic parti baitzedin Galileatic, eta ethor baitzedin Iudeaco bazterretara, Iordanaren berce aldeaz.
+eus	40N	20	1		6490	Ecen, comparatu da ceruètaco resumá aitafamilia batequin, cein ilki içan baita arguiaren beguian languile alocatzera bere mahasticotzat.
+eus	40N	20	31		6790	Eta gendetzeac mehatchatzen cituen hec ichil litecençát, baina hec oihu guehiago eguiten çuten, cioitela, Auc pietate guçaz Dauid-en seme Iauná.
+eus	40N	21	27		7090	Eta ihardesten ceraucotela Iesusi, erran ceçaten, Etzeaquiagu. Erran ciecén harc-ere, Eztrauçuet nic-ere erraiten cer authoritatez gauça hauc eguiten
+eus	40N	22	11		7390	Eta sarthu cenean regue mahainean iarriric ceudenén ikustera, ikus ceçan han guiçombat eztey arropaz veztitua etzenic.
+eus	40N	23	25		7990	Maledictione çuen gainean Scriba eta Phariseu hypocritác: ecen coparen eta plataren campoco aldea chahutzen duçue: baina barnetic dirade arrauberiaz, eta
+eus	40N	26	39		9490	Eta aitzinachiago ioanic, ahozpez iar cedin, othoitz eguiten çuela, eta cioela, Ene Aitá, baldin possible bada, iragan bedi eneganic copa haur:
+eus	40N	26	69		9790	Eta Pierris iarriric cegoén lekorean salán: eta ethor cequión nescatobat, cioela, Hi-ere Iesus Galileanoarequin incén.
+eus	40N	27	24		10090	Eta ikussiric Pilatec ecen etzuela deus probetchatzen, baina tumultoa handitzenago cela, vr harturic ikuz citzan escuac populuaren aitzinean, cioela, Innocent
+eus	40N	27	54		10390	Eta Centenera, eta harequin Iesusen beguirale ceudenac, lur ikaratzea eta eguin içan ciraden gauçác ikussiric, ici citecen haguitz, erraiten çutela,
+eus	41N	6	16		12790	Bada hori ençunic Herodesec dio, Haur da Ioannes nic buruä edequi draucadana, hura resuscitatu da hiletaric.
+eus	41N	9	5		13990	Orduan Pierrisec hitza harturic diotsa Iesusi, Magistruá, on duc gu hemen garén: eguin ditzagun bada hirur tabernacle, bat hire, eta bat Moysesen, eta bat
+eus	41N	9	35		14290	Eta iarri cenean, dei citzan hamabiac, eta erran ciecén, Baldin nehor lehen içan nahi bada, gucietaco azquenén içanen da, eta gucien cerbitzari.
+eus	41N	10	15		14590	Eguiaz erraiten drauçuet, norc-ere ezpaitu recebituren Iaincoaren resumá haourtcho anço, ezta hartan sarthuren.
+eus	41N	10	45		14890	Ecen guiçonaren Semea-ere ezta ethorri cerbitzatu içatera, baina cerbitzatzera, eta bere viciaren anhitzengatic rançoinetan emaitera.
+eus	41N	11	23		15190	Eguiaz erraiten drauçuet, norc-eré erranen baitrauca mendi huni, Ken adi, eta iraitz adi itsassora: eta ezpaitu dudaric eguinen bere bihotzean, baina
+eus	42N	2	20		18490	Eta itzul citecen artzainac, glorificatzen eta laudatzen çutela Iaincoa, ençun eta ikussi vkan cituzten gauça guciéz, erran içan cayen beçala.
+eus	42N	4	20		19390	Eta plegaturic liburuä rendatu ceraucanean ministreari, iar cedin: eta synagogaco gucién beguiac haren gainera fincatuac ciraden.
+eus	42N	5	36		19990	Guero comparationebat-ere erran ciécen, Nehorc eztrauca eratchequiten abillamendu berri baten pedaçua abillamendu çar bati: ezpere berriac ethencen du: eta
+eus	42N	7	8		20590	Ecen ni nauc berceren meneco guiçon, ditudalaric neure meneco gendarmesac: eta huni erraiten diarocat, oha, eta badihoac: eta berceari, Athor, eta ethorten
+eus	42N	7	38		20890	Eta guibeletic haren oinetara cegoela, has cedin nigarrez cegoela haren oinén nigar vriz arregatzen: eta ichucatzen cerauzcan bere buruco adatsaz, eta pot
+eus	42N	8	18		21190	Ikus-açue bada nola ençuten duçuen: ecen norc-ere baitu hari emanen çayo: eta norc-ere ezpaitu, duela vste duena-ere edequiren çayo hari.
+eus	42N	9	22		21790	Cioela, Behar da guiçonaren Semeac anhitz suffri deçan, eta reproba dadin Ancianoéz eta Sacrificadore principaléz, eta Scribez, eta hil dadin, eta hereneco
+eus	42N	9	52		22090	Eta igor citzan mandatariac bere aitzinean, eta ioanic sar citecen Samaritanoén burgu batetan, ostatu appain lieçotençát:
+eus	42N	10	20		22390	Ordea harçaz etzaiteztela aleguera, ceren spirituac suiet eguiten çaizquiçuen: baina aitzitic aleguera çaitezte, ceren çuen icenac scribatuac baitirade
+eus	42N	11	8		22690	Erraiten drauçuet, baldin iaiquiric eman ezpadieço-ere, ceren haren adisquide den: halere haren muthiritassunagatic iaiquiric emanén drauca cembat-ere behar
+eus	42N	13	15		23890	lhardets cieçón bada Iaunac, eta erran ceçan, Hypocritá, çuetaric batbederac Sabbathoan eztu lachatzen bere idia edo bere astoa mangederatic, eta
+eus	42N	14	10		24190	Baina gomitatu aicenean, habil, iar adi azquen lekuan: dathorrenean hi gomitatu auenac erran dieçançat, Adisquideá, igan adi gorago: orduan duquec ohore
+eus	42N	16	3		24790	Orduan erran ceçan bere baithan despenserac, Cer eguinen dut, neure nabussiac despensaren carguä edequiten drautanaz gueroz? aitzurreric ecin daidit, esque
+eus	42N	17	2		25090	Harc hobe luque baldin errota harribat haren leppoaren inguruan eçar baledi, eta egotz ledin itsassora, ecen ez chipi hautaric bat scandaliza deçan.
+eus	42N	18	25		25690	Ecen errachago da cablebat sar dadin orratzaren çulhotic, ecen ez abratsa sar dadin Iaincoaren resumán.
+eus	42N	19	12		25990	Erran ceçan bada, Guiçon noblebat parti cedin leku vrrun batetara, resuma baten conquestatzera, guero itzultzecotán.
+eus	42N	19	42		26290	O baldin hic berere eçagutu vkan bahitu eure iornata hunetan berere, eure baquearen gauçác! Baina orain estaliac diaudec hire beguietaric
+eus	42N	20	24		26590	Eracustaçue dinerobat: norenac ditu imagina eta scribua? Eta ihardesten çutela erran ceçaten, Cesarenac.
+eus	42N	21	7		26890	Orduan interroga ceçaten hura, cioitela, Magistruá, noiz bada horiac içanen dirade? eta cer signo içanen da horiac ethorri behar diradenean?
+eus	42N	22	59		27790	Eta quasi oren baten buruän, berce batec seguratzen çuen, cioela, Segurqui haur-ere harequin cen: ecen Galileano da.
+eus	42N	23	48		28390	Eta spectacle hartara bildu içan ciraden gendetze guciac, ikussiric eguin içan ciraden gauçác bere bulharrey ceraunstela itzultzen ciraden.
+eus	43N	1	29		29290	Biharamunean ikusten du Ioannesec Iesus harengana ethorten dela, eta dio, Huná Iaincoaren Bildotsa munduaren bekatuac kencen dituena.
+eus	43N	5	43		31090	Ni ethorri naiz neure Aitaren icenean, eta eznauçue recebitzen: baldin bercebat ethor badadi bere icenean, hura recebituren duçue.
+eus	43N	6	26		31390	Ihardets ciecén Iesusec, eta erran ceçan, Eguiaz eguiaz erraiten drauçuet, ene bilha çabiltzate, ez ceren miraculuac ikussi dituçuen, baina ceren ian
+eus	43N	7	45		32290	Ethor citecen bada officierac Sacrificadore principaletara eta Phariseuetara, eta hec erran ciecén, Cergatic eztuçue hura ekarri?
+eus	43N	8	22		32590	Erraiten çuten bada Iuduéc, Berac hilen othe du bere buruä? erraiten baitu, Norat ni ioaiten bainaiz, çuec ecin çatozquete.
+eus	43N	8	52		32890	Orduan erran cieçoten Iuduéc, Orain eçagutu diagu ecen deabrua duala: Abraham hil içan duc eta Prophetác: eta hic dioc, Baldin nehorc ene hitza beguira
+eus	43N	10	12		33490	Baina mercenarioac, eta artzain eztenac, ceinenac ezpaitirade ardiac, dacussanean otsoa heldu dela, vtziten ditu ardiac, eta ihes eguiten du: eta otsoac
+eus	43N	12	3		34390	Orduan Mariac harturic liberabat vnguentu aspic finez precio handitacoric, vncta citzan Iesusen oinac, eta ichuca citzan bere adatsaz: eta etchea bethe cedin
+eus	43N	15	4		35590	Çaudete nitan eta ni çuetan: chirmenduac berac fructuric bereganic ecin ekar deçaqueen beçala, baldin aihenean ezpadago: ezeta çuec-ere baldin nitan
+eus	43N	16	7		35890	Baina nic eguia erraiten drauçuet, behar duçue ni ioan nadin: ecen baldin ioan ezpanadi, Consolaçalea ezta ethorriren çuetara: baina baldin ioan banadi,
+eus	43N	18	8		36490	Ihardets ceçan Iesusec, Erran drauçuet ecen ni naicela: bada baldin ene bilha baçabiltzate, vtzitzaçue hauc ioaitera.
+eus	43N	18	38		36790	Diotsa Pilatec, Cer da eguia? Eta haur erran çuenean, berriz ilki cedin Iuduetara, eta dioste, Nic eztut erideiten haur baithan causaric batre.
+eus	43N	19	28		37090	Guero nola baitzaquian Iesusec ecen berce gauça guciac ia complitu ciradela, compli ledinçát Scripturá, erran ceçan, Egarri naiz.
+eus	43N	21	15		37690	Bada barazcaldu ciradenean, diotsá Simon Pierrisi Iesusec, Simon Ionaren semeá, hauc baino hobe dariztac? Diotsa, Bay Iauna: hic badaquic ecen on
+eus	44N	1	20		37990	Ecen scribatua da Psalmuen liburuän, Eguin bedi haren habitationea desert, eta eztén han habita dadinic. Eta, Haren administrationea har deçan berce batec.
+eus	44N	2	24		38290	Cein Iaincoac resuscitatu baitu, herioaren doloreac lachaturic, ceren ezpaitzén possible hura harçaz, eduqui ledin.
+eus	44N	5	4		39190	Baldin beguiratu bahau etzena hire guelditzen? eta salduric hire botherean etzena? cer cen cergatic gauça hori gogoan eçarri behar auen? eztrauec guiçoney
+eus	44N	5	34		39490	Orduan iaiquiric conseilluan Phariseu Gamaliel deitzen cen Legueco doctor batec, cein populu guciac ohoratzen baitzuen, mana ceçan lekorerat appurbat retira
+eus	44N	7	7		39790	Baina hec cerbitzatu duqueiten gendea punituren diat nic, dio Iaincoac: eta guero ilkiren dituc, eta cerbitzaturen nié leku hunetan.
+eus	44N	7	37		40090	Moyses haur da erran cerauena Israeleco haourrey, Prophetabat suscitaturen drauçue çuen Iainco Iaunac çuen anayetaric ni beçalacoric: hari beha
+eus	44N	8	7		40390	Ecen spiritu satsuác, heçaz eduquiten ciradenetaric anhitzetaric ilkiten ciraden, ocengui oihuz ceudela: eta anhitz paralytico eta maingu senda cedin.
+eus	44N	8	37		40690	Eta erran ceçan Philippec, Baldin sinhesten baduc eure bihotz guciaz, ahal aite. Eta ihardesten çuela harc erran ceçan, Sinhesten diat Iaincoaren Semea dela
+eus	44N	9	27		40990	Baina Barnabasec harturic hura eraman ceçan Apostoluetara, eta conta ciecén nola bidean ikussi çuen Iauna, eta hari minçatu içan çayón, eta nola
+eus	44N	10	44		41590	Oraino Pierrisec propos hauc eduquiten cituela, iauts cedin Spiritu saindua hitz haur ençuten çuten gucién gainera.
+eus	44N	11	26		41890	Eta hura eridenic eraman ceçan Antiochera: eta guertha cedin vrthe gucian Eliçarequin conuersa baitzeçaten, eta populu handi iracats baitzeçaten, eta
+eus	44N	13	1		42190	Eta ciraden, Antiochen cen Eliçán Propheta eta doctor batzu, Barnabas, eta Simon Niger deitzen cena, eta Lucio Cyreneanoa, eta Manahen, Herodes
+eus	44N	13	31		42490	Eta ikussi içan da anhitz egunez, harequin batean Galilearic Ierusalemera igan içan ciradenéz, eta dirade haren testimonio populua baithara.
+eus	44N	14	9		42790	Hunec ençun ceçan Paul minçatzen, ceinec, hari begui eratchequiric, eta ikussiric ecen fede baçuela sendatu içateco, erran baitzieçon ocengui,
+eus	44N	17	20		43990	Ecen gauça arrotz batzu gure beharrietara ekarten dituc: nahi diagu bada iaquin gauça horiac cer erran nahi diraden.
+eus	44N	20	38		45190	Triste ciradelaric principalqui erran vkan çuen hitzagatic, ecen guehiagoric haren beguithartea ezlutela ikussiren. Eta vncira lagundu çaizcan.
+eus	44N	21	30		45490	Eta moui cedin hiri gucia, eta oldar cedin populua: eta Paul hatzamanic templetic campora idoquiten çutén: eta bertan borthac erts citecen.
+eus	44N	22	20		45790	Eta issurten cenean Esteben hire martyraren odola, ni-ere present ninduán, eta consentitzen nián haren hiltzean, eta beguiratzen nitián hura hiltzen
+eus	44N	23	20		46090	Eta harc erran ceçan, Iuduéc ordenatu dié hiri othoitz eguitera, bihar Paul conseillura igorri deçán, hobequiago cerbaitez informatu nahi balirade beçala
+eus	44N	24	15		46390	Eta sperança dudalaric Iaincoa baithan, içanen dela hilén resurrectionea, hambat iustoena nola iniustoena, ceinen beguira berac-ere baitaude.
+eus	45N	1	4		47890	Sanctificationetaco Spirituaz den becembatean hiletarico resuscitatzez Iaincoaren Seme botheretsuqui declaratuaz, Iesus Christ gure Iaunaz:
+eus	45N	5	8		49090	Baina certificatzen du bere charitatea gu baithara Iaincoac, ceren oraino bekatutara abandonnatuac guinela, Christ guregatic hil içan baita.
+eus	45N	6	17		49390	Bada esquer Iaincoari ceren bekatuaren cerbitzari içan baitzarete, baina bihotzetic obeditu baituçue doctrinaren formá, ceinetara eman içan baitzarete:
+eus	45N	8	29		49990	Eta cein predestinatu baititu, hec deithu-ere ditu: eta cein deithu baititu, hec iustificatu-ere ditu: eta cein iustificatu baititu hec glorificatu-ere ditu.
+eus	45N	9	21		50290	Ala eztu lur-tupinaguileac orhe ber batetaric eguiteco bothere, vnci bataren ohoretaco, eta bercearen desohoretaco?
+eus	45N	10	18		50590	Baina galdez nago, ala eztute ençun vkan? Bainaitzitic lur orotara ilki içan da hayen soinuä, eta munduaren bazterretarano hayén hitzac.
+eus	45N	15	23		51790	Baina orain guehiago lekuric comarca hautan eztudanaz gueroz, eta ia anhitz vrthez gueroztic çuetara ethortera desir dudanaren gainean:
+eus	45N	16	20		52090	Eta baquezco Iaincoac deseguinen du Satan çuen oinén azpian sarri. Iesus Christ gure Iaunaren gratia dela, çuequin. Amen.
+eus	46N	1	23		52390	Baina guçaz den becembatean predicatzen dugu Christ crucificatua, Iuduey behinçát scandalo, eta Grecoey erhogoa çayena.
+eus	46N	4	14		52990	Eztrauzquiçuet gauça hauc scribatzen ahalque çaitzatedançát, baina neure haour maite anço auisatzen çaituztet.
+eus	46N	6	10		53290	Etzaiteztela engana, ez paillartéc, ez idolatréc, ez adulteroéc, ez malguèc, ez bugréc, ez ohoinéc, ez auaritiosoéc, ez hordiéc, ez gaitzerrailéc, ez
+eus	46N	8	10		53890	Ecen baldin norbeitec ikus baheça hi eçagutze duanor, iarriric agoela idolén templeco mahainean, infirmo denaren conscientiá ezta instruituren idolari
+eus	46N	9	27		54190	Baina gaztigatzen dut neure gorputza, eta suiectionetara erekarten: eceinere maneraz bercey, predicatu ondoan, neuror reprobatu eriden eznadinçát.
+eus	46N	10	30		54490	Eta baldin nic gratiaz viandán participatzen badut, cergatic gaichto iudicatzen naiz nic esquerrac emaiten ditudan gauçagatic?
+eus	46N	11	27		54790	Halacotz, norc-ere ianen baitu ogui haur, edo edanen Iaunaren copá indignoqui, hoguendun içanen da Iaunaren gorputzaren eta odolaren
+eus	46N	12	23		55090	Eta gorputzeco membro deshonestén diradela vste dugunac, ohoratuquienic estaltzen ditugu: eta gure membro deshonestenéc, ornamendu guehienic duté.
+eus	46N	14	9		55390	Hala çuec-ere baldin adi daitequeen hitza mihiaz pronuntia ezpadeçaçue, nolatan adituren da erraiten dena? ecen airera minçaçale içanen çarete.
+eus	46N	14	39		55690	Halacotz, anayeác, çareten prophetizatzera guthicioso, eta lengoage arrotzez minçatzea ezteçaçuela empatcha.
+eus	46N	15	29		55990	Bercela cer eguinen duté hiltzat batheyatzen diradenéc, baldin guciz hilac resuscitatzen ezpadirade? eta cergatic batheyatzen dirade hiltzat?
+eus	46N	16	1		56290	Sainduendaco eguiten diraden collectéz den becembatean, nola Galatiaco Elicey ordenatu baitrauet, hala çuec-ere eguiçue.
+eus	47N	1	7		56590	Eta gure sperança çueçaz duguna fermu da, daquigularic ecen nola suffrimenduetan participant baitzarete, hala consolationean-ere içanen çaretela.
+eus	47N	2	13		56890	Eztut vkan paussuric neure spirituan, ceren ezpaineçan eriden Tite neure anayea: baina hetaric congit harturic, ioan nendin Macedoniarát.
+eus	47N	5	20		57490	Harren, Christen icenean embachadore gara, Iaincoac guçaz othoitz eguiten balerauçue beçala: othoitz eguiten drauçuegu Christen icenean, reconcilia
+eus	47N	7	11		57790	Ecen horrá, Iaincoaren arauez tristetu içate horrec berac, cein artha handia çuetan obratu vkan du: aitzitic cer satisfactionea, aitzitic indignationea,
+eus	aitzitic beldurra, aitzitic desir handia, aitzitic affectione handia, aitzitic mendequioa? gauça gucietan eracutsi içan çarete nola chahu çareten eguiteco hunetan.
+eus	47N	10	16		58390	Hala non çuec baino aitzinago diraden lekuetan euangeliza deçadan eta ezgaitecen gloria berceri assignatu içan çayón neurrian, erran nahi dut, gauça ia
+eus	47N	13	4		58990	Ecen crucificatu içan bada-ere infirmitatez, alabaina vici da Iaincoaren verthutez: ecen gu-ere infirmo gara harequin, baina vici gara harequin Iaincoaren
+eus	48N	5	6		60190	Ecen Iesus Christean ez circoncisioneac du deus balio, ezeta preputioac: baina charitatez obratzen duen fedeac.
+eus	49N	1	22		60790	Eta gauça guciac haren oinén azpico suiet eguin vkan ditu, eta bera eçarri vkan du gauça ororen garayan Eliçaren buru içateco:
+eus	49N	3	7		61090	Ceinen ministre eguin içan bainaiz Iaincoaren gratiaren dohainaren arauez, cein eman içan baitzait haren botherearen operationearen arauez.
+eus	49N	4	16		61390	Ceinetaric gorputz guciac vngui iunctaturic, eta forniduraren iunctura guciéz elkarrequin iossiric, membroetaric batbederaren neurrico indarraren araura
+eus	50N	2	17		62590	Eta baldin çuen fedearen sacrificio eta cerbitzu gainera sacrifica banadi-ere, aleguera naiz eta çuen gucion onaz aleguera naiz.
+eus	50N	3	17		62890	Anayeác, çareten gogo batez ene imitaçale, eta consideraitzaçue hala dabiltzanac, nola gu baiquaituçue exemplutan.
+eus	51N	1	3		63190	Esquerrac emaiten drautzagu Iaincoari, cein baita, Iesus Christ gure Iaunaren Aita bethi çuengatic othoitz eguiten dugula,
+eus	51N	3	11		63790	Non ezpaita Grecquic ez Iuduric, Circoncisioneric ez Preputioric, Barbaroric ez Scytheric, sclaboric ez libreric: baina gucia eta gucietan Christ.
+eus	51N	4	16		64090	Eta epistola haur çuec baithan iracurri datenean, eguiçue Laodiceacoén Eliçan-ere iracur dadin: eta Laodiceatic scribatua, çuec-ere iracur deçaçuen.
+eus	52N	2	18		64390	Halacotz ethorri nahi içan gara çuetara (ni Paul behinçát) behin eta berriz, baina empatchatu vkan gaitu Satanec.
+eus	52N	4	15		64690	Ecen haur erraiten drauçuegu Iaunaren hitzez ecen gu viciric goitico garatenoc Iaunaren aduenimenduan ezgaitzaiztela aitzinduren lo daunçateney.
+eus	54N	1	12		65590	Eta esquer emaiten diarocat ni fortificatu nauenari, cein baita, Iesus Christ gure Iauna: ceinec fidel estimatu vkan bainau, bere cerbitzuan eçarriric:
+eus	54N	3	7		65890	Behar dic are harc duen testimoniage ona campocoetaric-ere: reprotchutara eta deabruen laçora eror eztadinçát.
+eus	54N	5	5		66190	Bada eguiazqui alhargun denac eta bera azquendu içan denac sperança dic Iaincoa baithan, eta perseueratzen dic othoitzetan eta orationetan gau eta egun.
+eus	54N	6	10		66490	Ecen gaitz gucién erroa auaritiá duc, cein desiratzen dutelaric batzu erauci içan baitirade fedetic, eta bere buruäc anhitz doloretan nahaspilatu vkan
+eus	55N	4	18		67390	Eta deliuraturen niauc Iaunac obra gaichto gucitaric eta emparaturen bere resuma celestialeco: hari dela gloria secula seculacotz. Amen.
+eus	56N	2	10		67690	Deus appartatzen eztutelaric, baina leyaltate on gucia eracusten dutelaric, gauça gucietan Iainco gure Saluadorearen doctriná orna deçatençát.
+eus	58N	3	13		68590	Baina exhorta eçaçue elkar egun oroz, egungo egun deitzen deno, çuetaric nehor gogor eztadinçát bekatuaren enganioz.
+eus	58N	7	4		69190	Considera eçaçue bada cein handi eguin içan den haur, ceini Abraham patriarchac despuilletaco hamarrena-ere eman baitzieçón.
+eus	58N	8	6		69490	Baina orain gure Sacrificadore subiranoac ministerio excellentagoa obtenitu vkan du, cembatenaz Alliança hobeago baten ararteco baita, cein promes hobeagoén
+eus	58N	9	23		69790	Behar içan da beraz ceruètan diraden gaucén figurác, hunelaco gauça hauçaz purifica litecen, baina celestial berac purifica ditecen hauc diraden baino
+eus	58N	10	25		70090	Vtziten eztugularic gure congregationea, batzuc costuma duten beçala, baina exhortatzen dugularic elkar: eta haur hambatenaz guehiago cembatenaz
+eus	58N	11	16		70390	Baina orain hobeagobat desiratzen duté, erran nahi baita celestiala: hunegatic Iaincoari berari-ere etzayó laido hayén Iainco deitzera, ecen preparatu
+eus	58N	13	7		70990	Çareten orhoit çuen guidaçaléz, Iaincoaren hitza declaratu vkan drauçuenéz, ceinén fedea imitatzen baituçue, consideratzen duçuelaric ceric içan den
+eus	59N	1	12		71290	Dahatsu da tentatione suffritzen duen guiçona: ecen phorogatu datenean recebituren duque, Iaunac hura maite duteney promettatu drauen vicitzeco coroá.
+eus	59N	4	1		71890	Nondic guerlác eta guduac çuen artean? eza hemendic, diot, çuen voluptate çuen membroetan guerla eguiten dutenetaric?
+eus	59N	5	14		72190	Eri da cembeit çuen artean? erekar bitza Eliçaco ancianoac, eta othoitz beguité harengatic, vnctatzen dutela hura olioz Iaunaren icenean.
+eus	60N	1	24		72490	Ceren haragui gucia baita belharra beçala, eta guiçonaren gloria gucia belhar lilia beçala: eyhartu da belharra, eta haren lilia erori:
+eus	60N	3	4		72790	Baina bihotzeco guiçon gordea, spiritu eme eta sossegu batetaco incorruptionean consistitzen dena, cein baita Iaincoaren aitzinean precioso.
+eus	60N	4	12		73090	Gucizco maiteác, ezteçaçuela estranio eriden, labean beçala çaretenean çuen phorogatzeagatic, cerbait gauça vste gaberic ethorten balitzeiçue beçala:
+eus	61N	1	9		73390	Baina gauça hauc eztituena itsu da, deus vrrundanic eztacussalaric, ahanciric bere bekatu çaharretaric purificatu içan dela.
+eus	61N	2	18		73690	Ecen vanitatezco propos guciz arrogantac pronuntiatzen dituztela bazcatzen dituzté haraguiaren guthiciéz eta insolentiéz, erroretan conuersatzen dutenetaric
+eus	62N	2	28		74290	Orain bada, ene haourtoác, çaudete hartan: aguer dadinean assegurança dugunçát, eta haren aitzinean confus ezgarençát haren aduenimenduan.
+eus	62N	5	14		74890	Eta haur da Iaincoa baithan dugun confidançá, ecen baldin cerbait esca bagaitez haren vorondatearen araura, ençuten gaituela.
+eus	64N	1	10		75190	Halacotz, baldin ethor banadi aippaturen citiat harc eguiten dituen obrác, elhe gaichtoz dadassala gure contra: eta hauçaz ez contentez, eztitic berac
+eus	66N	1	1		75490	IESVS CHRISTEN Apocalypsea, cein eman vkan baitrauca hari Iaincoac, declara dietzençát bere cerbitzariey sarri eguin behar diraden gauçác: eta harc bere
+eus	66N	2	11		75790	Beharriric duenac ençun beça cer Spirituac erraiten drauen Elicéy, Victoriosoari etzayo calteric eguinen bigarren herioaz.
+eus	66N	3	12		76090	Garaita vkanen duena, neure Iaincoaren templean habe eguinen diát, eta eztuc guehiagoric camporat ilkiren, eta scribaturen diát haren gainean neure
+eus	Iaincoaren icena, eta neure Iaincoaren ciuitatearen icena, cein baita, Ierusaleme berria, ene Iaincoaganic cerutic iautsia, eta neure icen berria.
+eus	66N	5	9		76390	Eta cantatzen çutén cantu berribat, cioitela, Digne aiz liburuären hartzeco, eta haren ciguluén irequiteco: ecen sacrificatu içan aiz, eta redemitu
+eus	66N	7	8		76690	Zabulon-en leinutic, hamabi milla seignalaturic: Ioseph-en leinutic, hamabi milla seignalaturic: Beniaminen leinutic, hamabi milla seignalaturic:
+eus	66N	11	7		77290	Eta acabatu duqueitenean bere testimoniagea abysmetic igaiten den bestiác, guerla eguinen dic hayen contra, eta garaithuren citic eta hilen:
+eus	66N	14	12		77890	Hemen da sainduén patientiá: hemen dirade Iaincoaren manamenduac eta Iesusen fedea beguiratzen dituztenac.
+eus	66N	16	14		78190	Ecen badirade deabruén spiritu, signoac eguiten dituztenac, eta lurreco eta mundu orotaco reguetera ioaiten diradenac hec bil ditzatencát Iainco bothere
+eus	66N	18	5		78490	Ecen haren bekatuac elkarri iarreiqui içan çaizca cerurano, eta orhoit içan da Iaincoa haren iniquitatéz.
+eus	66N	19	11		78790	Guero ikus neçan ceruä irequiric, eta huná, çaldi churibat, eta haren gainean iarriric cegoena deitzen cen Fidela eta Eguiatia, eta iustoqui iudicatzen
+eus	66N	21	5		79090	Eta erran ceçan throno gainean iarria cenac, Huná, gauça guciac berri eguiten ditut. Eta erran cieçadan, Scriba eçac: ecen hitz haue fidelac dituc eta
+eus	66N	22	8		79390	Eta ni naiz Ioannes gauça hauc ençun eta ikussi ditudana. Eta ençun eta ikussi ondoan egotz neçan neure buruä gauça hauc eracusten cerauzquidan
+eus	- Bi motatako zentroak aurkitu ahal ditugu Euskal Herrian: batetik, jakintza-arlo anitzeko zentroak, hau da, sektore desberdinetako enpresei zerbitzua eskaintzen diotenak; bestetik, zentro
+eus	.tf Frantziaren lurralde austral eta antartikoei dagokien herrialdeentzako goi mailako domeinua da. Frantziako AFNICek kudeatzen du.
+eus	1059. urtean, Aznar Ezpeleta zen Nafarroako hamabi gizon aberatsenetako bat. 1170. urtean, Pierre Bertrand Ezpeleta zen Baionako apezpikua. 1178ra arte egon zen kargu hartan. 1270. urtean, Ezpeleta
+eus	1226ean Pieusseko Kontzilio Kataroa ospatu zen, non Rasséseko Apezpikutza Kataroa ezartzea erabaki zen. Honek Luis VIII.ak gurutzada berri bat agintzea ekarri zuen, Avignon 4 hilabeteko setiopean
+eus	1411ko apirilaren 21ean, Alençongo dukeen gazteluan Katalina Alençongoa (1380-1425) Beaumont-au-Maineko bizkondesa ezkondu zuen.
+eus	1522an Karlos I.a Espainiako erregeak kapitain jeneral eta Espainia Berriaren gobernari izendatu zuen Cortés, 1527an Audiencia izeneko gobernu erakundea sortu zen, eta 1534an Espainia Berria
+eus	1807 - Louis Marie Hyacinthe Fabre, euskal itzultzaile eta gramatikaria eta Bonaparte printzearen laguntzailea (h. 1875).
+eus	1828 - Manuel Frantzisko Lekuona, Urtxalle, gipuzkoar pilotaria, bertsolaria, gitarra-jotzailea, artista, bohemioa eta plaza gizon ezaguna (h. 1901).
+eus	1865ean, Liejako Unibertsitateak Analisiko katedra eman zion. 1879an, artean Belgikan zegoela, editore lanetan hasi zen egunkari batean; hantxe argitaratu zuen Paul-Jean Busschop-en teoria, oin-ohar
+eus	batean, nahiz eta 1873an onartu ez (enpirikoegia zela jakinarazi zion Busschopi). 1883an, Belgikako Zientzien Akademiarako lan egin zuen zenbakien teoriaren arloan.
+eus	1907an, 27 urte zituela, Mabel Batten abeslaria ezagutu zuen. Hau ezkonduta zegoen, seme bat eta hiloba bat zituen. Bi emakumeak maitemindu egin ziren eta Battenen gizonaren heriotzaren ondoren
+eus	1912an sortu zuten South African Native National Congress (SANNC) izenarekin, eta 11 urte geroago gaur egungoa hartu zuen.
+eus	1917ko maiatzean, ostean Errusiara itzuli zenean, Mezhraionka taldearekin bat egin zuen (boltxebikeen eta mentxebikeen arteko batasuna bilatzen zuen taldea), eta Mezhraionkak uztailean boltxebikeekin
+eus	bat egiterakoan, Volodarski ere boltxebikeekin bat lerratu zen. Uztaileko Egunetan zehar, oraindik alderdikide ez zela (Mezhraionkak oraindik ez zuen boltxebikeekin bat egin), garrantzitsua izan zen
+eus	1930eko hamarkadan idatzitako zenbait kontakizun Babelen maisulanen artean sartu behar dira zalantzarik gabe, bai ikuspegiaren zorroztasunagatik, bai deskripzioen distiragatik, bai oharmen
+eus	1938ko ekaina bukaeran, aita eta anaia Joerekin batera, Londresera bidaiatu zuen hango enbaxadan uztailean lan egiteko asmoz; Franklin D. Roosevelt presidenteak aita AEBetako enbaxadore izendatu
+eus	1946 Walraven asteroide gerrikoan aurkitutako 1946. asteroidearen izena da. 1931ko abuztuak 8an aurkitu zuen Hendrik van Gentek Johannesburgotik. Bere behin-behineko izendapen zientifikoa 1931 PH
+eus	1950. urtean idazten hasi arren, 1967tik aurrera argitaratu zituen bere obra ezagunenak. Lehenengo sei lanak Saint-Martinengan interesa piztu zituzten: Antología de cuentos, Los demonios mudos,
+eus	Ligeramente negro, Ternura infinita, Después de los milagros eta Animalitos de Dios. Lan hauek kaleratu ondoren, 1968an Con suave horror liburuarekin bere lehenengo saria lortu zuen, Leopoldo Alas
+eus	1954 - The Egyptian (Egipziarra) filma estreinatu zen, Michael Curtizek zuzendu eta Edmund Purdom, Victor Mature, Jean Simmons, Gene Tierney, Michael Wilding, Bella Darvi, Peter Ustinov eta Tommy
+eus	1958an, ama hil zitzaion urtean, aitak lehen gitarra elektrikoa erosi zion, Supro Ozark gorri bat, anplifikadorerik gabe, eta honekin jo zuen herriko talde batzuetan. Eskola utzi eta buru-belarri
+eus	eman zion gitarra-jole handien jarraipenari: B.B. King, Muddy Waters, Albert King, Robert Johnson, Leadbelly eta Chuck Berry.
+eus	1961ean, frankismotik ihesi, Ipar Euskal Herrira abiatu zen. Urte askotan erbesteraturik bizi zen Iparraldean, Parisen eta Venezuelan. Hego Euskal Herrira 1977an itzuli zen. Atzerrian zein Euskal
+eus	1970etik 1985era Kopenhagenen bizi izan zen. 1973an ezkondu zen eta bi alaba izan zituen; lehenengoa 1974an, eta bigarrena 1981ean. 1976an filosofia ikasten hasi zen Kopenhageko Unibertsitatean eta
+eus	1979-1989: Kanputxeako Herri Errepublika (République populaire du Kampuchea) Vietnamek babestutako gobernuaren aginpean.
+eus	1991an Manchester United FC Ingalaterra eta Belgradeko Izar Gorriaren Jugoslavia artean itzulerako partida ez zen jokatu Jugoslaviaren gerra egoeragatik.
+eus	1993: Arthur Ashe (hil ondorengoa) – William Joseph Brennan – Marjory Stoneman Douglas – James William Fulbright – Thurgood Marshall (hil ondorengoa) – Colin Powell – Joseph L. Raugh (hil
+eus	1997an, Gipuzkoako Foru Aldundiaren beka jaso zuen, eta hurrengo urteetan, Espainiako Kanpo Arazoetarako Ministerioaren beka, bai eta Eusko Jaurlaritzaren eta Gipuzkoako Foru Aldundiaren laguntzak
+eus	1999an aldarrikatu zuen Georgiarekiko independentzia, eta 2008an jaso zuen ofizialki Errusiaren aitorpena —Georgiaren aurkako gerraren ostetik heldu zen Moskuren adierazpena—. Gerora gauza bera
+eus	egin zuten Nikaraguak, Venezuelak eta Nauruk. Mendebaldeko gobernu nagusiek, ordea, ez zieten baliorik aitortzen hauteskunde haiei.
+eus	2007an 102 etxebizitza zeuden, 66 familiaren etxebizitza nagusia ziren, 24 bigarren erresidentzia ziren eta 12 hutsik zeuden. 101 etxeak ziren eta 1apartamentu bat zen. 66 etxebizitza nagusietatik 46
+eus	bere jabearen bizilekua ziren, 19 alokairuan okupaturik zeuden eta 1 doan lagata zegoen; 1ek gela bat zuen, 1ek bi zituen, 15 etxek hiru zituzten, 14 etxek lau zituzten eta 35 etxek bost zituzten. 41
+eus	etxek euren parking plaza propioa zuten azpian. 28 etxetan ibilgailu bat zegoen eta 33 etxetan bat baino gehiago zituzten.
+eus	2007an 132 etxebizitza zeuden, 101 familiaren etxebizitza nagusia ziren, 16 bigarren erresidentzia ziren eta 15 hutsik zeuden. Etxebizitza guzti hauek 132etxeak ziren. 101 etxebizitza nagusietatik 88
+eus	bere jabearen bizilekua ziren, 11 alokairuan okupaturik zeuden eta 2 doan lagata zeuden; 1ek gela bat zuen, 5 etxek bi zituzten, 15 etxek hiru zituzten, 18 etxek lau zituzten eta 62 etxek bost
+eus	zituzten. 87 etxek euren parking plaza propioa zuten azpian. 45 etxetan ibilgailu bat zegoen eta 50 etxetan bat baino gehiago zituzten.
+eus	2007an 171 etxebizitza zeuden, 138 familiaren etxebizitza nagusia ziren, 13 bigarren erresidentzia ziren eta 20 hutsik zeuden. 169 etxeak ziren eta 1apartamentu bat zen. 138 etxebizitza nagusietatik
+eus	102 bere jabearen bizilekua ziren, 35 alokairuan okupaturik zeuden eta 1 doan lagata zegoen; 2 etxek gela bat zuten, 9 etxek bi zituzten, 19 etxek hiru zituzten, 26 etxek lau zituzten eta 82 etxek
+eus	bost zituzten. 117 etxek euren parking plaza propioa zuten azpian. 62 etxetan ibilgailu bat zegoen eta 70 etxetan bat baino gehiago zituzten.
+eus	2007an 221 etxebizitza zeuden, 208 familiaren etxebizitza nagusia ziren, 6 bigarren erresidentzia ziren eta 6 hutsik zeuden. 219 etxeak ziren eta 2 apartamentuak ziren. 208 etxebizitza nagusietatik
+eus	178 bere jabearen bizilekua ziren, 29 alokairuan okupaturik zeuden eta 2 doan lagata zeuden; 1ek gela bat zuen, 6 etxek bi zituzten, 29 etxek hiru zituzten, 58 etxek lau zituzten eta 114 etxek bost
+eus	zituzten. 185 etxek euren parking plaza propioa zuten azpian. 74 etxetan ibilgailu bat zegoen eta 124 etxetan bat baino gehiago zituzten.
+eus	2007an 293 etxebizitza zeuden, 253 familiaren etxebizitza nagusia ziren, 21 bigarren erresidentzia ziren eta 19 hutsik zeuden. 283 etxeak ziren eta 2 apartamentuak ziren. 253 etxebizitza nagusietatik
+eus	220 bere jabearen bizilekua ziren, 21 alokairuan okupaturik zeuden eta 12 doan lagata zeuden; 2 etxek gela bat zuten, 12 etxek bi zituzten, 34 etxek hiru zituzten, 83 etxek lau zituzten eta 122 etxek
+eus	bost zituzten. 187 etxek euren parking plaza propioa zuten azpian. 116 etxetan ibilgailu bat zegoen eta 109 etxetan bat baino gehiago zituzten.
+eus	2007an 40 etxebizitza zeuden, 32 familiaren etxebizitza nagusia ziren eta 8 bigarren erresidentzia ziren. 37 etxeak ziren eta 2 apartamentuak ziren. 32 etxebizitza nagusietatik 28 bere jabearen
+eus	bizilekua ziren eta 3 alokairuan okupaturik zeuden; 3 etxek bi gela zituzten, 9 etxek lau zituzten eta 19 etxek bost zituzten. 13 etxek euren parking plaza propioa zuten azpian. 15 etxetan ibilgailu
+eus	2007an 53 etxebizitza zeuden, 22 familiaren etxebizitza nagusia ziren, 27 bigarren erresidentzia ziren eta 3 hutsik zeuden. 50 etxeak ziren eta 3 apartamentuak ziren. 22 etxebizitza nagusietatik 18
+eus	bere jabearen bizilekua ziren, 3 alokairuan okupaturik zeuden eta 1 doan lagata zegoen; 3 etxek bi gela zituzten, 3 etxek hiru zituzten, 5 etxek lau zituzten eta 11 etxek bost zituzten. 15 etxek
+eus	2007an 68 etxebizitza zeuden, 59 familiaren etxebizitza nagusia ziren, 5 bigarren erresidentzia ziren eta 4 hutsik zeuden. Etxebizitza guzti hauek 68etxeak ziren. 59 etxebizitza nagusietatik 52 bere
+eus	jabearen bizilekua ziren eta 7 alokairuan okupaturik zeuden; 2 etxek hitu gela zituzten, 17 etxek lau zituzten eta 40 etxek bost zituzten. 40 etxek euren parking plaza propioa zuten azpian. 20
+eus	2007an 85 etxebizitza zeuden, 64 familiaren etxebizitza nagusia ziren, 17 bigarren erresidentzia ziren eta 4 hutsik zeuden. Etxebizitza guzti hauek 84etxeak ziren. 64 etxebizitza nagusietatik 54 bere
+eus	jabearen bizilekua ziren, 9 alokairuan okupaturik zeuden eta 1 doan lagata zegoen; 4 etxek bi gela zituzten, 4 etxek hiru zituzten, 18 etxek lau zituzten eta 38 etxek bost zituzten. 44 etxek euren
+eus	2007an Auberives-en-Royans udalerrian erroldatutako biztanleak 348 ziren. Familiak 141 ziren, horien artean 31 pertsona bakarrekoak ziren (8 bakarrik bizi ziren gizonak eta 23 bakarrik bizi ziren
+eus	emakumeak), 51 seme-alabarik gabeko familiak ziren, 43 seme-alabak dituzten bikoteak ziren eta 16 seme-alabak dituzten guraso-bakarreko familiak ziren.
+eus	2007an Cintheaux udalerrian erroldatutako biztanleak 182 ziren. Familiak 64 ziren, horien artean 8 pertsona bakarrekoak ziren (8 bakarrik bizi ziren emakumeak eta 8 bakarrik bizi ziren emakumeak), 24
+eus	2007an Hulluch udalerrian erroldatutako biztanleak 3.161 ziren. Familiak 1.132 ziren, horien artean 270 pertsona bakarrekoak ziren (90 bakarrik bizi ziren gizonak eta 180 bakarrik bizi ziren
+eus	emakumeak), 306 seme-alabarik gabeko familiak ziren, 481 seme-alabak dituzten bikoteak ziren eta 75 seme-alabak dituzten guraso-bakarreko familiak ziren.
+eus	2007an Margerides udalerrian erroldatutako biztanleak 250 ziren. Familiak 116 ziren, horien artean 40 pertsona bakarrekoak ziren (8 bakarrik bizi ziren gizonak eta 32 bakarrik bizi ziren emakumeak),
+eus	2007an Rivière-Saas-et-Gourby udalerrian erroldatutako biztanleak 1.131 ziren. Familiak 436 ziren, horien artean 88 pertsona bakarrekoak ziren (36 bakarrik bizi ziren gizonak eta 52 bakarrik bizi
+eus	ziren emakumeak), 144 seme-alabarik gabeko familiak ziren, 164 seme-alabak dituzten bikoteak ziren eta 40 seme-alabak dituzten guraso-bakarreko familiak ziren.
+eus	2007an Taurignan-Castet udalerrian erroldatutako biztanleak 155 ziren. Familiak 68 ziren, horien artean 16 pertsona bakarrekoak ziren (16 bakarrik bizi ziren emakumeak eta 16 bakarrik bizi ziren
+eus	emakumeak), 28 seme-alabarik gabeko familiak ziren, 16 seme-alabak dituzten bikoteak ziren eta 8 seme-alabak dituzten guraso-bakarreko familiak ziren.
+eus	2007an lan egiteko adina zuten pertsonak 21 ziren, horien artean 12 aktiboak ziren eta 9 inaktiboak ziren. 12 pertsona aktiboetatik 9 lanean zeuden (6 gizon eta 3 emakume) eta 3 langabezian zeuden (1
+eus	2007an lan egiteko adina zuten pertsonak 87 ziren, horien artean 68 aktiboak ziren eta 19 inaktiboak ziren. 68 pertsona aktiboetatik 65 lanean zeuden (31 gizon eta 34 emakume) eta 3 langabezian
+eus	zeuden (3 gizon). 19 pertsona inaktiboetatik 15 erretiraturik zeuden eta 4 "bestelako inaktibo" gisa sailkaturik zeuden.
+eus	2007an zeuden 11 komertzioetatik, 1 erauzte enpresa zen, 1 material elektrikoaren fabrikazioko enpresa zen, 1 bestelako produktu industrialen fabrikazioko enpresa zen, 4 eraikuntza enpresak ziren, 2
+eus	2007an zeuden 13 komertzioetatik, 1 bestelako produktu industrialen fabrikazioko enpresa zen, 1 eraikuntza enpresa zen, 3 ibilgailuen saltze eta konpontze enpresak ziren, 1 ostalaritza eta jatetxe
+eus	enpresa zen, 2 finantziazio enpresak ziren, 4 zerbitzu enpresak ziren eta 1 «beste zerbitzu jarduera batzuk» multzoan sailkatutako enpresa zen.
+eus	2007an zeuden 15 komertzioetatik, 1  janari enpresa zen, 8 eraikuntza enpresak ziren, 1 garraio enpresa zen, 1 ostalaritza eta jatetxe enpresa zen, 2 zerbitzu enpresak ziren eta 2 «beste zerbitzu
+eus	2007an zeuden 17 komertzioetatik, 2 erauzte enpresak ziren, 2 eraikuntza enpresak ziren, 2 ibilgailuen saltze eta konpontze enpresak ziren, 3 ostalaritza eta jatetxe enpresak ziren, 1 higiezinen
+eus	enpresa zen, 3 zerbitzu enpresak ziren, 2 administrazio publikoko enpresak ziren eta 2 «beste zerbitzu jarduera batzuk» multzoan sailkatutako enpresak ziren.
+eus	2007an zeuden 20 komertzioetatik, 1 janari enpresa zen, 7 eraikuntza enpresak ziren, 6 ibilgailuen saltze eta konpontze enpresak ziren, 1 garraio enpresa zen, 2 ostalaritza eta jatetxe enpresak
+eus	2007an zeuden 241 komertzioetatik, 1  erauzte enpresa zen, 3 janari enpresak ziren, 6 material elektrikoaren fabrikazioko enpresak ziren, 5 bestelako produktu industrialen fabrikazioko enpresak
+eus	ziren, 34 eraikuntza enpresak ziren, 53 ibilgailuen saltze eta konpontze enpresak ziren, 9 garraio enpresak ziren, 10 ostalaritza eta jatetxe enpresak ziren, 7 informazio eta komunikazio enpresak
+eus	ziren, 13 finantziazio enpresak ziren, 10 higiezinen enpresak ziren, 39 zerbitzu enpresak ziren, 38 administrazio publikoko enpresak ziren eta 13 «beste zerbitzu jarduera batzuk» multzoan
+eus	2007an zeuden 30 komertzioetatik, 1  material elektrikoaren fabrikazioko enpresa zen, 1 bestelako produktu industrialen fabrikazioko enpresa zen, 10 eraikuntza enpresak ziren, 5 ibilgailuen saltze
+eus	eta konpontze enpresak ziren, 2 ostalaritza eta jatetxe enpresak ziren, 1 higiezinen enpresa zen, 7 zerbitzu enpresak ziren, 1 administrazio publikoko enpresa zen eta 2 «beste zerbitzu jarduera
+eus	2007an zeuden 38 komertzioetatik, 2 janari enpresak ziren, 8 eraikuntza enpresak ziren, 11 ibilgailuen saltze eta konpontze enpresak ziren, 3 garraio enpresak ziren, 1 ostalaritza eta jatetxe enpresa
+eus	zen, 2 higiezinen enpresak ziren, 3 zerbitzu enpresak ziren, 4 administrazio publikoko enpresak ziren eta 4 «beste zerbitzu jarduera batzuk» multzoan sailkatutako enpresak ziren.
+eus	2007an zeuden 47 komertzioetatik, 2 erauzte enpresak ziren, 1 janari enpresa zen, 3 bestelako produktu industrialen fabrikazioko enpresak ziren, 16 eraikuntza enpresak ziren, 9 ibilgailuen saltze eta
+eus	konpontze enpresak ziren, 5 ostalaritza eta jatetxe enpresak ziren, 1 informazio eta komunikazio enpresa zen, 1 finantziazio enpresa zen, 4 higiezinen enpresak ziren, 2 zerbitzu enpresak ziren, 2
+eus	2007an zeuden 58 komertzioetatik, 1 erauzte enpresa zen, 1 janari enpresa zen, 1 material elektrikoaren fabrikazioko enpresa zen, 4 bestelako produktu industrialen fabrikazioko enpresak ziren, 15
+eus	eraikuntza enpresak ziren, 8 ibilgailuen saltze eta konpontze enpresak ziren, 3 garraio enpresak ziren, 4 ostalaritza eta jatetxe enpresak ziren, 1 informazio eta komunikazio enpresa zen, 1
+eus	finantziazio enpresa zen, 3 higiezinen enpresak ziren, 4 zerbitzu enpresak ziren, 6 administrazio publikoko enpresak ziren eta 6 «beste zerbitzu jarduera batzuk» multzoan sailkatutako enpresak
+eus	2007an zeuden 7 komertzioetatik, 1  bestelako produktu industrialen fabrikazioko enpresa zen, 2 ibilgailuen saltze eta konpontze enpresak ziren, 1 garraio enpresa zen, 1 ostalaritza eta jatetxe
+eus	2007an zeuden 8 komertzioetatik, 1 erauzte enpresa zen, 1 bestelako produktu industrialen fabrikazioko enpresa zen, 1 ibilgailuen saltze eta konpontze enpresa zen, 1 higiezinen enpresa zen, 2
+eus	zerbitzu enpresak ziren, 1 administrazio publikoko enpresa zen eta 1 «beste zerbitzu jarduera batzuk» multzoan sailkatutako enpresa zen.
+eus	2007an zeuden 9 komertzioetatik, 2 eraikuntza enpresak ziren, 1 garraio enpresa zen, 1 finantziazio enpresa zen, 2 zerbitzu enpresak ziren, 1 administrazio publikoko enpresa zen eta 2 «beste
+eus	2008 - Batasunako Pernando Barrena, Patxi Urrutia eta Unai Fano buruzagiak atxilotu zituzten Auzitegi Nazionaleko Baltasar Garzon epailearen aginduz.
+eus	2009an Fleurieux-sur-l'Arbresle udalerrian 810 unitate fiskal zeuden, 2.251,5 pertsonek osaturik. Pertsona bakoitzeko diru-sarrera fiskalaren mediana urteko 24.568 euro zen.
+eus	2009an Roches udalerrian 184 unitate fiskal zeuden, 375 pertsonek osaturik. Pertsona bakoitzeko diru-sarrera fiskalaren mediana urteko 13.049 euro zen.
+eus	2009an haur-eskola 1 eta inguruko herriekin osatutako barreiatutako lehen-hezkuntzako eskola 1 zegoen. Piégut-Pluviers udalerrian Bigarren Hezkuntzako ikastetxe bat zegoen 183 ikaslekin.
+eus	2009an zeuden 12 establezimendu komertzialetatik, 1 supermerkatu zen, 1 brikolaje denda handia zen, 1 120 m baino gutxiagoko denda zen, 3 okindegiak, 2 harategiak, 1 arraindegi zen, 2 etxerako tresna
+eus	2009an zeuden 24 establezimendu komertzialetatik, 2 120 m baino gutxiagoko dendak, 6 okindegiak, 2 harategiak, 3 liburu dendak, 3 arropa dendak, 1 zapata-denda zen, 2 elektrotresna dendak, 2
+eus	2009an zeuden norbanakoentzako 10 zerbitzu publikoetatik, 1 ibilgailuen konpontzeko eta nekazaritza tresnetako lantokia zen, 2 igeltseroak, 1 zurgina, 1 iturgina, 1 eraikuntza enpresa, 2 jatetxeak, 1
+eus	2009an zeuden norbanakoentzako 13 zerbitzu publikoetatik, 1 Ogasun Publikoaren administrazio bulegoa zen, 1 jendarmeria, 1 posta bulegoa, 1 banku bulegoa, 3 igeltseroak, 1 margolaria, 3 zurginak, 1
+eus	2009an zeuden norbanakoentzako 164 zerbitzu publikoetatik, 1 Ogasun Publikoaren administrazio bulegoa zen, 1 posta bulegoa, 10 banku bulegoak, 3 funerariak, 8 ibilgailuen konpontzeko eta nekazaritza
+eus	tresnetako lantokiak, 1 ibilgailuen ikuskaritza teknikoko lekua, 1 ibilgailuen alokairu bulegoa, 5 autoeskolak, 7 igeltseroak, 11 margolariak, 4 zurginak, 9 iturginak, 10 argiketariak, 6 eraikuntza
+eus	2009an zeuden norbanakoentzako 22 zerbitzu publikoetatik, 3 ibilgailuen konpontzeko eta nekazaritza tresnetako lantokiak ziren, 5 igeltseroak, 4 zurginak, 6 iturginak eta 4 argiketariak.
+eus	2009an zeuden norbanakoentzako 33 zerbitzu publikoetatik, 1 jendarmeria zen, 1 posta bulegoa, 2 banku bulegoak, 2 ibilgailuen konpontzeko eta nekazaritza tresnetako lantokiak, 1 ibilgailuen
+eus	ikuskaritza teknikoko lekua, 1 autoeskola, 1 igeltseroa, 2 margolariak, 2 zurginak, 1 iturgina, 2 argiketariak, 5 ile apaindegiak, 2 albaitariak, 7 jatetxeak, 2 higiezinen agentziak eta 1 apaindegia.
+eus	2009an zeuden norbanakoentzako 47 zerbitzu publikoetatik, 2 banku bulegoak ziren, 6 ibilgailuen konpontzeko eta nekazaritza tresnetako lantokiak, 6 igeltseroak, 2 margolariak, 2 zurginak, 9
+eus	2009an zeuden norbanakoentzako 6 zerbitzu publikoetatik, 1 margolaria zen, 1 iturgina, 1 ile apaindegia eta 3 jatetxeak.
+eus	2009an zeuden norbanakoentzako 9 zerbitzu publikoetatik, 1 posta bulegoa zen, 1 igeltseroa, 3 zurginak, 2 iturginak, 1 argiketaria eta 1 ile apaindegia.
+eus	2011: «“Unifica, limpia y fija.” La RAE y los mitos del nacionalismo lingüístico español», en S. Senz i M. Alberte: El dardo en la Academia, Barcelona: Melusina, vol. 1, pp. 157-314.
+eus	2013ko erroldaren arabera 211.373 biztanle ditu. Frantsesa hizkuntza nagusia bada ere, esan dezakegu nolabait hiri hirueleduna dela.
+eus	2014ko maiatzaren 26an britaniar musika merkatuetan, bere lehen diskoa "In the loney hour" kaleratu zen. Diskoak, britaniar bildumako zerrendan lehenengo postua lortu zuen eta Ameriketako Billboard
+eus	zerrendan bigarren postua. 2014 amaitzean, Amerikako hirugarren diskorik salduena izan zen eta 1.21 milioi ale atera zituen. Bestalde, Erresuma Batuko bigarren best-sellerra izan zen, Ed Sheeranen
+eus	2465 Wilson asteroidearen orbitak batezbeste 2,753 UAko distantzia du Eguzkiarekiko. Hurbilketa maximoa 2,548 distantziara egiten du eta hurruntze maximoa 2,959 distantziara. Eszentrikotasuna 0,075
+eus	AEB, Los Angeles. Christine Brown (Alison Lohman) banku batean lan egiten duen neska gazte handigura bat da, Clay Dalton (Justin Long) doktorearekin ateratzen dena. Christinen lana hipoteka maileguak
+eus	Abbottina obtusirostris Abbottina generoko animalia da. Arrainen barruko Actinopterygii klasean sailkatzen da, Cyprinidae familian.
+eus	Abeslariak bere ongizatea arrisku larrian ikusi zuela onartu zuen; hala ere, 7 kg-ak galdu ostean, JYPEk saioan parte hartzeko aukera eman zion eta azkenean Twice taldea osatzeko txartela lortu zuen.
+eus	Jihyok ere berari gertatutako antzeko pasadizo bat kontatu zuen, profileko argazki bat ateratzeko erakundeak 45 kg-ko pisua izateko eskatu zionean.
+eus	Adar malguekin egindako zurezko bilurretan egon daiteke hitzaren etimologia, bil-, bildu, forma eta hur/hurritz zuhaitzaren izena elkartzetik eratortzen baita etimologia probablea.
+eus	Adierazpena onartu baino aste batzuk lehenago, 1789ko abuztuaren 4an, feudalismoaren eta Antzinako Erregimenaren abolizioa dekretatu zuen Biltzar Nazionalak. Beraz aurrerantzean ordena berri bat
+eus	Aethomys chrysophilus Aethomys generoko animalia da. Karraskarien barruko Murinae azpifamilia eta Muridae familian sailkatuta dago.
+eus	Agon-Coutainville Frantziako udalerria da, Manche departamenduan dagoena, Normandia eskualdean. 2013an } biztanle zituen.
+eus	Aiguabarreig-en esentzialki, hainbat ibai uharte eta ibai baso ikus ditzakegu. Monegros eta Mediterraneoko flora, Ebroko haranetik igotzen den estazio flora konbinatzen duen puntua da.
+eus	Alarguntsa (La Vídua) Ramon Casas i Carbó margolari katalanaren lan ezaguna da. 1889 - 1890 artean egina, gaur egun Víctor Balaguer Liburutegi-museoan ikus daiteke. 1987an lehengoratua izan zen.
+eus	Margolan hau Casasek Santiago Rusiñolekin batera Katalunian zehar egin zuen bidaian egin zuen. 1890ean, beste margolari modernistekin batera, tartean aipatutako Santiago Rusiñol, Parés Aretoan
+eus	erakutsia izan zen. Erakusketa ondoren margolariek erakutsitako lanak Víctor Balaguerri eman zioten, haren museoan jar zitzaten.
+eus	Aldaketa termiko honek itsaslasterrarekin kontaktuan dauden kostaldeko eskualdeetako klima bereizten duten eraginak ditu: eurien erregimen azpitropikalaren bat-bateko aldaketa, hareatza eta Atacama
+eus	basamortua bezalako kostaldeko basamortu hotzezko lerro bat sortuz. Era berean, ur hotz eta sakonen azaleratzeak urazalera plankton ugari dakar (bestela ozeano hondoan hondoratuko litzatekeena),
+eus	itsaslasterrak zeharkatutako urak planetako arrantzalekurik garrantzitsuenetako bat eta itsaslasterra bera Txile eta Peruko baliabide ekonomiko nagusietako bat bihurtuz.
+eus	Aldi berean El Díaren enpresak arratsaldeko egunkari bat sortu zuen Easo (1931-1932) izenekoa, baina ez zen oso arrakastatsua izan zen eta urte beteko iraupena izan zuen.
+eus	Alizina baratxuritik datorren molekula organikoa da, ezaugarri mikrobizidak dituena (hainbat bakterio, onddo eta birus hiltzeko gaitasuna du). Baratxuriak alizina modu naturalean ekoizten du mikrobio
+eus	Altare della Patria (euskaraz Aberriaren aldarea) Erromako Venezia enparantzan dagoen monumentua da. Viktor Emanuel II.a Italiakoaren omenez eraiki zenez Monumento Nazionale a Vittorio Emanuele II
+eus	Anders ondorio garbi batera iritsi zen, haren ustez Urano baino urrutiago, bere  esanetan 100UAra baino urrunago, planeta gehiago egon behar ziren. Eguzki-sistemaren erradioa 100 UA baino handiagoa
+eus	Anne Arundel konderria (Anne Arundel County) Marylandko konderri bat da, Ameriketako Estatu Batuetan. Hiriburua Annapolis da. 2010eko zentsuaren arabera  kilometro koadroko azaleran.
+eus	Antimonioa duten oxido, sulfuro, antimoniato eta halogenuro konposatuak suari erresistenteak diren materialak egiteko erabiltzen dira: esmalteak, beirak, pinturak eta zeramikak. Hauetatik antimonio
+eus	Antzinatik ezagunak izan dira leizeak eta XIX mendean dagoeneko turismogune ziren. Lehenengo esplorazio serioak ordea XX mendearen hasieran egin ziren, Ingalaterrako Yorkshire Ramblers' Club taldeak
+eus	gidatuta. Egitura hidrologikoa aztertu zuten, besteak beste fluoreszeina isuri eta ibaien norabideak aztertu eta kartografiatu zituzten 1907-08an. 30 eta 60. hamarkadetan ere izan ziren esplorazio
+eus	Arabako PSE-EE alderdiaren barruan sektore kritikoko kide izanik, 2012ko Eusko Legebiltzarrerako hauteskundeetako hautagaien zerrendatik kanpo utzi zuen alderdi horretako Arabako zuzendaritzak.
+eus	Arazoak Euskotrenen Gipuzkoako sarera ere zabaldu dira, eta horrela arazoak izan ziren Zarautz eta Zumaia bitarteko burdinbidean. Horrez gain, Donostialdean, Renfe Aldiriakeko Gipuzkoako lineak 20
+eus	Argazki horiek eskolaren irudi eta izena eraikitzen lagundu zuten; hauek prentsarako eta Bauhauseko liburuetarako erabiliak izan ziren. Editore eta idazle moduan lan egin zuen Bauhauseko hamalau
+eus	Arinki trapezoidala den oinplano angeluzuzen batean eraikia dago, zeinaren aldeak, gutxi gorabehera, neurri hauek baitituzte: fatxada nagusiak 12 metro ditu, eta hegoaldeko eta iparraldeko fatxadek,
+eus	hurrenez hurren, 16 eta 18 metro. Halaber, lau isurialdeko estalkia du. Honako altxaera hauek ditu: beheko solairua, lehen solairua, bigarren solairua eta teilatupea, Diputazio kalerantz, eta beheko
+eus	solairua, lehenengoa eta teilatupea, Kale Nagusirantz; horrela, bi kaleen arteko desnibela gainditzen da. Sotoan upeltegia dauka. Hasieran, eraikin exentua zen, baina, gaur egun, baditu bolumen
+eus	Arma guzti hauekin Joppa hirirantz zuzenduko da, non bertako Andromeda printzesa (Judi Bowker) Tetis jainkosaren madarikazio baten biktima den.
+eus	Arrazoi horregatik, haurdun dauden emakumeei administratzen zaizkien bitaminen osagarriek azido folikoa izaten dute, gaixotasun hau pairatzea ekiditeko.
+eus	Art Brut 1945an Jean Dubuffet margolariak asmatutako arte kontzeptua da, artearen mundutik at zeuden pertsona batzuk sortzen zituzten artelanak deskribatzeko.
+eus	Artisauek lehengaiak eraldatu bakarrik egiten dituztenez, ekoizpen- eta bizi-beharrak asetzeko den lana besterik ez dute gaineratzen ekoizpenera
+eus	Assistant-en estreinaldia 2016ko maiatzean izan zen, Google-ren Allo mezularitza aplikazioaren eta baita ahotsarekin funtzionatzen duen Google Home gailuaren bitartez ere.
+eus	Auteiniak (Αύτεινοι) edo Uaithni  antzinako Irlandako herri tribal bat zen, Klaudio Ptolomeok haiei buruz hitz egin zuen. Gaur egungo Galwayko konderrian zeuden kokatuta. Erdi Aroaren
+eus	Azaroaren 25ean, FARCek bahitutako bi soldaduak askatzeko asmoa zuen. Kuba eta Norvegia egon ziren bitartekari moduan, eta Gurutze Gorriak hartu zuen lan logistikoa.
+eus	Azkeneko hau Pascalen legea bezala ezagutzen da. Ikusi daitekenez, altuera jeitsi ahala presioa handitzen da. Kontuan hartu orrialde hasierako ekuazioan sakonerak hartzen direla, horregatik sakonera
+eus	Aztergai berezi gisa tenpluetako zutabeak hartuz gero, gerora erromatarrek berrartuko zituzten hiru arkitektura-ordena grekoen ezaugarriak bereizi ditugu: doriar ordena, joniar ordena eta korintoar
+eus	Bada, lana onartu ez ziotela-eta, gutun bat idatzi zion Arte Ederretako buruari kultura ofizialak zeraman bidearekin bat ez zetorrela azalduz. 1870. urtean, Frantziaren eta Prusiaren arteko gerra
+eus	piztu zenean, Proventzan zegoen. L'Estaquen bizi izan zen -Marseillako golkoko hiri bat-, bere amaren etxe batean, bere andre Marie-Hortense Fiquetekin eta semearekin.
+eus	Baikal zaldia Errusiako bertako zaldi arraza edo mota bat da. Hedapen gunea Baikal lakuaren bazterretan dauka, Mongoliako mugatik gertu. Bere tamaina zein ezaugarriengatik ponien sailkapen taldean
+eus	Baina gobernu kolonialak kongoar langileei eskatutako gehiegizko lanak hainbat greba eta gatazka sortu zituen langileriaren artean.
+eus	Baita ere garai honetan musika interesatzen hasi zitzaion eta armoniari buruzko kurtso batean parte hartu zuen Arnold Schoenberg-en eskolan. Handik ateratako musikalari pare batek abestiak eskaini
+eus	Balizko mendekuak eragozteko, Antigonok Mitridates hiltzeko aukera izan baino lehen, honen laguna eta Antigonoren semea zen Demetriok ohartu zuen. Mitridates gazteak, gau horretan, Kapadoziara ihes
+eus	Barnimstrasseko gartzelan sartu zuen Gestapok, eta bertan jasio zen bere alaba. Brasildarra zenez bere amona Leocádiak biloba erreklamatu zuen. Nazien beldur amona eta Lígia biloba Mexikon
+eus	errefuxiatu ziren. Olga Lichtenburgeko kontzentrazio-esparrura eraman zuten eta, hortik, Ravesbruckera. 1942ko otsailan, 34 urte bete aurretik Bernburgeko sarraski-esparrura bidali zuten, eta bertan
+eus	Bat-batean, Robinson doktoreak Joe Indioarekin eztabaidatu zuen eta lurrera bota zuen. Potterrek Indioaren alde atera zen eta bera ere lurrera bota zuen doktoreak. Orduan, Indioak Potterren labana
+eus	hartu eta doktorearen bularrean sartu zuen. Potter suspertzean, Joe Indioa jakinarazi zion hark hil zuela doktorea. Laster, Potter atxilotu zuten.
+eus	Batzuek energia askatzeko joera dute eta, ilunpean egin daitezkeenez, argiaren lana erreakzioa bizkortzearena besterik ez da.
+eus	Beaulieu Frantziako udalerria da, Nièvre departamenduan dagoena, Borgoina-Franche-Comté eskualdean. 2013an } biztanle zituen.
+eus	Beldur hori sortu zaion egunetik kokodriloekin amestu du, ahoa hortzez beterik duten kokodrilo berdeekin. Bat-batean, kokodrilo hortzdunen artetik, kokodrilo laranja bat atera zaio: Kokolilo; eta
+eus	amesgaiztoak amesgaizto izateari uzten dio. Kokolilok eta Muniak bi gauza dituzte komunean: batetik, bietako inork ez du hortzarik; bestetik, biek dute behin betiko hortzik gabeak izateko beldurra.
+eus	Berehala egiten dira lagunak. Munia eta Kokolilo gauero elkartzen dira; jada kokodrilo hortzdunik gabe, beldurrik gabe. Kokolilok gaua joan eta gaua etorri bere abenturak kontatuko dizkio, bai bati
+eus	Benešov (Beneschau) Txekiar Errepublikako udalerri bat da. 16.522 biztanle ditu eta 46,87 kilometro koadroko azalera. Benešoveko barrutian dago.
+eus	Beraz, arrazoiaren araberako hizkuntza eredu bat proposatu zuten, sena eta geometriaren espiritua elkarrekin lotuko lituzkeena.
+eus	Bere aitona, Vicente Asuero Kortazar, Terapeutika Orokorreko katedraduna eta Frantzisko Asískoa errege ezkontidearen medikua izan zen. Madrilgo Unibertsitate Zentralean burutu zituen Medikuntza
+eus	Bere lagunak salbatzeko, Larryk Washington Hirira bidaiatu, eta Kahmunrah faraoia (Hank Azaria), Al Capone (Jon Bernthal), Ivan Izugarria (Christopher Guest) eta Napoleonen (Alain Chabat) aurka
+eus	borrokatu beharko da, Ahkenrahren taula bereganatzeko konplot bat antolatu baidute. Kaos honen erdian, Larryk lagun berriak egingo ditu, tartean Amelia Earhart (Amy Adams) edo Albert Einstein (Eugene
+eus	Bere programazio eszenikoan, Tenerife Danza, Jazz Atlantico, Munduko Musikak, Lagun Artean edo Interprete Handiak bezalako musika zikloak daude.
+eus	Berezko eskualde naturala, iparraldean eta ipar-ekialdean Agenais, ekialdean Brulhois eta Lomagne, hegoaldean Armañac, mendebaldean Gabardan eta ipar-mendebaldean Bazadais ditu. Garona, Baïse eta
+eus	Berriak igandean paperezko edizio berezi bat argitaratu zuen. Igande eguerdian egin zuten kazetariek egunkari monografiko hori, eta arratsaldean doan banatu zen Gure Esku Dagok ekitaldiak antolatu
+eus	zituen tokietan: Durangon, Bergaran, Lazkaon, Etxarri Aranatzen eta Iruñean. Herri horietan ez ezik, Bilbon eta Donostian ere banatu zen. Asteartean, Berriaren harpidedunek eguneroko egunkariarekin
+eus	Bestalde, filma garai hartako janzkera, arma, bizileku eta abarren ahalik eta zinezkoen agertzen saiatu zen, halere filmean Eskoziako gaeleraz mintzatzen da (berez Irlandan jatorria duen eta Eskozian
+eus	V. mendera arte mintzatzen ez zen hizkuntza), eta garai hartan adituen ustez ziurrena Kaledonian piktoeraz mintzatuko zela aipatzen ohi da.
+eus	Beste autore batzuekin batera La joven cocina vasca (1996), El mercado en el plato (1998) eta Mugaritzeko koadernoak seriean, Tabula Bakailaoa liburuak idatzi ditu (2003).
+eus	Beste ibilbide batzuk herria beste herrialde guztiarekin bat lotzen dute, A487 errepideak bezala, mendebaldea ekialdearekin elkartuz, Porthmadog, Caernarfon eta Bangor batzen dituelarik, Llŷn
+eus	penintsulara ere joan daitekelarik, Anglesey/Ynys Môn uhartera ere joan liteke A55 errepidetik, eta A496 errepideak, Harlech eta Abermaw lotzaen ditu.
+eus	Bestela esanda, lurralde hau itsasoari lapurtu zaio lehortzeko teknika aproposa erabiliz, herberetarrei mundu osoan entzute handia eman dieten tekniken bidez. Herberetarrak, itsasoarekin zerikusirik
+eus	duten gaietan teknikari onenak direla esan ohi da. Lehortutako lurraldea polder nederlanderazko hitzarekin izendatzen da.
+eus	Bečice Txekiar Errepublikako udalerri bat da. 75 biztanle ditu eta 3,24 kilometro koadroko azalera. Táborko barrutian dago.
+eus	Bi lagunek eta beste hiru mutilek, etorkizuneko rockabillyaren sortzaile izango ziren Dorsey anaiak eta Johnny Burnette tartean, musika elkarte ireki bat sortu zuten, The Courtsen. Urte bereko
+eus	Bidaia hartan idatzi zuen Journal de voyage en Italie par la Suisse et l'Allemagne en 1580 et 1581, egilea hil ondoren argitaratua, 1774. urtean. Berez ez zen argitaratzekoa eta, hortaz, ez du kezka
+eus	Bigarren Mundu Gerra garaian, Japoniak Birmania inbaditu zuen. Erresuma Batuko kolonizatzaileak bota zituztenez, Ne Winek eta beste borrokalari abertzaleek, hasieran, gustura hartu zuten japoniarren
+eus	Bioingeniaritza, ingeniaritza biologikoa, ingeniaritza bioteknologikoa edo ingeniaritza biokimikoa natur zientzietako arazoak, fisika, kimika, matematika eta ordenagailu zientziak erabiliz ebazten
+eus	Bitartean, Alar eta aitona tranpa antzeko batean erori eta leize batean behera erortzen dira. Behean tunel artifizial bat ikusten dute. Nikole eta Kaiet, beraien aldetik, itsas labarrera iritsi eta
+eus	jaisten hasten dira, ustezko piztiatik ihesi. Baina berehala konturatzen dira urez inguraturik daudela, atera ezinik. Tunelean aurrera, aitona Anton Abadiaren antza duela esaten dio Alarri, burutsua
+eus	eta ausarta baita; Kaiet, berriz, Arnaud haren anaiaren antzekoa dela dio, sutsua baita. Azkenean, gela moduko batera heltzen dira. Nikolek eta Kaietek arazoak dituzte arroketan, itsaso zakarra
+eus	dagoelako. Oihu egiten dute. Halako batean, txalupa bat ikusten dute eta marinel moduan, Kaieten amona. Txalupara igo eta arraunean hasten dira. Tuneleko gelan, berriz, Daniel aitonak eta Alarrek
+eus	liburuz beteriko apalak eta palankak han eta hemen ikusten dituzte. Ateak ere badaude, baina ezin dira eskuz mugitu. Horien gainean "Ero bat aski da" esaldia dago idatzirik. Alarrek palanka bati
+eus	eragin eta ate bat zabaldu eta ura sartzen hasten da. Alar aitonaren gainera igotzen da. Bitartean, arraunean, amona, Kaiet eta Nikole lehorrera iristen dira onik. Kaietek Alar eta aitona galdurik
+eus	daudela kontatzen dio; txalupan zer egiten duen galdetzen dio kezkatuta dagoen amonari eta honek garai batean kontrabandista moduan ibili zirela kontatzen dio eta geroztik dakiela nabigatzen.
+eus	Lehorrera iritsi eta orroa entzuten dute. Kaietek lehoia ikusten du. Amonak ezkutaleku batera eramaten ditu. Bitartean, urez betetzen hasi da Alar eta aitona dauden gela baina halako batean ur jarioa
+eus	Bizkaiko Golkoan gerra-ontzi ingelesak zeudela jakin zuenean  Bizkaiko Jaurerriak 1741eko ekainean kostaldea babestea erabaki zuen erasorik egon ez zedin. Orduan, Gorlizko badian bi gotorleku eraiki
+eus	ziren, eta XIX. mendearen erdialdea arte egon dira, Areatza auzoan eta Azkorriagan. Azken honetako aztarnak oraindik daude.
+eus	Blondie, AEBetako pop-rock talde bat da. 1974an New York hirian sortu zen eta gaur egun Deborah Harry, Chris Stein, Clem Burke, Leigh Foxx, Matt Katz-Bohen eta Tommy Kessler kideek osatzen dute,
+eus	Bolonia, Italian, oso ospetsua da bere arkupeengatik. Orotara, 45 kilometro arkupe daude, horietatik 38, hiriaren erdian. Munduko arkuperik luzeenak, gutxi gora-behera, 3,5 kilometroko luzera du, eta
+eus	Britainiarrek eta estatubatuarrek Leipzigen, Munichen edo Luxenburgon egin nahi zuten, baina sobietarrek Berlin proposatu zuten “hiriburu faxista” zela argudiatuz; Berlin sobietarren eremuan
+eus	zegoen, noski. Lucius Clay militar estatubatuarrak Nuremberg proposatu zuen orduan, huraxe izan baitzen ekitaldi faxista jendetsuen kokagunea.
+eus	Bustu (ofizialki Busto) Trebiñuko Konderriko herria da. 2007ko urtarrilaren 1eko erroldaren arabera, auzoak 10 biztanle ditu.
+eus	Calvados izena ematen zaio sagardoarekin egindako brandy edo pattar bati, zeina Normandia eskualdean ekoizten dena Frantzian.
+eus	Carlos Garaikoetxea lehendakariak gertakarien inguruko ikerketa xehatua agindu zion Luis Maria Retolaza Barne Sailburuari. Herri Batasunak gertakariak estatuaren ahuldadearen isla zirela adierazi
+eus	Cassibileko florak mediterranear makiaren ezaugarria du, gehien nabarmentzen den landarea indipikondoa da (Opuntia ficus-indica).
+eus	Caup d'Alh (Caup d'Alh, of) Okzitaniako udalerri bat da. Administratiboki Frantziako Itsas Alpeak departamenduan dago, Provence-Alpes-Côte d'Azur eskualdean. 2013an } biztanle zituen.
+eus	Chelles kantonamendua Frantziako kantonamendu bat da. 7702}} departamenduan dago, [[7702  }} eskualdean. Guztira 7702 udalerri ditu eta  da bere hiriburua.
+eus	Cirith Gorgor zen Mordorrerako sarbiderik garrantzitsuena (eta hobekien defendatua zegoena), Inoren Lurrak eta Dagorlad, Ûdun barne haranarekin elkartuz. Bi dorrek babesten zuten, bana alde
+eus	Clostridium tetani, tetanos gaitzaren eragilea. Bakterio honek endospora sortzen du mutur batean, baziloa deformatzen duen endospora. Lurzoruan bizi da, sarritan espora moduan. Anaerobio hertsia da.
+eus	Connacht, Connaught edo Connachta (Connachta) Irlandako mendebaldean dagoen probintzia da, biztanle gutxien daukana herrialde osoan (500.000 inguru).
+eus	Corpus plangintza: plangintza honek du helburu hizkuntzaren egitura egoera berrietara moldatzea. Interbentzioa, beraz, hizkuntzaren formetan egiten da. Corpus plangintzak sarri askotan hizkuntzaren
+eus	estandarizazioa du helburu. Horrela, hizkuntza gaitu nahi du administrazioan, hezkuntzan, komunikabideetan, ... erabili ahal izateko. Izan ere, corpus plangintzaren lehen urratsa izaten da idatzizko
+eus	kodea estandarizatzea. Euskararen corpus plangintzan aurrerapauso nabarmenenak 1968an hasi ziren euskara batuaren prozesuarekin.
+eus	Crane Ameriketako Estatu Batuetako erroldak esleitutako leku bat da. Harney konderrian kokatuta dago, Oregon estatuan.  kilometro koadroko azaleran banatuta.
+eus	Cypress Lakes Ameriketako Estatu Batuetako erroldak esleitutako leku bat da. Palm Beach konderrian kokatuta dago, Florida estatuan.  kilometro koadroko azaleran banatuta.
+eus	Daomanita sulfuro mineralaren formula kimikoa hau da: . Sistema ortoerronbikoaren arabera sortzen ditu kristalak. Mohs eskalaren arabera duen gogortasunaren balioa 3,5 da.
+eus	Delaplaine Ameriketako Estatu Batuetako inkorporatutako herri bat da. Greene konderrian kokatuta dago, Arkansas estatuan.  kilometro koadroko azaleran banatuta.
+eus	Denbora aurrera joan eta Alemaniatik etorritako etorkinak lur gehienen jabe egin ziren eta Afrika Alemaniarraren zati bihurtu zuten eskualde izugarri handi bat. Honen ondorioz, ezinegona sortu zen
+eus	Digion  Frantziako erdialdean dagoen hiria da, Borgoina-Franche-Comtéko eskualdearen eta Côte-d'Or departamenduaren hiriburua. 2005ean 150.800 biztanle zituen.
+eus	Dirudienez, K. a. IX. mendean Tongatik joandako polinesiarrak ziren Samoa uhartediko lehen biztanleak. 1722an, Jacob Roggeveen herbehereetar itsasgizona iritsi zen. 1830ean, Londresko Misiolari
+eus	Elkarteko John Williams misiolaria kokatu zen lurraldean; hark kristau-erlijioa irakatsi zion Maletoa Vainu´upori, Samoa osoa konkistatu berria zuen buruzagiari, alegia; eta, handik gutxira,
+eus	Djas Puhr ordainsari bilatzailearentzako taberna iheslariren bat harrapa dezakeen edo lanen bati buruzko baliozko informazioa lor dezakeen babesleku emankor bat da. Puhr sakiyan espeziekoa da,
+eus	Dominique Maximien Gardères (Biarritz, 1856ko urriaren 22a - ?, ?) lapurtar zaldizkoa izan zen, Parisko Olinpiar Jokoetan altuera jauzian urrezko domina lortu zuena.
+eus	Donzy-le-National Frantziako udalerria da, Saône-et-Loire departamenduan dagoena, Borgoina-Franche-Comté eskualdean. 2013an } biztanle zituen.
+eus	Dresselhaus izena jasotzen duten hainbat teoria fisiko daude. Hicks-Dresselhaus eredua (L. D. Hicks eta Dresselhaus) efektu termoelektrikorako oinarrizko lehen eredua da, banda osoko eremuari hasiera
+eus	eman ziona.16 SFDD eredua (Riichiro Saito, Mitsutaka Fujita, Gen Dresselhaus eta Mildred Dresselhaus) izan zen bandaren egiturak iragartzen lehena.
+eus	Dvorakek bere musika oinarritzen duen dantza moten artean furianta, dumka, mazurka, sousedska, odzemeka, spacirka, skočna, koloa eta polonesa daude. Lan bakoitzaren ikuskizun oso batek 40 minutu
+eus	East Farmingdale, East Hampton (herria), East Hampton (villa), East Hampton North, East Islip, East Marion, East Moriches, East Northport, East Patchogue, East Quogue, East Setauket, East Shoreham,
+eus	Edmund eta Lucy Pevensie anai-arrebak eta Eustace lehengusua (Georgie Henley, Skandar Keynes eta Will Poulter) Egusentiko Ibiltaria ontzian itsasoratu eta Narniako tronua bereganatu duen Miraz
+eus	Egia da egun arte ez dela demostratu organoen trafikoa benetan existitzen denik. Bai existitzen dena da "pertsonen trafikoa", non aberatsek pobreak hartzen dituzte beraiekin hainbat gauza egiteko.
+eus	Egoera ekonomikoa txarra eta egoera soziala nahasia izan arren, burkinafasoarrek nazioartean beren herriaren irudia hobetu zuen lehendakaria saritu zuten. Baina 2014ko urrian matxinada bortitza piztu
+eus	Egun turismo gune erakargarria ere bada, mexikar ugari ubideetan nabigatzea joaten baitira txalupa zapal eta apainduetan (trajineras).
+eus	Ekainaren 16a - Iker Martinez de Lizardui, euskal herritar kirolaria, Xabi Fernandezekin batera belako 49er Klaseko txapeldun olinpikoa.
+eus	Ekialdeko Frontean ezinbesteko papera izan zuen, hainbat gudutan konfederatuen garaipena lortzearen arduradun, horregatik ziur aski Robert E.
+eus	Ekonomian, aktiboak pertsonek edo enpresek dituzten baliabide ekonomikoak dira, bere jarduera aurrera eraman eta une batean trukatu eta dirua eskuratu edota zorrak kitatzeko balia daitezkeenak. Dirua
+eus	bera ere aktibotzat jo ohi den baliabidea da. Enpresetan, aktiboak egoera-balantzean agertzen dira, hauek finantzatu edo ordaintzeko erabili diren kapitalarekin eta beste kanpo zorrekin batera.
+eus	Elementu guztien arteko fase likidorik handiena dauka: bere urtze-puntuaren eta irakite-puntuaren artean 2.946 º C daude.
+eus	Elizako sarbidean kapitel zistertarretan zur­kaizturiko sei ar­kibolta dituen ate bat dago, musulman kutsua duten biribilak dituzten eta apainketa soileko hiru izan ezik, harlandu lauez eginiko
+eus	hegal baten pean. Oso ederrak dira bere kapitelak, arte korintiar garbi samarrekoak ba­tzuk, hosto­tzak jakin­tsuki tratatuak daude, buru zulaketa egokiez.
+eus	Else if: "If" baten ondoren jartzen, ezin da inoiz bakarrik agertu, eta programaren zati bat exekutatzeko baldintza bat jartzen da bere barruan, beti ere aurreko if baldintza betetzen ez bada eta
+eus	Ematia (Ημαθία imaˈθia ahoskatua) Greziako unitate erregionala da, Erdialdeko Mazedonian dagoena. Veroia hiriaren inguruan dago.
+eus	Energia geotermikoa bi modutara erabil daiteke, beroaren jatorriaren funtzioan. Alde batetik, Lurraren barneko magmak sortutako beroa, lurzoru bolkanikoetan, ur termaletan edo geiserretan azaleratzen
+eus	dena, zuzenean erabil daiteke (tenperatura altuko energia geotermikoa). Bestalde, lurzoruaren masa handiak metaturiko beroa ere aprobetxa daiteke, nahiz eta tenperatura baxuagoan egon (tenperatura
+eus	baxuko energia geotermiko deritzo), etxeko ur beroa eta girotzea (berotzea eta hoztea) sortzeko edozein tokitan. Kasu horretan ez da beroa zuzenean erabiltzen, baizik eta zoruak eskaintzen duen
+eus	bero-trukerako ahalmena (beroa xurgatzea eta ematea tenperatura konstantean mantenduz); elkartruke geotermikoa deritzona da.
+eus	Erabilera horretan, halako adizkiak benetako aginterakoak dira, eta, horrenbestez, ezin dira adi dezala edo hitz egin dezala moduko adizkiez ordezkatu. Horrek esan nahi du egiazki adiera desberdina
+eus	Eraikinak oinarri laukizuzena dauka, eta hormak pilastren inguruan daude oinarriturik. Kanpoaldeko hormak harlanduzkoak dira. Fatxada nagusian, sarrera atea adreiluz eginiko erdi puntuko arkudun
+eus	Erregeak beste estatuekin borrokan aritzeko armada amaigabea zuen, hau da, ez zuen nobleziaren laguntzaren beharrik. Aurreko garaietan erregeak nobleziaren beharra zuen, armada nahi izatekotan.
+eus	Erreskate operazioa antolatu eta uztailaren 8 eta 10 bitartean denak atera zituzten bizirik. Urpekari militar bat hilik suertatu zen operazioaren prestaketetan.
+eus	Erro historikoko beste kasu bat zen liburu denda/argitaletxeena. Txertoa argitaletxea (Donostiako Easko liburu-denda), Zabaltzen argitaletxea (Donostiako Bilintx liburu denda) edo Leopoldo Zugaza
+eus	Errotaburuko dorreak Gipuzkoako Donostia hiriburuan dauden bi bulego eraikin dira. Ibaetako Errotaburu auzunean daude, Errotaburu pasealekuko 1. eta 2. zenbakietan, eta Amerika plazako edo
+eus	Eskualde epeletan hazten da, Europako erdialdean, Afrikako iparraldean eta Asiako mendebaldean. Ipar Ameriketako ekialderaino zabaldu da. Aspalditik kultibatu dela eta, bere jatorrizko
+eus	Esnatzean jabetzen da deabru batean haragitu dela, eta egun horretatik Rias Gremory-ren, maila altuko deabru bat eta institutuko neskarik politena, zerbitzari moduan hasten da lan egiten.
+eus	Espainiako futbol ligan 120 gol sartu zituen. 1946-1947 denboraldian, partidu bakar batean Celta de Vigoko taldeari zortzi gol sartu zizkion. Errege Kopan 97 partidu jokatu zituen. Espainiar
+eus	Espedizioko buruzagitzan bigarrena zen Frank Wild 1909ko espedizioan Shackletonekin batera egona zen, une batez Buruzagiak bere gizonak heriotza ziur batetik salbatzeko Hego Poloko helburuari uko
+eus	Estatistika deskribatzailearen helburu den datu multzoen ezaugarri nagusiak azaltzea datu diagramen bitartez egin daiteke. Datu diagrama oso tresna egokia da gainera datuak publikora zabaltzeko.
+eus	Estelline Ameriketako Estatu Batuetako hiri bat da. Hamlin konderrian kokatuta dago, Hego Dakota estatuan.  kilometro koadroko azaleran banatuta.
+eus	Etnohistoria zenbait diziplina zientifikoren konfluentzia gisa uler daiteke: giza taldeen ikerketa historikoa eta antropologikoa, batetik, eta berauen elkarbizitza beste talde batzuekin, bestetik,
+eus	Europar Batasuneko hizkuntzekin lan egiten duten ehunka interprete ditu kontratatuta langile gisa edo freelance gisa . Europar Batasunarekin erlazionatutako beste erakundeek (Europako Parlamentua eta
+eus	Euskal Herrian aitzindaria izan da elkartea. Elkartea ez ezik, baita herri mailako posta-zerrenda eta blog komunitatea ere, biak ere Euskal Herrian aitzindari, eta hainbat urteren ondoren oraindik
+eus	Euskal Herriko sagardotegi gehienak Gipuzkoan kokatzen dira, bereziki Donostialdea eskualdeko Astigarraga, Hernani, Urnieta eta Usurbil udalerrietan, halere gainontzeko herrialdeetan ere topa
+eus	ditzazkegu. Gaur egun usadiozko sagardotegi-dolareak honako udalerri hauetan daude (sagardotegi bat baino gehiago dituzten udalerriak hizki lodiz nabarmenduak daude):
+eus	Euskaltzaletasuna eta feminismoa: zer ikasi, hura elikatu. Jaime Altuna Ramirez, Saioa Iraola Urkiola, Aizpea Otaegi Mitxelena (Ikastaroa, UEU  2019)
+eus	Ez da berriztagarria baina ez da hain kaltegarria ingurumenerako, oso eraginkorra baita. Elektrizitatea sortzeko gasa edo diesela erreta geratzen den beroa erabiltzen du. Beraz, erregaiaren ustiapena
+eus	Ezaguna da talde instrumentalen familia guztiek ahozko kantua oinarritzat dutela, bere soprano, kontralto, tenore eta baxu banaketan.
+eus	Faeto Italiako udalerri bat da. Foggiako probintzian kokatuta dago, Apulia eskualdean.  kilometro koadroko azaleran banatuta.
+eus	Faraoiak berak, bere burua Amonen semetzat izendatzea eta oraindik bizirik zegoela jainkotzea ez zen batere ohikoa Antzinako Egipton, eta errege gutxi batzuek baino ez zuten egin halakorik Amenofis
+eus	Filma hauetan agertzen ziren emakumezkoak normalean Estatu Batuetako hiri handietan kokatzen zituzten, egunero krimen ezberdinez inguraturik eta gaueko bizitza bat egiten. Normalean taberna eta klub
+eus	ilunetan agertzen ziren, garaiko gansterrez inguraturik. Beraien helburua normalean boterea eta aberastasuna eskuratzea izaten zen, eta ez zuten arazorik izaten helburu hau lortzea ekiditen zieten
+eus	pertsona ororen gainetik igarotzeko. Pertsonaia honek gizonezkoa seduzitzea lortzen zuen (izan aipatutako gansterretako bat edota izan polizia inspektore bat), eta zuen boterea kentzen zion, berak
+eus	Fioniako hiri nagusia Odense da (166.305 biztanle), Hans Christian Andersenen jaioterria. Bigarren hiri handiena Svendborg da (27.318). Gainontzeko hiri batzuk Nyborg, Ærø, Kerteminde, Fåborg,
+eus	Formello Italiako udalerri bat da. Erromako probintzian kokatuta dago, Lazio eskualdean.  kilometro koadroko azaleran banatuta.
+eus	Fraktalaren definizioak 1970eko hamarkadan zenbait ereduri batasuna eman zien, horietako batzuk mende bat lehenagokoak zirenak.
+eus	Frantziara ihes egin zuen, eta Kataluniara sartu zen bere obra ezagutzera emateko asmoz. Parisera abiatu behar izan zuen 1939an, eta han, Eusko Jaurlaritzaren laguntzarekin bere margolanen erakusketa
+eus	bat antolatu zuen uztailean, Apokalipsia gaiaren inguruan, eta bertako hasiera-ekitaldia Agirre lehendakariak bisitatu zuen.
+eus	Friburgo edo Friburgo Breisgau (alemanez Freiburg im Breisgau) Baden-Württemberg estatuko hiri bat da, Alemanian, Breisgau eremuan, Oihan Beltzaren mendebaldean. Friburgo eskualdeko hiriburua da.
+eus	GPL lizentzia bat du eta Windows zein GNU/Linux sistemetarako eskuragarri dago. Sistema modularra da, ondorengo deabruez osatutakoa:
+eus	Gainera Boydek telesaila honetan oinarritutako hainbat eleberri argitaratu zituen. ITV network ekoiztetxeak London Weekend Television etxearentzat gauzatu zuen.
+eus	Gainera, leku bera izanda, aldaketa klimatikoei egokitzeko gai ere izan zitezkeen, epealdi hotzean landarezko baliabideak gehiago kontsumituz eta epelean, haragizkoak gehiago. Hau da hain zuzen,
+eus	Gaixotasun honen ezaugarriak egunean zehar nahitaez lo egitea da. Kataplexiarekin batzean, haluzinazioak sor ditzake eta hauek bi eratakoak izan daitezke: haluzinazio hipnagokikoak edo hipnoponpikoak.
+eus	Galileo Galilei Planetarioa General Sarmiento Etorbidea eta Belisario Roldanen arteko gurutzalekuan kokatua dago, Parque Tres de Febrero izeneko parkearen barnean, Palermo auzoan, Argentinako
+eus	Garai batean etxekotutako abereak izandakoak, inguru natural eta aske batera itzulirik, basazaldien portaera berreskuratu dute.
+eus	Garai horretan ekin zion Luigi Anselmik, Pamiela argitaletxeko poeta ofizialak nahiz Gabriel Aresti Euskaltegiko irakasleak, Un futuro para nuestro pasado (1987) euskararatzeari.
+eus	Garmendia errege Kirmen Uribe idazleak eta Mikel Valverde ilustratzaileak sortutako eleberria da, Elkarren, 2004an argitaratua. Uribek Haur eta Gazte Literatura arloan egin duen laugarren liburua da.
+eus	Gasteizko tartearen ondorengo zatia izanik, lotune bereziak eraiki dira, horien artean, Miñaoko lotura (208 metro), AP-1 autobidearen (Maltzaga-Urbina) azpiko pasabidea, Lukoko tunela (970 metro)
+eus	Gaur egun Yaforekin batuta dago eta 358.000 biztanle ditu, gehienak jatorri judutarrekoak (arabiarrak populazio osoaren %3,9 dira bakarrik).
+eus	Gaur egun, Guzmán eta Alderdi Komunistako beste zenbait kide Peruko Itsas Armadaren Callao itsasontzi-baseko kartzelan daude.
+eus	Gaur egungo kapitalismoaren adreilu ezinbestekoa eta iraunkorra indartzen eta mutatzen joan da duela zenbait mende, heteropatriarkatua, alegia. Baina, M. Foucaultek frogatu zuen moduan, disziplinak
+eus	Geltokia, itsas mailatik 58 metrora, zabalera iberiarra duen 700. linearen (Casetas - Bilbo trenbidea) parte da, 239,6. puntu kilometrikoan kokatzen dela.
+eus	Geografia fisikoa edo fisiografia fenomeno naturalak aztertzen dituzten atalak (geomorfologia, hidrologia, klimatologia, edafologia, etab.) biltzen dituen geografiaren atala da. Hori dela eta,
+eus	atmosfera, biosfera eta geosfera aztertzen dituen zientzia hau geografiaren bi atal nagusienetako bat da, bestea giza geografia izanik.
+eus	Geratzen direnetako gehienak Akropoliko museoan daude, Partenoitik metro gutxi batzuetara, eta bakan batzuk Partenoian bertan.
+eus	Geroago, Leringo dukearen esku egon zen ia beste bi mendez, eta, ondoren, ezkontzaz, Espainiako Alba etxe famatura igaro zen jabegoa, dagoeneko Erdi Aroa igarota. Gaztelua, azken mendeetan jauregi
+eus	Gerra-denboran ere gizatasunez jokatzearen alde Gurutze Gorriak bultzatu zuen kanpaina Genevan 1864tik aurrera egin ziren biltzarretan eta Hagako itunean (1899, 1907) gauzatu zen. XIX. mendearen
+eus	bukaeran, bakearen aldeko mugimendu laikoa nazioarteko legearen, arbitratzearen eta nazio-parlamentuen arteko lankidetzaren kontzeptuen mendean zegoen. Parlamentu arteko Batasuna 1892an sortu zen.
+eus	Giacomo Meyerbeer (jaiotza-izena: Jakob Liebmann Beer; Rüdersdorf, 1791eko irailaren 5a - Paris, 1864ko maiatzaren 2a) alemaniar musikagilea izan zen.
+eus	Goi Erdi Aroko eraikuntzak basilika forma duen eraikin handi baten oinarriek osatzen dute, honek bost nabe ditu. Aztarna hauek Saint-Etienne basilika bezala interpretatu dira. Hau VI. Mendean eraiki
+eus	zen Txildeberto I.arengatik, Klovis I.aren semea. 36 metroko luzera du eta 70 metroetako altuera, Galiako eraikin handienetariko bat zela agerian utziz.
+eus	Googleko Bilaketen eta Erabiltzaileen Esperientziako lehendakariorde izan zen, enpresaren aurpegi publikoa kasu askotan. 2012an Yahoo! enpresako lehendakari eta zuzendari nagusi izendatu zuten.
+eus	Goszczyn Poloniako Mazoviako voivoderriko landa-udalerri bat da, Grójec barrutian kokatuta. 57,5 km²ko azalera du eta 2017ko datuen arabera 2992 biztanle zituen.
+eus	Grand International Mansion edo The Pinnacle (txineraz: 顶峰), Txinako Herri Errepublikako Guangzhou hirian dagoen bulego etxe orratza da. Egitasmoak hainbat aldaketa izan zituen, eta behin betiko
+eus	Guanarteme, Kanaria Handia uhartean, errege aborigenek (guantxeak), gaztelar konkistaren aurretik jasotzen zuten izena da. Uhartea, gutxi gora-behera autonomoak ziren lurralde ezberdinetan banatua
+eus	Gunnar Gunnarsson (1889ko maiatzaren 18 - 1975eko azaroaren 21) idazle islandiarra zen, gehienbat danieraz idatzi zuena.
+eus	Gutxi gorabehera, biztanleriaren %65 estoniarra zen 1979an, nahiz eta gutxiengo handi bat ere bazegoen, errusiarrek osatua (%28). Gainontzeko hiritartasunen artean, ukrainarrak (%2,5),
+eus	Göteborgeko metropoli eremua hainbat herrik osatzen dute: Ale, Härryda, Kungälv, Lerum, Mölndal, Partille, Stenungsund, Tjörn, Öckero eta Kungsbacka herriek. Guztiak, Västra Götaland
+eus	Hain handia zen garapena, non jada uste zen fisikaren lege garrantzitsuenak deskubrituta zeudela eta ikerketak, handik aurrera arazo partikular eta txikiagoak konpontzera bideratua egon behar zuela
+eus	metodoaren hobekuntzaren bidez. Hala ere, 1900. urtean zalantzak piztu ziren teoria klasikoen inguruan, baita beraien ezintasuna zenbait fenomeno fisiko azaltzeko ere (gorputz beltzen erradiazioa eta
+eus	efektu fotoelektrikoa, hala nola); gainera, zenbait formulazio teoriko paradoxa bilakatzen ziren hauek muturrera eramatean. Hendrik Lorentz, Emil Cohn, Ernst Wiecher eta Wilhem Wien bezalako
+eus	fisikariek uste zuten Maxwellen ekuazioen inguruko aldaketa batzuek fisikaren lege guztien oinarri bat sortu zezaketela.
+eus	Hainbeste aldizkaritan artikulu ugari idatziak utzi zituen, gehienbat euskararen edertasun eta balioaz. Aritu zen argitalpen batzuk:
+eus	Hala ere, lehortutako elikagaiak ez dira haientzako txarrak, baizik eta kalitate baxuagokoak, hala nola koloretako ezkatak.
+eus	Halaber, Nafarroako Foru Eraentza Birrezarri eta Hobetzeari buruzko Lege Organikoaren erreformari buruzko urriaren 27ko 7/2010 Lege Organiko horren hitzaurrean ezarrita dagoenez, Nafarroako Arartekoa
+eus	Hamabost urte zituenean eskola utzi eta hainbat lanbidetan jardun zuen harik eta 1944an irratirako idazten hasi zen arte.
+eus	Han talde guztien ekitaldiak, beste ikasle, guraso eta irakasleen aurrean egin ondoren, zuzendariak gelaz gela sariak banatzen zizkien ikasle bikainei, hamar urtetik aurrera sariak gainera gaika
+eus	Harilketen akoplamendu magnetikoa perfektutzat hartzen baldin badugu, ondorioztatzen da, tentsioen arteko erlazioa harilkatuen espiretako kopuruaren arteko erlazioarekin alderantziz proportzionala
+eus	Hasiera batean asteroideak 1983 DJ izena zeraman. Ondoren Jean-François Champollion (1790-1832), frantziar egiptologoa omentzeko izena eman zitzaion.
+eus	Hasieran, S/2001 J 10 izendapen sistematikoa eman zitzaion sateliteari; kode horrek adierazten du 2001ean lehen aldiz ikusitako Jupiterren hamargarren satelitea zela.
+eus	Hegoaldean, iparraldean eta ekialdean, bakoitzak hamabi zutabe zituen laukiluze formako hiru atari edo arkupez inguratuta zegoen. Arkupe edo atari bakoitzeko hamabi zutabe horiek, sei zutabeko bi
+eus	Herodotok kontatzen duenez, gau batean, persiar aliatu bat, Alexandro I.a errege mazedoniarra, atenastarrei bisita egitera joan zen, Mardoniok egunak argitzean erasoko zuela esateko.
+eus	Herriz herri, parte hartzearen datuak hauek izan ziren: Beran, %19,78; Lesakan, %25,38; Etxalarren, %26,97; Arantzan, %60,31 eta Igantzin %42,16
+eus	Higadura laminarra iragartzea eta zenbatekoa den jakitea oso inportantea da, horretaz ez baikara ohartzen higadura larria den arte.
+eus	Hiparkia filosofo libertino eta feminista gisa hartzen da. Cratesen dizipulua izan zen eta berarekin ezkondu zen. Filosofoetako bileretara bateratzen zen, bertan haren ideiak erakusten zituen topiko
+eus	Hiriaren berreraikuntza hormigoiz egin zen eta Ekialdeko Alemaniako industriagune garrantzitsua bihurtu zen. Alemaniaren birbateratzearen ondoren eraikin historikoak berreraikitzen hasi ziren.
+eus	Hitz arruntak esanahi berri batera edo antzeko ahoskera duen jargoi batera molda daitezke. Logogramak erabiltzen diren herrietan, Txina bezalakoetan, Interneteko jargoi bisualak existitzen dira,
+eus	Hizkuntzalaritzan, hizkuntza erregistroa egoera, hizketa-gai eta helburu jakin bati buruzko hizkuntza aldaera edo estiloa da.
+eus	Homalopsidae sugeen barruko narrasti familia bat da. Egile batzuek Homalopsoidea goi-familiaren ordezkari bakartzat dute. Asiako hegoaldean eta ekialdean bizi dira eta Ozeanian.
+eus	Honen bitartez aintzinateko artistek gorputzak estaliak baina era berean esplizituki agerian adieraztea lortzen zuten. Ohial bustien teknika, estalki heze eta estuen erabilerari deitzen zaio, zeinak
+eus	Hori baliatuz, Barakaldo eta Sestao inguruan industria berria sortzeko aukera zegoen. 1880ko hamarkadarako "Nuestra Señora del Carmen" eta "Siderurgia San Francisco" enpresak zeuden ibaian behera.
+eus	1880ean "San Francisco de Mudela" enpresa sortu zen Desertu auzoan. 1882an "La Vizcaya" (Sociedad Anónima de Metalurgia y Construcciones Vizcaya) sortu zuten hainbat inbertsorek, baita La Basconia
+eus	ere Basaurin. Honen ondoan eraiki zuten Sociedad Anónima Iberia 1890ean. Industria guzti honek ez zuen ikatz nahikorik, eta horretarako 1894an La Robla trenbidea sortu zen, León eta Palentziako
+eus	probintziatik ikatz merkeagoa ekartzeko. 1895 iritsi zenean 14 siderurgia fabrika garrantzitsu ziren Bizkaian, eta laster hasi zen elkartze prozesu bat, Bizkaiko Labe Garaiak sortzeko bidean.
+eus	Horrela, lurraldea pixkanaka murriztuz joan zen eta orduan Mendebaldeko Sumatrako beste toki batzuetara hedatu ziren. Batzuk Agam-era joan ziren, beste batzuk, berriz, egungo Tanah Datar
+eus	kabupatenera. Urrutiago ere joan ziren, batez ere Agam kabupatenaren iparraldean dauden Lubuk Sikapingera, Rao eta Ofir barrutietara.
+eus	Hortaz, diseinatzaile grafiko askok, atentzioa deitzeko helburuarekin, mundu honetan azpimarratzea eta ohikoak diren arauak apurtzea aukeratu dute, Memphis estiloaren espontaneitatea inspiraturik.
+eus	Huell Burnley Howser (Gallatin, 1945eko urriaren 18a – Palm Springs, 2013ko urtarrilaren 7a) Estatu Batuetako aktore eta telebista aurkezlea izan zen. California's Gold bidai-telesailari esker
+eus	IPPNWak Txernobylgo Foroaren txostenean akats larriak ere salatzen ditu. Adibidez, Foroaren txostenaren kalkuluetan (EANAren zifrak) gehienez 4.000 hildako aurreikusten dira minbizi eta leuzemiaren
+eus	eraginez; eta horretarako OMEren ikerketa bat aipatzen da, izatez 8.930 hildako aurreikusten dituena aipatu arrazoiengatik. Eta OMEk erabilitako iturriak egiaztatzen badira, minbiziak eta leuzemiak
+eus	Iberiar penintsulan ugaritasun ertaineko espeziea da; hori, ordea, identifikatzeko duen zailtasunaren ondorio izan daiteke .
+eus	Ideiak eta ekintza, edo pentsamendua eta ekintza, ez bi, baina kapitulu bakarra da Santamariaren baitan, hemen, erraztasunagatik bakarrik, banatu egin ditugun arren parte bitan. Irakurleak uneoro
+eus	Ikasketa ez-gainbegiratuan oinarritutako dokumentuen sailkapena: ez dago aurrez sailkatutako dokumentu sortarik eskuragarri, eta sailkapena itsu-itsuan burutzen da.
+eus	Ikusi izan da genero honek estrategia desberdinak erabiltzen dituela sustraiaren kortex geruza desberdinak zeharkatzeko.
+eus	Independentziako lehendabiziko urteetan ekonomiak batez beste % 6 egin zuen gora. Inbertsio sendoak egin ziren hainbat arlotan: turismoan, aluminio ekoizpenean eta abarretan. Hala ere, lehen
+eus	hamarkadako gorakada hori guztien artean, batez ere hiriko txiroen artean, banandu ez zen ustea zabaldu zen. 1970eko hamarkadan, gainera, behera egin zuen ekonomiak, hezkuntza eta osasun-sistemetan
+eus	egin ziren inbertsioak gorabehera. 1980an, nazioko produktu gordina % 25 jaitsi zen 1972koarekin parekatuz. Hurrengo urteetan, halaber, ekonomiaren beherakadak jarraitu zuen. Esaterako, Alpart eta
+eus	Infektatzeko ahalmena handia duenez, mikrobiologia klinikoaren laborategietan kontu handiz manipulatu behar da mikrobio hau.
+eus	Ingelesez ere skimmington ere erabiltzen da; alemanez Katzenmusik, Rappeln eta Haberfeldtreiben; herbehereraz Ketelmuziek; italieraz capramarito edo chiavramarito, baina eskualde bakoitzean bere
+eus	izena zuen. Charivari hitza ziurrenik Latin arrunteko caribaria hitzetik dator, plurala caribarium, gaur egun kazerolada deituko genukeenaren antzeko zerbait; hau, era berean, antzinako grezierako
+eus	Inperioaren aro klasikoa 1556an Jalaluddin Mohammad Akbarren erreinaldian hasi eta 1707an Aurangzeb enperadorean heriotzan (Maratha Inperioak menderatua) amaitu zen nahiz eta leinuak beste 150 urte
+eus	iraun. Azken enperadorea Bahadur Shah II.a, Delhin baino ez gobernatu zuena, Britainiar Rajak atxilotua eta erbesteratua izan zen zipaioen matxinadaren ondorioz.
+eus	Iparraldean eta ekialdean Ourenseko probintzia eta Zamorako probintziak, hegoaldean Macedo de Cavaleiros eta mendebaldean Vinhais mugakide ditu. Montesinho Natura Parkearen ertzean dago.
+eus	Irailaren 20a gregoriotar egutegiaren urteko berrehun eta hirurogeita hirugarren eguna da, 264.a bisurteetan. 102 egun falta dira urtea amaitzeko.
+eus	Iratxo Dortokak Son Gokuri eman zion bere dortoka itsasora itzultzen laguntzeagatik, izan ere Son Gokuk lainora igotzeko arazorik ez zuela erakutsi zuen. Normalean Gokuk toki batetik bestera joateko
+eus	Irudi paganoak: Mundu erromatar paganoko irudiak bereganatu eta egokitu zituzten, esanahia aldatuz. Honela paumak, berpizkundearen esanahia hartuko du adibidez. Gehien erabilitako irudien artea
+eus	Isipu-belarra kolore biziko landarea da, 30 eta 60 cm artekoa. Zurtoina zurkara da oinarrian, bertatik hainbat adaxka hazten direla. Hostoak lantzeolatuak dira, berde ilunak eta 2-2,5 cm luze.
+eus	Ivan Igartua. (2012). Euskara eta inguruko hizkuntzak historian zehar (pdf, 1.615 Kb) Hizkuntza Politikarako Sailburuordetza.
+eus	Iñigo Martinez Guerra, pilota arloan Martinez deituraz ezaguna (Bera, Nafarroa Garaia, 23) esku huskako pilotari profesional ohia da. Atzelari aritzen zen, Aspe enpresarekin.
+eus	Jainko honi zuzenduriko kenningar direlako Haustlöng olerkian "pentsalari sakon" gisara izendatzen da, eta nahiz eta aldi gehienetan ekintza zuzena estrategiaren gainetik nahiago izan, kondaira
+eus	askok bere jakintza ere deskribatzen dute, Alvíssmál olerkian kasu, honetan Thorrek bere alabaren ezkongai izateko asmoz zuen Alvíss ipotx jakintsua goizaldera arte luzatu zuen asmakizun lehiaketa
+eus	Jarraian, taldea handik ateratzeko operazio konplexu bati ekin zioten, eta uztailaren 8aren eta 10aren artean, barruko guztiak ateratzea lortu zuten: bi aste pasa igaro zituzten guztiek barruan.
+eus	Jaun ta jabe Igeldo ekoiztetxeak Euskal Telebistarako sortutako umorezko telesaila da. 1997an, ETB 1ean eman zuten. Zuzendaria Eneko Olasagasti zen eta idazlea Teresa Calo.
+eus	Jean-Baptiste Camille Corot (Paris, 1796ko uztailaren 16a – ib., 1875eko otsailaren 22a) frantziar margolaria izan zen. Batez ere, paisaiak landu zituen. XIX. mendearen erdialdean, Barbizongo
+eus	eskolako artistarik nabarmenena izan zen. Haren lan eskergan, neoklasizismoaren arrastoak eta etortzekoak ziren aire zabaleko berrikuntza inpresionistak sumatzen dira batera.
+eus	John Thoren Parsons (Detroit, Michigan, 1913ko urriaren 11 - Traverse City, Michigan, 2007ko apirilaren 18a) zenbakizko kontrol sistemaren asmatzaile ingeniari estatubatuarra izan zen, gaur egungo
+eus	zenbakizko kontrolaren aitzindaria. Hasiera batean aeronautikarako garatua, tresna digitalizatuak (zenbakizko kontrolaren tornua, adibidez), konputagailu-txipak eta automobilak bezalako erabilerak
+eus	Juan Torra senarraren (1920-1982) laguntza ezinbestekoa izan zuen. Bere karrerari uko egin eta, Alicia ez zegoenean, Marshall Akademiaz arduratu zen eta izan zituzten seme-alabak -Juan Francisco
+eus	K.a. 7.000 inguruan Mesolito garaiko ehiztari-biltzaileen aztarnak aurkitu izan dira Staffin barrutian. Eskoziako aurkikuntza arkeologiko zaharrenetakoa da hau. Cuillin mendien hegoaldean Neolito
+eus	garaiko aztarna ugari daude, bai eta Burdin Aroko (k.a. II edo III mendea) gotorleku batzuen hondarrak ere, aipagarriena Dun Ringill.
+eus	Karim Rashid (1960ko irailaren 18a) Egipton jaiotako industria diseinatzailea da. Bere ibilbidean mota askotako diseinuak egin ditu, adibidez, luxuzko elementuak, altzariak, argiztapena, kanpoko
+eus	diseinua, marka-identitatea eta produktuen bilgarriak. 2011. urtean, Time aldizkariak “Ameriketako diseinatzailerik ospetsuena” izendatu zuen.
+eus	Katilinaren alde zeuden konspiratzaileak zorpetutako gizon aberatsak, botere eta aberastasun gosez zeudenak, Silaren jarraitzaile zaharrak, aldaketaren bat egotea espero zuen hondatutako jendea,
+eus	gaizkileak, libertinoak eta Katilinaren antzeko gainontzeko jendea bezala deskribatu zituen. Erromako herriari Katilinaren beldur ez zirela izan behar ziurtatu zion, berak (Zizeronek), kontsulak eta
+eus	Kendall Green Ameriketako Estatu Batuetako erroldak esleitutako leku bat da. Broward konderrian kokatuta dago, Florida estatuan.  kilometro koadroko azaleran banatuta.
+eus	Kim Ki-duk ( 김기덕 ; Bongwha, Hego Korea, 1960) zinemagile korearra da, bere ibilbide zinematografiko idiosinkratiko eta jaialdietan aprezituarengatik nabarmentzen dena.
+eus	Kiyanon kabushiki-gaisha, kamerak, bideokamerak, fotokopiagailuak, eta ordenagailuentzako inprimagailuak bezalako gailu optikoak eta irudia eskuratzeko produktuak egiten dituzten elektronikako
+eus	Koagulasa bakterio gutxi batzuek ekoizten duten entzima da, odol-plasma koagulatzeko ahalmena duena. Entzima horrek bakterioaren birulentzia areagotzen du. Proba hau Staphylococcus aureus-en
+eus	Kolonbiaren kontsumo elektrikoaren % 19 Guavio ibaitik lortzen da. Energia hori garraiatzen duten tentsio altuko lineak “Empresa de energía de Bogotá” ardurapean daude.
+eus	Kondairak dio gazteluko geletan Petermännchen mamua bizi dela. XVII. mendeko zaldun baten gisa jantzirik dagoen pertsona txikiaren irudia du.
+eus	Konstituzio honek bi erreforma izan ditu, 1992an eta 2011n. Lehenengoa Maastrichteko Ituna bete ahal izateko onartu zen; 13.2 artikulua aldatu zen udal hauteskundeetan Europar Batasuneko herritarrek
+eus	Kosinuaren transformatu diskretua (Ingelesez Discrete Cosine Transformen DCT) transformatu bat da Fourierren transformatu diskretuan oinarritua, baina zenbaki errealak bakarrik erabiliz.
+eus	Kriptosporidiosia ez da gaiz larria pertsona osasutsuengan, baina immunogutxituengan eta bereziki HIESa dutenengan konplikazio latzak dakartza, heriotza barne. 1993an Milwaukee hirian (Wisconsin,
+eus	AEB) inoiz izan den kriptosporidiosiaren izurriterik handiena gertatu zen, 400.000 pertsona inguruk edateko uraren bidez Cryptosporidium patogenoa hartu zutenean . Protozoo hauek kloroarekiko
+eus	erresistentzia handia dutenez,  ohiko ur arazketak ez zuen patogenoa deuseztatu, eta hiriaren ur-hornidura kutsatu egin zen.
+eus	Ku banda mikrouhinen espektro elektromagnetikoaren K bandaren azpian dagoen tartea da. Tarte horrek 12 eta 18 GHz bitarteko maiztasuna barne hartzen du IEEE Standard 521-2002 arauak radarren
+eus	Kurtzegana: Erdialdean dagoen auzoa da. Izen bereko mendia eta Urgozo, Alegriburu inguruneak barne hartzen ditu, Garaizarreko landetxea eta ur-errota, ur-biltegi eta iturri banarekin batera.
+eus	La Neuville-Garnier Frantziako udalerria da, Oise departamenduan dagoena, Hauts-de-France eskualdean. 2013an  biztanle zituen.
+eus	La venganza de Don Mendo Pedro Muñoz Secak idatzitako antzezlan bat da 1918an estreinatu zen Madrideko Teatro de la Comedia antzokian, berehala arrakasta lortuz Erdi Aroko Espainian girotutako
+eus	Landaretza azpitropikal dizdiratsuak, urbanizazio moderatu eta jauntar batekin bateratua, Ospedaletti erresidentzia gune erakargarri bihurtzen dute Riviera dei Fiorin. Bertako klima oso leuna da:
+eus	Laticauda Elapidae familiako narrasti genero bat da. Indiar Ozeanoaren iparraldean eta Ozeano Barearen inguruan bizi dira.
+eus	Lehen kantua, The Song Remains the Same, sarrera instrumental bezala pentsatua izan zen, eta izatez, bere lan izenburuetako bat "The Overture" izan zen (beste batzuk Zep edo "The Campaign" izan
+eus	ziren), Yardbirds taldearen kantu bat gogorarazten duten gitarrazko arreglu batzuekin, Tinker Taylor Soldier Sailor. Bakarkakoak indiar inspirazioko zati batzuk ditu.
+eus	Lehenengo adarra, Iruñeko Zezen Plazan hasi eta Olite kalean zehar igaro ondoren, hego linean bukatuko da, Espainiako Irrati-Telebistan.
+eus	Lehorrera heltzear dagoenean, gogoratzen du euritakoa behean utzi duela eta gizon bati eskatzen dio bere maleta zaintzeko, euritakoaren bila doan bitartean. Mutila pasilloetan galtzen da eta ate bat
+eus	jotzen du. Gizon batek sartzen uzten dio eta hitz egiten hasten dira. Gizonak adierazten dio ontziko sugilea dela, baina laster kanporatuko dutela, bere nagusiak —Schubal izeneko errumaniar
+eus	batek— errumaniarrak lehenesten dituelako (bera alemaniarra da). Halaber, azaltzen dio hainbat itsasontzitan lan egin duela eta guztietan laudatu dutela bere lana.
+eus	Leon III.aren seme Konstantino V.aren garaian bere gorenean zegoen liskarra. Hark deitutako Hieriako kontzilioan (754) ikonoen gurtza galarazi zen. Kontzilioan Konstantino enperadoreak berak esan
+eus	zuen ezinezkoa zela beretzat Kristo irudikatzea, zeren eta, Kristoren izate jainkozkoa irudi bidez adierazterik ez bazegoen, haren izate gizonezkoa ere ezin baitzitekeen irudikatu. Azken batean,
+eus	Kristoren irudi bakarra eukaristian zegoen. Urte hartan bertan hasi ziren irudikatze debekatu haiek irudietatik eta apainduretatik kentzen eta ezerezten: ikonoak erre, mosaikoak igeltsuz estali,
+eus	hormetako freskoak suntsitu, eta, Kristoren irudien ordez, loreenak edo enperadoreenak jarri ziren leku askotan. Horrela sortu zen lehenengo aldi ikonoklasta esaten zaiona, 787ko Nizeako II.
+eus	Les Landes-Genusson Frantziako udalerri bat da, Vendée departamenduan dagoena, Pays de la Loire eskualdean. 2013an } biztanle zituen.
+eus	Leyden ontzia edo leyden botila beirazko ontzi edo botila batekin egindako gailu elektriko bat da, karga elektrikoak metatu eta gordetzea ahalbidetzen duena. Historiako lehenengo kondentsadore
+eus	Lidia Valentín Pérez (Ponferrada, Espainia, 1985eko otsailaren 10a) espainiar pisu-jasotzailea da, 75 kg-ko pisu-altxatze kategorian lehiatzen dena. 2012ko txapeldun olinpikoa izateaz gain, hiru
+eus	Lortu ditugun emaitzak baliagarriak izango zaizkigu aurretik egin dugun analisirako, eta ikusteko nolako eragina izango duen eskariaren prezioak aldatzen badira.
+eus	Lurrik gabeko landa langileen mugimendua, portugesez Movimento dos Trabalhadores Rurais Sem Terra (MST) Brasilgo lurrik gabeko landa langileen mugimendua. Bere sustatzaile asko CPT (Comissão
+eus	Pastoral da Terra) apaiz ezkertiarrak, askapenerako teologiaren ingurukua izan ziren eta ekoizpen gabeko latifunduak landa langileen artean banatzea zuten helburu.
+eus	Macrotocinclus affinis Macrotocinclus generoko animalia da. Arrainen barruko Actinopterygii klasean sailkatzen da, Loricariidae familian.
+eus	Maite Mendizabalek Madriletik Bizkaira bidaiatuko du, ezohiko eulien formazio kolonial bat aztertzeko. Euli hauek, isuri kontaminatua dagoen tokietan, denak batera birsortzen dira.
+eus	Maria Nafarroakoa edo Maria Évreuxkoa (Gares, 1355 – ?, 1420) Nafarroako infanta eta Gandiako dukesa ezkontidea izan zen.
+eus	Marka bat merkaturatu baino lehen, hainbat erabaki hartu behar ditu ekoizleak. Lehendabizikoa, produktua markarekin edo markarik gabe merkaturatuko duen ezarri behar du.
+eus	Medikuen funtsezko zeregina gaixotasunen diagnostikoa lortzea eta horren araberako tratamendua ematea da, bai eta eritasunen prebentzioa lantzea ere.
+eus	Mendizorrotzeko mendilerroa Gipuzkoan kokatuta dagoen mendilerro bat da. Bere punturik altuena Mendizorrotz mendia da, 416 metrorekin.
+eus	Mexikon jokatu zuen saioan oihartzun handia izan zuen emakumeen pilota jokoak. Ondo tratatu zituzten erraketistak eta ondo ordaintzen zieten..
+eus	Mikhail Nikolaievitx Tukhatxevski (Михаи́л Никола́евич Тухаче́вский; Pensa, Smoliensk, Errusia, 1893ko otsailaren 16a - Mosku, Sobietar Batasuna, 1937ko ekainaren 12a)
+eus	Mitoen arabera, egiten zuen hotza egiten zuela, ibaia sekula ez zen izoztuko, eta denborararen amaierararte isurtzen jarraituko zuen.
+eus	Mogera etigo Mogera generoko animalia da. Japoniako espezie endemikoa da, Niigata prefeturako Echigo ordokian baino ez delako bizi.
+eus	Montesquieu-Volvestre (of) Okzitaniako udalerri bat da. Administratiboki Frantziako Garona Garaia departamenduan dago, Okzitania eskualdean. 2013an  biztanle zituen.
+eus	Mugakide eskualde hauexek ditu: Iparraldean Conca de Barberà, ipar-ekialdean Anoia, eki- eta hegoekialdean Alt Penedes eta Baix Penedes, hegoaldean Tarragones eta hego-mendebaldean Baix Camp.
+eus	Mumbai hiria klima tropikaleko zonalde batean kokatzen da, urteko batez besteko tenperatura 26,7 °C da, tenperaturak itsasoarekiko gertutasuna dela eta ez dira zakarregiak eta urte osoan zehar
+eus	Naboo, bakezale sutsuak dira. Arrazoi honegatik, Nabootarren eta gungantarren artean ez dago inongo gatazkarik. Eta, nabootarrek, ikertu eta teknologia berri ugari asmatzen duten arren, asmakuntza
+eus	Nahiz eta izaera eta pentsamolde anitzeko antolatzaile eta partaideak izan, martxak Espainiako trantsizioa hartzen ari zen bidea eta urte hartako ekainaren 15eko Espainiako hauteskunde orokorren
+eus	emaitzekin ados ez zauden euskal herritar ugariren mugimendu orokorra bilakatu zen. Mugimendu hau Herri Batasuna alderdiaren sorburua izan zen.
+eus	Narcissus enemeritoi (Sánchez-Gómez et al.) Sánchez-Gómez, A.F.Carrillo, A.Hernández González, M.A.Carrión & Güemes 1998
+eus	Nazioartean oihartzun handia izan zuen kateak. Hainbat albiste agentzietan azaldu zen, baita Europa gehienean, Amerikan, Afrika, Asia eta Ozeanian ere.
+eus	Nekazaritza (garia, artoa, patatak, garagarra, bazka...) eta abeltzaintza xumea nagusitzen dira. Abereek herri lurretan bazkatzen dute.
+eus	Nerbio kranialak edo bikote kranialak nerbio-sistema periferikoaren 12 nerbio pare dira, entzefalotik ateratzen direnak.
+eus	New Lisbon Ameriketako Estatu Batuetako inkorporatutako herri bat da. Otsego konderrian kokatuta dago, New York estatuan.  kilometro koadroko azaleran banatuta.
+eus	Noailles (of) Okzitaniako udalerri bat da. Administratiboki Frantziako Tarn departamenduan dago, Okzitania eskualdean. 2013an  biztanle zituen.
+eus	Norbanakoen erabilerara bideratuak dira, herrigunetik urrun dauden etxe edo zerbitzuetan, itsasontzi edo karabanetan eta abarretan topa daitezke. Instalazio handietan ere ezar daitezke,lantegietan,
+eus	Ocako mendiak (Montes de Oca) Gaztelako ipar-ekialdeko mendialdea da, Iberiar sistemaren iparraldean, Burgosko herrialdearen ipar-ekialdean. Burebako hegoaldean daude, Errioxako mugatik hurbil, eta
+eus	Oca (Ebro) eta Arlanzón (Duero) ibaien arteko banalerroa eratzen dute. Ocako mendien erdialdean dago La Brújula mendatea, 995 m gora.
+eus	Okarec Txekiar Errepublikako udalerri bat da. 115 biztanle ditu eta 4,32 kilometro koadroko azalera. Třebíčeko barrutian dago.
+eus	Ollargan Adif enpresa publikoaren lurgaineko tren geltokia da, Arrigorriaga udalerriko izen bereko auzoan kokatuta dagoena.
+eus	Ondoren izandako eboluzioaren ondorioz, gaur egun sistema metriko hamartarraren garapena den Nazioarteko Unitate Sistema (SI sistema) erabiltzen da mundu osoan. Sistema hori 1960an onartu zen,
+eus	hamaikagarren Pisu eta Neurrien Batzar Orokorrean. Hortik aurrera noiz behinka egindako Batzar Orokorretan sistema hori osatuz joan da eta zazpi oinarrizko unitate ditu, bakoitza oinarrizko magnitude
+eus	fisiko bati dagokiona: metro (luzera), kilogramo (masa), segundo (denbora), ampere (intentsitate elektrikoa), kelvin (tenperatura termodinamikoa), mol (substantzia kantitatea) eta kandela
+eus	(argi-intentsitatea). Gainerako magnitude fisikoen unitateak zazpi horietatik eratortzen dira. Halaber esan behar da, ezen oinarrizko unitateen definizioa findu eta zehaztu egiten dela fisikazko
+eus	Orella Unzué, José Luis (1986): «Conflictos de jurisdicción en el tema de la brujería vasca (1450-1530)». Eusko ikaskuntzen nazioarteko aldizkaria, RIEV,  0212-7016, 31. lib., 3. zk., 1986,
+eus	Oro har, kontsumismo terminoa modu gaitzesgarrian erabiltzen da, eta pertsona baten neurriz kanpoko kontsumoa adierazteko erabiltzen da, behar ez diren eta finean asebetetzen ez duten produktuak
+eus	erosiz. Terminoa gizartean gertatzen den gehiegizko kontsumoak ingurumenean dituen ondorio kaltegarriak nabarmentzeko ere erabiltzen da.
+eus	Oscar Sarietarako bost izendapen jaso zituen: Emakumezko aktore onenaren Oscar Saria (Meryl Streep), Zuzendaritza artistiko onenaren Oscar Saria (Assheton Gorton eta Ann Mollo), Jantzi-diseinu
+eus	onenaren Oscar Saria (Ton Rand), Muntatze onenaren Oscar Saria (John Bloom) eta Egokitutako gidoi onenaren Oscar Saria (Harold Pinter).
+eus	Pa...Ya Bilboko konpartsa da. 1989tik Konpartsen Federakundeko kidea da Otxarkoaga auzo bilbotarreko elkarte hau. Arbolantxan dauka lokala. Otxarkoagan dihardu, baina sortu Baionan sortu zen 1989an,
+eus	Palenqueko historia isa guztia bertako hieroglifo ugarietatik berreskuratzea lortu da, eta historialariek hiri-estatuko agintarien zerrenda osoa eta beste hirekiko lehia ezagutzen dute.
+eus	Parisen mesedea eskuratzeko jainkosa bakoitzak eskaintza ezberdinak eskaini zizkion. Honela, sagarraren truke Herak botere politikoa eta Asiaren kontrol guztia eskaini zion,  Ateneak jakituria,
+eus	guruak irabazteko trebetasuna eta gerlari handien gaitasunak eskaini zizkion, azkenik, Afroditak munduko emakume ederrenaren maitasuna eskaini zion. Azkenean, Parisek Afrodita maitasunaren jankosari
+eus	Partxe probak substantzia jakin batek larruazalaren hantura alergikoak eragiten dituen zehazteko erabiltzen dira. Elikagaiekiko erreakzio berantiarrak detektatzen ditu.
+eus	Patxarana prestatzeko 250 gramo basaran behar da pattar litroko eta beratzen utzi 7 edo 8 hilabetez leku fresko eta ilunean. Denbora igarota, iragazi egin behar da, ziroparekin nahastu (ura eta
+eus	Pedagogian, konstruktibismoa ikaskuntza-prozesuaren garapena azaltzen duen teoria bat da. Teoria honen arabera, ikaslea bera da bere ikaskuntza-prozesua eraikitzen duena, aurreko jakintza eta
+eus	trebezietan oinarrituta, elementu berriak eskema orokorragoetan txertatuz. Horrela, konstruktibismoa hauek izanik ikaskuntza egoki baten gakoak: ikaskuntza adierazgarria, ikaslearentzat esanguratsuak
+eus	diren edukiak, ikasgai berriak aurrekoekin modu egokian integratu behar baitira; ikasgaiaren erabilgarritasuna eta ulergarritasuna.
+eus	Perpausean gertaera bat, ekintza bat, egoera bat… adierazten da. Eta adierazten den horren muina aditzak dakar. Behin aditz bat aukeratuz gero, perpausa behar bezala eratua egongo bada, aditz
+eus	horrek ezartzen dituen eskakizunak bete behar dira, agerian edo ezkutuan, baina aditz edo predikatu baten eskariak, nolabait esateko, perpausean bete behar dira.
+eus	Pieve San Giacomo Italiako udalerri bat da. Cremonako probintzian kokatuta dago, Lombardia eskualdean.  kilometro koadroko azaleran banatuta.
+eus	Plaisance Quebeceko udalerri bat da, Kanadan. Outaouais eskualdean kokatuta dago, eta horren barruan dagoen Papineau Eskualde Konderri Udalerrian.
+eus	Polle Alemaniako herri bat da, Saxonia Beherea estatuan eta Holzminden barrutian kokatua, Weser ibaiaren ibilbidean zehar. Gainera Polleko udalerri kolektiboaren egoitza ere bada.
+eus	Potrero Ameriketako Estatu Batuetako erroldak esleitutako leku bat da. San Diego konderrian kokatuta dago, Kalifornia estatuan.  kilometro koadroko azaleran banatuta.
+eus	Prerrafaelismoak eragin handia izan zuen XIX. mendearen bukaerako arte-mugimenduetan, modernismotik sinbolismora, William Morris, Walter Crane eta Aubrey Beardsley pintoreak, besteak beste, hartan
+eus	Publio Lizinio Ignazio Galieno (Publius Licinius Egnatius Gallienus; 218-268) erromatar enperadorea izan zen. 253tik 260 arte Valeriano aitarekin batera aritu zen; 268 arte, enperadore bakarra izan
+eus	Rami Said Malek (Los Angeles, 1981eko maiatzaren 12a) estatubatuar aktorea da. Bohemian Rhapsody filmean burututako antzezpenengatik Gizonezko aktore onenaren Oscar saria irabazi zuen.
+eus	Robert Anastasia Shirleyrekin ezkonduta dago. Cracker telebista seriea egin zuenean, makillatzailea zen hau, ezagutu zirenean. Hiru seme-alaba dituzte: Ava (2002), Harvey (2004) eta Joseph Pearce
+eus	Rodin, Inpresionismoko eskultore kontenporaneo Frantsesa izan zen. Eskultore modernoen aita zela esaten zuten. Arte Dekoratiboen eskolan ikasi zuen arte ederretako eskolan hiru aldiz ukatuta izan
+eus	zen. Bere lehenengo lanak neoklasikoak dira. 1863an Rose Beuret ezagutu zuen, berarekin eskondu zen eta geroago bere modeloa izango zena. 1875an Italiara bidaiatu zuen han Don Ateloren eta Miguel
+eus	Angelen eskultura errenazentistagatik erakargarrita sentituko da giharretan oinarrituko da. Hain perfektua zen bere eskultura “La edad de bronce” pertsonek modeloaren gorputzatik zuzenean aterata
+eus	zegoela esaten zutela eta ez buztinatik. Honek Parisko artista garrantsitzuen artean jartzea egin zion. Bere eskultura bi marra desberdinetan banandu zen; lehenengoa “alimentaria” eskultura
+eus	apaingarria zen eta bigarrena “transgresora” honi erreferentzia egiten dioten obrak bere enkargu garrantsitzuenak dira. Los burgueses de Calais (1884) eta el célebre Monumento a Balzac (1897).
+eus	Rodinek anatomia ikertu zuen giza gorputza tresna baten moduan erabiltzeko espresibitate psikologian eta giza sentimenduetan. “Las puertas del Infierno (1880-1917) obran erreflejatzen da.
+eus	Inpresionista dira argiak eta modelaketaren teknikak baina formak, materia lana eta texturak expresionista diren trazuak ikusten usten digute.
+eus	Rosi Mittermaier eskiatzailea, eski alpetarreko proba guztiak irabaztetik gertu egon zen, bi urre eta zilarra irabaziz, hirugarren urrea izango zena, 0.13 segundogatik galdu zuelarik.
+eus	Ruper Ordorika (Oñati, Gipuzkoa, 1956ko abuztuaren 16a) euskal abeslaria da, euskal musikari berritzaile eta nazioartekoenetakoa, hala rock eta pop musikan nola beste estilo batzuetan. Euskal
+eus	kantagintzak eman duen bakarlaririk enblematiko eta gorenetakoa da. 1980ko hamarkadan Pott Banda literatura taldean ibili zen, Joseba Sarrionandia eta Bernardo Atxaga idazleekin batera besteak beste,
+eus	eta musika arloan herri kantaren tradizioa eta rock egilearen nortasuna batu ditu, bere erara. 1980. urtetik bere izenean Euskal Herriko nahiz New Yorkeko musikariekin disko sorta bat grabatzeaz
+eus	gain, Hiru Truku taldea sortu zuen Joseba Tapia eta Bixente Martinez (Izukaitz, Oskorri) musikariekin, herri kantutegia berritzeko.
+eus	Sailkatutako seigarren eta zazpigarrenek beste estropada bat jokatu zuten Bizkaiko eta Kantabriako txapeldunekin, azken bi txartelak erabakitzeko (azken bi hauek lortu zuten).
+eus	Saint-Émiliongo eliza monolitikoa (église monolithe de Saint-Émilion) Girondako Saint-Émilion hiribilduan dagoen eliza da, XII. mendetik aurrera harrian eraikia. Europa osoko lur azpiko elizarik
+eus	zabalena da eta 1907an Frantziako Gobernuak monumentu historiko izendatu zuen. UNESCOk, ere, 1999an herri osoa Gizateriaren Ondare izendatu zuen.
+eus	San Antonino el Alto Mexikoko udalerri bat da. Oaxaca estatuan kokatua dago. 2010ean San Antonino el Alto}} biztanle zituen San Antonino el Alto}} km²ko azaleran. Herriburua San Antonino el Alto da.
+eus	San Roman eliza Nafarroako Arellano udalerrian dagoen eliza bat da. XIII. mendearen lehen erdialdea eta XVI. mendearen artean eraiki zen. Zisterziense, gotiko eta berpizkundeko estiloen arteko
+eus	Santutegiaren barruan dagoen jainkoaren irudiaren eraztun gisa ikusten da, eta tenpluaren goiko aldetik zerura heltzen da.
+eus	Sarraskien biktimak maiz errepresaliatuak izaten dira, bai beren pentsamolde politiko, erlijiotsu, etnia edota arrazarengatik ere.
+eus	Savigny-sur-Orge kantonamendua Frantziako kantonamendu bat da. 9117}} departamenduan dago, [[9117  }} eskualdean. Guztira 9117 udalerri ditu eta  da bere hiriburua.
+eus	Seaska (Le berceau, frantsesez) Berthe Morisot emakume margolari inpresionistaren margolan ospetsua da. 1872an egina, familia giroko eszena jasotzen du. Gaur egun Parisko Orsay museoan ikus daiteke.
+eus	Senior mailan, Mamun Calaisko Nazioarteko Txapelketan parte hartu zuen 2011an, lau urrezko dominak lortuz: sailkapen orokorra, uztaila, xingola eta mazoak. 2011ko Munduko Kopan, Kanadan, nazioarteko
+eus	saltoa eman zuen brontzeko domina lortzen sailkapen orokorrean eta pilotan urrezko domina eskuratzen Liubov Txarkashyna handiaren aurrean.
+eus	Sherlock Holmesen Itzulera, ingelesez The Return of Sherlock Holmes, Arthur Conan Doyle eskoziar idazlearen Sherlock Holmes detektibeari buruzko kontakizun laburren bilduma bat da. 1905aan argitaratu
+eus	Singulartasun hori espazio-denboraren kurbatura infinitua bilakatzen den puntua da, grabitazio indarrak infinituki sendoak diren puntua.
+eus	Sistemaren arkitektura abiapuntu-hizkuntzatik independetea izateko diseinatuta dago eta inplementatuta dagoen Matxin 1.0 prototipoak espainieratik euskarara itzultzen du. Matxin 2.0 prototipoak
+eus	Soledad Kasilda Hernáez Vargas (Zizurkil, Gipuzkoa, 1914ko apirilaren 9a – Biarritz, Lapurdi, 1992ko abuztuaren 31) anarkista eta feminista izan zen. Beste izen hauekin ere ezaguna da: Kasilda
+eus	Méndez Hernáez, Kasilda, Kaxilda, Kasi eta la Miliciana (milizianoa). Zizurkilen jaioa, Donostiako Egia auzoan eman zuen bere bizitzaren zati handi bat. Bikotekide izan zuen Felix Likiniano.
+eus	Sorginak Hansel jatea atzeratzea lortzen dute, oilasko hezur bat umearen hatza izango balitz bezala erabiliz, haurra gizentzen ez dela erakusteko. Hala ere, sorgina, nazkaturik, umea jatea
+eus	erabakitzen du. Sorginak Greteli labera gerturatzeko eskatzen dio, barruan dagoen ogia ondo xigortua eta ondo egina dagoen begiratzeko, nahiz eta bere asmo bakarra neskatxa labean egosi eta jatea den.
+eus	Spa-Francorchamps zirkuitua edota Spa, Belgikako Valonia eskualdeko Stavelot udalerrian dagoen motor lasterketa zirkuitu bat da.
+eus	Staccatisimo superlatiboa ere badago. Staccatoa legatoaren aurkako artikulaziotzat hartzen da. Staccatoak ez du soinuaren dinamika handitzen. Aitzitik, ideia "staccatutako" notaren eta hurrengoaren
+eus	Tachoires (of) Okzitaniako udalerri bat da. Administratiboki Frantziako Gers departamenduan dago, Okzitania eskualdean. 2013an  biztanle zituen.
+eus	Talde parafiletikoa da. Izan ere, acipenseriformeak filogenetikoki hurbilago daude teleosteoengandik polipteriformeengandik baino. Horregatik, gaur egun azpiklase hau eztabaidan dago.
+eus	Tamaina eta kolore desberdinetako ibisak daude baina moko-forma berezi horretan antza dute denek eta erraz identifikatzen ahal dira horregatik. Antzinako Egipton hegazti sakratutzat zeuzkaten, eta
+eus	haien artean, momietan eta mitologian agerpen nabarmena du ibisak. Tot jainkoa, adibidez, ibis buruarekin agertzen da Egiptoko mitologian.
+eus	Ternua uhartearen hego-ekialdean dago, iparraldetik hegoaldera 560 km luze, eta ekialdetik mendebaldera 675 km zabal hedatu eta mundu osoan agitz ezaguna den arrantza eremua delarik, denera 282.500
+eus	km²-ko azalera du. Sakonera gutxiko urak dira (25-100 metro artean, gehienera 200 metro), eremu hotz horretan Labradorreko itsaslasterra eta Golkoko itsaslasterra, ondorioz bertan maiz laino itxia
+eus	The Pink Panther (euskaraz Pantera Arrosa) 1963ko Blake Edwards estatubatuar zinema zuzendariak eta gidoigileak zuzendu eta Maurice Richlin gidoigilearekin batera idatzi zuen komedia filma bat da.
+eus	Thomas Cromwell (Putney, 1485 - Londres, 1540ko uztailaren 28a) politikari ingelesa izan zen. Wolsey kardinalarentzat lan egin zuen, eta kardinal hark bere kargua galdu zuenean Henrike VIII.aren
+eus	zerbitzuan jarri zen Cromwell (1530). Politika-kargu ugari izan zituen bere esku (Finantza ministroa, Estatuko idazkari nagusia, Protokoloburua). Hainbat monasterio ixtearen edo haien jabetza
+eus	Estatuaren esku geratzearen aldekoa zen. Administrazioa eraberritu zuen. Marsilioren Defensor Pacis lanaren ingelesezko itzulpena ordaindu zuen (1535), eta huraxe izan zuen politikarako programa.
+eus	1539an Henrike VIII.aren eta Ana Cleveriskoaren arteko ezkontza prestatu nahi izan zuen, baina ez zitzaion ondo atera. Traidore eta heretikotzat hartu, epaitu eta hil egin zuten.
+eus	Tinitar garaian datatutako antzinako finkapen bat lurpetik atera zen, baina Egiptoko Antzinako Inperioaren garaitik hasi zen, Buhen, merkataritza arloan garrantzia izaten, bereziki Kefren faraoiaren
+eus	erregealdian, Egiptoko IV. dinastian, eskualdea bereziki balioztatu zuena bere dioritazko harrobiengatik, nondik Gizako bere hil multzoko estatuentzako beharrezko harria aterako duen.
+eus	Tolba (izen ofiziala Tolva/Tolba, gaztelaniaz Tolva eta aragoieraz eta katalanez Tolba) Huescako Ribagortza eskualdean dagoen udalerria da.
+eus	Tordesillasko Ituna 1494an Gaztelak eta Portugalek aita santuaren baimenarekin sinatutako akordio bat zen, mundua bitan banatu zuena: alde bat Gaztelarentzat eta bestea Portugalentzat izango ziren.
+eus	Tradizioko beste ahots batzuen arabera, kaliza santua hiri horretako San Pedro elizan gordea izan zen, eta Acilso apezpikuak salbu jarri zuen, 711n musulmanen erasoak zirela eta, ihes egin eta
+eus	Tratamenduak kimikoak (adibidez, sendagaiak), fisikoak (elektroshock eta erradioterapia, kasu) nahiz psikikoak (psikoterapia) izan daitezke.
+eus	Trikua intsektujalea da. Espezie guztiak oso antzekoak dira, eta bizitzeko era bertsua dute. 25 cm inguru luze izaten dira. Gorputzaren gaineko aldea eta alboak arantzaz estaliak dituzte, eta azpiko
+eus	UNESCOk 2015eko uztailaren 3an Gizateriaren ondarea bezala izendatu zuen Sizilia dagoen Arabo-normandiar Palermo eta Cefalú eta Monrealeko katedralak multzo arkitektonikoaren barruan.
+eus	Urdaibaien garatzen den florak oinarri atlantikoa dauka funtsean. Bertan ugariak dira zelai, haritzez osatutako arboladiak, basoak eta konifera landaketak. Kostako gunea baso kantabrikoez estalita
+eus	dago, arteak eta gurbitzak. 615 landare espezie eta 318 ornodun deskribatu dira, hauetatik 245 hegaztiak izanik. Giza jarduerek eskuarki aldatu dute ingurunea, baina laborantzaren gainbeherak
+eus	Urrian, EZLN-ak Ramona komandantea (giltzurruneko minbizia zuena) Mexiko Hirira bidaltzea erabaki zuen, urriaren 12an ospatu zen Kongresu Nazional Indigenan parte hartzeko. Kongresuan zehar, Ramona
+eus	Urriaren 6a - Charles Stewart Parnell, irlandar politikari nazionalista, Irlandako Alderdi Parlamentarioaren sortzailea (j. 1846).
+eus	Urtarrilaren 6a - Txanton Piperri, euskaraz idatziriko lehenbiziko opera, Buenaventura Zapirainen musika eta Toribio Altzagaren libretoa dituena, Donostiako Zentro Katolikoan estreinatu zen.
+eus	Urte horietan garatutako erreakzio-hegazkinak, F-86 Sabre eta MiG-15 adibidez, ez zeukaten abiadura supersonikoan hegan egiteko ahalmena, baina urte gutxi batzuk geroago, 1950eko hamarkadan, Lockheed
+eus	F-104 bezalako hegazkinek jadanik Mach 2 abiadura har zezaketen. Hamarkada horretan eta hurrengoaren hasieran diseinatutako ehiza-hegazkin gehienek abiadura supersonikoan hegan egiteko ahalmena
+eus	Uste da, hauen idatziengatik, bertako apaizak Islandiara jotzen zutela udaberri eta udan, baina ezin da zehazki frogatu nor izan zen uhartera iritsi zen lehenengoa eta zerk eraman zuen bertara.
+eus	Uztailaren 27a - Floyd Landis txirrindulariak, Frantziako Tourreko 17. etapan positibo eman zuela argitara eman zuen bere taldeak.
+eus	Vegetarian Operazioa (Operation Vegetarian; beranduago Aladdin Operazioa deitu zen) Bigarren Mundu Gerran Britainia Handiak garatu zuen operazio militar bat izan zen. Bere helburua Alemaniako
+eus	Vespidae Vespoidea goifamiliako eta Hymenoptera ordenako liztor-familia da. Oso familia zabala da, izan ere, barnean 50 000 espezie ditu, tartean liztor eusozial gehienak.
+eus	Villa Carcina Italiako udalerri bat da. Bresciako probintzian kokatuta dago, Lombardia eskualdean.  kilometro koadroko azaleran banatuta.
+eus	Vinculo kalea, Alondegi kalea, Lizarra kalea eta Antso Nagusia kalearen artean dago, Sarasate pasealekua eta Baluarte plazatik hurbil, eta El Corte Inglés merkataritza-gunearen alboan.
+eus	Vouvant Frantziako udalerri bat da, Vendée departamenduan dagoena, Pays de la Loire eskualdean. 2013an } biztanle zituen.
+eus	William Blaken lana ahaztua izan zen hurrengo belaunaldietan, baina Alexander Gilchrist-ek ezagutzera eman zuen,  bere biografian lan egiten hasi eta Life os William Blake argitaratu zuenean.
+eus	Blakeren garrantzia areagotu egin zen 1860ko hamarkadatik aurrera. Oso eragin garrantzitsua izan zuen artearen eta poesiaren famatu batzuengan, esate baterako, Rossettirengan.
+eus	Worodougou Boli Kostako 19 probintzietako bat da. Bere hiriburua Seguela da. 21.900 kilometro koadroko azaleran 456.708 biztanle ditu.
+eus	XIX mendean Sir George Shaw zaindariak hainbat elementu saldu zizkion zirujauen eskolari. 1833an esate baterako Sloanek utzitako 550 intsetutatik ez zen batere gelditzen. 1856an Richard Owen aukeratu
+eus	zuten British Museumeko Historia Naturalaren mintegiburu eta honek erabaki zuen espazio handiagoa behar zutela mintegiko aleek. 1864an South Kensingtonen lursail bat erosi eta museo bat eraikitzeko
+eus	XVI. mendean Adaleko Ahmad ibn Ibrihim al-Ghazik gidatuta Etiopiako Inperioaren aurkako inbasio arrakastatsua egin zuten. Kanpaina honi Abisiniaren Konkista izena eman zaio. Bere momenturik gorenean
+eus	XX. mendearen 60 eta 70eko hamarkadetan industrializazioaren ondorioz gertatutako hazkunde demografikoaren ondoren, Laudio biztanleak galtzen ari da etengabe 80ko hamarkadatik aurrera, antzeko
+eus	Yebra de Basa Aragoiko Huesca probintziako iparraldean dagoen Alto Gállego eskualdeko udalerria da. Udalerri honek 90,88 km²-ko azalera du. 2009ko erroldaren arabera 158 biztanle zituen,
+eus	Zaitegi hil zenean (1979-08-17) jarri zen Intxausti Euzko-Gogoaren eta Zaitegiren garrantziaz hausnartzen, eta baieztapen honekin ekin ere:
+eus	Zazpi traineru aurkeztu ziren jadanik sailkatua zegoen San Juanekin batera ligan aritzeko. Uztailaren 11 eta 12an izan ziren sailkapen estropadak, eta Zumaia, Hibaika eta Orio sailkatu ziren.
+eus	Zenata ( edo Iznasen) Erdi Aroko herri berbereen talde batek jaso zuen izena da, hauetatik gaur egungo zenbait etnia jaisten direlarik.
+eus	Zenonek agintea berreskuratu zuenean agindu lez Armatoren semea, Basilisko izenekoa hau ere, Zesar bihurtu zuen; hala ere nahikoa botere zuenean semeari kargua kendu eta aita hil zuen. Armatok esan
+eus	bezala traizioa egin zion Basiliskori eta ejertzitua Zenonekin topo ez egiteko moduan desbideratu zuen isauriara joateko beste bide bat hartu zuelarik. Basiliskoren ondamendia gertu zen.
+eus	Zesarren hilketaren ondotik, Marko Antoniok eskuratu zuen boterea, eta iritzi publikoa hiltzaileen aurka bultzatu zuen. Senatuak Zireneko agintea eman zion Kasiori, Erromatik urruntzeko asmotan.
+eus	Kasiok errefusatu zuen halako probintzia txiki baten gobernua. Erbestea Marko Antonioren diktadura baino nahiago zuela esanda, Siriara joan zen. Hala ere, Senatuak, Marko Antonioren atsekaberako,
+eus	Zilarra, ilargia edo perla kolore heraldiko bat da. Heraldikan gris bat bezala irudikatzen da, ñabardura metaliko handiago edo txikiago batekin, inprentan kolore zuriaren edo tinta ezaren bidez,
+eus	Ziuraski, greziarrek asmatu zuten, eta, ondoren, kartagoarrek eta erromatarrek hobetuko zuten eta Erdi Aroan oso erabilia izango zen.
+eus	Zubiarren 2an kokatzen da eta udalerriko elkarteentzako toki bat da: bilera gelak, bulegoak eta funtzio anitzeko areto bat ditu, 2009. urtean martxan jarri zena. Lokal hau Goiuria Ikastola-ko egoitza
+eus	Zuzenbidea ikasi zuen Aix-en-Provencen; zuzenean parte hartu zuen okzitanierazko literaturaren berpizkundearen aldeko higikundean, eta Félibrige eskola sortu zuen 1854an. Mistralek berak itzuli
+eus	zituen bere lan gehienak frantsesera. Haren literaturgintzaren oinarriak folklorea, ohiturak eta bere jaioterriko paisaia dira. Okzitanieraz idatzitako poesiaren berritzailerik garrantzizkoenetakoa
+eus	izan zen. Mistralenak dira: Mireille (1859, Mireio, Orixek euskaratua), Calendau (1867), Nerto (1884), Lou Pouèmo dou Rose (1897, Larrosaren poema), Lis Oulivados (1912).  v  1905ean, Literaturako
+eus	inportazioa burutzen duen herrialdeko enpresa eta kontsumitzaileek ondasun eta zerbitzuen eskaintza zabalagoa izaten dute;
+eus	non Q askatutako beroa, Jouletan, I korrontearen intentsitatea, anperetan, R erresistentzia, ohmetan, eta t denbora, segundotan diren.
+eus	Ángela eta bere fakultateko ikaskidea den Chemak (Fele Martínez) filma topatu eta heurekin batera eramatea erabakitzen dute, hura ikustean neska bat torturatua eta eraila agertzen den snuff movie
+eus	bat dela ohartzen direlarik. Haientzako berria, ezberdina eta oso arriskutsua den ikus-entzunezko mundua. Ángela bera hurrengo snuff-movie filmaren protagonista izan daitela jabetzen da.

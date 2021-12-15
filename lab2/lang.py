@@ -1,7 +1,8 @@
 from os import fchdir
 import sys
 from fcm import FCM
-
+from math import log2
+#lang
 class LANG:
     
     def __init__(self,ref,target,k,a):
@@ -10,34 +11,43 @@ class LANG:
 
         self.ref = ref
         self.target = target
-
-        self.refFile = open(self.ref,'r')
-        self.refText = self.refFile.read() 
-        self.targetFile = open(self.target,'r')
-        self.targetText = self.targetFile.read()
         
-        self.refContext = self.createRefContext()
-        self.tarContext = self.createTarContext()
+        self.refObject = self.createContext(self.ref)
+        self.tarObject = self.createContext(self.target)
+
+        self.refContext = self.refObject.contextTable
+        self.tarContext = self.tarObject.contextTable
+
         self.bits = self.estimateBits()
+        print("Bits de compressao: " + str(self.bits))
       
-    def createRefContext(self):
-        fcm_obj = FCM(self.k,self.a,self.ref)
-        return fcm_obj.context
+    def createContext(self,file):
+        fcm_obj = FCM(self.k,self.a,file)
+        return fcm_obj
 
-    def createTarContext(self):
-        fcm_obj = FCM(self.k,self.a,self.target)
-        return fcm_obj.context
+    def ContextInRef(self,key):
+        if key in self.refContext.keys():
+            total = self.refContext[key]["total"]
+        else:
+            total = -1
+        
+        return total
 
+    def calcBits(self,key,symbol,total):
+        divisor = total + (self.a * self.tarObject.sizeAlphabet)
+        prob = (self.refContext[key][symbol] + self.a) / divisor
 
-    def estimateBits(self):
-        bits=0
-        #i = 0
-        #for key in self.tarContext.keys():
-            #print(key)
-
-
-
+        bits = - log2(prob)
         return bits
+        
+    def estimateBits(self):
+        bits = 0
+        for key in self.tarContext.keys():
+            total = self.ContextInRef(key)
+            if total != -1:
+                for symbol in self.tarContext[key].keys():
+                    bits += self.calcBits(key,symbol,total)
+        return bits 
 
 
 if __name__ == "__main__":

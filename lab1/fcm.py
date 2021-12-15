@@ -12,7 +12,7 @@ class FCM:
             self.createContext()
             self.total_count = self.countContextChildren(self.context)
             self.total_alpha_count = self.a * len(self.alphabet)**(self.k - 1)
-            
+            print(self.context)
             self.calculateProbabilities()
             self.total_probs_count = self.countContextChildren(self.probabilitiesContext)
 

@@ -1,0 +1,781 @@
+hsb	(* 1. junija 1646 w Lipsku, † 14. nowembra 1716 w Hannoverje) bě němski filozof, matematikar,
+hsb	(* 12. januara 1951 w Aue) je sakska politikarka Lěwicy a wot lěta 2009 přez krajnu lisćinu zapósłanča sakskeho
+hsb	(* 16. decembra 1819 w Bukojnje; &dagger; 12. decembra 1897 w Hodźiju) bě serbski ewangelski duchowny a narodny
+hsb	(* 18. januara 1955 w Lynwoodźe) je US-ameriski filmowy hrajer, producent, předewzaćel a režiser.
+hsb	(* 19. septembra 1955 w Slanach) je čěski politikar a bě w lětomaj 2006 a 2007 minister financow w prěnim
+hsb	(* 20. januara 1949 w Niederwürschnitzu) je sakska politikarka Křesćansko-demokratiskeje unije Němskeje, wot lěta
+hsb	1994 zapósłanča sakskeho krajneho sejma, čłonka prezidija a městopředsydka kaž tež turistiskopolitiska
+hsb	(* 22. januara 1944 w Schmauchu, Wuchodna Pruska, dźensa pólske ''Skowrony'') je němska kabaretistka.
+hsb	(* 24. januara 1958 w Praze) je čěski basnik, publicist a šefredaktor časopisu Tvar.
+hsb	(* 26. oktobra 1956 w Hatku) je sakski politikar Křesćansko-demokratiskeje Unije Němskeje a wot lěta 2009
+hsb	zapósłanc wólbneho wokrjesa 56 (Delnjošleska Hornja Łužica 1) w sakskim krajnym sejmje.
+hsb	(* 28. nowembra 1820 w tehdom pruskim Barmenje (dźensa měšćanski dźěl Wuppertala); † 5.
+hsb	(* 3. junija 1981 we Werdauje) je sakski politikar Křesćansko-demokratiskeje Unije Němskeje a wot lěta 2009
+hsb	(* 4. februara 1871 w Heidelbergu; † 28. februara 1925 w Berlinje) bě politikar strony SPD a Němskostatny prezident
+hsb	(* 5. septembra 1774 w Greifswaldźe; † 7. meje 1840 w Drježdźanach) bě němski moler.
+hsb	(* 7. měrca 1778 w Dołhej Boršći; † 1. januara 1805 w Budyšinje) běše wuznamny krajinowy rysowar a raděrowar.
+hsb	(* 9. awgusta 1963 w Berlinje) je němska politikarka Lěwicy. Wona je wot lěta 2006 wiceprezidentka zwjazkoweho sejma.
+hsb	(Feminimum: ''cara'', ''prus cara'', ''sa prus cara''/''meda cara''; plural: maskulinum: ''caros'', ''prus caros'',
+hsb	''sos prus caros''/''meda caros'', femininum: ''caras'', ''prus caras'', ''sas prus caras''/''meda caras''.)
+hsb	(němsce ''Bautzen'', delnjoserbsce ''Budyšyn'', pólsce ''Budziszyn'', čěsce ''Budyšín'') je wulke wokrjesne
+hsb	(tež Samske rěče) su podskupina finougriskich rěčow. Słušeja k uralskim rěčam. Wone so na sewjer Norwegskeje,
+hsb	) je gmejna w Delnjej Łužicy. Leži w braniborskim wokrjesu Wódra-Sprjewja a přisłuša hamtej ze samsnym mjenom.
+hsb	) je hłowne město Mexika. Ma skoro 9 milionow wobydlerjow a je tež najwjetše město Mexika a jedne z najwjetšich
+hsb	) je město na Ukrainje. Leži na juhu stata a je wuznamny přistaw při Čornym morju a při rěce Dnjepr. Cherson ma
+hsb	) je město w Delnjošleskim wojewódstwu w Pólskej. Leži při rěce Hwizdź něhdźe jědnaće kilometrow južnje
+hsb	) je město w Ruskej federaciji. Leži 200 kilometrow na wuchod wot Moskwy, stolicy Ruskeje federacije.
+hsb	) je město w pólskim dźělu Delnjeje Łužicy. Słuša k wokrjesej Žarow w Lubušskim wojewódstwje a ma cirka
+hsb	) je nakromne morjo w sewjerozapadźe Ćicheho oceana. Na wuchodźe mjezuje z połkupu Kamčatka, na juhowuchodźe z
+hsb	Kurilemi, na juhozapadźe z japanskej kupu Hokkaido, na zapadźe ze Sachalinom a na sewjeru z ruskej twjerdźu.
+hsb	) je sydlišćo w Budyskim wokrjesu, wot lěta 1999 měšćanski dźěl Kamjenca. Leži na sewjerowuchod wot centruma
+hsb	) je wjes we Wołynskej oblasći na Ukrainje. Leži w zapadnym dźělu kraja w historiskim regionje Wołynska. W lěće
+hsb	) su město na Ukrainje. Leži na prawym brjoze rěki Dnjepr blisko srjedźa stata, cirka 200 kilometrow na juh wot
+hsb	, po słowje ''winica'') je město na Ukrainje. Ma cirka 370 tysac wobydlerjow. Leži 250 kilometrow na juhozapad wot
+hsb	. Status diftongow wot ''ey'' a ''iy'' njeje jednozmyslny. Powšitkownje so by mjez diftongami a dwuzłóžkowymi
+hsb	wokalowymi wjazbami rozeznawać dyrbjało, při čimž so přeco njehodźi hranica jasnje ćahnyć. Tak je ''au'' w
+hsb	1840 wuńdźe prěni přełožk Noweho Zakonja (''Hærramek ja bæstamek Jesus Kristus åđđa testament'',
+hsb	přełožowar Nils Vibe Stockfleth), cyła Biblija prěni raz 1895 (přełožowar Jens Andreas Friis).
+hsb	20 m (dołhostne podaće w Europje) wotpowěduje. W Němskej je so dotal połoženje krutych dypkow na milimetry
+hsb	dokładne jako koordinata Gauß-Krüger, poćahowane na Besselowy elipsoid podało, resp.
+hsb	: Helsingfors) je stolica a najwjetše město Finskeje. Leži při Finskim zaliwje a ma 588.695 wobydlerjow.
+hsb	A tu belgiska tastatura za Windows XP (153 znamješkow) slěduje (belgiska tastatura je bóle bohata w Linuksu):
+hsb	Adjektiwy a numerale maja samsne prefiksy kaž substantiwy, ale werby, genitiwne partikle a někotre druhe słowne
+hsb	Afroaziske rěče (prjedy ''hamito-semitiske rěče'') je rěčna swójba z něhdźe 375 rěčemi (SIL estimate) a
+hsb	Albanska (tež Albanska republika, albansce ''Republika e Shqipërisë'') je kraj, kotryž w juhowuchodnej Europje na
+hsb	Ale parlament Komijoweje Republiki akceptowaše chorhoj tři měsacy do toho hač ton činješe parlament Baškirskeje,
+hsb	tohodla Republika Baškortostan dyrbješe druhu wariantu trikolory (slěd barbow je druhi) wubrać.
+hsb	Ale woprawdźe namakaš w njej wotmołwy na prašenja za zmysłom žiwjenja a k poćahej mjez ludźimy – kniha je
+hsb	Alojs Andricki (němsce ''Alois Andricki,'' tež ''Aloys Andritzki''; * 2. julija 1914 w Radworju; † 3. februara 1943
+hsb	w koncentraciskim lěhwje Dachau) bě serbski katolski duchowny a martrar Mišnjanskeho biskopstwa.
+hsb	Analny wobchad (we wobchadnej rěči tež ''analny seks'') je warianta heteroseksualneho abo homoseksualneho splažneho
+hsb	Anja započa 2004 spěwać. Jeje prěnje wobdźělenje bě na festiwalje Super Dzvezda. Anja je swoje prěnje myto 2007
+hsb	w Odessy dóstała. 2008 wobdźěli so wona na jara znatym italskim festiwalje "Zecchino'oro" a dósta 10 městno.
+hsb	Arnošt Černik zwěsći 1956 serbski podźěl wobydlerstwa wot jenož hišće 24 %. Ewangelscy Jitrowčenjo
+hsb	Asimilacija je připodobnjenje zwukow. Wona so dźěli do wšelakich skupinow po swojich charakteristikach. Jeli
+hsb	njeńdźe wo připodobnjenje zwukowu, ak matej direktny kontakt, powědamy wo dalokoasimilaciji, na př. hs.
+hsb	''wocućić'' --> ''woćućić'' (dźensa zwjetša z restituowanym prefiksom ''wotućić'').
+hsb	Awgust je lětni měsac w sewjernej hemisferje a zymski měsac w južnej hemisferje. Codiakalnej znamjeni w awgusće
+hsb	Awtor rukopisa njehodźeše so dotal z wěstosću identifikować, wjele pak rěči za to, zo jedna so wo katolskeho
+hsb	Bahnowa syćinka je rostlina ze swójby syćinkowych rostlinow  (łaćonsce: Tofieldia pusilla, Tofieldiaceae).
+hsb	Bambus ''(Bambusa)'' je ród ze swójby słódkich trawow (Poaceae). Wobsahuje sćěhowace družiny:
+hsb	Barbados je mały kupowy stat z něhdźe 278.000 wobydlerjemi w Atlantiskim oceanje, kotryž bu 30. nowembra 1966
+hsb	Baseń wobsteješe ze šěsć štučkow a bu w samsnym lěće wot studenta teologije Korle Benjamina Hatasa
+hsb	Bazowa forma je kić, z kotrejež so wšě druhe formy přez wudlěšenje, zwinjenje, stołstnjenje abo redukciju
+hsb	Benedikt XVI. (łaćonsce ''Benedictus PP. XVI''), z byrgarskim mjenom Josef Alois Ratzinger (* 16. apryla 1927 w
+hsb	Marktl am Inn), běše wot 19. apryla 2005 do 28. februara 2013 bamž a z tym nawoda romsko-katolskeje cyrkwje a
+hsb	Białogórne leži w srjedźnej Pólskej, w łódźskim wojewódstwje. Wjes ke gmejnje Biała Rawska słuša. W lěće
+hsb	Bitola je město w južnej Makedonskej a ma wokoło 80.000 wobydlerjow. Leži w Pelagoniji. Bitola je znata jako město
+hsb	konsulow, dokelž su tam jara husto w starych časach konsulojo z Francoskeje a druhich zapadnych statow byli.
+hsb	Bjezłopjenata njebródka je trajne zelo, kotrež docpěwa wysokosć wot 10 hač do 20 cm.
+hsb	Bobr so wužórli w juhowuchodnym dźělu Kyrkonošow njedaloko čěskeho města Žacléř a ćeče so najprjedy
+hsb	Bołharšćina so w bołharskej warianće  kyriliskim pismje pisa. Bołharski alfabet wobsahuje 30 pismikow w
+hsb	Brunokyrkowy lěniwc je čisty rostlinožračk. Nimo łopjenow a młodych wurostkow žerje tež płody a korjenje.
+hsb	Ćěło je so na niski podźěl na žiwnych wutkow cyroby přiměrił, přez to zo je přeměnu maćiznow na minimum
+hsb	Brězowski jězor (němsce ''Halbendorfer See'') je kumštny jězor w Hornjej Łužicy.
+hsb	Budu-li wone přetworjene na gitary, chce je sławnym hudźbnikam kaž Shakirje, Carlosej Santanje a Paulej
+hsb	Bě prěnja kćenjowa rostlina, kotrejež genom je so dospołnje rozklučić był. Ma jenož 5 kromosomow.
+hsb	Běła jěrowc je lěćozeleny štom, kotryž docpěwa wysokosć wot 20 hač do 25 m z krótkim zdónkom, sylnymi
+hsb	Běła zubica je rostlina ze swójby křižnokwětnych rostlinow łaćonsce: Dentaria enneaphyllos, Brasicaceae).
+hsb	Błótnica je rostlina ze swójby błótničkowych rostlinow (łaćonsce: Scheuchzeria palustris, Scheuchzeriaceae).
+hsb	Castro bu tež mjenowany - wosebje na Kubje - ''Maximo Lider'' („najwjetši nawjednik“).
+hsb	Cezišćina so móže do slědowacych narěčow rozdźěłać, kotrež buchu po wsach mjenowane, w kotrychž so
+hsb	Chinski pražerowc je w lěću zeleny, spěšnje rosćacy štom, kotryž docpěje wysokosć wot 20 hač do 35 (60) m.
+hsb	Chorzów (šlsk. Chorzůw) je město w juhu Pólskeje, kotrež leži w wojewódstwje Šleska. Jeho němske mjeno je
+hsb	Cil wšelakich gremijow je, programěrowanske rěče tak standardizować, tak zo so hodźa na wšelakich mašinach
+hsb	Cuzy kobołk je wjacelětna, zelišćowa rostlina. Cuzy kobołk docpěje wysokosć wot 30 - 60 cm.
+hsb	Cyrkej Sankt Jacobi bu w lěće 1346 prěni raz naspomnjena. Najstarši dźěl cyrkwje je wołtarnišćo. We wjelbiku z
+hsb	łamanych kamjenjow so tři kónčne kamjenje, kotrež so hižo w jara starych dokumentach naspomnjeja.
+hsb	Dachau je stolica Hornjeje Bayerskeje a předewšěm znaty jako městno prěnjeho nacionalsocialistiskeho
+hsb	Dalša družina bu po jednotliwym pupku wopisana. Wostanje pruwować, hač woprawdźe swójska družina wobsteji.
+hsb	Dalše wulětne cile su Barokna zahroda a barokny hród w Großsedlitzu, hród Stołpin, prawěkowy park w Zebnicy,
+hsb	Darina Laščiaková so je narodźiła 23. nowembra 1931 w Tvrdošíne na Orave, po absolwowanju hudźbneje wědy a
+hsb	ludowědy na Filozofiskeje fakulty Uniwersity Komenskeho w Bratisławje namakaše přistajenje jako redaktorka w
+hsb	něhdyšim Čěskosłowakskim rozhłosu, hdźež wutworješe wjele wusyłanjow, kotrež tradicisku kulturu słowakskeho
+hsb	Delnjołužiske markhrabinstwo w lětach 1445/1462 město Choćebuz ze šěršej wokolinu na přeco zhubi (teritorij
+hsb	Dešno-Strjažow (němsce ''Dissen-Striesow'') je delnjołužiska gmejna w braniborskim wokrjesu Sprjewja-Nysa.
+hsb	Dla absolutneho lotoweho wotchilenja 13–14" pola Wiena a pola Berlina je so naposledk kulojta hódnota dojednała.
+hsb	Dla thermalnych žórłow su Wiesbaden - kaž tež mjeno přeradźi - nimo toho znate kupjele.
+hsb	Dnja 6. februara 1887 so Młónk, nawjedujo tajki procesion, blisko Małeje Boršće mortwy zwjeze.
+hsb	Dobrošicy (něm. ''Doberschütz'') su wjes ze 121 wobydlerjemi (2013) w hornjołužiskim wokrjesu Budyšin.
+hsb	Dokelž starše ISO-kodwanja so z rozšěrjenym kodowanjom UTF-8 za Unicode njekryja, móža tež na modernych
+hsb	Domaška – zněmčene zwjetša ''Domaschke'' – je serbske swójbne mjeno, kotrež pochadźa z předmjena ''Tomaš''
+hsb	Dołha Boršć (němsce ''Förstgen'') je hornjołužiska wjes w sakskim wokrjesu Zhorjelc.
+hsb	Drježdźany (něm. ''Dresden'', wot staroserbskeho ''Drežďany'', přirunaj čěsce ''Drážďany'', pol. ''Drezno'')
+hsb	su hłowne město a kulturelne srjedźišćo Sakskeje. Z něhdźe 530.000 wobydlerjemi na 328 km² su wone po Lipsku na
+hsb	wobydlerjow druhe najbohatše město zwjazkoweho kraja. Přez Drježdźany běži rěka Łobjo. Drježdźany maja
+hsb	Technisku Uniwersitu z něhdźe 35.000 studentow. Prěni raz naspomni so město w lěće 1206 jako "Dresdene".
+hsb	Druha móžnosć definicije hodźi so přez wulkosć zawjesć, po kotrejž dyrbi jězor znajmjeńša jedyn hektar wulki
+hsb	Druhe pomjenowanje "hodownik" pokazuje na to, zo padnje do tutoho měsaca wažny cyrkwinski swjedźeń, hody:
+hsb	patoržica (24. decembra), 1. a 2. swjaty dźeń (25. a 26. decembra), zdźěla so tež 27. december jako 3. swjaty
+hsb	dźeń swjeći. Tež swjedźeń silwestra padnje do decembra a je zdobom posledni dźeń lěta.
+hsb	Družiny roda ''Bolboschoenus'' buchu a so zdźěla k rodej škripina, zdźěla tež k rodej
+hsb	Duarte Pacheco Pereira (1469–1533) polěpši antikne měrjenske metody za globalnu nawigaciju zakótwjenu w Acorach.
+hsb	Dźakprajenje – nawěšk na smjerć Jurja Łusčankskeho w nowinje ''Dresdner Journal'' z lěta 1906.
+hsb	Dźensa ma Budyšin 42.199 wobydlerjow, z toho je 20.159 muskich (48 %) a 22.040 žónskich (52 %). Něhdźe 2.190
+hsb	Dźiwajo na dokładnosć modernych rozměrjenjow wuskutkuje so lotowe wotchilenje w nimale kóždym projekće resp.
+hsb	Dźiwja nalika je rostlina ze swójby  nalikowych rostlinow. Dalše serbske mjeno je swědračk.
+hsb	Dźěwin (něm. ''Groß Düben'') je wjes a gmejna w sewjerowuchodnym dźělu sakskeje Hornjeje Łužicy.
+hsb	Eksistuja pak tež formy ''lla gas di'll of'' (= ''cas ill of'') a ''lla gas d'yn of'' (= ''cas yn of''), bliše
+hsb	Eksistuje mnoholičbne lilijowcowe hybridy, kotrež z zahrodniskeje kultury wuchadźachu.
+hsb	Elamska rěč'', izolowana rěč z juhozapada Irana, wot 3. hač do 1. lěttysaca př. Chr., ale trochu
+hsb	Estišćina njeje přiwuzna z rěčemi susodnych narodow (rušćinu, letišćinu, šwedšćinu), kotrež słušeja k
+hsb	Eurazija (jendźelsce ''Eurazia'') je zapřijeće za hromadźe zwisowacy kontinent na zemi, wobstejacy z dweju
+hsb	kontinentow Europy a Azije, je dźěl Eurafrazije. Zapřijeće „Eurazija“ je w 19. lětstotku geologa Eduard Suess
+hsb	zawjedł. Po jeho měnjenju bu kontinent na zakładźe kulturnych rozdźělow kumštnje dźěleny do dweju kontinentow.
+hsb	Faluje-li podaće °N abo °S, da steja pozitiwne hódnoty za sewjernu šěrokosć a negatiwne za južnu šěrokosć.
+hsb	Finšćina słuša k finougriskim rěčam, kotrež su swójba znutřka uralskich rěčow. W tutej swójbje twori
+hsb	skupinu baltofinskich rěčow  hromadźe z blisko přiwuznymi rěčemi: Estišćina, karelšćina a dalše małe rěče.
+hsb	Formowanje złóžkow wot Tokipona je podobne japanšćinje. Złóžki so zestaja přeco z jednym konsonantom a jednym
+hsb	wokalom, z wuwzaćom prěnjeje złóžki słowa, kotraž móže tež jenož z jedneho wokala zestajić, a poslednjeje,
+hsb	Friulska (italsce ''Friuli''; němsce ''Friaul''; furlansce ''Friûl''; słowjensce ''Furlanija'') je krajina w
+hsb	Gabriele Zimmer (abo ''Gabi Zimmer'', * 7. meje 1955 w Berlinje) je němska a europska politikarka Lěwicy.
+hsb	Geodeziji a nawigaciji słuži wono při měrjenju absolutnych směrow, při ortowanju a při zwěsćenju formy Zemje.
+hsb	Georg Julius Justus Sauerwein (*15. januara 1831 w Hannoverje; † 16. decembra 1904 w Kristianiji, dźensa Oslo) bě
+hsb	němski publicist, rěčny wědomostnik a humanist zakitowar mjeńšinowych rěčow (delnjoserbski, litawski) w
+hsb	Gmejna słuša k pólskemu powiatej Žarow w Lubušskim wojewódstwje a ma něhdźe 3.300 wobydlerjow, wjes sama
+hsb	Granatowc je jenički ród ze podswójby granatowcowych rostlinow znutřka swójby krawinowych rostlinow.
+hsb	Großröhrsdorf'') su sakske město w Hornjej Łužicy w Budyskim wokrjesu. Město leži južnje wot Połčnicy a ma
+hsb	Hable su zrunane a docpěwaja dołhosć wot 10 hač 16 cm. Při zrałosći na štomje rozpadnu.
+hsb	Halštrow (něm. ''Elstra'') je małe město w Hornjej Łužicy južnje Kamjenca. Prěnje historiske naspomnjenje jako
+hsb	Harjana je wot lěta 1966 zwjazkowy stat Indiskeje. Ma 24,4 milionow wobydlerjow a přestrjeń 44.212 km², tuž 552
+hsb	wobydlerjow na kwadratnym kilometru. Statna stolica je Čandigar. Harjana ma Hindi jako jeničku zarjadnisku rěč, ale
+hsb	Hač do lěta 1398 słušeše Duchcov knjezam z Riesenburga, potom kupi jón Wilhelm z Wettina wot dospołnje
+hsb	zadołženeho Borsa VI.. dokelž so wikowanje bjez kralowskeho schwalenja wotměwaše, bě Duchcov předmjet
+hsb	Hač do lěta 1957 běše Ghana jako ''Złoty pobrjóh'' britiska kolonija. Hač do dźensnišeho je z čłonom
+hsb	Hačrunjež so Egyptowska druhdy do wulkeho Stareho orienta zapřijima, rozeznawa so studij tutoho kraja k tutej
+hsb	periodźe jara wot toho skupiny ciwilizacijow, kotrež assyriologojo studuja, a, byrnjež zwiski mjez woběmaj polomaj
+hsb	we wěstych periodach sylne byli, wostawatej egyptologija a staroorientalistika jara rozdźělnej disciplinje.
+hsb	Hbjelsk (něm. ''Gebelzig'') je wjes w sakskim wokrjesu Zhorjelc, kotraž přisłuša gmejnje Wysoka Dubrawa.
+hsb	Hektar (znamjo ha) je  jednotka přestrjenje. Wužiwa so předewšěm w ratarstwje a lěsnistwje.
+hsb	Himalaja je sfałdowane horiny, kotrež nastachu přez koliziju Indiskeje platy z Euraziskej před něhdźe 40–50
+hsb	Hižo po třoch tydźenjach móžeše so nowe hibanje we wsy zjawnje prezentować: Młodostni přewjedźechu
+hsb	Horni bok je ćmowozeleny, mjeztym zo delni bok je módrozeleny. Najšěrše městno łopjenow je wyše srjedźišća.
+hsb	Hromadźe ze Sternbergom wjerćeše 1930 w Zjednoćenych statach dramu ''Marokko'' z Garyjom Cooperom, za kotruž
+hsb	Hubkowy mjedwjedź je čorny hač čornobruny a docpěje dołhosć wot hač do 1,7 m. Jeho koža je dołhokosmata.
+hsb	Klama je swětła, při čimž huby su daloko doprědka tyknjene a jazyk je dołhi a wuski. Njesu na hródźi v-formowy
+hsb	běły muster. Nohi su krótke, ale stopy su wulke a njesu dołhe pazory. Žratwa wobsteji z insektow, předewšěm
+hsb	Husta rybnica je rostlina ze swójby dróstnicowych rostlinow. Dalše serbske mjeno je husta dróstnica.
+hsb	Hybridna mučnica (''Sorbus'' x ''pinnatifida'') je štom ze swójby róžowych rostlinow.
+hsb	Hórska woka  (łaćonsce: ''Oxytropis jacquinii'') je rostlina ze swójby łušćinowcow.
+hsb	Hórski nosowy mjedwjedź ma oliwobrunu hač šěrobrunu kožu. Wopuš je ćmowje kudźerjeny.
+hsb	Hłowne sydlišćo Wołbramecy je so wokoło lěta 1250 załožiło; prěnje historiske naspomnjenje jako knježe
+hsb	Imiš bě w 1840tych lětach sobuzałožer Maćicy Serbskeje, zebra pak po zwrěšćenju byrgarskeje rewolucije 1848/49
+hsb	Interpunkciske znamješka atd móžeja wariěrować. Tastatura QWERTY bě naćisnjena, zo by wotwobroćił
+hsb	přetorhowanje dla runočasneho wužiwanja susodnych tastow za čas epochi pisanskeje mašiny.
+hsb	Jabłukowe płody su brune, jara twjerde, krušwojte hač nimale wopak-kehelojte a docpěja wulkosć wot něhdźe 2-3
+hsb	Jahody maja družiny roda wrónidłow, kaž na př. běrna, oberžina (''S. melongena'', tomata, ale tež paprika a
+hsb	Jako baškirski alfabet so kyriliski alfabet z někotrymi přidatnymi diakritiskimi znamješkami wužiwa.
+hsb	Jako młoda šwalča je so w lěće 1841 z Janom Bohuwěrom Mučinkom zeznała, kotryž je so tež  z lyriku wuznał a
+hsb	kotryž bě jako młody wučer a jako publicist předměrca znaty, wosebje bě za jeho powučace powědančko
+hsb	Jako přełožowar zeserbšći Juliusa Fučíkowu knihu „Reportaža pod šibjencu napisana“ ''(Reportáž psaná na
+hsb	Jako wuslědk wólbow sta so Schröder dnja 27. oktobra 1998 z kanclerom prěnjeje čerwjeno-zeleneje koalicije na
+hsb	zwjazkowej runinje a z naslědnikom kanclera Helmuta Kohla, kotryž bě do toho šěsnaće lět z nawodu
+hsb	Jakub Šewčik, bratr Jurja a Michała Šewčika narodźi so jako syn kublerja w Baćonju.
+hsb	Jan Kilian narodźi so jako jenički syn žiwnosćerja Pětra Kiliana a jeho mandźelskeje Marje, rodź. Matekec, w
+hsb	Delanach pod Hromadnikom. Jeho mać zemrě hižo w lěće 1813 a nan 1821. Po smjerći nana so dźesaćlětnemu hólcej
+hsb	statok w Delanach přepisa, kotryž so pak dla jeho małolětnosće wot wuja Jana Mateka z Něćina wobhospodarješe.
+hsb	Japanska wobsteji z štyrjoch wjetšich kupow Hokkaido, Honšu, Šikoku a Kjušu a wulkeho mnóstwa mjeńšich kupow.
+hsb	Japanski larik (''Larix kaempferi'', syn. ''Larix leptolepis'') je rostlina ze swójby chójnowych rostlinow.
+hsb	Je druhi najmjeńši stat Indiskeje, leži w horach Himalaje a mjezuje z Tibetom (China) na sewjeru a wuchodźe,
+hsb	Bhutanom na juhowuchodźe, Zapadnej Bengalskej na juhu a Nepalom na zapadźe a Orisu na sewjerowuchodźe.
+hsb	Je so w lěće 1230 wot kralowny Constancie z Wuherskeje załožił. Klóšter Marijiny doł we Łužicy kupi klóšter
+hsb	Porta Coeli w lěće 1861 za 180.000 złotych, w lěće 1950 je so zawrěł a w lěće 1990 zaso wobnowił.
+hsb	Je zahrodna popla na železnicych nasypach, na brjohowych pasma a při płótjach. Kultiwěrowaja zahrodna popla jako
+hsb	Jeho awtor njewužiwa mjezynarodny fonetiski alfabet (IPA), ale wopisuje jednotliwe zwuki na zakładźe wurjekowanja
+hsb	Jeho mjeno zwjazachu w antikskej ludowej etymologiji hižo jara zahe z mjenom boha časa Chronosom, štož je pak
+hsb	Jeho stwjelca so zdaja bjez kolenkow być, ale kolenka su jenož blisko pódy. Delnje čłonki stwjelca su jara
+hsb	Jeho žadanje wo wobrónjenym wobdźělenju serbskich burow na zběžku pak Smoler dospołnje wotpokaza. Wot lěta 1850
+hsb	běše Smoler sakski poddan a měšćan Budyšina. W tutym času přebywaše princ Albert, bratrowc sakskeho krala
+hsb	Jeje nóžka je běła, šwižna a mócna a njese dele wisacu, žłobičkowanu manšetu. Kulka je tučna a šupiznata.
+hsb	Jejkojte wačoški je rostlina ze swójby křižnokwětnych rostlinow  łaćonsce: Hymenolobus procumbens, Brasicaceae).
+hsb	Jeli rozhałuzowanja su redukowane, tak zo nimale wupada kaž kić, potom je botryoid.
+hsb	Jelizo prěni zwuk słowjesneje formy je ''p'', ''t'', ''c'', ''b'', ''d'' abo ''g'' a za tutej formu ''rhen''
+hsb	sćěhuje, prěni sobuzwuk słowjesneje formy so nazaluje: ''eo nghant rhen'' („njespěwam"),
+hsb	Jeničke dokumenty, kotrež z Egyptowskeje pochadźeja a staroorientalistiku nastupaja, su listy z Amarny.
+hsb	Jeruzalem (hebr. ''ירושלים'', Jerušalajim, arab. ''القدس'', Al-Quds) je hłowne město Israela. Ma 933 113
+hsb	wobydlerjow. Leži w Judejskich horach mjez Srjedźnym a Mortwym morjom, we wysokosći 650–840 m nad mórskej
+hsb	Jich kćenjowe łopješka su 4 cm dołhe, płone, na kromje kosmate, hewak nahe. Próškowe łopješka su kaž
+hsb	John Cale (poprawom John Davies Cale, * 9. měrca 1942) je waliziski hudźbnik, kotryž hraješe mjez 1964 a 1968 pola
+hsb	Jupiter je přerěznje 778 milionow kilometrow wot słónca zdaleny a jeho orbit namaka so mjez Marsowym a Saturnowym.
+hsb	Józefów leži w srjedźnej Pólskej, w łódźskim wojewódstwje. Wjes ke gmejnje Witonia słuša.
+hsb	K městu słušeja wjeski Bólašojce, Bukow, Gollmitz, Groß Mehßow, Kameny, Kšupow, Młoźe, Saßleben, Senjeńce,
+hsb	Wjerchowna, Wulke Jazorcy a wobydlene gmejnske dźěle Batowk, Kałkojce, Klein Mehßow, Kobla, Malinki, Plieskendorf,
+hsb	K tongaskemu archipelej słušeja 176 kupow a atolow, kotrež rěkachu w zašłosći pola Europjanow tež ''Kupy
+hsb	přećelstwa''. Wot nich su jenož 36 stajnje wobsydlene. Wone namakaja so w Pacifiku wuchodnje Fidźija, južnje
+hsb	Kafrowc je ród ze swójby ławrjencowych rostlinow. Dalše serbske mjeno je kamferowc.
+hsb	Kaliningradska oblasć bě najmłódši oblast Sowjetskeho zwjazka (přirjadowany hakle po 1945), wot lěta 1991 je to
+hsb	pón ruska eksklawa, dźensa leži mjezy Pólskeju a Litawskeju. Na płoni 13.600 km² bydli wokoło 945.000
+hsb	Karnataka ma drawidsku rěč Kannada jako jeničku zarjadnisku rěč, ale tam so tež Urdu (10,5%), Telugu (7,0%) a
+hsb	Katedra za serbsku rěč, literaturu a kulturne stawizny bě so jako prěnja sorabistiska katedra w lěće 1933/34
+hsb	Kazachstan je stat w srjedźnej Aziji, mały dźěl jeho teritorija zapadnje rěki Ural słuša tež k Europje.
+hsb	Kaž atlasy tak tež morjo rěčku njeznaje, ale wono by było hinaše morjo, hdy by njepřiwzało tež wodu rěčki
+hsb	Kaž wenedyk je tež brithenig měnjeny jenož jako eksperiment, kotryž ma rozwiwać fantaziju tych, kiž so za
+hsb	Ke gmejnje słušeja wjeski Banecy, Dobrošicy, Holešow, Holešowska Dubrawka, Holška, Koslow, Króńca, Liša Hora,
+hsb	Keluškowe łopjena docpěwaja dołhosć wot 1mm. Kćenjowe łopješka su 5 abo 6, kulojte hač do owalne, docpěwaja
+hsb	Kerriodae D. Potter, S. H. Oh, K. R. Robertson su molekulargenetisce jako monofyletiski takson definowane a wobsahuja
+hsb	Klasa je hierarchiska runina biologiskeje systematiki. Druhdy so tež dźěli na podklasy.
+hsb	Kompleksnišo je přesydlenje sydlišćow. Dokelž so stare wsy dospołnje a naraz zrunaja, dyrja so w zdalenych
+hsb	Koordinaty dadźa so z pomocu přihódneje transformaciskeje softwary z jednoho systema do druheho přeličić.
+hsb	Korla Bohuwěr Šěca (němsce ''Karl Traugott Schütze''; * 26. awgusta 1858 w Klukšu, † 17. nowembra 1938 w
+hsb	Kosmata rězna je rostlina z podroda wšelakokłóskatych rěznow ze swójby cachorowowych rostlinow.
+hsb	Kosmičkata wjerbinka je trajne zelo, kotrež docpěje wysokosć wot 80 hač 150 cm a je wiwlaće kosmata.
+hsb	Kozarcy (něm. ''Caseritz'') su wjeska z 40 wobydlerjemi w srjedźišću hornjołužiskeho wokrjesa Budyšin.
+hsb	Krajina Sakskeje Šwicy je přez wjele pěskowcowych skaliznow charakterizowana. Přez to je so woblubowana zabawa
+hsb	krosnowanja w swobodnym času wuwiwała. Krosnuje so po ''Sakskich prawidłach'' nastatych na spočatku 20. lětstotka
+hsb	jako prěnje w swěće. Powjazy a wěstotne srědki kaž rynki smědźa so jenož za wěsćenje wužiwać, nic pak za
+hsb	Krušwičkowe rostliny je swójba symjencowych rostlinow (Łaćonsce: Pyrolaceae, Spermatophyta).
+hsb	Króna je wuska a kehelojta. Jich hałuzy su nahle horje měrjene, sčerstwa zelene hač žołtozelene.
+hsb	Krónowe łopješka su blědoróžojte a ćěmnje žiłkate. Zwonojta króna docpěje dołhosć wot 6 hač 10 mm a je z
+hsb	Kutná Hora je wokrjesne město w Čěskej republice. Ma cirka jedynadwaceći tysac wobydlerjow.
+hsb	Kwětnistwa su cymozne, zwjetša wijele, druhdy jednotliwe kćenja. Kćenja su zwjetša pjećličbne, dwusplažne a
+hsb	pruhojte. Při tym zrosćene kćenjowe króny su likojte abo čronotalerjojte<!--stieltellerförmig-->.
+hsb	Kónc druheje swětoweje wójny zniči so jedna jenička chěžka we wsy, porno druhim wsam we wokolinje njebu Jaseńca
+hsb	Kózlica je ród ze swójby orchidejowych rostlinow (Orchidaceae). Wobsahuje sćěhowace družiny:
+hsb	Kćenja su zwjetša wulke, běłe, žołte abo purpurowe. Jich keluch njese 3-7 wulkich, zrosćenych abo rozdźělenych
+hsb	Kćenjowa wóska potom při płodowym zrawjenju k mjasnej włokninje wurosće. W znutřkownym dźělu jabłukoweho
+hsb	płoda nastanje z měchowcojtych<!--balgähnlichen--> płodowych łopješkow pergamentojty jadrownik.
+hsb	Kćěja wot apryla hač meje. Kwětnistwo je něhdźe 5 hač 8 cm dołha, jejkojta pakić<!--Schirmrispe-->. Małke
+hsb	Kćěje w lěće. Kćenja steja po jednym a docpěja přeměr wot 1,5 hač do 3,5 cm. Tři hač wósom krónowych
+hsb	łopješkow je šarlachčerwjene abo krejčerwjene, rědko žołte. Na bazy njesu čorny blečk. Keluškowe łopješka
+hsb	Kćěje w meji. Běłe kćenja docpěwaja přeměr wot hač do 4 cm a steja po pjećoch hač po dźewjećoch we
+hsb	Kćěje w pózdnim nalěću (w aprylu). Wonjace, napadnjace, běłojte, pjerite kćenja su běłe a steja w
+hsb	nakónčnych pakićach. Wone so z łopjenami jewja. Keluch je hłuboko štyridźělny, docpěwa dołhosć wot 1 mm a na
+hsb	płodźe zawostanje. Króna wobsteji z dweju abo štyri na spódku porowje zrosćenych, wuskich łopješkow, kotrež
+hsb	Kćěje wot apryla hač do meje (junija). Kćenja su njenahladne a so hromadźe z łopjenami jewja. Muske micki steja
+hsb	po dwěmaj hač po třoch, so hižo loni wutworja a naho přezymuja. Za čas kćěwje docpěja dołhosć wot 6 cm.
+hsb	Kćěje wot apryla hač julija. Kćenja steja we krótkim, wuskim, jejkojtym hač walcojtym nažołć błyšćacym
+hsb	Kćěje wot apryla hač meje. Kćenja su módre a steja po štyrjoch hač po dwacećoch w kići. Zwónčkoja kćenjowa
+hsb	wobalka je na spódku zrosćena. Kćenjowe stołpiki su krótše hač nošne łopješka a před-łopješka.
+hsb	Kćěje wot julija hač do awgusta. Kćenja steja w pakićojtych kwětnistwach. Tři kćenjowe łopješka su zubate.
+hsb	Kćěje wot julija hač septembra. Běłe kćenja docpěja wulkosć wot 1 hač 3,5 cm, steja po jednym a su dołho
+hsb	Kćěje wot junija hač awgusta. Króna je běła,  třistołpowa a docpěwa šěrokosć wot 3 hač 4 mm.
+hsb	Kćěje wot junija hač awgusta. Pjeć krónowych łopješkow je złotožołte, kulojte a docpěje dołhosć wot 10
+hsb	Kćěje wot junija hač do awgusta. Kłóski su čerwjenobrune a steja dwulinkowje po pjećoch hač po dwanaćoch w
+hsb	Kćěje wot junija hač do julija. Róžojte abo běłe kćenja docpěwaja šěrokosć wot něhdźe 0,5 cm a steja w
+hsb	Kćěje wot junija hač julija. Kwětnistwo njeje ženje rozhałuzowane. Hłójčki su kulowate. Žónske su
+hsb	morgenšternojte a steja po jednu we łopjenowych rozporach. Najprjedy žónske hłójčki kćěja. Po jich zwjadnjenju
+hsb	Kćěje wot junija hač oktobra. Kćenja docpěwaja wulkosć wot něhdźe 1 mm, wutworja kłubičku ze sydom hač
+hsb	Kćěje wot junija hač septembra. Kćenja steja po jednym w čumpatych, pakićojtych kwětnistwach. Keluch docpěwa
+hsb	Kćěje wot meje hač awgusta. Kćenja steja we wokołojtej, pozdźišo podlěšenej kići. Krónowe łopješka su
+hsb	běłe, rědko swětłowioletne. Won měrjene krónowe łopješka docpěwaja dołhosć wot 6 hač 8 mm a su dwójce tak
+hsb	Kćěje wot meje hač do julija. Žónske kłosy su krótke, walcojte a docpěwaja dołhosć wot něhdźe 1 cm.
+hsb	Hadźicy su žołtozelene. Čěrwjenobrune pluwizny maja běłu kromu kože a zelenu srjedźnu smužku.
+hsb	Kćěje wot meje hač do junija. Kłosa je za čas kćěwa jara šwižna a njese zwjetša fijałkojte kłóski.
+hsb	Kćěje wot meje hač do septembra. Kłosowe pakiće docpěja dołhosć wot 2 hač do 5 cm a šěrokosć wot 4 hač do
+hsb	5 mm. Kochty su pod srjedźišća kryjaceje pluwizny zasunjene. Próskowe łopješka su swětłožołte, pozdźišo
+hsb	Kćěje wot meje hač julija. Wioletne kćenja docpěwaja dołhosć wot 1,8 hač 2,5 cm a steja po štyrjoch hač po
+hsb	wósmjoch we wjacorych pozdatnych mutličkach. Hornja hubka je helmojta a nimale runa. Króna docpěwa dołhosć wot 17
+hsb	Kćěje wot meje hač oktobra. Žołte, wotrohowane kćenja docpěja dołhosć wot 1,2 hač 2 cm a steja po pjećoch
+hsb	Kćěje wot měrca hač do apryla. Kćenja su dwudomnje rozšěrjene a so před łopjenami jewja. Micki su podobne tym
+hsb	Kćěje wot nalěća hač do lěća. Kćenja su błyšćace oranžowe a módre. Wone sedźa w špičkaće wuběžacym,
+hsb	Křesćanscy Lipičenjo su přewažnje protestanća, kiž přisłušeja Minakałskej wosadźe.
+hsb	Křiwjene micki docpěwaja dołhosć wot hač do 2,5 cm (muske) resp. wot 3 hač do 5 cm (žónske).
+hsb	Lejnjanski jězor (němsce ''Geierswalder See'') je kumštny jězor we Łužiskej jězorinje, sewjerozapadnje wot
+hsb	Leži 10 kilometrow sewjernje stareho města a 190 m nad mórskej hładźinu njedaloko stareje wikowanskeje dróhi via
+hsb	Leži cirka štyrnaće kilometrow na sewjerowuchod wot Budyšina a cirka wósom kilometrow na sewjerozapad wot
+hsb	Wósporka we wysokosći 147 metrow nad mórskej hładźinu. Słuša wot lěta 1994 k Malešecam.
+hsb	Lightning je projekt skupiny Mozilla, kotraž so z kalendrowymi aplikacijemi zaběra, polo, na kotrymž dotal je
+hsb	Linija wot 49° sewjerneje šěriny a 120° zapadneje dołhoty hač do 51° sewjerneje šěriny a 125° zapadneje
+hsb	Lisćowe łopjena su hołe hač husto (nimale šěropjelsćaty) kosmate (wosebje w zapadźe).
+hsb	Ličbnik před wěcownikom steji. ''Yn'' wuwoława spěwnu změnu prěnjeho sobuzwuka sćěhowaceho femininuma; po
+hsb	Loituma je finski kwartet, kotryž finsku spěwansku tradiciju ze zynkom kantele kombinuje.
+hsb	Luxemburgska (francosce: ''Luxembourg'', němsce: ''Luxemburg'', luxemburgsce: ''Lëtzebuerg''; hamstce:
+hsb	Wulkowójwodstwo Luxemburgska, francosce: ''Grand-Duché du Luxembourg'', němsce: ''Großherzogtum Luxemburg'',
+hsb	luxemburgsce: ''Grousherzogdem Lëtzebuerg'') je nutřkokrajny stat w zapadnej Europje, kotryž z Francoskej, Němskej,
+hsb	Lěwanćikowa wjerba je w lěću zeleny wulki kerk, kotryž docpěwa wysokosć wot něhdźe 3 hač do 6 m. Rědko je
+hsb	Ma cirka 165 tysac wobydlerjow a je wuznamny ruski přistaw při Japanskim morju (druhi wuznamny je Wladiwostok, kotry
+hsb	leži cirka 85 kilometrow na zapad) a je tu tež wuchodny terminal Transsibirskeje železnicy.
+hsb	Ma swoje sydło w Budyšinje a w Choćebuzu je wotnožka, kotraž je kompetentna za Delnju Łužicu.
+hsb	Makowe rostliny so do tři podswójbow rozdźěla. Słuši 41 rodow z 761 družinami k tomu.
+hsb	Maltašćina je z maghrebiniskeje Arabšćiny nastawała, je so pak dźensa k  samostatnej rěči ze swójskej syntaksu
+hsb	Marlene Dietrich je započała swoju karjeru jako dźiwadłownica a w němych filmach w tak mjenowanych złotych
+hsb	Małsecy ležachu na lěwej stronje Sprjewje sewjernje Wownjowa, južnje Hněwsec a sewjerozapadnje Bórka.
+hsb	Meridian bě tež wot 9. měrca 1911 ''(Loi du 9 mars 1911)'' standardny poćah za ''
+hsb	Michał Domaška běše 1847 mjez załožerjemi Maćicy Serbskeje a wudźěła w jeje wuběrku ''Wulku próstwu
+hsb	Milena, Milady, Miladena, Milana, Mlada, Mladena, Miladka, Milanka, Milenka ,Milka, Miluse, Miluska, Mlaska, Mladuska,
+hsb	Mišno (něm. ''Meißen'', delnjoserb.: Mišnjo, čěs.: Míšeň, pól. ''Miśnia'', łaćonsce: ''Misena'') je stare
+hsb	Mjedwjedźe su cycakowa swójba z porjada rubježnych zwěrjatow. K swójbje słuša 8 družinow.
+hsb	Mjeno Kaliningrad je nowe a nowe je cyłe město: Historiske pruske město mjenowane
+hsb	Mjeno roda ''Mimosa'' bu w lěće 1753 wot Carl von Linné w ''Species Plantarum'', 1, S. 516-523 najprjedy wozjewjeny.
+hsb	Lectotypusowa družina je ''Mimosa sensitiva'' L.. Synonymy za ''Mimosa'' L. su: ''Acanthopteron'' Britton,
+hsb	''Haitimimosa'' Britton, ''Leptoglottis'' DC. ex Standl., ''Leptoglottis'' DC. nom. inval., ''Lomoplis'' Raf.,
+hsb	''Mimosopsis'' Britton & Rose, ''Morongia'' Britton, ''Neomimosa'' Britton & Rose, ''Pteromimosa'' Britton,
+hsb	Mjez 8. a 12. lětstotkom je němske feudalne mócnarstwo w jara surowych, “Wendenkreuzzüge” mjenowanych wójnach
+hsb	Mjeze sewjernym a južnym wobrotnikom so přibližnje potom njedešćuje, hdyž steji słónco nad druhej połkulu w
+hsb	ceniće, potajkim w sewjernych tropach mjez oktobrom a aprylom a w južnych tropach mjez aprylom a oktobrom.
+hsb	Mjezuje na wuchodźe ze Sawdi-Arabskej a Jemenom a na zapadźe ze Sudanom a Eritreju, na sewjerje a zapadźe z
+hsb	Mjezuje z Ugandu w sewjeru, z Tansaniju we wuchodźe, z Burundijom w juhu a z Demokratiskej republiku Kongo w zapadźe.
+hsb	Molekularny dusyk je z 78 % hłowny wobstatk powětra. Je za žiwochow esencielny element, kotryž so přez dusykowe
+hsb	Morchej je ród ze swójby wokołkowych rostlinow. W Europje domjaca je jenož wšědna morchej z dwěmaj
+hsb	Murmansk ma cirka tři sta tysac wobydlerjow a je najwjetše město sewjernje polarneho kruha. Je jara wuznamny
+hsb	Módra šlinčina je asimilacije dla dusyka z pomocu bakterijow hódnotna picowa rostlina.
+hsb	Módry komonc słuži bjezwuwzaćnje sušene k korjenjenju. W Šwicarskej bu módry komonc, kotryž słodowje podoba k
+hsb	Móže tekst z pomocu regularnych wurazow narunać a z prawopisnym programom ISpell hromadźe dźěłać.
+hsb	Měnjate łopjena su jejkojće-rombiske hač třiróžkate, maja hładku kromu abo su zarěznjene a docpěja dołhosć
+hsb	Měrosław Tyrš (čěsce Miroslav Tyrš, rodźeny jako ''Friedrich Emmanuel Tiersch'' (* 17. požnjenca 1832 w
+hsb	Dźěćinje, Čechi, † 8. žnjenca 1884 pola  Oetza, Tirol), profesor na Karlowej uniwersiće kaž tež na ČVUT w
+hsb	Praze, po pochodźe Němc, bě čěski wuměłstwowy kritikar a stawiznar kaž tež załožer ćěłozwučowanskeho
+hsb	Město a swoja wokolina formujetej Białystokowy měšćanski kopjenski rum. Białystok je wulke srjedźišćo
+hsb	Město namaka so we wuskej kótlinje wosrjedź husće zalěsnjenych wuchodobosniskich horow, kiž su tam něhdźe 1000
+hsb	Młodźi serbscy socialni pedagogojo skutkuja w serbskim sydlenskim rumje wokrjesa Budyšin a staraja so wo mobilne
+hsb	Na hłownej zhromadźiznje 2001 so wobzamknje, zo so Rěčny centrum WITAJ, kotryž so za sposrědkowanje serbskeje
+hsb	rěče w pěstowarnjach a šulach zasadźi, jako samostatny wotrjad Domowinje přizamknje.
+hsb	Na krótkich wurostkach steja dwulinkowje wjerškate<!--gescheitelt. Scheitel: wjeršk-->, mjeztym zo na dołhich
+hsb	wurostkach steja po jednym. Jehły z krótkimi wurostkami w nazymje po čerwjenojtym barbjenju wotpadnu.
+hsb	Na městnje pomocnych werbow a modalnych werbow so w Nahuatl substantiwy a adjektiwy kaž werby konjuguja.
+hsb	Na rozdźěl wot łaćonšćiny brithenig njeznaje kategoriju pada, tuta rěč jenož předłóžki (prepozicije)
+hsb	Na spočatku su kosmate, ale pozdźišo su nahe a na woběmaj bokomaj błyšćace zelene.
+hsb	Na temy bohate teksty su za připosłucharja lochko přistupne, dokelž jednaja wo wšědnych problemach a začućach.
+hsb	Wosebitostka je pak tež předźěłanje serbskeje problematiki, kiž so w tutej formje pola druhich skupin jenož
+hsb	Na zemi su 194 njewotwisnych a wot strony Zjednoćenych narodow připóznatych statow.
+hsb	Naha husowka je jednolětna rostlina, kotraž docpěwa wysokosć wot 60 hač do 120 cm.
+hsb	Najebać toho maja někotre litiumowe sele medicinski wuskutk a wuskutkuja při bipolarnych afektowych mylenjach,
+hsb	Najprjedy rostlina wuwiwa łopjenowu rozetu. Zwjetša łopjena rozety wuschnyja po wuhone stołpika.
+hsb	Najstarši wobchowowany pismowy dopokaz wot něhdźe 1225 je tola ''kamjeń Yisüngge'', nefy Dschingis Khana. Na
+hsb	kóncu tuteje periody so  konwertowanje Mongolow k (tibetiskim) buddhizmej (w 17. lětstotku) stało. Tohodla bu wjele
+hsb	přiłožkow z Tibetišćiny abo Sanskrita publikowane a buddhistiske terminusy do Mongolšćiny přijimane abo
+hsb	Najwjetša kupa Balear a cyłeje Španiskeje je 170 km zdalena wot španiskeje twjerdźe pola Barcelony. Ma přestrjeń
+hsb	Najwjetši přitok je 58 km dołheje rěki je so w bliskosći Čornoboha wužórlaca Kotołka.
+hsb	Najwyše městno je Mount Paget (2 934 m nad normalnej nulu), a najniše pobrjóh Atlantiskeho oceana (0 m nad
+hsb	Najwyši wjeršk kupow je Soufriere (1234 m nad normalnej nulu), a najniši dypk pobrjóh Karibiskeho morja (0 m).
+hsb	Namódra pólšica je rostlina ze swójby pólšicowych rostlinow łaćonsce: Chenopodium glaucum, Chenopodiaceae).
+hsb	Naspomni so prěni króć pisomnje w lěće 1365 jako ''Jesnicz''. Hač do toho bě wjeska z dźělom wulkeje
+hsb	Nawróćiwši so do Łužicy běše spočatnje katechet při tachantskej šuli w Budyšinje a sta so 1893 z prěnim
+hsb	Načasne ličaki maja zwjetša dwaj do šěsć zwjazowanskich městnow (tykački) za USB.
+hsb	Nepal (nepalsce: ''नेपाल, Nepāl''; hamtsce: Demokratiska zwjazkowa republika Nepal, nepalsce: ''Sanghiya
+hsb	Loktantrik Ganatantra Nepāl'') je nutřkokrajny stat w srjedźnym dźělu Himalaje, kotryž mjezuje na sewjerje z
+hsb	Chinu (1.236 km) a na juhu z Indiskej (1.690 km). Ma přestrjeń wot něhdźe 147.000 km² a wjace hač 26 milionow
+hsb	Nimo na słownych fugach<!--Wortfugen--> móžeja mjez dwěmaj wokalomaj pak jenož palatalizowane pak jenož
+hsb	Nimo toho dźěłaše tež jako tajny wójnski rozprawnik 1936 w Němskej a 1937 w Španiskej wobydlerskej wójnje.
+hsb	Nimo toho je wulka ličba mjezu překročacych turistiskich pućow a mjezu překročacy přewoz z Schöny do Hřenska.
+hsb	Podłu Łobja wjedźe so hłowna čara železnicy (z Drježdźan do Prahi) a pódlanska čara z Žandowa přez Zebnicu
+hsb	Nimo toho w Białystoku hódny wopytej je Armejowy Muzej a Muzej Natury Uniwersity w Białystoku. Leži tam tež jedyn
+hsb	Nižozemska je załoženski čłon Europskeje unije a sydło mnohich mjezynarodnych organizacijow.
+hsb	Njeje dźěl Wulkeje Britaniskeje, ale je awtonomna krónowa dependenca, kotraž je direktnje britiskej krónje
+hsb	podstajena. Kupa je wulka něhdźe 48 króć 16 km. Přestrjeń je 572 km<sup>2</sup>. Zarjadniske a hospodarske
+hsb	Njeprawy rozraz (''Veronica spuria'', syn.: ''Pseudolysimachion spurium'' (L.) Opiz) je rostlina ze swójby putnikowych
+hsb	rostlinow. Rostlina w někotrych žórłach jako ''Pseudolysimachion spurium'' mjenowana.
+hsb	Njezdašecy (němsce ''Nedaschütz'') su wjeska ze 179 wobydlerjemi (2010) wosrjedź wuchodosakskeho wokrjesa Budyšin,
+hsb	Nosowe mjedwjedźe, tež pyskate mjedwjedźe su ród ze swójby małkich mjedwjedźow. Wobsahuje tři družiny.
+hsb	Nowe požčonki so přiměrjeja samiskej fonetice, na př. ''parlameanta'' ‘parlament‘, ''kultuvra'' ‘kultura’
+hsb	Nošne łopješka na płódnistwach je pergamentojte, při čimž je wóska płódnistwa hač do spódka z nošnym
+hsb	Nünchritz je sakska gmejna w srjedźišću Mišnjanskeho wokrjesa. Leži wuchodnje Ryzawy na prawym boku Łobja a ma
+hsb	Někak 90 młodostnych w starobje 15 do 20 lět su sobustawojo kulturneho ćělesa, kiž so kóždu srjedu a
+hsb	někotryžkuli kónc tydźenja a w lětnych zwučowanskich lěhwach w mjenowanych spartach schadźuja.
+hsb	Někotre přisłowjesniki stopnjuja so njeprawidłownje: ''ben'' (derje) – ''myl'' (lěpje), ''mal'' (hubjenje) –
+hsb	Někotre werby ze sufiksom ''-ap'', ''-aut'' abo ''-ewe'' móžeja tež ''-im'' wobsahować.
+hsb	Němska demokratiska republika (němsce ''Deutsche Demokratische Republik'') běše kraj w Europje.
+hsb	Oficielne pismo mongolskeje Yuan-dynastije w Chinje bě tibetiske Phags-pa-pismo (1269–1368), ale tež chinske pismo
+hsb	bu za mongolske teksty intensiwnje wužiwane. Wot 13. hač do 15. lětstotka eksistuja mongolske teksty w arabskim
+hsb	pismje. Wob čas buchu hišće wjacore druhe pismowe systemy namjetowane, <!--wie etwa-->na př. wot Zanabazara
+hsb	One London běše mała prawicarska strona w Zjednoćenym kralestwje, kotraž eksistowaše jenož wot 2005 do 2008.
+hsb	Orphikojo powědaja, zo Kronos jednoho zakrasneho dnja wot mjeda, kotryž z dubow ćečeše, wopojeny ležeše a Zeus
+hsb	jeho tak sputać zamó a jeho na to do elyziskich honow, na „kupu zbóžnych“, wotwjedźe, hdźež Kronos do
+hsb	Palmowe rostliny (''Arecaceae'', zestarnje: ''Palmae'' abo ''Palmaceae'') je swójba symjencowych rostlinow.
+hsb	Pentateuch je pjeć knihow zakonja (Tora): Genezis, Eksodus, Lewitikus, Numeri, Deuteronomium.
+hsb	Phan Thiet je město w Vietnamskej, w regionje Nam Trung Bộ, w prowincy Binh Thuanji.
+hsb	Pišćelkata kitelnička je rostlina ze swójby hyacintowych rostlinow (łaćonsce: Muscari tenuiflorum, Hyacinthaceae).
+hsb	Pjerkojta kukelička (''Lychnis flos-cuculi'', syn. ''Silene flos-cuculi'') je rostlina ze swójby  nalikowych
+hsb	Platforma Obywatelska je strona w Pólskej, kotraž bu dnja 24. januara 2001 załožena. Předsyda je Donald Tusk.
+hsb	Po ''Historiskich analach'' (Shiji) wot Sima Qian, kotryž je lětstotki po Konfuciusu za čas Han-dynastije žiwy
+hsb	Po aktualnej systematice eukaryotow wot Adl a.d. (2005) njesłušeja zastupjerjo  zelenych algow a tež čerwjenych
+hsb	Po horjeka naspomnjenej definiciji je ablawt tež w zapado- a serwjernogermanšćinje rozšerjeny přezwuk (na př.
+hsb	Po njewotwisnosći bě mali jednostronski stat, w lěće 1968 pučowaše so general Moussa Traoré k mocy, 1991
+hsb	Po powšitkownym wuwodźe Zaliznjaka je jara njeprawdźepodobnje, zo je ''Rěč wo wojerskej wuprawje Igora''
+hsb	Po rozpušćenju dwójneje monarchije přińdźe k nowozałoženej Juhosłowjanskej. Za čas Druheje swětoweje wójny
+hsb	eksistowaše tak mjenowany ''Njewotwisny stat Chorwatska'', fašistiski režim, kotryž steješe pod škitom
+hsb	Po statistice Arnošta Muki měješe Luchow w lěće 1884 105 wobydlerjow, mjez nimi 75 Serbow (71 %) a 30 Němcow.
+hsb	Dźensa so we wjesce hižo njeserbuje. Ewangelscy Luchowčenjo přisłušeja wot 16. lětstotka Ketličanskej wosadźe.
+hsb	Po tym zo wopyta Beno Budar Serbsku rozšěrjenu wyšu šulu w Małym Wjelkowje, poda so wot 1964 do 1969 na studij
+hsb	Po wuryćach w Chorsabadźe (Dur-Šarrukin) přez Botty, Brit Austen Henry Layard wury namakanišćo Nimrod (Kalchu),
+hsb	potom Kujundźik, staru Niniwu, hdźež w lěće 1851 Assurbanipalowu knihownju wotkrywa, kotraž z tysacow taflow
+hsb	Po znowazałoženju w lěće 1993 so 100 serbscy sportowcy 1994 na 12. wšosokołskim zetkanju w Praze wobdźělichu. W
+hsb	Pochadźa z Chinskeje a Japanskeje. Wón so w Japanskeje, krajach wokoło Srjedźneho morja a swětodaloko w subtropach
+hsb	Pod małym kruhom rozumja so te kruhi na kulowym powjerchu, kotrychž runiny srjedźišćo kule ''nje''wobsahuja.
+hsb	Podnurjena kačizna je rostlina z podswójby kačiznowych rostlinow znutřka swójby aronowych rostlinow.
+hsb	Podstupim (němsce ''Potsdam'') je stolica zwjazkoweho kraja Braniborskeje a wědowe město Němskeje. Z nimale 160.000
+hsb	wobydlerjemi na 187 km² je wone na wobydlerjow najbohatše město zwjazkoweho kraja.
+hsb	Politisko-ideologiske konflikty so wjac tak kruće njewuwojuja a pozhubjenje sobustawow so w ramikach zdźerži.
+hsb	Njedźiwajo na prawniske postajenja a institutionelne spěchowanje pak Domowina pokročowacej asimilaciji Serbow
+hsb	Pomoršćina měješe tři hłowne narěče. Kašubšćina je dźensa jenički powostank słowjanskich pomorskich
+hsb	Potopka'' (Hydrilla) je ród ze swójby wódnjankowych rostlinow (Hydrocharitaceae). Wobsahuje sćěhowace družiny:
+hsb	Pozdźiše wuwiće (přez analogiju) je wšak tworjenje werba ''rüemen'' (rühmen, pódla ''ruomen'', hornjoserbsce:
+hsb	chwalić) z ''ruom'' (Ruhm, hornjoserbsce: sława); tu njemóžeše přezwuk primarnje nastać, dokelž w
+hsb	starowysokoněmčinje prěnjotny ''j'' infinitiwneje kóncowki bě so prjedawšeje změny ''-jan'' k ''-en'' dla hižo
+hsb	Połch, tež drěmotka je jednički hrymzak w swójbje  spancow, kotryž słuša k rodej ''Glis''.
+hsb	Praji so, čim wyše płomjo sapa, ćim płodniša budźe zemja we wokolinje. W dnjach před wotpalowanjom zběra
+hsb	wjesna młodźina wot kóždeho dwora paliwa a nosy jo na polach blisko wsy na wulkim šćěpowcu hromadu.
+hsb	Prawo i Sprawiedliwość je strona w Pólskej, kotraž bu dnja 13. smažnika róžka 2001 załožena. Předsyda je
+hsb	Prawy kuklik je trajne zelo, kotraž docpěwa wysokosć wot 50 cm (wot 30 hač do 120 cm).
+hsb	Pražerowc'' (Metasequoia) je ród ze swójby ćisowcowych rostlinow (Taxodiaceae). Wobsahuje sćěhowace družiny:
+hsb	Preteritum a imperfektiwny futur stej z formami pomocneho werba ''být'' (być) tworjenej.
+hsb	Prjedy družina bě dale rozšěrjena a časćiša. Ale wjele stejnišćow bu za čas zańdźenych lětdźesatkow
+hsb	Prof. dr. sc. Frank Förster (* 3. julija 1937 w Mužakowje; † 13. meje 2011 w Radobylach) běše němsko-serbski
+hsb	ludowědnik, stawiznar, awtor, zastupowacy direktor a wotrjadnik za ludowědu Instituta za serbski ludospyt a
+hsb	Prunus x subhirtella je zmjerzkokruty kerk abo štom, kotryž docpěwa wysokosć wot hač do 3 hač 6 (9) m.
+hsb	Prěni album „Born to be“ bu w znatym hudźbnym časopisu Billboard Magazine pozitiwnje hódnoćeny.
+hsb	Prěni typ (''areal''-werby) ma prefiksy ''a-'', ''re-'', ''o-'' (w singularje), ''ja-'' (nazalny ''ña-''), ''ro-'',
+hsb	Prěnje historiske naspomnjenje Chrjebje jako ''Crobe'' je z lěta 1409; Nowa Wjes naspomni so 1490 k prěnjemu razej
+hsb	Prěnje historiske naspomnjenje jako ''Begerstorf'' abo ''Beyerstorp'' je z lěta 1272.
+hsb	Prěnje historiske naspomnjenje jako sydło knjeza ''Niczo de Debiscow'' je z lěta 1376.
+hsb	Prěnje historiske naspomnjenje městna jako ''Schewbsdorf'' pochadźa z lěta 1418. Hač do lěta 1957 běchu
+hsb	Prěnje naspomnjenje jako ''Glussina'' pochadźa z lěta 1241. Wjes bě wot 15. hač do 19. lětstotka we wobsydstwje
+hsb	Psowje (něm. ''Oppitz'') su wjes ze 207 wobydlerjemi (2010) w hornjołužiskim wokrjesu Budyšin.
+hsb	Puć nadobneho je kóždemu wotewrjeny, kotryž so wo to prócuje. Srědk za to je po Konfuciusu kubłanje a wuknjenje.
+hsb	Wosebite kmanosće njejsu tuž trěbne, zo by so čłowjek z nadobnym stał (XVII, 2): „Konfucius rjekny: „Z natury
+hsb	Pytanske tykače zmóžnjeja pytanje z pomocu wšelakich pytanskich programow. Standardne pytanske tykače w Firefoxu
+hsb	Pólny hórkowc docpěwa wysokosć wot 5 hač do 30 cm. Rostlina je ze spódku rozhałuzowana.
+hsb	Pónoje powšitkownje su fabrikowane z aluminija, wocla abo njezerzawjaceho wocla a móžeja měć teflon na jich
+hsb	Pěskecy (něm. ''Piskowitz'') su wjes, kotraž ke gmejnje Njebjelčicy słuša. Leža w Hornjołužiskim wokrjesu
+hsb	Pěskowy selorodźenc je rostlina ze swójby pólšicowych rostlinow łaćonsce: Salicornia procumbens, Chenopodiaceae).
+hsb	Płodowe hadźicy docpěwaja dołhosć wot 2 hač do 2,5 mm, su nažołć zelene, šwižnje křidłate.
+hsb	Płody su mjez 2-4 cm małke, žolte abo brune, kulojte hač jejkojte. Wone su njejědźne a mnoholičbne wodrjewjene
+hsb	Płody su truki ze skupiny kapslowych płodow. Wone maja štabikowu formu z přeměrom wot jednoho milimetra a su 2 do
+hsb	Płone łopjena su hrube a docpěwaja šěrokosć wot 2 hač do 4 mm. Łopjenowe kóžki su přikušene a docpěwaja
+hsb	Płód ma jazyčkojte křidleška a je žołty abo čerwjenkojty a docpěwa dołhosć wot 3 hač do 5 cm. Symjenja jeho
+hsb	Přechod na běrnu so poprawom připadnje stał. Přez předobywanje běłych sydlerjow a z nimi jich běrnjacymi
+hsb	Přenocowanje w skalnej prózdnjeńcy, tak mjenowanej Boofe ("bofa") resp. přenocowanje pod hołym njebjom docyła ma
+hsb	dołhu tradiciju w Sakskej Šwicy. Wjele horliwcow jědźe přez kónc tydźenja do Sakskeje Šwicy, zo bychu
+hsb	Přez napjelnjeje nehdyšich brunicowych jamow Łužiskeho rewěra ma nastać hač do lěta 2018 najwjetša kumštna
+hsb	Přez wšelake wulkoprojekty w Srjedźnej Europje (předewšěm Němska, Awstriska, Šwicarska kaž tež Słowjenska a
+hsb	Při cyrkwi we Wětošowje dopomni taflička na Jana Boka, tohorunja w Košicach. Tam buchu tež dróha, srjedźna
+hsb	Při někotrych awtorach jenož jedna družina je w tutym rodźe wostawała, mjeztym zo wšě druhe słuša k rodam
+hsb	Při sortěrowanju a w zapisach ( telefonowa kniha) a słownikach so pismiki: Č, Ch, Ř, Š, Ž jako samostatne
+hsb	pismiki wobjednawaja   (pismik Ch slěduje pismik H); čěski alfabet ma tohodla cyłe 31 město ''jenož'' 26 pismikow.
+hsb	Při tym wužiwatej so sćelakaj 93,4 MHz w Kalawje a 100,4 MHz we Wojerecach. Wot 22. januara 2007 je móžno,
+hsb	wusyłanja Serbskeho rozhłosa tež w interneće jako livestream wot stronow Serbskeho rozhłosa słyšeć.
+hsb	Při ćežkej a přećežkej wodźe normalny wodźikowy atom (protium, symbol H) so přez jeju ćežkej izotopaj
+hsb	Přikrywne pluwizny njejsu zrosćene a su wiwlaće mikawčkowane. Kocht přikrywneje pluwizny docpěwa 1/4 hač 1/2
+hsb	Přirodorumje leži měšćanski wobwod w Zapadołužiskej pahórčinje, mjezuje pak ze samym přirodnym rumom
+hsb	Přiwuznosć ze staroiranskimi narodami Skythow, Sarmatow a Kimmerow podpěra so přez archeologiske namakanki a
+hsb	Rada bjezstrašnosće UN, Afriska unija a zwonkowna spółnomócnjena EU Catherine Ashton zatamachu statny přewrót a
+hsb	napołožichu wojerskej junće sankcije; EU-komisija připowědźi, swoju wuwićowu pomoc za Mali na chwilu zastajić.
+hsb	1. apryla 2012 připowědźi Sanogo, zo by wustawa zaso płaćiwa była a zo bychu so „swobodne, wotewrjene a
+hsb	demokratiske wólby“ zmóžnili. 6. apryla 2012 zwoli Sanogo do wobłukoweho dojednanja ze Zapadoafriskim
+hsb	Rakuski myšonc je rostlina ze swójby  nalikowych rostlinow łaćonsce: Minuartia austriaca, Caryophyllaceae).
+hsb	Reforma wobsta w zawjedźenju róžkatych a kulowatych pismikow za rozeznawanje twjerdych a mjechkich konsonantow a
+hsb	Reverend Gary Davis, tež znaty jako Blind Gary Davis (* 30. apryla 1896 w Laurens, South Carolina; † 5. meje 1972 w
+hsb	Hammontonje, New Jersey) bě US-ameriski spěwar a gitarist bluesoweje a gospeloweje hudźby.
+hsb	Rohačkowe rostliny je swójba symjencowych rostlinow (Łaćonsce: Ceratophyllaceae, Spermatophyta). Wobsahuje
+hsb	Rostlina je na spočatku 19. lětstotka nastata křižowanka z běłeho jěrowca a čerwjeneje pawije.
+hsb	Rostlina je w europskich wysokich horinach rozšěrjena, při ĉimž we wysokosćach wot hač do 3000 m wustupuje.
+hsb	Rostlina je w srjedźnej a južnej Europje, na juh hač do južneje Skandinawiskeje rozšěrjena.
+hsb	Rostlina je w zapadnej, srjedźnej a juhowuchodnej Europje rozšěrjena, ale tež rozpjeršowane w Małej Aziji a w
+hsb	Rostlina je čućiwa napřećo mjerznjenju a potrjebuje tohodla za kołochowanje temperatury wyše hač 25 °C.
+hsb	Rostlina rosće jara spěšnje a móže na lěto hač do štyri generacijow wupłodźować. Při přihódnych
+hsb	Rosće jako pyšnu rostlinu w zahrodach, ale hdys a hdys wodźiwjene na pućowych kromach, brjóhach, w kerčinach a na
+hsb	Rosće na brjohach, w hrjebjach a w rohodźinje. Preferuje mokre, nachwilnje powodźene, wutkate pódy na tróšku
+hsb	Rosće na lěsnych zahonach, na lěsnych kromach, w šćerkowych jamach, w skałach<!--Steinbruch-->, łučinowych
+hsb	Rosće na parkowych trawnikach, składnostnje wodźiwjene w parkowbliskich kerčinach abo při małozahrodach.
+hsb	Rosće na rolach, wosebje mjez žitom, na lěsnych zahonach, na drjebiznowych městnach a na pustych płoninach.
+hsb	Rosće na suchich pastwach, wosebje wowčich pastwach. Ma radšo bazowe, zwjetša małowapnate pódy na swětłych,
+hsb	Rosće na suchich trawnikch, na połsuchich trawnikach, na tučnych łukach, na pućach, na skłoninach a na nasypach.
+hsb	Rosće na tučnych łukach, bahnowych a łuhojtych łukach. Preferuje mokre abo włóžne, wutkate pódy.
+hsb	Rosće na winicach, winicowych murjach, rolach, nawěwach, pěskowych trawnikach, šćerkowych třěchach a nasypach.
+hsb	Rosće na łuhojtych łukach, na płonych tymjenjach a na kromach starych wodźiznach a na hrjebjach.
+hsb	Rosće najlěpje w chłódnym měrnym klimaće. Ma radšo włóžne, hłubokosahace pódy na słónčnych stejnišćach.
+hsb	Rosće w bukowych a dubowych lěsach, swětłych jehlinowych naměšanych lěsach. Preferuje wapnite pódy na
+hsb	Rosće w kamjentnych kerčinach, w łučinowych lěsach, w swětłych lěsach, w połnych kerčinach a na zwisach.
+hsb	Rosće w lěsach ze šěrymi wólšami, <!--Hochstaudenfluren-->kerčinach a wapnitych niłkich bahnach
+hsb	Rosće w njerodźnych wobrostach, zahrodach, na winicach, w parkach, w štomownjach, zahrodnistwach, kwětkowcach, na
+hsb	Rosće w přirodźe na skałach, łukach, w nahłych zwisach a tymjenjach. Preferuje skerje ćopliše, suche pódy a
+hsb	Rosće w swětłych lěsach, w kotrych wustupuja dosć zela na pódźe, pod žiwych płotach, na lěsnych kromach a na
+hsb	Rosće w žiwych płotach, na lěsnych kromach, we łučinowych lěsach a na rěčnych brjohach.
+hsb	Rosće we włóžnych kerčinach, na hrjebjowych kromach, rěčnych brjohach a lěsnych zahonach.
+hsb	Rosće často na łukach a składźišćach za zwěrjata Alpow, na łuhojtych łukach a w łučinowych lěsach blisko
+hsb	Runobóčny třiróžk abo jenakostronity třiróžk je třiróžk, kotrehož strony su jenak dołhe.
+hsb	Rušćina ma šěsć padow a dwaj čisle. Dual wjace nima. Při substantiwow, pronomenow a (zdźěla) ł-formow werbow
+hsb	Ród ''Salsola'' słuša do tribusa Salsoleae s. str. w podswójbje Salsoloideae znutřka  swójby Amaranthaceae. Na
+hsb	zakładźe  molekulargenetiskich datow buchu w dźěle wot Akhani et al. 2007  družiny  dotal jara na družinach
+hsb	bohaty (wjace hač 100 družinow) ród ''Salsola'' s. l. na dwaj tribusaj rozdźělene: Tribus Salsoleae s. str. a nowy
+hsb	tribus Caroxyloneae, na kóždym padźe z wjacorymi rodami. Synonymy za ''Salsola'' s. str. su: ''Darniella'' Maire &
+hsb	Weiller, ''Fadenia'' Aellen & Townsend, ''Neocaspia'' Tzvelev, ''Hypocylix'' Wol., ''Seidlitzia'' Bunge ex Boiss.,
+hsb	''Salsola'' sect. ''Coccosalsola'' Fenzl subsect. ''Coccosalsola'' a ''Salsola'' sect. ''Obpyrifolia'' Botsch. & Akhani.
+hsb	Rěčny centrum WITAJ, kotryž stara so mj. dr. wo serbske wučbne materialije, je napřećo Serbskemu domej w
+hsb	Salzburg leži nad rěku Salzach blisko hranicy mjez Awstriskej a Němskej, při sewjernej kromje Alpow.
+hsb	San Marino je dospołnje wot Italskeje wobdaty a leži mjez regionomaj Emilia-Romagna (Provinca Rimini) a Markami
+hsb	Serbske Bože słužby wotměwachu so w Serbinje hišće hač do 20. lětstotka. Potomnicy wupućowarjow pěstuja
+hsb	Sewjerna Irska, jendźelsce Northern Ireland, irsce Tuaisceart Éireann je dźěl Zjednoćeneho kralestwa Wulkej
+hsb	Sewjerosamiski werb ma tři numerusy, tři wosoby, štyri časy a štyri modusy. Na rozdźěl wot substantiwow a
+hsb	Skalna rězna je rostlina z podroda jednokłóskatych rěznow ze swójby cachorowowych rostlinow.
+hsb	Skandinawiskej a Ruskej (ćmowožołty: gmejny, hdźež samišćina ma status hamtskeje rěče)
+hsb	Skónc 1950 rozsudźi so wobwodne wjednistwo SED za Krjeńca jako naslědnik předsydy Domowiny Pawoł Nedo, kotryž
+hsb	bě zwjazk łužiskich Serbow wot 1933 hač do zakaza 1937 a znowa wot 1945 nawjedował.
+hsb	Slovio je planowa słowjanska rěč. Wutworił je ju słowakski rěčewědnik Mark Hučko. Ma podobnje prostu gramatiku
+hsb	kaž esperanto (jednotne kóncowki, žadna fleksija), ale słowa su ze słowjanskich rěči.
+hsb	Smjerdźaca rukej je jednolětna rostlina, kotraž docpěwa wysokosć wot 20 hač 70 cm.
+hsb	Sobustawojo tuteje towaršnosće běchu wot idejow rozswětlerstwa, kotrež čłowjeski rozum do srjedźišća
+hsb	Spočatk Pólskeje je z knježerstwom Mieszka I. był. W lěće 966 je dupjenje Pólskej było. Prěni kral Pólskej je
+hsb	Spytecy (něm. ''Spittwitz'') su wjes z 123 wobydlerjemi (2010) w srjedźišću hornjołužiskeho wokrjesa Budyšin.
+hsb	Spódnje łopjena su stołpikate, błyšćace a třidźělne hač pjećdźělne a wobsteja z wopak-jejkojtych,
+hsb	Srjedźna Europa je dźěl Europy mjez zapadnej, wuchodnej, juhowuchodnej, južnej a sewjernej Europu.
+hsb	Srědki za te drohe twary nabywachu často přez njesmilne postupjenje napřećo njewólnikam, štož w lětomaj 1679 a
+hsb	Stanojšćo (němsce ''Stannewisch'', w lětach 1937-1947 ''Steinhufen'') je wjes we wuchodnej Hornjej Łužicy w
+hsb	Stary Serb běše tehdy najnazhonićiši w kónčinje wokoło Bórkowow a měješe wuběrny pomjatk. Wot njeho zhoni
+hsb	von Schulenburg powědki, powědančka a wo lěkowanju z rostlinami, štož móžeše sebi wot druhich jenož po
+hsb	Stauchitz je sakska gmejna w zapadźe Mišnjanskeho wokrjesa. Leži južnje Ryzawy a ma wokoło 3.300 wobydlerjow.
+hsb	Stolica Luanda namaka so při brjoze Atlantika w sewjerozapadźe kraja a ma něhdźe 5 milionow wobydlerjow.
+hsb	Stolica je Praia na kupje Santiago w juhu archipela. Dźewjeć z 15 kupow su wobsydlene.
+hsb	Stołpiki rozetowych łopjenow su jasnje wot jejkojće-dołhojtych łopjeńcow wotsadźene.
+hsb	Stołpikowe łopjena su njedźělene, cyłokromne a jejkojte a hłuboko z wotrobojtym spódku stołpik wobpřimnu.
+hsb	Susodne wjeski su Debrikecy we wuchodźe, Bóšericy w juhu a Debiškow w sewjerozapadźe.
+hsb	Susodne wjeski su Jiłocy w sewjeru, Supow a Wbohow we wuchodźe, Chróstawa w juhu a Rozwodecy w zapadźe.
+hsb	Susodne wjeski su Mała Praha na sewjerowuchodźe, Zemichow na wuchodźe, Nowe Spytecy na juhu, Čerwjene Noslicy
+hsb	(gmejna Zemicy-Tumicy) na juhozapadźe, Chanecy na zapadźe a Lutyjecy na sewjerozapadźe.
+hsb	Susodne wjeski su Sernjany na sewjeru, Hórki na juhowuchodźe, Haty a Nowa Wjeska na juhozapadźe a Horni Hajnk na
+hsb	Susodne wjeski su k Wojerecam słušace Němcy na sewjeru, Kulowc na juhowuchodźe, Kulow na juhu a Michałki zady
+hsb	Swobodne Hansowe město Bremen je zwjazkowy kraj w sewjerje Němskeje. Jeho hłowne město je Bremen.
+hsb	Swójba hromakowych rostlinow (Asparagaceae) wobsahuje sydom podswójbow z něhdźe 150 rodami a něhdźe 2500
+hsb	Swětowa premjera zaklinči w lěće 2004 w Teplicach w přednošku Sewjeročěskeje filharmonije a solistow Narodneho
+hsb	Dźiwadła. Wobdźěli so ze swojimi wjeršemi na antologiji sewjeročěskich literatow „Sluneční koróna“
+hsb	(Słónčna korona, nakładnistwo Kapucín, 2004) a Poutníci slova (Putnicy słowa), z přełožkom do Esperanta (wuda
+hsb	Sydlerskostawiznisce je Zemichow kulowc. Prěnje historiske naspomnjenje jako ''Zemschow'' je z lěta 1377.
+hsb	Sydlišćo nasta něhdźe w lěće 1240 we wobwodźe knjezow z Markwartic jako wobhrodźena wikowanska stacija. W
+hsb	lěće 1425 bu Jablonné wot Husitow wobsadźene, w Třicećilětnej wójnje zhubi wuznam.
+hsb	Symboliski penis, tak mjenowany falus, je w mnohich kulturach wuznamny symbol za płódnosć.
+hsb	Synonymaj wot ''Delphinium'' L. stej ''Chienia'' W.T.Wang a ''Diedropetala'' (Huth) Galushko.
+hsb	Systematika krytosymjenjakow po APG II (APG II system z lěta 2003) je w lěće 2003 wuńdźena klasifikacija
+hsb	Syćinowa šmica je rostlina ze swójby słódkich trawow (łaćonsce: Deschampsia media, Poaceae).
+hsb	Sćěhowaca přehladka naspomni wšě dźensa hišće rěčana abo dosahace dokumentowane wotemrěte rěče z jich
+hsb	Sławnej stej připóznawanje němsko-pólskeje hranicy při Wódrje a Nysy kaž tež tak mjenowane „Waršawske
+hsb	Słuša k Zjednoćenemu kralestwu, do lěta 1890 bě dźěl hrabinstwa Hampshire a wot toho časa je faktisce
+hsb	Słuša ke gmejnje Malešecy a leži 140 m nad mórskej hładźinu při Sprjewi. Hač do lěta 1977 běše samostatna
+hsb	Słuša ke gmejnje Wóslink a leži 141 m nad mórskej hładźinu na woběmaj stronomaj Čorneho Halštrowa. Běše
+hsb	hač do lěta 1994 samostatna gmejna a je jenički Wóslinčanski gmejnski dźěl, kotryž oficialnje serbskemu
+hsb	Słuša wot lěta 1999 ke gmejnje Dobruša-Huska a leži 230 m nad mórskej hładźinu w hornjołužiskej pahórčinje
+hsb	Słušeja ke gmejnje Hornja Hórka a leža mjez 240 a 280 m nad mórskej hładźinu na sewjernym boku Małeho Pichowa.
+hsb	Běchu hač do lěta 1936 samostatna gmejna, po tym najprjedy wjesny dźěl Mnišonca a wot lěta 1950 dźěl
+hsb	Słušeja wot lěta 1999 ke gmejnje Dobruša-Huska a leža 200 m nad mórskej hładźinu w hornjołužiskej
+hsb	Słódny kobołk je rostlina z podswójby kobołkowych rostlinow znutřka amarylisowych rostlinow.
+hsb	Tajke […] struktury so móžeja jako kćenja woznamjenjeć, tež jeli so tute zapřijeće zwjetša jenož za
+hsb	primarnje dwusplažne sporofylowe stawy angiospermow a snadź blisko přiwuznych fosilnych symjenjowych rostlinow
+hsb	wužiwa.“ Tež ''Lexikon der Biologie'' definuje kćenje krótko jako „krótki wurostk z wobmjezowanym rosćenjom,
+hsb	Tak nastanu wjace płonych a njepokrytych płoninow a zhusćene pódy, na kotryž eroziske mocy sylnišo skutkować
+hsb	Tamniše naspomnjenje mjena Zebnicy poćahuje so jenož na rěčku Zebnicu. W běhu wuchodneje kolonizacije postupuja
+hsb	Tehdy 22-lětna měješe po jeje wuprajenju zaćišć zo wona jenička wuměłca bě, kotraž njeje pod wliwom drogow
+hsb	wustupiła. Melanie wojowaše z wulkej nerwozitu, dokelž wobdźěleše so prěni raz na tajkim wulkim koncerće
+hsb	Terminologija tuteje zběrki njeje na wěste fachowe polo wobmjezowana. Na tutym projekće móže so kóždy
+hsb	wobdźělić, kiž trěbne rěčne znajomosće w znajmjeńša jednej ze štyrjoch projektowych rěčow wobsedźa.
+hsb	Tež je hybrida ''Digitalis'' x ''mertonensis'', kotraž je z blědeho naporsta (''Digitalis grandiflora'' a
+hsb	The Clash běchu jendźelska punkowa skupina z Londona, kotraž eksistowaše mjez 1976 a 1986.
+hsb	Tirana je stolica a najwjetše město Albanskeje republiki. Leži pod horu ''Dajti'' a ma 600.000 wobydlerjow.
+hsb	To je rjenje wupyšena holca w Slepjanskej narodnej drasće, kotraž dźěći wobradźa, ale tež druhdy dorosćenych.
+hsb	To wopřija tež decimalne rozdźělenje stopnjoweje měry do nowostopnjow, ''grades (nouvelle)'', dźensa po zakonje
+hsb	Tohodla so tute rěče tež pod zapřijećom Balkanske rěče zjimaja, hačrunjež wone nic blisko ze sobu přiwuzne
+hsb	Tomata je jednolětna rostlina, kotraž docpěwa wysokosć wot 0,3 hač do 1,5 m. Rostlina je mjerzliwa.
+hsb	Tołstosćěnaty, drjewjane worjechowe płody su kulowate hač krušwojte, pjećhranite, rjapikate, šěropjelsćojće
+hsb	kosmate a docpěja dołhosć wot 8 hač do 9 mm (~1 cm) a šěrokosć wot 7 hač do 8 cm.
+hsb	Transparentne, třinerwne, zwjetša sylnje žołmojte łopjena su sedźace abo stołpik wobpřimuja.
+hsb	Tu woženi so zdobom z Helenu Gerstenbergojc z Inowrocławja, z kotrejž měješe tři dźěći. W lěće 1911 bu do
+hsb	najwjetšeje delnjoserbskeje wosady w Bórkowach powołany. Hajno Rizo dyrbješe so choreje wutroby dla hižo někotre
+hsb	razy w kupjelach lěkować, schori pak jutry 1917 krućišo a zemrě w Choćebuskej chorowni.
+hsb	Tuta  linija zwjazowaše wobchadny depot z dwórnišćom, při tym wobchadźachu jenož mjez depotom a zastanišćom
+hsb	Tuta rostlinska družina je kaž pica woblubowana pola kruwow, wowcow, kamzykow a bobakow.
+hsb	Tute so wot ličaka njeposrědnje interpretuja (so wučitaja a wuwjedu). Tajki z ''0'' a ''1'' wobstejacy kode mjenuje
+hsb	Tuž njeje jasnje, hdźe a w kajkich wobstejnosćach wón a jeho swójba tučasnje su. Choekyi Nyima płaći jako
+hsb	Twori nazymu małke zymske pupki, kotrež so na wodźiznowy spódk nurja a tam zymny počas přetraja. Wobsahuja škrob
+hsb	jako energisku rezerwu. Wone nalěto zaso wubija a přez tworjenje płuna horje wustupja.
+hsb	Tón 15-20 m wysoki zdónk njesmě žanu skoru měć, přetož hewak móhli so złe duchi abo chórosće tam pod skoru
+hsb	Tři słowa „leko“ („blok, schód“), „kan“ („z“ (+instr.), nětko „poka“), a „pata“ („bratř,
+hsb	Tšawnica namakaše so wuchodnje wot Choćebuza. Na městnje wsy leži dźensa wuhlowa jama Choćebuz-sewjer.
+hsb	Un òme n’avèva pas que dus hilhs. Lo mès joen digoc a son pair: “Qu’ei temps que sia mon mèste e qu’aja
+hsb	Uzbekistan je nutřkokrajny stat w centralnej Aziji. Jeho susodne kraje su Afghanistan, Kazachstan, Kirgizistan,
+hsb	W 18. a 19. lětstotku wurunowachu geodeća wjetše regionalne wotchilenja zemskeje podoby wot ''idealneho elipsoida''
+hsb	přez to, zo woni we wotpowědowacych kónčinach wobličachu ''najlěpje přizamkowacy elipsoid'', zo so k zemskemu
+hsb	W Białystoku funguje hłowna organizacija ruskeje mjenšiny w Pólskej (něhdźe 10-15 mil ludźi) - "Ruski
+hsb	W Drježdźanskej Katedrali swjateje Trojicy a wot lěta 1993 tež w Dachauskim muzeju stej tafli k wopominanju Alojsa
+hsb	W Lubnjowje je dwórnišćo železniskeje čary Berlin-Zhorjelc a spočina tu železniska čara Lubnjow-Kamjenc.
+hsb	W Ohridźe je była tež wutwarjena prěnja Słowjanska Uniwersita, na kotrejž je studowało wjace hač 3.500
+hsb	W Sewjernej Koreji so jenož Hangul wužiwa, mjeztym zo so w Južnej Koreji nimo toho tež Hanja wužiwa.
+hsb	W Třicećilětnej wójnje so město wospjet wot wšelakich wójskow wobsadźi a zhubi wuznam.
+hsb	W bywšim kombinaće VEB Fortschritt Landmaschinen, hdźež do znowazjednoćenja 6500 ludźi dźěłaše, zahaji twarc
+hsb	bydlenskich wozow "Capron" w nowembrje 2006 produkciju a wutwori něhdźe 150 dźěłowych městnow.
+hsb	W decembrje 2004 je so wotworał informaciski komunikaciski a medicinski centrum na něhdyšich wobwodach uniwersitneho
+hsb	W europskim namórnistwje je poćahowy system dołhostnikow dołho njejednotny był. Wot 2. lětstotka př.n.l.č. hač
+hsb	do 19. lětstotka je Ferro-meridian dominantny był, kotryž je Klawdius Ptolemeus postajił a so na najzapadnišu
+hsb	W jeho mjez lětomaj 1012 a 1018 nastatej chronice wopisa stawizny Mjezyborja, Sakskeje, Pólskeje a serbskich kónčin
+hsb	mjeze Solawu a Wódru kaž tež němskich kralow Hendrich I., Ota I., Ota II., Ota III. a Hendrich II.. Originalna
+hsb	chronika so při bombardowanju Drježdźan w februaru 1945 ćežko wobškodźi, eksistuje pak wysokohódnotne faksimile
+hsb	W knježerstwowych dobach wulkich koalicijow je parlamentariska opozicija chětro mała, štož je hłowny dypk kritiki
+hsb	W lěcé 1995 dósta Reagon myto Charlesa Frankela. Nimo teho dósta 9. lětne myto Heinz Award we wuměłstwje a
+hsb	W lětu 1825 daše uzbekski Chanpo z Kokanda twarić tam cyhelowu twjerdźiznu, kotruž ruske wojacy su w lětu 1862
+hsb	W lěće 1861 wuda w Pětrohrodźe prěni stawizniski zarys serbskich stawiznow, kotryž spisa w pólskej rěči.
+hsb	Hromadźe z Michałom Hórnikom wobdźěła tutu twórbu, kotruž wudaštaj 1884 jako knihu ''Historija serbskeho
+hsb	W lěće 1884 měješe wjes po Mukowej statistice 109 wobydlerjow, wot tych 100 Serbow.
+hsb	W lěće 1884 měješe wjes po Mukowej statistice 388 wobydlerjow, kiž běchu bjez wuwzaća Serbja.
+hsb	W lěće 1884 publikowaše wón hromadźe z pólskim stawiznarjom Wilhelmom Bogusławskim „Stawizny Serbskeho
+hsb	naroda“. Pod sobupomocy Jurja Łusčanskeho je Hórnik Nowy Testament do katolskeje (modernizowaneje) wersije
+hsb	W lěće 1924 zastupi do słužby „Zwjazka Polakow w Němskej“. Organizacija najwjetšeje mjeńšiny w Němskim
+hsb	W lěće 1952 so Zebnica z wokrjesnym městom Zebničanskeho wokrjesa sta. Tutón status so přez wokrjesnu reformu w
+hsb	lěće 1992 zhubi. W lěće 1995 sta so Zebnica z wulkim wokrjesnym městom. W lěće 2003 wuhotowa město Dźeń
+hsb	W lěće 1990 so pjeć nowych krajow, Braniborska, Durinska, Mecklenburgsko-Předpomorska, Sakska a Saksko-Anhaltska,
+hsb	W lěće 2004 wobpřimnje hornjoserbski nakład Płomjenja 1600 a delnjoserbski nakład 850 eksemplarow.<ref>
+hsb	W lěće 2008 je w Chrzanowje bydliło 39 356 ludźi. Měšćanosta města je Ryszard Kosowski.
+hsb	W matematice je Newton (hromadźe z Leibnizom) waženy za załožerja infinitezimalneho ličenja.
+hsb	W najwuznamnišich bywšich sydlišćach rěčnikow dalmatišćiny wužiwa so dźensa chorwatšćina.
+hsb	W někotrych krajach wužiwaja so hinaše terminusy za dźělne staty. W Zjednoćenych statach Ameriki so wužiwa
+hsb	''stat'' a w Šwicarskej ''kanton''. W Belgiskej a Italskej mjenuja so dźělne jednotki stata ''region'', ale w Ruskej
+hsb	W serbšćinje mamy wěcowniki muskeho, žónskeho a srjedźneho gramatiskeho rodu ''(genusa)'' - ''maskulina,
+hsb	W starowysokoněmčinje so to jenož na a wuskutkuje, kotryž so přez wliw wokala ''i'' we slědowacej žłóžce z
+hsb	W systematice biologije bu tuta skupina hakle před mało lětami znowa definowana, jako wotkry so z pomocu moderneje
+hsb	W zahrodach sadźane formy so jako sorty a hybridy wot ''Pyracantha coccinea'' wjedu.
+hsb	W zwisku ze zbóžnoprajenjom postaja so 3. februar jako katolski wopomnjenski dźeń Alojsa Andrickeho.
+hsb	W Šwicarskej so warianta wužiwa, kotraž nimo tastow za němske přezwuki tež ma tasty za francosku a italsku rěč.
+hsb	Wažne lěkowe <!--Genußmittel??--> rostliny su kuseńk, woblěd, wrónidło, jakotawa, tobak a rulik.
+hsb	We wjacorych městnach spominaja dróhowe mjena hač do dźensnišeho na staru kralowsku dróhu, kaž na přikład
+hsb	We wotwisnosći wot wubraneje kartoweje projekcije so wóčko stopnjoweje syće jako kwadrat, praworóžk. trapec abo
+hsb	Wesenitz'') je 83 kilometrow dołha rěka w Hornjej Łužicy w Sakskej.  Wužórli so na južnym zwisu Sokolnika w
+hsb	Łužiskich horach a ćeče přez Biskopicy a Stołpno do Pirny, hdźež so wotprawa do Łobja wuliwa.
+hsb	Winowa róža (''Rosa rubiginosa'', syn.: ''Rosa eglanteria'') je rostlina ze swójby róžowych rostlinow a domjaca
+hsb	Wjes leži něhdźe dźesać kilometrow wuchodnje Grodkowskeho centruma při zwjazkowej dróze 156.
+hsb	Wjeska leži něhdźe štyri kilometrow sewjerozapadnje Budyskeho centruma při skłoninje horje Tchór, kotraž je w
+hsb	Wjetši dźěl mnoholičbnych prjedy do tuteho roda wopisanych družinow je mittlerweile do druhich sukulentnych rodow
+hsb	Wobzor wotpowěduje tu, cyle w astronomiskim zmysle, imaginarnej ''wobzorowej liniji'', tohorunja wulki kruh na
+hsb	Wodźizna (tež ''wody'', ''wodźizny'') wopřija cyłu w přirodźe so jewjacu běžatu a stejatu wodu.
+hsb	Wokrjes Sprjewja-Nysa w sewjeru mjezuje z wokrjesom Wódra-Sprjewja, we wuchodźe z Pólskej, w juhu ze sakskimaj
+hsb	wokrjesaj Zhorjelc a Budyšin, w zapadźe z wokrjesom Hornje Błóta–Łužica a w sewjerozapadźe z wokrjesom
+hsb	Wona je kompletnje předźěłany a wobnowjeny naslědnik APG-systema z lěta 1998, bu pak w lěće 2009 (Systematika
+hsb	krytosymjenjakow po APG III) aktualizowana, tak zo tuta druha wersija ma wjace jenož historisku hódnotu.
+hsb	Wona rosće w stejacych a pomału běžacych wodźiznach z maksimalnej hłubokosć wot 0,5 m, hrjebjach a bahnach.
+hsb	Wona wjedźe wot Nosaćic pola Wósporka, přez Lubij a do Žitawy. Dróha je něhdźe 27 km dołha.
+hsb	Wone steja po třoch hač po pjećoch w kićach. Worjechi docpěja dołhosć wot 3 mm a njesu na boku wuske
+hsb	Wone su žiwe w lěsach, tundrach a połpušćinach Eurazije a sewjerneje Ameriki. Tam su wodnjo, w switanju abo
+hsb	směrkanju aktiwne. Jich rewěry su wulke. Jich lěhančko je w sam twarjenych twarach, pod wuwrótom, w skalnych
+hsb	Woprawdźe su so wšě debaty na dobu něhdźe pjatnaće lět  koncentrowali, wot 1842 hač do 1857.
+hsb	Wosebite konsonanty móžeja funkciju wot wokalow wobsadźować a złóžki tworić: ''r'', ''l'' a (rědko) ''m''.
+hsb	Wostatne kćenjowe łopješka su purpurowobrune. Bóčne kćenjowe łopješka často su spiralojće wjerćane.
+hsb	Wot 1874 je Surowin často přebywał w Norwegskej, wosebje w Dovre, a je so tam zasadźował za wobnowjenje a
+hsb	Wot 1967 dźěłaše we Wětrowje kaž tež w redakciji Noweje doby a wot 1969 w LND. W časach přewróta so Nuk w
+hsb	Serbskej narodnej zhromadźiznje angažowaše. Dnja 25. měrca 2000 wuzwolichu delegaća 7. hłowneje zhromadźizny
+hsb	Wot Kamjenca wjedźeše Wysoka dróha přez lěs k Marijinej hwězdźe a do Swinarnje, hdźež běše wotpočnišćo. W
+hsb	Prěčecach přeprěkowa rěčku Čornicu. Dale wjedźeše přez Smolicy dele do Židowa a na dźensnišej Garbarskej
+hsb	dróze zaso horje, hdźež móžachu překupcy přez Šulerske wrota do města přińć abo přez Hornčersku hasu dale
+hsb	Wot kónca bosniskeje wójny dźewjedźesatych lět je Travnik stolica Srjedźnobosniskeho kantona we Federaciji
+hsb	Wot lěta 1884 skutkowaše tam jako wučer, dyrbješe pak so toho w lěće 1891 chorowatosće dla zdać. Jako basnik,
+hsb	předewšěm wot Jaroslava Vrchlickeho wobwliwowany, pisaše husto pod pseudonymom ''Jan Rokyta''.
+hsb	Wot lěta 1957 běše Ajtmatow sobustaw sowjetskeho zwjazka spisowaćelow a hač do lěta 1965 redaktor stronskich
+hsb	Wot lěta 2000 słuša wotrězk mjez městomaj Sully-sur-Loire a Chalonnes-sur-Loire k swětowemu kulturnemu herbstwu
+hsb	Wot spočatka 11. lětstotka so w Łužicy mócne němske, pólske a čěske zajimy zetkawachu. Konflikt mjez pólskim
+hsb	kralom Bolesław I. Chrobły a Hendrichom II. (wot 1003) so w Budyšinje kónčeše, přez čož Budyske kónčiny
+hsb	Wołtawa (čěsce Vltava) je najdlěša rěka w Čěskej. 440 kilometrow dołha rěka wužórli so w južnočěskej
+hsb	Šumawje a přeběži města Český Krumlov, České Budějovice a Praha. Wuliwa so w Mělníku do Łobja.
+hsb	Wuchodne južnosłowjanske rěče su znutřka słowjanskich rěčow podskupina južnosłowjanskich rěčow, kotrež so
+hsb	Wuchodźiwši Chrósćansku wjesnu šulu přińdźe Jakub Herman do Budyšina na Tachantsku šulu a potom na Budyski
+hsb	gymnazij. Mjez 1849 a 1859 běše wón chowanc Serbskeho seminara w Praze, hdźež hač do 1855 němski Małostronski
+hsb	Wuhlikowy monoksid (chemiska formula: CO) je (pod normalnych wuměnjenjach) bjezbarbny, njewonjaty płun.
+hsb	Wulka pólšica je rostlina ze swójby pólšicowych rostlinow łaćonsce: Chenopodium bonus-henricus, Chenopodiaceae).
+hsb	Wulki krawnik je w nimale cyłej Europje (předewšěm w Skandinawiskej, srjedźnej a južnej Europje), Aziji a
+hsb	Wulkokwětkata abelija (''Abelia'' x ''grandiflora'') je rostlina ze swójby kozylistowych rostlinow.
+hsb	Wuska dróstnica je rostlina ze swójby dróstnicowych rostlinow (łaćonsce: Potamogeton zizii, Potamogetonaceae).
+hsb	Wusmuž je serbska hudźbna skupina, kotraž hraje wšelakore stile, předewšěm rock, pop, ska a reggae.
+hsb	Wuznam hatow za skład wody so hakle w nowšim času přez moderne zastaranje z dnownej wodu pozhubi. To płaći před
+hsb	rozšěrjenjom parneje mocy w 19. lětstotku tež za wažne młynske haty. Mjeztym zo so w městach zdźěla hižo
+hsb	srjedź 19. lětstotka nowe wódne techniki zarjadowachu, běchu wobydlerjo wjesnych kónčinow hišće dołho na haty
+hsb	Wysokoněmske słowo Wein, starowysokoněmske ''wîn'' abo ''winam'',  francoske słowo ''vin'' a jendźelske słowo
+hsb	Wón bu 2009 jako direktny kandidat we wólbnym wokrjesu 32 (Delitzsch) z 39,8 % hłosow woleny.
+hsb	Wón bě sobuzałožer SED a wot 1949 hač do swojeje smjerće 1960 prěni a jenički prezident NDR.
+hsb	Wón kćěje wot měrca hač do junija. Kćenja su čworkožołte, docpěwa šěrokosć wot 2,5 hač 5 cm, sedźa na
+hsb	Wón rosće na brjohach rěčkow, na mokrych łukach a rěčnych lěsach. Preferuje mokre, wutkate a bazowe hlinjane a
+hsb	Wón wobsteji z jara redukowanych jednotliwych kćenjow a njese wysoke łopješka. Zwjetša su jedne žónske kćenje a
+hsb	Wóslin (něm. ''Ossel'') je małe sydlišćo z 36 wobydlerjemi (2010) w srjedźišću hornjołužiskeho wokrjesa
+hsb	Wěcowniki deklinuja so serbsce w sydom padach (nominatiw, genitiw, datiw, akuzatiw, instrumental, lokatiw a wokatiw),
+hsb	Wězo je najwjetši dźěl brónicy ''(Pars optica retinae)'' z zmysłowymi bańkami přikryty, wótrowidźenje so pak
+hsb	koncentruje při čłowjeku na jenož 0,02 procentow přestrjenja brónicy, tak mjenowany žołteho blaka (''Macula
+hsb	Wšě fonem je listowany z jeho IPA [brackets], łaćonskej a kyriliskejCyrillic alphabet representations.
+hsb	Wšědna dychnička je rostlina ze swójby dychničkowych rostlinow. Dalše serbske mjeno je suchi nalik.
+hsb	Wšědna kótwica je rostlina ze podswójby kótwicowych rostlinow znutřka swójby krawinowych rostlinow. Dalše
+hsb	Wšědna róžatka je rostlina ze swójby tučnołopjenakowych rostlinow  (łaćonsce: Rhodiola rosea, Crassulaceae).
+hsb	Wšědna wušnička je rostlina ze swójby maslenkowych rostlinow łaćonsce: Isopyrum thalictroides, Ranunculaceae).
+hsb	Wšědny piment (''Pimenta dioica'', syn.: ''Pimenta officinalis'') je štom ze swójby  myrtowych rostlinow.
+hsb	Z ''Čestnym znamješkom Domowiny'' připóznawaja so wot lěta 1959 „zasłužby w towarstwowym dźěle,
+hsb	Z antiki je jenož jedyn přikład za wužiwanje tuteho słowa znaty, a to jako πορνογράφος
+hsb	''(pornographos)'' za awtorja abo molerja, kotryž so po wobsahu zaběra z prostitutkami.
+hsb	Z nowej melodiju předstaji so pěseń prěni raz w zjawnosći na wot Kocora zarjadowanym prěnim serbskim spěwarskim
+hsb	swjedźenju 17. oktobra 1845 w Budyskej třělerni. Wona zdoby sebi pozdźišo městno serbskeje narodneje hymny.
+hsb	Z rozdźělenjom zemjekule do španiskeje a portugalskeje hemisfery w zrěčenju wot Tordesillasa z lěta 1494
+hsb	Z tym bě Madźarska prěni stat wuchodneho bloka, kotryž wočini w lěće 1989 dotal njepřepušćatu mjezu k
+hsb	zapadej. Dnja 10. septembra wozjewi wonkowny minister Horn w madźarskej telewiziji, zo dowoli Madźarska byrgarjam
+hsb	Z wokoło 1,69 milionami wobydlerjemi na 525 km² je Budapest najwjetše město a tež kulturelne a ekonomiske
+hsb	srjedźišćo kraja. Druhe wulke města su Debrecen (205.000 wobydlerjow), Miskolc (180.000 wobydlerjow), Szeged
+hsb	Za astrometriju a sferisku astronomiju je hwězdne njebjo baza za definiciju poćahowanskich systemow za ''krute
+hsb	koordinaty w hwězdnym systemje'', ''sideriske periody'' a za městny čas abo swětowy čas (UT). ''Hlej k tomu tež
+hsb	Za kóždy slědźenski předmjet <!--Untersuchungsgegenstand--> (rostliny, zwěrjata, atd.) eksistuje swójska sada
+hsb	prawidłow <!--Regelwerk-->. Hłowny cil nomenklaturnych prawidłow je zaručenje jednozymslnosće za wědomostne mjena.
+hsb	Za ćežišćo a kónčinu nastaća prarěče so maja stepy w dźensnišej juhozapadnej Ruskej a Ukrainje.
+hsb	Za čas wójny so wopyty z Němskeje do Italskeje a nawopak z politiskich přičin dale a bóle poćežowachu, tuž so
+hsb	Zahrodna husowka je přeco zelene trajne zelo. Tołste lisćo twori 12 cm wysoke a 45 šěroke maty<!--Matte-->.
+hsb	Zaječa rězna (''Carex ovalis'', syn.: ''Carex leporina'' L.) je rostlina z podroda jenakokłóskatych rěznow ze
+hsb	Zarěznjene krónowe łopješka su blědźe róžojte abo purpurwioletne z tróšku ćěmnišimi nerwami a docpěwaja
+hsb	Załožba za serbski lud dóstanje swoje financielne srědki - we wokomiku něhdźe 16,8 milionow € - wot Zwjazka,
+hsb	Ze zapada přińdźechu flandriske płaty, z wuchoda drjewo, kožuchi, wósk a měd a ze srjedźnych kónčin mjez
+hsb	Zhromadnje maja wšitke skupiny, zo běchu tak wuspěšne, zo je so za nahrawanje profesionelneje cejdejki hodźało
+hsb	(štož w tamnych fazach so wjace njejewi, nimo SG Sněhowka, je pak to naslědnik Lózych Hólcow).
+hsb	Znajmjeńša sydom družinow so rozeznawa, při čimž nêkotři slědźerjo samo wjace ''Agapanthus''-družinow
+hsb	Znutřka khojsanskich rěčow so hodźa sćěhowace rěčne swójby z metodami přirunaceho rěčespyta rekonstruować.
+hsb	Zo by tutón krok zmóžnił, wozjewi tež prjedawši prezident Touré 8. apryla swój wotstup.
+hsb	Zrałe płody su žołte abo zelene. Wone wobsahuje 5-7% citronowu kisalinu a su bohate na witaminy.
+hsb	Zwjazkaj 11 a 12 wěnujetej so morfologiji, 13 a 14 fonetice/fonologiji a 15. zwjazk syntaksy serbskich dialektow.
+hsb	Zwjazkowy sejm je z lěta 1949 parlament Zwjazkoweje republiki Němskeje. Jeho sydło je wot 1999 Berlinski reichstag.
+hsb	W politiskim systemje Němskeje je zwjazkowy sejm jenički wustawowy organ, kotryž bu direktnje z ludu wuzwoleny.
+hsb	Zwonkowne, tři keluškowe łopjena su jejkojte abo šěroko lancetojte a na spódku rozšěrjene a docpěwaja
+hsb	Zymske pupki su w směrje kónčkow sylnje spěchowane, při čimž kónčny pupk zwjetša je wjetši hač bóčne.
+hsb	Wone docpěwaja dołhosć wot 13 mm. Pupkowe šupizny su pjelsćojće kosmate a šěrobrune.
+hsb	abo "Oromiffa") je afroaziska rěč a najrozšěrjena kušitska rěč. Z njej rěči wokolo 25 mil. ludźi.
+hsb	boł – poł abo hraj – hrał, abo so woznam dospołnje zhubi, na př. bramaty – pramaty.
+hsb	distancu wottasać (1 łukowa mjeńšina = 1 mórska mila) a za zarysowanje kursa do karty přenjesć.
+hsb	je gmejna w juhu kupy Anglesey w hrabinstwje ze samsnym mjenom w sewjerozapadźe Waliziskeje. W lěće 2001 měješe
+hsb	jutrownika 1670 w starobje 79 lět jako naslědnik Klemensa IX. wuzwoleny za 238. bamža romsko-katolskeje cyrkwje.
+hsb	lětami) nasta hoberske horinske pasmo, kotrež so dźensa wot Ameriki, přez sewjerozapadnu Afriku, iberisku połkupu
+hsb	ma wyši škrějny dypk, warjenski dypk a je husćiša. Na bazy wulkeje masoweje diferency mjez protiumom a deuteriumom
+hsb	a tritiumom, (kotrejž matej dwójnu a trójnu masu), kinetiski izotopowy efekt je jara akutny.
+hsb	njeje posłowny přełožk fenicišćiny. Štyrceći słowow jasnje njedosaha, zo by rěč wobknježiło.
+hsb	prefiksoweho subjekta ''ni'' – („ja“), prefiksoweho objekta 2. wosoby ''mitz'' („ći“) a sufiksa ''z''
+hsb	so werb backen w sewjernej němčinje hłownje słabje skłonjuje (backen - backte - gebackt), mjeztym zo so w hornjej
+hsb	němčinje hišće husto sylny preteritum a particip II (backen - buk - gebacken) jewjetej.
+hsb	we wysokosći 165 metrow nad mórskej hładźinu.  Sewjernym dźělom Delnjeje Kiny běži zwjazkowa awtodróha 4.
+hsb	wustupować, Hurritow, kotrychž rěč započa so přełožować. W Armenskej wotkrychu lud Urartu, kotryž na
+hsb	Ćahi so twarja wot ALSTOM na bazy francoskich TGV-ćahow. Material je na spočatku Trans-Manche Super Train (TMST)
+hsb	rěkał. Elektriskej systemaj železnicy w Francoskej a Jendźelskej stej rozdźělnej, tuž ćahi buchu specialnje
+hsb	přiměrjene tak zo móžeja jěć na woběmaj čaromaj prjedyž dotwarjenje linki Channel Tunnel Rail Link, kotraž
+hsb	Ćmowozelene łopjena su přećiwostejne a lancetojte a njesu na delnim boku proste kosmy. Wone maja nadpadne žiłki.
+hsb	Ćěłcojte jěžiki je rostlina ze swójby wódrakowych rostlinow  (łaćonsce: Lappula squarrosa, Boraginaceae).
+hsb	Často so ke kontinentej Awstralija tež w Pacifiku ležace kupowe staty liča, wosebje z kulturelnych a politiskich
+hsb	Čerwjeny drěn je rostlina ze swójby drěnowych rostlinow. Dalše serbske mjeno je drěnka.
+hsb	Čerwjeny naporst we wulkich dźělach Europy rozšěrjeny. Často wón je kultiwěrowany a wodźiwił. Wuchodna
+hsb	Čorna rjetkej (''Raphanus sativus'' var. ''niger'') je rostlina ze swójby křižnokwětnych rostlinow.
+hsb	Čorny Drin nima žórło - wućeče jako mała rěka ze sewjerneho brjoha Ohridskeho jězora w měsće Struga, na
+hsb	wysokosći 693 m n.m.h. Wot 1962 wotliw je regulowany a dźerži so na niwowje 22 m³/s. Čorny Drin běži na
+hsb	sewjerozapdaźe mjez hórskimi rjećazami Jablanicy na zapadźe a Stogovo na wuchodźe.
+hsb	Đinđić studowaše filozofiju w Běłohrodźe a pola Jürgena Habermasa w Frankobrodźe nad Mohanom. Promowowaše w
+hsb	Konstanzu. W lěće 1989 wróći so do Juhosłowjanskeje a dźěła w Novim Sadźe jako docent. 1990 bě wón
+hsb	sobuzałožer Demokratskeje strony a jeje předsyda; w lětomaj 1996 a 1997 jako prěni njekomunist měšćanosta
+hsb	Łažawy kuklik docpěwa wysokosć wot 5 hač 15 cm. Rostlina ma dołhe, nadzemske wotnožki.
+hsb	Łopjena dołhich wurostkow su małke. Dwójne jehły su ćmowozelene a płone a rostu w rozporach krótkich wurostkow.
+hsb	Wone docpěja dołhosć wot 5 hač do 15 cm a su po 20 hač po 40 w mutličkach wokoło wurostkow rjadowane.
+hsb	Łopjena so za poliwki, solotwje a twaroh wužiwaja. Wone apetit pozbudźuja a požiwanje podpěraja.
+hsb	Łopjena su delnim boku přilěhawje kosmate a třiličbne, při čimž srjedźne łopješka su dlěje stołpikate.
+hsb	Łopjena su hrubje kožane, na hornim boku ćmowozelene, na delnim boku šěropjelsćowe, ale pozdźišo so njewobnaža.
+hsb	Łopjena su měnjate, lancetojte abo lancetojće-łopatkojte<!--spatelig-->, kožane<!--lederig--> a přecozelene.
+hsb	Łopjena su napřećostejne, stołpikate, třiróžkate-owalne, na spódku słabje wutrobojte, na kromje hrubje
+hsb	Łopjena su owalne, kulowate abo wutrobojte a njeprawidłownje hrubje a dwójce zubate.
+hsb	Łopjena su stołpikate, přez křiž napřećostejne, wutrobojte-owalne, njeprawidłownje   zubate, docpěja dołhosć
+hsb	Łopjena su w křižu přećiwostejne, jejkojte, cyłokromne, słabje karbowane a docpěwaja dołhosć wot 2 hač 4 cm.
+hsb	Łopjena su zmoršćene, jejkojte hač nimale kulojte, pjelsćojte. Wone su kaž křiž schódne a docpěwaja dołhosć
+hsb	Łopjena su šěroko-lancetojte, dołho-kónčkojte, sćeńka rězane a docpěwaja dołhosć wot 5 hač do 15 cm.
+hsb	Łopjency su owalne hač kulowate, wótro rězane, na hornim boku blědozelene a nahe, na delnim boku na spočatku
+hsb	nažołć, našěr abo naběl pjelsćojte, pozdźišo nahe a docpěwaja dołhosć wot 2 hač 4 cm (2,5-5 cm) a
+hsb	Łuhojta smjelzyna(syn. ''C. neglecta'' (Ehrh.) Gaertn., Mey. et Scherb.) je rostlina ze swójby słódkich trawow.
+hsb	Łušćinowy płód, tež łušćina je płód, kotryž z jedneho płodoweho łopješka nastanje a je typiski za
+hsb	Šija a chochoł stej čornej, mjeztym zo wonkowne wopušowe pjera su běłe. Čoło, bokaj hłowy a brjuch su běłe.
+hsb	Španiska (španisce ''España'') je kralestwo, kotrež leži zwjetša na Iberiskej połkupje w juhozapadnej Europje.
+hsb	Šupiznojte jehły su ćmowozelene hač módrozelene, prědku kónčkojte a docpěja dołhosć wot něhdźe 5 mm a na
+hsb	Šěrach wuda prěni raz 1755 tež cyłe, wot Jana Běmarja zestajene a pozdźišo rozšěrjene ''Duchowne kěrlušowe
+hsb	knihi''. Dokelž wón we wudaću z lěta 1759 kěrlušaj, kotrež za mytiskej a njezrozumliwej dźeržeše wuwostaji,
+hsb	Šěrokosć móže hódnoty wot 0° (na ekwatorje) hač ±90° (na čopomaj) nabyć. Město předznamješka
+hsb	Ţåţe nostru car le şti în ţer, neca se sveta nomelu Teu. Neca venire craliestvo To. Neca fie voľa Ta, cum în
+hsb	ţer, aşa şi pre pemint. Pera nostre saca zi de nam astez. Odproste nam dutzan, ca şi noi odprostim a lu nostri
+hsb	Žołta barba pokaza disponujomnosć mjez 500 a 1700 m&sup3;. Dokelž někotre rěki, kotrež su wažne za wodowe
+hsb	zastaranje (na př. Jordan, Kolorado), přeprěkuja krajowe hranicy, su móžne mjezykrajowe konflikty wo pitnej wodźe.
+hsb	„Pohibliwe“ substantiwy woznamjenja čłowjekow, zwěrjata a někotre druhe zapřijeća. Wšě druhe substantiwy su
+hsb	„njepohibliwe“ a nimaja žadyn gramatiski plural. Mnohota so móže tu jenož přez doprědka sadźenje wot
+hsb	ličbnikow resp.  słowa ''huel'' („wjele“) wupraji, na př. ''huel mitl'' („kłoki, šipy“ ab po słowje

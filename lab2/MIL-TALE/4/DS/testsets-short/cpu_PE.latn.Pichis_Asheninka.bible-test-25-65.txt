@@ -1,0 +1,735 @@
+cpu	Jiroka ivairopayeeni ikaratzi icharineyetari Jesucristo. Tema
+cpu	iriitake icharine David-ni, ipoña eejatzi Abraham-ni.
+cpu	Ikantaiyanakeni irirori: “Intzime janta nampitsiki Belén
+cpu	saikatsiri Judea, tema ari okantzi irosankinare kamantantaneri,
+cpu	Iithaaretakari pairani Juan, jontyeetziro ivitzi camello,
+cpu	jovathakitakari meshinantsimashi. Jañaantari jovayetari
+cpu	kentori, iri jimiretari iyaaki pitsi.
+cpu	Ikanta Jesús ikemakoventakeri Juan jashitakoitakeri. Iroora
+cpu	ipiyantanaari irirori janta Galilea-ki.
+cpu	“Pikempitakarora eerokaite tzivi. Aririka inkonovaitero tzivi
+cpu	tsika ompaitya, eerora apantaro inkatyokantaityaaro. Ontzimatye
+cpu	irimanintaitero, irookayeetakero iraatzikashivaityaaro.”
+cpu	“Piyotaiyironi eeroka ikantaitakeri pairani:
+cpu	Eero pishinetana iriñaantaityaana, inkovaite irantakaitenaro
+cpu	Aritake impayeetairi kampitantayetatsiri. Inkarate
+cpu	amemenatairone, ari iroñaakaitairi. Aririka inkantaiteri:
+cpu	‘Pashitaryeero.’ Aritake irimatakero.
+cpu	Tema tzimatsi omperatanari naaka, tzimatsi eejatzi
+cpu	ovayiripayeeni nomperatari naaka. Aririka nonkanteri:
+cpu	‘Piyaate,’ aritake iriyaatake. Aririka nonkante pashine:
+cpu	‘Pimpoke,’ aritake impokake. Aririka nonkanteri notzikatane:
+cpu	‘Pantero iroka,’ jimatziro jantziro.”
+cpu	Ikanta ikemavake iyotzinkariite, ikantashiretanake:
+cpu	“Ithainkatziiri Pava irikavé.”
+cpu	Apathakero amenanai kameetha. Ishintsithavetavaari, ikantziri:
+cpu	“Tera nonkove pinkamantakotena novashinchagaimi.”
+cpu	Eerora piyotashitanakaro apaniro eeroka ompaitya piñaanetyaari,
+cpu	Tasorentsinkantsi poñaachari Ashitamiriki, iri iyotakaimirone
+cpu	onkarate pinkantayetapaakeri.
+cpu	Tema namenakaayetairi mavityaakiri, naniitakaayetairi
+cpu	kisoporokiri, novashinchaayetairi maaroni pathaavaivetachari,
+cpu	nokemakaayetairi matayempiri, novañaayetairi kaminkari,
+cpu	noñaaventayetaineri Kameethari Ñaantsi ashinonkainkaripayeeni.
+cpu	Ari jakanakeri Jesús ikantziri: “Tema piñaanatakoteri
+cpu	ikantakota David-ni, aantavetariri itashe itsipatayetakari
+cpu	Ikanta ikemaiyakeni Fariseo, ikantaiyanake irirori: “Irika
+cpu	atziri jovashinchaatziiri ashitariri peyari Beelzebú, irootake
+cpu	jovavisaakotantariri ikaratzi jaakayetziri peyari.”
+cpu	Ikanta jookakitakero ivankire, tzimatsi ookakitapainchari
+cpu	avotsiki, ipokapaake tsimeri, jovapaakaro.
+cpu	Ipoña oshookanake trigo-perori, kithokitanake. Ari okempitakari
+cpu	eejatzi trigo-niro ikonovaitakerori.
+cpu	Ikenanai inampiki. Jiyotaantayetapai japatotapiintaita.
+cpu	Ipampoyaaminthatakeri ikaratzi kemayetakeriri, ikantaiyini:
+cpu	“¿Ipaitama matakaakeriri irika jiyotanetantakari, ipoña
+cpu	itasonkaventantzi eejatzi?
+cpu	Te iriyotavairi, itharovaiyanakeni iriyotaane, ikaimaiyanakeni:
+cpu	Ari ikantzi Pedro: “Pooñaarontenaro okaratzi
+cpu	poshiyakaaventakeneriri irikapayeeni.”
+cpu	Ikantzi Jesús: “Paamaiyaaro shineyakairori itantane Fariseo
+cpu	eejatzi irashi Saduceo-payeeni.”
+cpu	Jamenavetaiyanaani, tekatsi iriñaanai, apaniro ikatziyaka
+cpu	Tema iro ipokantakari Itomi Atziri irovavisaakoshireyetairi
+cpu	ikaratzi peyavetainchari.
+cpu	Ipoña jakanake Pedro, ikantanake: “Jirikayetakena nokaratzi
+cpu	nokovi noyaatemi, nookayetanakero maaroni tzimimotanari.
+cpu	¿Opaitama impinayeetainari apaata?”
+cpu	Iroorika pinkove pijevatakaante, iri poshiyakotya ikantara
+cpu	Tema osheki okameethatake jantakeri Jesús. Ikanta iñaakeri
+cpu	evankariite jantakeri, ikaimaiyanake, ikantzi:
+cpu	Ari jakaiyanakeni, ikantzi: “Ontzimatye irovamagaiteri
+cpu	irikapayeeni kaariperori, iramenai pashine kameethari amenairone
+cpu	pankirentsimashi, tsika intzime otyaantapiinteneriri okithoki
+cpu	Ikantaiyini: “Irashi César.” Ari ikantzi Jesús: “Tema
+cpu	iri César ashitari, pantantyaanari okaratzi ikovakayimiri,
+cpu	pimpinateri. Iriima maaroni okaratzi jashitari Pava,
+cpu	pantantyaanari ikovakayimiri irirori.”
+cpu	Ipoña ikinkithatakaakeri Jesús ikaratzi apatotzimentakariri,
+cpu	eejatzi iriyotaanepayeeni, ikantzi:
+cpu	Eerokatake kamantakotacha apaniro, iri poshiyakoyeta eeroka
+cpu	picharineni ikaratzi ovamaayetakeriri pairani kamantantaneri.
+cpu	Tema antaro iriñeetero irashinonkaitya apaata. Pairani ovakera
+cpu	jovetsikayeetakero kipatsi, irojatzi iroñaaka, te iriñeetero
+cpu	oshiyaarone iroka ashinonkaantsi. Eerora apiita iriñeetairo
+cpu	Irimaperoteri irovasankitaapairi, irookapaakeri janta tsika
+cpu	ikashiyakaitakari kamataviri. Ari iriraavaityaari,
+cpu	iratsikaikivaitya inkemaantsitaiya.”
+cpu	Paanakeri irika kaariperoshireri, pookeri tsika otsirenikitzi.
+cpu	Ari iriraavaityaari, iratsikaikivaitya inkemaantsivaitaiya.”
+cpu	Ikanta Judas Iscariote karavetariri 12 iriyotaane Jesús,
+cpu	jiyaatashitakeri ijevare omperatasorentsitaari.
+cpu	Ikanta ipiyapaa, eejatzi jiñaapairi jimagaiyini, tema iniroite
+cpu	Tekera osamanite, japiitakeri ikaratzi itsipatakari ikantziri:
+cpu	“Eerokatake itsipatapiintari Jesús, tema Galilea-satzi pini,
+cpu	iriivaitake ikantziro jiñaavaitzi.”
+cpu	Ari ikantaiyanakeni iriroriite: “Nokovaiyini, naakatake
+cpu	irookantaitya ompaityaarika avisaintsiri eejatzi
+cpu	Tema jañagairanki Jesús, ikaratzi añaayetanaatsiri
+cpu	ishitovanairo omoroki jiyaayetai iriroriite nampitsiki
+cpu	tasorentsitatsiri, joñaakayetantaa.
+cpu	Ikanta jiñaavairira, jotyeerovashitavaari. Iro kantacha
+cpu	tzimayetatsi kisoshireventavairiri.
+cpu	Tera omaanta ishintsinka jiyotaantzira, janaanakeri
+cpu	iyotzinkariite, iniroite ipampoyaaminthaitanakeri.
+cpu	“Ithainkakeri Pava irika. Tema tekatsi kanterone
+cpu	impeyakotantero kaariperori, apaniro ikanta irirori Pava
+cpu	Irootake Jesús ikantantanakariri iriyotaane irameneneri
+cpu	pitotsi, eero janavyeetantari.
+cpu	Ikanta jookakitakero ivankire, tzimatsi ookakitapainchari
+cpu	avotsiki. Ipoña ipokaiyapaakeni tsimeri, jovapaakaro.
+cpu	Tekatsi aparoni okaratzi ikamantantziri kaari joshiyakaaventzi.
+cpu	Iriima iriyotaane, ikemathatakaakeri maaroni otzimi
+cpu	ikantapaakeri: “Onkamatyee nishinto. Nokovi piyaate
+cpu	pantantaiyaaro kapicheeni pako, eshitakotaita.”
+cpu	Ikantzitavakari eejatzi: “Pareetakyaarika aparoni pankotsi,
+cpu	arira pimaapiintatye, irojatzi pavisantakyaari pashineki
+cpu	Ari jimatakeri. Tzimatsi nashiyetainchari isaikayetake aamaaka
+cpu	ikaratzi 100 atziri, jimataka eejatzi pashine aamaaka ikaratzi
+cpu	50 atziri. Ari ikantayetakeriri, jomisaikakeri maaroni.
+cpu	Piñaapinkathateri ashitamiri.
+cpu	Ikanta japatotaiyanira osheki atziri, thonkapaaka irovarite.
+cpu	Ikaimakeri Jesús iriyotaane ikantziri:
+cpu	Ari jetanakaro Jesús ikamantziri iriyotaane onkarate
+cpu	avishimoterine, tema iri apaniro paitaincha Itomi Atziri.
+cpu	Ikantziri: “Oshekira noñeero noñaashitakoventyaami. Osheki
+cpu	inkisaneentena pinkatharipayeeni, eejatzi ijevarepayeeni
+cpu	omperatasorentsitaari, eejatzi ikaratzi iyotzinkariite.
+cpu	Irovamaakaantena. Iro avisavetakya mava kitaite, añagaana.”
+cpu	Ikantziri Jesús: “¿Opaitama pikantantarori
+cpu	‘Kantatsirika...?’ Aririka pinkempisantanai, aritake
+cpu	Jakanake Jesús, ikantanakeri: “¿Opaitama ikantakaantziri
+cpu	“Aatatziira Jerusalén-ki. Arira iraayeeteri Itomi Atziri
+cpu	iraakaanteri ijevare omperatasorentsitaari intsipatakyaari
+cpu	iyotzinkariite, iriyakoventeri irovaiteri, impoña
+cpu	iraayeetanakeri atziriki kaari asheninkata,
+cpu	Tasonkaventaari inatzi, tema Pinkathari apaitziri otyaantakeriri.
+cpu	Jotyaantake eejatzi pashine, jovaitakeri. Osheki ikaratzi
+cpu	jotyaantavetaka, tzimayetatsi ipasavaitakeri, jovaitakeri
+cpu	Pinkeme Israel-mirinkaite, irika Avinkatharite Pava, Pinkathari
+cpu	Ontzimatyeera paamaayetya. Tema iraakaantaitatyeemi
+cpu	jevaripayeeniki impasanavaitaitemi pankotsiki papatotapiinta.
+cpu	Impoña iraayeetanakemi isaikayetzira pinkatharijanorentsi
+cpu	okantakaantzirora paventaana, ari piñaaventayetainari janta.
+cpu	Iro kantacha eerora amaimanetziri kitaite joimoshirenkaita,
+cpu	ikisakoventarikari atziriite.”
+cpu	Eekero ishintsitatzi Pedro, ikantzi: “Eero nookaventzimiitsi,
+cpu	kempitaka ari ankarate ankame.” Ari ikantaiyakeni eejatzi
+cpu	Irojatzi jimairetake, te irake. Japiitziri josampitziri:
+cpu	“¿Eerokama Cristo, Itomi Tasorentsitakaaneri?”
+cpu	Ipoña jomposainavaitantakari savoro. Ichoontaporovaitakeri.
+cpu	Jotyeerovashitzimaitari iriñaapinkathaterimi ikantzi.
+cpu	Avisanake kitaite jimakoryaantaitari. María Magdalena,
+cpu	otsipatakaro pashine María irinirora Jacobo, opoña Salomé,
+cpu	amanantaiyakeni kasankaari, iyaate otziritantaiyaarimi Jesús-ni.
+cpu	Arira joñaakakariri Zacarías imaninkarite Avinkatharite,
+cpu	ikatziyimotapaakari irakoperoriki itayirora kasankainkari.
+cpu	Okanta okemavakero Elisabet ovethatapaakarora María,
+cpu	ishevatanaka omotzitakeri. Tema ikantakaanakityaaro Elisabet
+cpu	Ipoña jookotaitakeneri ashitariri josampiitziri, tsika inintzi
+cpu	Maaroni atziri jiyaataiyakeni irosankinatakoyetya inampiki tsika
+cpu	ipoñaayeta pairani icharine.
+cpu	Monkaraaka Pinkathari okaratzi pishinetaakenari,
+cpu	Inkamantantaite apaata janta tsika te inampiitaro, inkantaite:
+cpu	tomintanakariri Er ipaita Josué, tomintanakariri Josué ipaita
+cpu	Eliezer, tomintanakariri Eliezer ipaita Jorim, tomintanakariri
+cpu	Ikanta Jesús piyaa inampiki Nazaret tsika jantaritake. Okanta
+cpu	aparoni kitaite jimakoryaantaitari, jatake Jesús
+cpu	japatotapiintaita, tema iro jametapiintakari irirori. Ari
+cpu	ikatziyanakari iriñaanatero osankinarentsi.
+cpu	Osheki jomishitovitake eejatzi iveyarite, iniroite ikaimayetzi
+cpu	peyari, ikantzi: “¡Itomi Pava pinatzi!” Iro kantamaitacha
+cpu	Jesús, ikisathayetakeri peyari, te ishineteri iriñaavaite,
+cpu	tema jiyotzi irirori peyari iriitake Cristo.
+cpu	Ikanta ishitovanaira Jesús, iñaapaakeri paitachari Leví
+cpu	isaiki irirori ikovakotziri kireeki isheninka, ikantapaakeri:
+cpu	Tema ikaratzi jaakayetziri peyari, jovashinchaayetairi.
+cpu	Ikempitakari aparoni atziri ovetsikatsiri ipanko, ikiyashitakero
+cpu	itzinkami oshirantapathatzi kipatsi, jovatzikakero. Ipoña
+cpu	opokake iniroite amarani, ookantapaakaro shintsiini pankotsi, te
+cpu	eevokero. Tema jovatzikaitakitziiro kameethaini
+cpu	Iriitake ovetsikanontemine tsika pinkenapaake eeroka.
+cpu	Tzimatsi pashine ookakitapainchari okitocheemashitzi. Okanta
+cpu	oshookavetanaka, kamanake anaanakero kitocheemashi.
+cpu	Ikanta maaroni Gadara-satzi, ikantaiyakeri Jesús: “Piyaatai,
+cpu	te nonkove pisaikimotena.” Iro ikantantari, tema iniroite
+cpu	itharovakaanakari. Ipoña jotetanaa Jesús pitotsiki, jatai.
+cpu	Iro kantacha iyotaiyake atziri tsika ikenake joyaatanakeri.
+cpu	Ikanta Jesús jaavakeri kameetha, ikamantakeri tsika ikanta Pava
+cpu	impinkathariventantai, jovashinchaayetakeri mantsiyayetatsiri.
+cpu	Jakanake Jesús ikantanake: “Tetya pinkemanete eeroka.
+cpu	¿Tsikama onkarate nosaikimotanaimi, noñeero nonkisashityaami?
+cpu	Aririka iraakameethataitemi aparoniki nampitsi, poyaarora
+cpu	onkarate impayeetemiri janta.
+cpu	Ikanta javisanake Jesús areetaka pashineki nampitsi. Ari
+cpu	osaikiri tsinane paitachari Marta, iro isaikimotapaake opankoki.
+cpu	Iriirikami kamaari Beelzebú ovashincheenane, ¿irijatzima
+cpu	kamaari ovashinchiiriri piyotaaneyetari eeroka
+cpu	jovavisaakotantariri jaakayetziri? Aririka okanta,
+cpu	pikamantakotziiri piyotaane, ari inkishimentakemiro okaratzi
+cpu	Tema iyotane jinake Pava, ikantake: ‘Ari notyaantake
+cpu	kamantantaneri intsipayetakyaari otyaantaari. Aparopayeeni
+cpu	irimaimaneete, irovayeetake pashine.’
+cpu	Aririka paakoventyaaro onkantzimoshirevaityaami, ¿arima
+cpu	pinkantakaakyaaro povavineentavairo posarentsite kapicheeni?
+cpu	Tema aririka pinkemero tampyaa ompoñeeya katonko,
+cpu	pikantapiintzi: ‘Osaryaatye kameetha iroka kitaite.’ Omata
+cpu	Impoña pinkantavetanakya eeroka: ‘¿Tema piyotena
+cpu	akaratziranki avaiyani, akaratziranki iravaitaiyini?
+cpu	Piyotaantapiintake nonampiki.’
+cpu	Ipoña ipiya omperataari, ikamantapairi ivinkatharite
+cpu	kantainchari. Iniroite otsimaanakari, ikantanakeri iromperatane:
+cpu	‘Piyaate, paniitero tsika overaa nampitsi, pamakeri
+cpu	ashinonkainkari, mavityaakiri, pesaponthoriite inkarate piñeeri
+cpu	Iniroite itashaake, ikovake irayooteri chancho, tema tekatsi
+cpu	Ari ikaratzi ikemaiyakeni Fariseo, tema irijatzi nevetarori
+cpu	ashaakarontsi, ishirontzimentakari Jesús ikemiri ikantayetakeri.
+cpu	Ikaimaiyini, ikantzi: “¡Iyotaantanerí Jesús,
+cpu	pineshinonkataina naaka!”
+cpu	Ikantzi Jesús: “Piñaakero ikantashiretakeri kaariperori
+cpu	Ikemake mavityaakiri, josampitakeri avisayetatsiri atziri,
+cpu	ikantziri: “¿Ipaita pokatsiri?”
+cpu	Piñaaveta eero pimatziro eeroka, pamenemi impaitya
+cpu	antavaitakaimirine noireekite, ari iroshekineentakemi iroñaaka,
+cpu	iri pimpavainarimi nopiyaara.’
+cpu	Josampitapaakeri Jesús, ikantziri: “Pinkantena, ¿ipaitama
+cpu	otyaantakemiri poñaakantero pishintsinka?”
+cpu	Ipoña jaavetaaro pashine irirentzi apitetatsiri itzimi. Ari
+cpu	ikempitakari irirori, kamake, te irovaiyantakairo.
+cpu	Ari pinkemakotakero ovayiritaantsi, maimanetavakaantsi, paamaiya
+cpu	omapokimikari, tema ontzimatye omonkarayetya iroka, iro kantacha
+cpu	Irootaatsi iroimoshirenkaitero jovantapiintaitarori tantaponka
+cpu	ipaitaitziro kitaite Anankoryaantsi.
+cpu	Ipoña Jesús ikantanakeri iriyotaane: “Simón,
+cpu	ikampitantakemi Satanás iriñaantashireyetyaami,
+cpu	inkempitakaantemi intsikaatatyeemimi.
+cpu	Iro osamani eejatzi, tzimatsi pashine kantapaakeriri Pedro:
+cpu	“Omaperotya eerokatake tsipatariri Jesús chapinki, tema
+cpu	Iro kantamaitacha ikantaiyanakeni atziriite: “¡Te nonkoveri
+cpu	irika! ¡Iri poimishitovakaante Barrabás!”
+cpu	Eejatzi ikaratzi ñaayetakerori avisaintsiri,
+cpu	okatsitzimoneentanakeri jiyaayetai.
+cpu	Tzimayetatsiya tsinane nokaratapiintziri omapokashitakanari,
+cpu	ananenkamanaka iyaatamanai omoronaki.
+cpu	Ikanta iñaapinkathaiyanakeri iriyotaane. Piyeeyaani
+cpu	Jerusalén-ki, iniroite ikimoshiretaiyanake.
+cpu	Okanta okitaitamanai jiñaavairi Juan ikenapai Jesús, ikantzi:
+cpu	“Jirika iroishate Pava, iriira peyakotzirori iyaariperonka
+cpu	Ipoña ikantzi Jesús: “Pinkitanake iroñaaka kapicheeni,
+cpu	paanakeneri amenakaantzirori oimoshirenkaantsi.” Ari
+cpu	Tera pinkempisantena noñaaventzimiro osavisato, iro ovatsipero
+cpu	eero pikempisantana aririka noñaaventemiro inkitesato.
+cpu	Ari osaikiri jiñaa iiyakotane Jacob-ni. Tema jimakokitakera
+cpu	Jesús janiitake, isaikimotapaakero jiñaa, joveraaka ooryaa
+cpu	Inkarate antavaitatsine iraavatero pankirentsi ari
+cpu	impinayeetairi. Okaratzi pankirentsi iraavayeetairi iriiyetakera
+cpu	oshiyakaaventacha inkarate kañaanetatsineri. Iroora
+cpu	inkimoshiretantaiyaari itzimi pankitakerori intsipataiyaari
+cpu	Ari ikantaiyanakeni Judío: “¿Niinka kantakemiri: ‘Paanairo
+cpu	ponoryaamento, piyaatai?’”
+cpu	Aña niyotzitaiyami tsika pikantaiyani eeroka, niyotzitami
+cpu	eejatzi te petakotari Pava.
+cpu	Ikanta jareetaiyapaakani intatsikero, jiñaapairi Jesús,
+cpu	josampitapaakeri: “Rabí, ¿tsikapaitema pipokake eeroka
+cpu	Ari ikantavakaiyani judío: “¿Tsikama inkenakairoka irika
+cpu	irovakaantairori ivatha?”
+cpu	Ikokovatakeri judío-payeeni janta joimoshirenkaita,
+cpu	ikantaiyini: “¿Tsikama isaikaajatzika shirampari?”
+cpu	Tzimayetatsi atziri kemakeriri Jesús ikantakeri, ikantaiyanake:
+cpu	“Omaperotatya irika shirampari kamantantaneri jinatzi.”
+cpu	Irooma aririka niyakoventante naaka, okaratzi nokantayetziri
+cpu	omaperotatya, tema te apaniro niyakoventante, aña ari
+cpu	nokaratziri Ashitanari itzimi otyaantakenari.
+cpu	Irooma naaka noñaavaitziro kyaaryoori ñaantsi, temaita
+cpu	pinkempisantaiyena eerokaite.
+cpu	Ari ikantayetzi Fariseo: “Itzimi antakero iroka kaarira irashi
+cpu	Pava, tema te iriñaapinkathatero kitaite jimakoryaantaitari.”
+cpu	Iro kantacha ikantaiyini pashine: “¿Kaariperoshireri
+cpu	irinatyeemi, eero jantaajatziromi iroka?” Tera
+cpu	jaapatziyavakaamentaro ikantaiyakerini Fariseo-payeeni.
+cpu	Iro kantacha tera joyaatziri kaari jiñaapiintzi, aña osheki
+cpu	ishiyapithatari, tema te iriyovaanteteri.”
+cpu	Naaka kantatsi: ‘Pavaite pinaiyini eerokaite.’
+cpu	Iro kantacha niyotzi naaka aririka pinkampiteri Pava ompaitya
+cpu	irantemiri, aritake irimatakemiro.”
+cpu	Tera intaani inkamimenteri isheninkapayeeni, aña ontzimatye
+cpu	inkamimenteri maaroiteni itomiite Pava oivaraayetainchari,
+cpu	onkantya irovithaakaantaiyaariri inkarate irashitaiyaari.
+cpu	Tzimayetatsi griego-thatatsiri konovakariri atziriite
+cpu	jataintsiri joimoshirenkaiyani.
+cpu	Iro kantacha, osheki judío-payeeni kempisantanairiri Jesús,
+cpu	ari jimatzitanakaro iriiperoriite. Iro kantacha te
+cpu	irooñaarontero, tema itharovakaayetatyaari Fariseo-payeeni,
+cpu	eerora ishineyetairi inkyaayetai japatotapiintaiyani.
+cpu	Ari ithonkanakero iñaavaitakero iroka, iniroite
+cpu	okatsitzimoshiretanakeri Jesús. Eekero jooñaarontanakitziiro
+cpu	iñaaventakeri, ikantzi: “Pikarataiyakeni eerokaite jaka
+cpu	tzimatsi aparoni pithokashityaanane. Omaperora.”
+cpu	Maaroni pairyagainane naaka inkovakoyetaina iñaañaatana,
+cpu	aritake nomatakeneri. Ari onkantya intharomentayeetantyaariri
+cpu	Ashitanari, okantakaantziro jimatzimotantakeri Itomi.
+cpu	Jiroka nokantakaantane: Ontzimatye petakotavakaayetaiya
+cpu	nokempitairora naaka netakoyetaami eerokaite.
+cpu	Aririka impokake Tasorentsijanori, iriitake iyotakaapaakemirone
+cpu	maaroni kyaaryoori. Tema eero iñaavaitashivaitaro
+cpu	ikovakaashitari irirori, aña inkamantantayetero ikemakeri. Ari
+cpu	iriyotakagaimiro onkarate avisayetatsine apaata.
+cpu	Maaroni nashitari naaka irijatzi pashitari eeroka. Ikaratzi
+cpu	pashitari eeroka irijatzi nashitari naaka. Tema iriiyetake
+cpu	oñaakantayetairori novaneenkaro.
+cpu	Irika Caifás iriitajaantakera kantakeriranki judío-payeeni:
+cpu	“Iroora aritatsi ashinete aparoni atziri inkamimentayetai.”
+cpu	Eejatzi ishitovapai Pilato, ikantapairi judío-payeeni:
+cpu	“Pameneri, jirika nomishitovakeri onkantya piyotantyaari te
+cpu	noñe ompaitya inkenakaashityaari irika.”
+cpu	Ari monkarapaitetapaaka jovetsikaventapiintaitaro kitaite
+cpu	jimakoryaantaitari. Irootake kaari ikovantaiyani judío-payeeni
+cpu	inkatziyakote ipaikakoyeetakeri kitaiteriki jimakoryaantaitari,
+cpu	tema iroka kitaite iro jiñaapinkathaperoyeetziri. Irootake
+cpu	ikovakotantakariri Pilato inkaraaporitakaanteri paikakotaari
+cpu	inkamantanakyaari thaankiini, irovatzikaryaakoyetairiita eejatzi.
+cpu	Ikantziro Jesús: “Eero poirikana, tema tekera niyaataita
+cpu	nontsipatapaiyaari Ashitanari. Iro kantacha piyaate
+cpu	pinkamantenari iyekiite, iroora niyaatai nonkaratapairi
+cpu	Ashitanari tsika itzimi Ashitzitamiri eejatzi eerokaite. Iri
+cpu	Novavanetari naaka, irijatzi Pivavanetzitari eerokaite.”
+cpu	Japiitakeri josampitziri: “Simón, itomi Jonás,
+cpu	¿petakotanama?” Ikantzi Pedro: “Piyotzi eeroka
+cpu	naapatziyami.” Ikantzi Jesús: “Paamakoventapiintyaanari
+cpu	nokempitakaantaari noishate.”
+cpu	Kaankithaantevetya onkantya ipanko,
+cpu	Ari iriñaavyayetakya evankariite,
+cpu	Iñaavaitake Pinkathari, ikantavairi Novinkatharite: Pisaikapai
+cpu	nakojanoriki ampinkathariventante.
+cpu	Iyekiite, niyotzi naaka, tera piyoperotero okaratzi
+cpu	pantayetakeri, ari ikempitakari eejatzi pijevarepayeeni.
+cpu	Iro kantacha jakanakeri Pedro ipoña Juan, ikantanakeri:
+cpu	“¿Aritatsima nompiyathatyaari Pava, onkantya
+cpu	nonkempisantantyaamiri eerokaite? Intsityaa pinkantena.
+cpu	Josampitavakero Pedro, ikantziro: “Pinkantena, ¿Arima
+cpu	ikaratzi ovinaro?” Akanake iroori: “Jee, ari ikaratzi.”
+cpu	Pinkeme nonkantemi naaka: Eero pimaimanetziri irika,
+cpu	piñaashiminthatavakyaari. Iriirika antashivaitaro
+cpu	inintakaanekiini, ari impeyashitaiya apaniro, inkempitayetyaari
+cpu	apiteroka noñaaventakotakeri.
+cpu	Ipoña areetaka antaro tashetsi janta. Osheki
+cpu	ikovityaaneentaiyakeni Egipto-satzi. Ari okempitakari eejatzi
+cpu	janta inampiki Canaán-satzi. Te iriñeero pairani acharineni
+cpu	ompaitya irovayetaiyaari.
+cpu	Ari jovetsikaitakeneri kempitavetyaarine evonkiri vaca.
+cpu	Ikovaiyakeni inkempitakaanteri Pava. Jovamaakeneri ipirapayeeni
+cpu	iroimoshirenkantyaariri ivavane. Aña iriivetaiyakanira
+cpu	Ikanta ñaapinkathatasorentsitaneriite ikitatakeri Esteban,
+cpu	iniroitera jiraakovaitakari.
+cpu	Jirokara Osankinarentsi iñaanatziri:
+cpu	Arira oparyaanake irookiki kempitavetariri shimapentaki,
+cpu	amenanai kameetha. Ipoña ikatziyanaka, jatanake
+cpu	Potyaante potzikatane nampitsiki Jope onkantya iramantyaariri
+cpu	Simón, ipaiyeetziri eejatzi Pedro.
+cpu	aña jaakameethayetziri ñaapinkathatanairiri,
+cpu	tampatzikashiretatsiri, okantavetaka tsikarika inampiyetaro,
+cpu	Tema iriitajaantakera Pava neshinonkatakariri eejatzi iriroriite
+cpu	ikempitaayetaira aakaite akempisantayetairira Pinkathari
+cpu	Jesucristo. ¿Niinkama naaka nonkovantyaari nomaimaneteri
+cpu	Ari jovaankanakero irako Pedro, onkantya imairetantaiyaarini.
+cpu	Ipoñaashitaka ikinkithatakotanakero tsika ikantakero
+cpu	Avinkatharite jomishitovantaariri. Eekero ikantanakitzi Pedro:
+cpu	“Pinkamanterira iroka Jacobo eejatzi pashine iyekiite.” Ari
+cpu	ishitovanai, jatanake pashineki nampitsi.
+cpu	Iro kantacha Pava jovinkatharyaakeri Saúl-ni, jimpoyaatantaari
+cpu	David-ni. Tema iri David-ni jiñaaventakeranki Pava, ikantzi:
+cpu	Ikanta jiyaataiyeenira judío-payeeni eejatzi kaari isheninkata
+cpu	japatotaiyani, tzimatsira osheki oyaatanakeriri Pablo ipoña
+cpu	Bernabé. Ari ikaminaathayetakeri onkantya iroisokerotantyaarori
+cpu	ikaminthaayetairira Pava.
+cpu	Okantavetaka ikantayevetakari atziriite iroka, osheki
+cpu	opomerentsitaka irovashaantakaantyaariri irovamayeneri
+cpu	ipirapayeeni impometeneri.
+cpu	Ari onkantya nashiyetantaiyaariri kaari pisheninkata,
+cpu	Ikanta Pablo joshinampitanakero Frigia ipoña Galacia, tema te
+cpu	ishinetairi Tasorentsinkantsi inkinkithatakaante janta Asia-ki.
+cpu	Ipoña aamaakotantaneri, ikantakeri Pablo: “Ikantakaantakena
+cpu	amenakotaneriite nomishitovayetaimi. Kantatsi iroñaaka
+cpu	Iriitake ovetsikakeriri etarori shirampari, joshekyaakeri,
+cpu	joivaraakeri irinampitantyaaro maaroni kipatsiki.
+cpu	Ipampithashiretzitaka tsikarika onkarate osamanite
+cpu	irinampiyetyaaro tsikarikapayeeni.
+cpu	Ikanta jareeta Cesarea-ki, avisapai Jerusalén-ki
+cpu	irovethayetapaiyaari kempisantzinkariite. Ipoña javisanai
+cpu	Iriira poñaakaantakarori paitachari Demetrio, kireepakori.
+cpu	Tzimayetatsi eejatzi kempitakariri irirori jovetsikayetziro
+cpu	iryaani oshiyakaantaro otasorentsipankote ivavanetashiitari
+cpu	ipaiyeetziri “Diana.” Iriira jaantayetari osheki kireeki.
+cpu	Ari neevataiyanakeni naakaite, notetaiyanakani irojatzi Aso-ki,
+cpu	ari nokinkishiretakari naanairi Pablo, tema ikovakitziira
+cpu	irirori inkenanake kipatsiki.
+cpu	Iro kantacha avisanakera 7 kitaite, iro
+cpu	navishimatantanakyaarimi. Ari joyaataiyakenani maaroiteni
+cpu	iyekiite, itsipayetakaro iinaite, eejatzi ireentsite. Irojatzi
+cpu	othapikitapaa nampitsi, ari notyeerovaiyapaakani janta
+cpu	impanekiite, noñaañaataiyakeni.
+cpu	Ikanta joirinkakaaveetarira Pablo, eekero ishintsitatzi
+cpu	atziriite ikovi impasavaiteri, irootakera janatantatainakariri
+cpu	ovayiriite inkene irotzikaaventeri.
+cpu	Aritakera joosotayeetakeri impasavaitantaityaariri,
+cpu	josampitanakeri Pablo pashine jevari, ikantziri:
+cpu	“Irosankinatakotane Roma-satzi nonatzi naaka.
+cpu	¿Shinetaantsitatsima impasavaitaitena, tekeraatara
+cpu	iramenakoyeetavakenaro opaita nokenakaashitakari?”
+cpu	Ari josankinatakerori irotyaanteneriri pinkathari, okantzi:
+cpu	Tera impokaiyatyeeni irirori. Jirikatzimaitaka pokaintsiri jaka
+cpu	apatoventzitakanari, intsityaa inkantemiita tzimatsirika
+cpu	iñaakotajaantakenari janta nokenakaashitzitakari.
+cpu	Okanta okitaitamanake, ikyaake janta Agripa itsipatakaro
+cpu	Berenice ovaneenka ikantayetaka. Itsipayetakari eejatzi ijevare
+cpu	ovayiriite, ipoña iriiperoriite atziri saikayetatsiri janta.
+cpu	Ikantakaantake Festo iramayeeteri Pablo.
+cpu	Jiyotakoperotzirori pinkathari Agripa iroka, irootake
+cpu	nokantantayetakarori irokapayeeni. Niyotzi naaka jiyotakotziro
+cpu	maaroni, tera omanakoyetya iroka.
+cpu	ikantakena: ‘Pablo, eero pitharovi, tema ontzimatye pareetya
+cpu	iriñeemi César pinkatharijanori Roma-ki. Irineshinonkatemi
+cpu	Pava eeroka pavisakotakaantayetaiyaariri pikaratakerira jaka
+cpu	Ari ipashiyetanakairi osheki tsikarika opaiyetarika. Ikanta
+cpu	notetanaara niyaatantaiyaari, ipayetavaana naayetanairi.
+cpu	Naaka Pablo osankinatzimirori, iromperatane Jesucristo nonatzi,
+cpu	tema iriitake kaimashiretakenari notyaantajanorite, irijatzi
+cpu	pairyaakena nonkamantantero Kameethari Ñaantsi
+cpu	ikishimatantavaitzi, ithaiyakotavakaavaita, ikisaneentavaitziri
+cpu	Pava, ikaviyavorotantavaitzi, ikantakaaperovaita,
+cpu	jiñaaperovaiyeta, jiyotashivaiyetaro kaariperotatsiri,
+cpu	ipiyathavaiyetari ashitariri,
+cpu	Impoña irika kaari tomeshitaaniri monkaraminthatashitakarori
+cpu	Ikantakaantaitane, iriira amenakotaimineri apaata kyaaryoorika
+cpu	pimonkarayiro okaratzi piyotakotziri, pipiyathatakarorika, iri
+cpu	iyakoventemine, irovasankitagaitemi, okantavetaka tomeshitaaniri
+cpu	Tema te intzime impaitya matakerone irimonkarayero
+cpu	Ikantakaantaitane, ari onkantya inkantantyaariri Pava:
+cpu	“Tampatzikashire nonatzi.” Aña aririka ayotakoperotanairo
+cpu	Ikantakaantaitane, arira ayoperotziri ovana akaariperokitake.
+cpu	Irootakera, itzimi ñaayetairone ishinetane Pava, iriiyetakera
+cpu	ikaratzi aventaashireyetaariri jineshinonkatziitanta irirori.
+cpu	Ari onkantya maaroiteni icharineyetaari iriñaayetairo, tera
+cpu	intaani añaayetairo aakaite judío, itzimi ipayetajaantaitakeri
+cpu	Ikantakaantaitane, aña maaroiteni inkarate
+cpu	aventaashiretaiyaarine Pava, oshiyakotaariri Abraham-ni. Ari
+cpu	oshiyavaitaaro incharineyetaimi Abraham-ni maaroni aakaite.
+cpu	Aparoni atziri piyathari, iri kantakaantakerori
+cpu	ikaariperoshiretantanakari osheki atziriite. Ipoña aparoni
+cpu	atziri kempisantaneri, iri kantakaantakerori
+cpu	itampatzikashireyetantaari osheki atziriite.
+cpu	Tekeraminthara añeero oshiyakaaventainchari
+cpu	“Kaamanetaantsi,” osheki apiyathatapiintakaro
+cpu	Ikantakaantaitane, amatapiintakero kamaarotatsiri. Irootakera
+cpu	Ikaratzi matakerori iroka eerora okantzi irinimotakairi Pava.
+cpu	Ikempitakaantayeetakenari piratsi jovamaayeetziri.
+cpu	Iro kantacha, nonkantemi naaka: Tekatsira piyomatsite eeroka
+cpu	patzirinkakiini onkantya pinkantantyaari. Tera
+cpu	piñaapinkathateri Pava. Intsityaa pinkinkishiretakoteri
+cpu	ovetsikayetzirori kovitzi. ¿Kantatsima oñaanateri iyovite,
+cpu	onkanteri: Te apantaajatyaana povetsikakena?
+cpu	¿Kantatsima iriyaate irikaite sarinkaveniki iroviriintairi
+cpu	Cristo ikamavetapaintara?
+cpu	Pinkatharí, jovamaayeetakeri kamantaneriite,
+cpu	Ari piñiiro katsima jinatzi Pava, iro kantacha neshinonkataneri
+cpu	jinatzi eejatzi. Ikaratzi antzivashireyetainchari jiñaayetakero
+cpu	ovana ikatsimatzi Pava. Irooma eerokaite, ari piñaapiintatyeero
+cpu	irineshinonkayetemi eekerorika poisokerotatyeeri Pava. Irooma
+cpu	eerorika poisokerotari, ari inkempitakaantakemi oteva
+cpu	Shiretha pinkantayetya, eero piperavaita pantavaitaineri
+cpu	Poshiyakotaiyaari Avinkatharite Jesucristo, pinkempitakaanteri
+cpu	iriimi pinkithaatakotaiya. Eero pantashivaitaro okaratzi
+cpu	Tema maaroite osankinatakotainchari pairani, kempitakarori
+cpu	iroka, josankinayeetakero iriyotaayeetairo. Ari okanta iroka
+cpu	Osankinajanorentsi, iro kantakaarori añaantarori
+cpu	atsinampashirevaitzi, iro tharomentashiretakairi
+cpu	Aririka niyaaminthatakeri España-ki, arira nokoviri
+cpu	nareetanakyaamiri pinampiki. Aririka nosaikimovaitanakemi janta,
+cpu	nokovi pampitakotena potyaantena España-ki.
+cpu	Jovethatami Timoteo, itzimi tsipatanari nantavaitzi, eejatzi
+cpu	nosheninkapayeeni Lucio, Jasón, ipoña Sosípater.
+cpu	Aririka iriñeero nosheninkapayeeni judío
+cpu	intasonkaventantayeete, iroora inkempisantantayetyaari
+cpu	iriroriite. Iriima griego-thatatsiri, aririka inkemayeteri
+cpu	ikempitakaantari iriroriite iyotaneri inatzi, iriitakera
+cpu	¿Tzimatsima impaitya iyotakoperotairine ikinkishiretane
+cpu	Aririkami namenakotya naaka, kempitakatya te ontzimimotaajatena
+cpu	nokenakaashitane. Iro kantacha tera naaka amenakovaitachane,
+cpu	aña iriitakera Avinkatharite amenakojanotainaneri tzimatsirika.
+cpu	Irootakera pookantyaariri irika shirampari matapiintakerori
+cpu	iroka kaariperori. Irooma Pava iriira amenakoyetairine ikaratzi
+cpu	kaari kempisantayetatsine.
+cpu	Irooma terika pimatero piñaakotanetya, ontzimatye
+cpu	pintsipatayetaiya. Tema iro aritatsi pintsipataiya, ari onkantya
+cpu	eero piñaantaro ayimavaitemi.
+cpu	Aparoni iinataitari, okovaperotatya ontsipatapiintyaari oime
+cpu	eenirora aavakaa. Irooma aririka inkamimotakero,
+cpu	osaikashivaitaara iroori, kantatsi agai pashine oime, iro
+cpu	kantacha ontzimatye inkempisantzinkarite eejatzi irirori.
+cpu	¿Tema piyotaiyeni jovapiintaro omperatasorentsitaari
+cpu	tzimakaantatsiri okaratzi jashitakaitarori tasorentsipankoki?
+cpu	¿Tema piyotaiyeni ikaratzi piratsi jashitakaitariri Pava
+cpu	pomepirinimentotsiki, oshinetaantsitzi irovayetyaari
+cpu	Netakotaneete, irootakera pinkempitakaantantyaarori
+cpu	pishiyapithatatyeeromi, piñaayeteririka pashineete
+cpu	iroimoshirenkero iñaapinkathavaitziri oshiyakaarontsi.
+cpu	Te ontzimashitya tsinane, te intzimashitya shirampari, aña
+cpu	apiteroite jashitari Avinkatharite, ikovityaavakaa apitero.
+cpu	Maaroni aakaite, tzimayetatsi opaiyeta jimatakaayetairi
+cpu	Tasorentsinkantsi ari onkantya aminthatakaantayetaiyaariri
+cpu	pashine kempisantzinkariite irantayetairo irirori kameethari.
+cpu	Arira ikenakairori irirori Tasorentsinkantsi joñaakanta,
+cpu	jimatakaayetairora opaiyetarika.
+cpu	Itzimira etakotantachari te inkimoshireventero jantakerorika
+cpu	kaariperori, aña iro ikimoshireventzi irirori iriyotakoyeetairo
+cpu	Tzimatsi nokoviri nonkanteriri irika atziriite,
+cpu	Naaka overaantapaakaro joñaakaana eejatzi, kempivaitaka naakami
+cpu	impoivaitziitatsinemi nontzimake.
+cpu	Kempitakara tzimayetatsi janta kantashiretatsine: “¿Tsikama
+cpu	inkantyaaka impiriintai tonkitsiporoki? ¿Tsikama onkantaajatya
+cpu	Aririka nareetakyaami kantatsira pimpairyee aanakerine kireeki
+cpu	janta Jerusalén-ki intsipataanakero nosankinarepayeeni.
+cpu	Nokinkishiretakotaro iroñaaka, iroora ishinetantakanarori Pava
+cpu	noñaakero nokamimavetaka, onkantya niyotajaantantyaari
+cpu	naventaashiretaiyaari Pava, te arimatsite
+cpu	naventaatziitashivaitya naaka.
+cpu	Akempivaitakaro kasankari itayiri Cristo irinimotakaantyaariri
+cpu	Pava. Iroka kasankainkari kantatsi inkemainkayetairo inkarate
+cpu	avisakoshireyetaatsine, eejatzi inkarate peyashivaitaachane.
+cpu	Oshekira jovamayimavetaitakana ikempitataitakeriranki Jesús,
+cpu	arira iriñaayeetairori irañaantare Jesús.
+cpu	Iroora nomatanairi naaka, jotyaantaitakena noñaaventairi
+cpu	Cristo. Okempivaitakaro iriitajaantakemi Pava
+cpu	apiipiitakaapiintakenarori, nokantzi: “Pariperotaiyaari Pava.
+cpu	Irootake ikovairi Cristo.”
+cpu	Arira ikantziri Avinkatharite, Shintsikiperotatsiri.
+cpu	Aña iro aritatsi, pimpashityaari okovityiimovaitari iroñaaka
+cpu	otzimimoyetzimira eeroka, impoñaashitakya impashitaiyaami
+cpu	eeroka apaata aririka onkovityiimovaityaami. Arira onkantya
+cpu	Iroora ompoñaantanakyaari iretakotziiyetanaiyaami,
+cpu	iriñaañaatakoventanaimi, okantakaaro ikaminthagaimira Pava.
+cpu	¿Piñaajaantzima eerokaite iro nokantantarori iroka tera
+cpu	netakotami? Jiyotzira Pava netakotami.
+cpu	Mavasatzira nokovakotakeri Avinkatharite intsiparyaakoventaina
+cpu	ikemaantsitakaapiintaitana.
+cpu	Arira nokaratziri maaroni iyekiite kempisantanaatsiri jaka
+cpu	nosankinatzimiro iroka. Eerokaite notyaantzini pikaratzi
+cpu	pikempisantai janta Galacia-ki.
+cpu	Tema iriitakera Pava otyaantakeriri Pedro inkinkithatakaayetairi
+cpu	totameshitaanitaari. Irijatzi otyaantakenari naaka
+cpu	nonkinkithatakaayetairi kaari nosheninkata.
+cpu	Iro kantamaitacha ikamintha itsiparyaakoventai Cristo
+cpu	irovasankitaaventaiteromi Ikantakaantaitane, aña iri
+cpu	jashitakaitaka apaniro jovasankitaitakeri. (Iriitake
+cpu	okantakotakeri osankinarentsi, ikantaitakeranki:
+cpu	nomantsiyavaivetatya, nosaikimotakemi, ari okanta
+cpu	netantapaakarori noñaaventzimiro Kameethari Ñaantsi.
+cpu	Tera iri ovashaantakayemirone etajaantanakamiri
+cpu	Iyekiite, naakara osankinatajaantzimirori nakoki iroka,
+cpu	antaropayeeni nokantayetakemiro.
+cpu	Iriima ikaratzi kempisantayetaatsiri, ikempivaitaka ivathami
+cpu	irinaatyeemi Cristo, inampishireyetantaari. Jothotyiiro eejatzi
+cpu	Cristo isaikayetake tsikarika jantapayeeni.
+cpu	Irootake nomatantaarori iroñaaka nokinkithayetairo, iriitake
+cpu	Pava tasonkaventashiretanari nantantarori, tema osheki
+cpu	ikaminthagaana, otzimimotzirira ishintsinka irirori.
+cpu	Aritapaake akempitakari ikantaranki eentsi, ovanaa ipashineyetzi
+cpu	eekerora jiyaatatzi joimonka. Tema ari ikempiyetari kaari
+cpu	shenkaatsine iramataviyeeteri, iriyotaiterika kaari
+cpu	tampatzikatatsine. Iriiyetake kempitakarori arapanayetakairi
+cpu	tampyaa, okenayetzi tsikarikapayeeni.
+cpu	Tema iniroite ovashikyaantzi aririkami añaaventero okaratzi
+cpu	jantayetziri iromananekiini.
+cpu	Irooma eerokaite ashitaaniri, te arite pinkisakaavaitashityaari
+cpu	povaiyane, aña iro aritatsi pintampatzikayeteri, pinkaminayeri
+cpu	tsika okanta ikoviro Avinkatharite.
+cpu	onantyaari pantapiintayetairo kameethari. Ari onkantya
+cpu	pinkiteshiretantyaari eero otzimanta inthavetakotaitemiri apaata
+cpu	Ikovi Pava maaroite iriñaapinkathaperoyetaiteri Jesús,
+cpu	onkantavetya tsikarika janta irinampiyeetyaaro, inkiteki,
+cpu	kipatsikinta, eejatzi otapinaki kipatsi.
+cpu	Iroora nokovaperotanairi niyoperotairi Cristo, tema iriitake
+cpu	ashitaarori ishintsinka ipiriintaara ikamavetaka. Ari onkantya
+cpu	nonkempitakotantyaariri tsika ikanta ikemaantsitakoventantaka,
+cpu	tsika ikanta eejatzi ikamimotantake,
+cpu	Iriira Pava payetemine onkarate kovityiimoyetyaamine eeroka,
+cpu	tema otzimimotziitziri irovaneenkaro Cristo Jesús.
+cpu	Tekatsi iyotaajatatsine pairani opaita iranteri Pava, irojatzi
+cpu	okantzimaita iroñaaka. Iro kantacha aakaite ipaiyeetaira
+cpu	“itasorentsitakaane,” jiyotakaayetairo.
+cpu	Iro kantacha, aririka impiyake Cristo, aripaitera irovañaayetai
+cpu	maaroite, ovaneenkaki ankantaiya antsipatapaiyaari.
+cpu	Ari notyaantemiri eejatzi iyeki Onésimo intsipatanakyaari
+cpu	Tíquico. Tema irika Onésimo iriitake poñeenchari pairani
+cpu	pinampiki. Kyaaryoo javentaanakari irirori Avinkatharite,
+cpu	netakotziitane jinatzi. Apitera inkarate kamantapaakemineri
+cpu	okaratzi nantayetakeri jaka.
+cpu	Piyotzi eejatzi osheki nokaminthaayetaimi, nokempitakotaari
+cpu	ashitaanitachari ikaminairi irovaiyane, iposhenkari,
+cpu	Terika pinkempisante, tera naaka pinthainkake, aña iri Pava
+cpu	pithainkake. Tema iri Pava otyaantakemiri Tasorentsinkantsi.
+cpu	Te aritzi pimanintayetero ikamantantayeetziri.
+cpu	Tzimatsi manintayetakerori inkempisantairomi kyaaryoori
+cpu	ñaantsi, iroovetaka iravisakoshiretantaiyaarimi. Iriiyetakera
+cpu	peyashitaachaneri iramatavitakeriri ovaariperotantaneri.
+cpu	Aryaajaini aaka aririka ayotaante, añaaventziro tsika ikantaita
+cpu	jetakotavakaita. Tema aririka ankiteshiretanai, aririka
+cpu	ampampithashiretanairo tampatzikatatsiri, aririka
+cpu	ankempisantaperotanai, arira amatzirori etakoyetanta.
+cpu	Iro kantamaitacha, tsinaneete, tema irootake ovaiyantaatsiri,
+cpu	ari onkantake avisakoshireyetai eekerorika iyaatakaanakityeero
+cpu	onkempisante, etakotantya, kyaaryooperoini onkameethashireyete.
+cpu	Tema okameethatzimovetai eejatzi añaayetziro añaashintsiyetya
+cpu	koñaaroini avathaki, aña iro kameethaperotataitatsi
+cpu	añaashintsishireyetanaiya añaantyaarori ankiteshireperoyetai.
+cpu	Tera iro antantayetarori iroka onkantya anintaavaiyetantyaari
+cpu	iroñaaka eenirora añaayetzi, aña, eejatzi añeero apaata
+cpu	anintaavaitaiya aririka añagai.
+cpu	Apanirorika ikanta atziri kantakotziriri aparoni jevari, eero
+cpu	pikempisantziri. Irooma inkaraterika apite, eerorika inkarate
+cpu	mava tsika itzimi ñaakotakerine jantakero kaariperori, ari
+cpu	okameethatzi inkempisantaiteri.
+cpu	Ari nokantapiintatya tsireni eejatzi kitaite namanakoyetzimi,
+cpu	nopaasoonketziri Pava, itzimi nantavaitaineri, nomatakotairi
+cpu	ikempiyetaka nocharineete tampatzikashireri.
+cpu	Iro kantacha terika añaayevetaro ankamaiventyaarimi, irooma
+cpu	irirori ikamaiventayetai. Tema ari jashi jovatziiro irirori, te
+cpu	Ari iriñeerori ikaratzi jashitaari Pava iriyoperoshiretairo
+cpu	irantayetairo maaroni kameethari.
+cpu	Aña ontzimatye iroimaantanete ipankoki, irantapiintayetero
+cpu	kameethari, kameetha impampithashiryeeya, tampatzikashire
+cpu	inkantya, tasorentsishireri, iriñaakotanetya,
+cpu	Iro jantantakaro iroka inkene añaayetero ikashiyakaayetakairi,
+cpu	ari añaamampyaarori iroñaaka aritake ankantaitaatyeeni
+cpu	añaayetai. Aritake okanta, irootake ikempitakaantairi iroñaaka
+cpu	kameethashire anatzi, tema neshinonkatantaneri jinatzi irirori.
+cpu	Nokovataike eejatzi, paamaventyaana niyaatashitemi pisaiki
+cpu	eeroka, ari nomayimotapaakemiri. Iroorika pinkampitantakeri
+cpu	pamanakotena, ari ishinetakero Pava omatya.
+cpu	Ari onkempitakoyetaiyaaro okaratzi povetsikane aparoni
+cpu	paisatomairi kithaarentsi.
+cpu	Pinkemairi iroñaaka iñaavaitzi Pava, ikantzi:
+cpu	Tema Jesús ikempitaarira omperatasorentsijanori, irootake
+cpu	jineshinonkayetantairi ontzimerika pomerentsitzimoyetaineri.
+cpu	Tema pairani irirori, tzimavetaka ikovashirevetakari, ari
+cpu	ikempitakotakai añaayetziro avishimoyetairi aakaite. Iro
+cpu	kantachari, tera inkaariperotaajatapainte kapicheeni.
+cpu	Irootakera nokovakoyetaimiri, ari pinkantapiintatyeeya
+cpu	poñaakantairo pinkyaaryooshireyetai, irojatzi
+cpu	omonkarayetantaiyaari okaratzi poyaakoshiretaiyarini.
+cpu	Ari pinkempityaari ikantaranki Melquisedec.
+cpu	Tera imonkaraamaitaro iriroriite okaratzi nantzimotavakaiyaari,
+cpu	Iriitakera Cristo itzimi jotyaantakeri Pava inkantakoventairi
+cpu	atziriite, ari okanta jovakeratakaantaarori antzimotavakaantsi.
+cpu	Tema okantakota ovakerari antzimotavakaantsi, ontzimatye inkame
+cpu	aparoni, iro iravisakotantaiyaari piyathatakarori paisatori
+cpu	antzimotavakaantsi. Ari iriñeetairo ishineyetakairo pairani
+cpu	ankañaanetai. Iroka antzimotavakaantsi, iroovaitake aparoni
+cpu	osankinarentsi tsika oñaaventayeta okaratzi jashiyeetari,
+cpu	oñaaventayetziri eejatzi intzime ashiyetaiyaarone aririka
+cpu	inkamaminthatake ashitaaniri.
+cpu	Nopokake naaka nantairo okaratzi pikovakaakenari eeroka,
+cpu	Iro iraventaashirenka Abraham kantakaakarori impometantyaanerimi
+cpu	Pava irapintzite itomi Isaac, tema Pava iñaantatyaaro
+cpu	iraventaashirenka Abraham. Iroovetainchami irapintziryeerimi
+cpu	¡Notomí! Eero pimanintziro aririka irovasankitaimi
+cpu	Ontzimatye petakotapiintanaiyaari “Iyekiite.”
+cpu	Naakatake Santiago osankinatzirori iroka, iromperatane jovana
+cpu	Pava eejatzi Avinkatharite Jesucristo. Novethatari ikaratzi
+cpu	jashiyetaari Pava oivaraayetainchari pashineki nampitsi.
+cpu	Aririka pikantakari pimatakerora pamaakitantzi, tema aparoni
+cpu	paakameethatake, pimanintashiretakeri pashine.
+cpu	Eerorika otzimanai ashire, peyakotanakai. Ari okempitzitari
+cpu	eejatzi, eerorika antayetziro kameethayetatsiri, amenaashivaita
+cpu	Iyekiite, te apantaro ankantakotavakaavaitya. Aririka
+cpu	pinkantakoteri pashine, pithainkatziirora Ikantakaantaitane.
+cpu	Iro akovajaantairi otzimi ishinetaayeetakairi, ari
+cpu	onkantaitatyeeni añeero, eero othonkaa. Irojatzi
+cpu	ikashiyakaayeetakamiri eerokaite inkiteki.
+cpu	tema piñaakero ikaminthaayetaimi Avinkatharite.
+cpu	Tekatsi kaariperori irantapainte irirori,
+cpu	Iri jatashinenkataintsiri ikinkithatakaayetairi ishire ikaratzi
+cpu	etayetakarori pairani itzimi jashitakoshireyeetakeri.
+cpu	Te ikoviri Pava asagaaventavairentzi,
+cpu	Ontzimatyeera pinkemathayetairo josankinayetakeri
+cpu	kamantantaneriite. Irootakera iyotakaaperotaineri,
+cpu	onkempitakovaitakyaari ootamentotsi ikoñeenkatzi otsirenikitzi.
+cpu	Iroora pantayetanairi eeroka irojatzi impiyantaiyaari Jesucristo
+cpu	intharomentashiretakaapaimi, inkempitapaakyaari impokiro
+cpu	Ontzimatye ankemathatero iroka: Tekera impiyaminthatai Cristo,
+cpu	intzime osheki thainkavaitaneri. Iriiyetake antashivaityaarone
+cpu	okaratzi inevetashiyetari.
+cpu	Itzimirika monkaratanairori ikantakaantane, iriira
+cpu	etakoperotanaariri Pava. Iroora ayotantari kyaaryoo
+cpu	Ikaratzi oisokerotanaariri Cristo, te arite irantanairo
+cpu	kaariperori. Tema inkarate oisokerotarori kaariperori, tera
+cpu	Tekatsira aparoni atziri ñaakerine Pava. Iro kantacha aakaite
+cpu	kantatsi antsipashiretaiyaari, aririka etakotavakaayetaiya.
+cpu	Iriitakera Pava matakairone aatakaantyaarori etakotantapiintaiya.
+cpu	Notomiite, paamaiyaari oshiyakaarontsi. Ari onkantyaari.
+cpu	Netakotané, nokovavetaka nosankinatakotemiro tsika okanta
+cpu	avisakoshireyetantaari aakaite. Iro kantacha iroñaaka
+cpu	okovaperotatya nosankinatemiro tsika okantakota
+cpu	pinkamaitantyaarori pinkempisante, pinkempitakotyaari
+cpu	etayetanakarori kempisantzinkariite itasorentsitakaitairi.
+cpu	Ari inkempitaimiri eejatzi Jesucristo, tema kyaaryoori onatzi
+cpu	okaratzi iñaaventziri. Iriitakera etanaarori ipiriinta
+cpu	ikamavetaka, iriira pinkathariventairiri maaroni ikaratzi
+cpu	pinkatharivetachari jaka kipatsiki. Iriitakera etakoyetairi
+cpu	aakaite. Iriitakera kempitakaantairi inkivaatyeemi,
+cpu	ipeyakoyetairora ayaariperonka ikapathainkatakeranki
+cpu	“Jiroka posankinateneriri imaninkarite kempisantzinkariite
+cpu	apatotachari Pérgamo-ki. Iriira ñaanatziriri otzimimotziri
+cpu	irosataamento apimitzikaratatsiri okanta othoyempitzi. Ikantziri:
+cpu	Irootzimatake nompiyake. Kisora povero pikempisantakeri, eero
+cpu	pamenaashivaitanta panintaiyaaro impayeetaimiri,
+cpu	Iniroite niraanaka, tema tekatsi materone irapinairyeero
+cpu	Te onkoñaatanai inkite, okempivaitanakaro apinaitaranki
+cpu	iniroite tsipana. Te iriñeetairo otzishipayeeni
+cpu	otarankayetanake eejatzi othampishipayeeni.
+cpu	iro iraperotyaami inkamayetemi ikaratzi saikayetantarori
+cpu	inkaare, eejatzi ikempiyetakari saikayetantakarori iniroite
+cpu	Ipoña iñaavaitanake noñaakeri maninkari jaatzikapaakero
+cpu	inkaare, ipoña kipatsi. Itzinaavakotanakero irakoperori,
+cpu	Okanta otzimaanitake tsinane, shiramparyaaniki inake. Iriitakera
+cpu	jevatantaiyaarine atziriite irashirokotzite. Omapokashitaka
+cpu	jagaitanakeri ithointakara Pava isaikamentoki.
+cpu	Aparoni iyotaneri, ari onkantake inkemathatero iroka
+cpu	oshiyakarori ivairo piratsi. Tema iroka oshiyakarori ivairo
+cpu	piratsi, irootake josankinayeetziri “666.”
+cpu	Eeroka impokashiyetai atziriite, iñaapinkathayetaimi.
+cpu	Okithaatakari iroka tsinane, okityonkamaitatzi, ipoña
+cpu	ojonkeromaitzi eejatzi. Kameetha jovaneenkayeetantakaro oro,
+cpu	ipoña poreryaataneri mapikiite. Oirikanakitake
+cpu	jovetsikayeetziri oro. Kempivaitaka ari ojaikitakyaami
+cpu	oyaariperonka, eejatzi omayempinka.
+cpu	Inkantaiyeni: ‘¡Ikantamacheetziri nampitarori janta!
+cpu	Irooperotziivaivetaka nampitsi. Tzimayevetacha osheki irooperori
+cpu	kitamaromairi imanthaki, jonkeromaitatsiri, eejatzi
+cpu	kityonkaperomaitatsiri. Tzimayevetacha osheki iroorote, imapine
+cpu	Ikithaatakotakaro othakakeri iraantsi. Iri ipaitayeetziri
+cpu	Irootakera noshinetakeneri kitsirinkaneriite. Naaka Pava itzimi
+cpu	iñaapinkathayetai. Iriitake nonkempitakaantairi notomiite.
+cpu	Ipoña ikantanakena eejatzi: “Okaratzi posankinatakotakeri
+cpu	avisayetatsineri apaata, eerora povitsinekakotziro, tema
+cpu	irootzimatake iriñeetero avisatsineri.

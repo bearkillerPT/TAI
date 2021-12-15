@@ -1,0 +1,195 @@
+cnt	Tsá₃ ca₂jŋia₃ jë₄ juɨg₂ Nazaret, ŋó₃ bá₄ ca₂i₁'i₅ të₂ Capernaum, caun₂ juɨg₂ a₂niog₅ chei'₅₄ jmɨ₁ŋí'₄ 'uë₃ ja₁tén₄ Zabulón quian'₅₄
+cnt	’'E₂ guë́₄ dsen'₃ 'nia'₂, jë₁ma₂të́₂ rë₁qui₃jnáu'₂ dsa₂ jág₁, qui₂co₂jmóg'₂, a₂juá'₂ ca₂le₃jë́₃ ne₅₄ jág₁ a₂tsá₃ tí₅ ja₁con'₂
+cnt	’Tión'₂ 'nia'₂ të₂le₃ o₄juɨ₅ dsag₂. Ia₁ a₂'ɨ́₂ juë'₂ bá₄ ja₁dsɨ₂ton'₅₄ dsa₂ juɨ₅ a₂jiog₅ ja₁dsɨ₃'éin₂. Ja₂lɨn₃ guë́₄ juɨn₅
+cnt	―Te₁gui'₅₄, tsá₃ ca₂tɨ́n₂ jniá₂ jua'₅₄ o₁'ú'₃ 'ne₂ dsi₂néi₂ quió₃; jŋia'₅₄ lia'₂ a₂jme₁jmó'₂ 'éi'₃ bá₄, jaun₂ 'lión₂ dsa₂ 'éi₂
+cnt	Në₁jua'₂ cha₂ ja₁lɨn₅₄ tsá₃ 'nio₃ dsa₂ guein₃ 'nia'₂, on₃ guë'₂ 'nio₃ nag₃ jág₁ quián'₂ 'nia'₂ në́₃, co₂ŋei'₅₄ 'uɨ́n'₂ 'nia'₂ dsi₂néi₂
+cnt	juɨ₁lia'₂ i₂tsá₃ ca₂'ág₂ caun₂ dsɨ́₅ ca₂join₃ chi₂jua'₂ ca₂join₃,  a₂jiá₃ chi₁co'₅₄ quió₃, tsá₃ ca₂tɨ́in₂ léin₂ dsa₂ quiáng₃.
+cnt	―¿'Ein₂ 'nia'₂, i₂'ŋio₅ jan₂ já'₂ cha'₂, në₁jua'₂ ca₂bain₃ siá₅ juɨ₁lia'₂ caun₂ jmɨg₄ sa₅₄, tsa₁ dsó₅ dsɨ₃dsein₂₃ já'₂ quiáin₅?
+cnt	―Juɨ₁lia'₂ dsɨ₂tan₅₄ tion'₅₄ le₁dsoin'₅₄, nió'₅ mɨ'₅₄, tsá₃ uë́₂ tió'₅ jua'₅₄ tsá₃ dsɨ₃'én₂ 'éi'₃ quió'₅. Le₂në₅ bá₄ ján₃
+cnt	Ia₁ juɨ₁'ein₂ guë́₃ i₂jmo₅ a₂'ŋio₂ dsɨ́₅ Ŋe'₃ jniá₂ i₂guá₅ guei'₅₄ i₂juɨ́g₃, i₂'éi₂ bá₄ lɨ́n₅ juɨ₁lia'₂ dsó₂ rɨ́ng'₃, 'io₅₄
+cnt	¿On₁jua'₅₄ i₂në₅ ja₁ŋi'₅₄ të₅'má₃? ¿On₁jua'₅₄ chog₅₄ i₂chen₂ María? ¿On₁jua'₅₄ i₂në₅ i₂lɨ́n₅ rɨn'₅₄ Santiago  quian'₅₄ Së́₄,
+cnt	Ca₂le₃jɨ́n₃ bá₄ dsa₂ ca₂guë́'₃ ca₂lia'₂ ca₂'ág'₃ dsɨ́₅. Jme₁ca₂lë₃ guë́'₅, jaun₂ ca₂cág'₃ bá₄ guë́₄ guia₃-tɨ́n₂ tsɨ₁mɨ'₂
+cnt	jaun₂ në́₃, jme₂tɨ́n'₂ 'nia'₂ dsa₂ 'éi'₃ a₂tsá₃ ma₃tion₅₄ 'nió'₅ jme₃'on₅₄ dsa₂ chog₅₄-jmei₂. O₄quió'₄ tag₄ quián'₂ 'nia'₂ guiong'₅₄
+cnt	Ján₃ bá₄ juá'₂ 'nia'₂ jme₁lɨn₅₄ juɨ₁lia'₂ të₃ o₃'iog₂, “Tiá'₃ jmɨ́₅ në₃, ia₁ guéin₂ jniá₂ jnei₅ tio'₅₄ guei'₅₄.” Ŋi'₅₄ bá₄
+cnt	'nia'₂ 'a₂ lia'₂ jua'₅₄ 'e₂ jein₅ jág₁ 'a₂ lia'₂ jniá₂ guei'₅₄, jŋia'₅₄ lia'₂ 'e₂ a₂të₅ ne'₅₄ 'nia'₂ jmɨg₄ në₃ bá₄, tsá₃ ŋi'₅₄
+cnt	Në₁jua'₂ mɨ₂ne'₅₄ jmo₅ a₂tang'₂ dso₄, dsi₄ ján₃, tiong₂ uɨ́ng₂: ia₁ ja₂lɨn₃ guë́₄ dse₃ a₂dsiáng'₄ ja₁le₃chang'₂ co₂tan₅₄ a₂teng'₅₄
+cnt	La₁ ca₂ŋag₃ juɨg₅₄ ca₂tsɨ́'₃ jan₂: “A₂mei₅₄ quiáng₃, tsá₃ 'e₂ jua'₅₄ a₂tsá₃ dsi₂ten₅₄ jmo₅ jniá₂ ja₁cong'₂. ¿Tsa₁ ca₂lë₃ jág₁
+cnt	Jaun₂ jme₁'nio₃ jme₁tsáun'₂, la₁ ca₂rë₃gain₃ bá₄ dsa₂ juɨn₅ i₂quian'₅₄ Jesús, ia₁ ca₂le₃jɨ́n₃ bá₄ dsa₂ jmo₂₃ dsɨ́₅ a₂lɨ́n₅ 'éi₂
+cnt	Jmɨg₄ jaun₂ ca₂o₃lén₂ i₂lɨn₅₄ dsa₂ saduceos ca₂o₃jɨin₅₄ Jesús. Ia₁ tsá₃ 'én₂ dsa₂ 'éi₂ a₂jen'₅₄ táng₃ dsa₂ jë₁ma₂dsain₃. Jaun₂ jág₁
+cnt	Jaun₂ jag'₅₄ 'nia'₂: “Jua'₅₄ mei'₂ bá₄ ca₂rë₃chóng₃ jniog₄ jmɨg₄ jaun₂ lia'₂ con'₂ jme₁chan₂ dsa₂ can'₅₄ quián₂ ma₂lɨ́g'₂, tsá₃
+cnt	Jaun₂ ca₂juá'₂ juɨg₅₄: “'Ŋio₅ dse₃ ca₂jmo'₅₄. Lɨ́ng'₅ bá₄ jan₂ dsa₂ dsen₃ i₂ca₂rë₃ti'₅₄; ca₂rë₃teng'₅₄ bá₄ quian'₅₄ a₂ca₂juɨg₄
+cnt	Jme₁jnio₂ 'nia'₂ ne'₅₄, chi₁len'₄ 'nia'₂ Diú₄, ia₁jaun₂ tsá₃ tsɨ₃sén'₂ 'nia'₂. Dsón'₂ bá₄ jaun₂ 'ŋio₂ bá₄ dsɨ́₅ jme₂dsí₂ quián'₂ 'nia'₂,
+cnt	Jme₁jnia₃ jaun₂, ca₂le₃jɨ́n₃ juɨg₅₄ jme₂dsa₂ quian'₅₄ gui'₅₄ can'₅₄ quián₅ dsa₂ juɨg₂ ca₂jmo₃ caun₂ jág₁ a₂jŋɨi'₃ Jesús.
+cnt	'Uɨg₅₄ jaun₂, chen₅ 'lióg₂ juɨ₁dsi₂jmó₂ 'í₁ tau₂ 'ŋio₅ ca₂lia'₂ ca₂të́₂ jmɨg₄ 'nɨ₅, ia₁ con'₂ tsá₃ ŋó₅ në₁jua'₂ ja₂lén₂ dsa₂
+cnt	i₂jme₁quiain'₅₄ të₂, jaun₂ táun₂ jág₁ cang₂, lé₂ le₃juá'₂: “Ma₂ca₂jein'₅₄ bá₄ táng₃.” Ia₁ në₁jua'₂ ca₂lë₃ le₂jaun₂, ja₂lɨn₃
+cnt	Jme₁co₂lág₂ jaun₂, ca₂dsi₃lein₃ ja₁tion'₅₄ rɨin'₅₄. Jaun₂ ca₂jɨ́in₂ juɨn₅ dsa₂ sián'₂ tion'₅₄ le₃lág'₃ jaun₂. Tion'₅₄ të₅juá'₅ në́₃,
+cnt	La₁ chi'₂ dsɨ₂guia₃-tɨ́n₂ në́₃, tsá₃ ca₂ŋɨ́i'₂ 'e₂ jein₅ jág₁ a₂juá'₂ le₂jaun₂, ton'₂ tsá₃ ma₃ca₂tiá₃ dsɨ́₅ jua'₅₄ a₂ŋag₃ guë́₄
+cnt	Ia₁ le₂në₅ bá₄ Jaun₅ dsa₂ mɨ₂güɨ́g₃, tsá₃ ta₁ jaun₂ já₅ jua'₅₄ a₂jme₃ti₃ dsa₂ ne₅₄; a₂jme₃ti₃ ta₁ ne₄ dsa₂ bá₄ já₅, a₂quí₃
+cnt	La₁ ca₂rë₃gain₃ ca₂le₃jɨ́n₃ dsa₂ i₂quian'₅₄ Jesús. Ia₁ ca₂le₃jɨ́n₃ dsa₂ jme₁'éin₂ a₂jme₁lɨ́n₄ Juan₅₄ të₃dsón'₂ jan₂ dsa₂ i₂'ë́₂
+cnt	Ia₁ tón'₃ dsa₂ qui₃jɨ́in'₂ rɨin'₅₄ jmɨg₄ jaun₂, jaun₂ jŋag'₃ dsa₂; juɨ₁lia'₂ jmei₂ qui₃jɨ́in'₂ chi'₂ quiáin₅. Chi'₂ guë'₂ në́₃,
+cnt	Jaun₂ o₂nó'₅ 'nia'₂ o₂chei'₅₄ chi'₂ dsɨ₂guia₃-tɨ́n₂ quiáin₅, Pe₄ në́₃, a₂ma₂'ein₅₄ juɨ₅ ŋó₅ jŋiái₅ lia'₂ con'₂ guë́₄ 'nia'₂ juɨ₅
+cnt	Jaun₂ ca₂i₃gó'₃ dsɨ́₅ ca₂le₃jɨ́n₃ i₂tion'₅₄ nag₅ jág₁ quió'₅, ia₁ 'ŋio₅ lɨn₃ ŋi₅ 'a₂ lia'₂ qui₂jéin'₃ jág₁ quió'₅ dsa₂ 'éi₂.
+cnt	Co₂ráun₂ jme₁'en₅₄ Jesús caun₂ juɨg₂, jaun₂ ca₂dsióg₃ jan₂ dsa₂ dso'₅₄ i₂lɨ́n₅ 'mé'₅ 'iog₅, ta₁jain₂. Jme₁ca₂jɨ́in₂ Jesús, ca₂tóin₂
+cnt	ján₃ bá₄ jme₁ŋɨ₅ i₂chen₂ Juana i₂lɨ́n₅ dsa₂ mɨ́₂ quián₅ Cuza, dsa₂ i₂niog₅ ne₄ 'e₂ a₂cha₂ quió'₅ Herodes; ján₃ bá₄ jme₁ŋɨ₅ i₂chen₂
+cnt	Jë₄ jaun₂, ŋó₃ jan₂ dsa₂ mɨ́₂ i₂dso'₅₄ ma₂guia₃-tɨ́n₂ ŋi₂ a₂tɨin₂,  la₁ ca₂lia'₂ 'i₁jan₂ tsá₃ 'ein₂ ma₂ca₂tió'₃ jme₃'lió₂.
+cnt	―Co₂në₅ 'en₅₄ 'éi'₃ Jaun₅ dsa₂ mɨ₂güɨ́g₃ a₂dsɨ₃ŋɨ́i₂ uɨg₅ 'ŋio₅ lɨn₃; jme₃'iog₅₄ dsɨ₂gui'₅₄ can'₅₄, lia'₂ juɨg₅₄ jme₂dsa₂,
+cnt	La₁ jág₁ jaun₂ në́₃, tsá₃ ca₂ŋɨ́'₂ dsɨ́₅ chi'₂ dsɨ₂guia₃-tɨ́n₂, ia₁ tsá₃ jme₁ma₂'i₄ 'éi'₃ a₂le₃ŋɨ́i'₂. Jaun₂ tsá₃ ca₂tiá₂
+cnt	Cang₂ jaun₂ ca₂quión'₂ Te₁gui'₅₄ 'nag'₂ ne₂guión₂ rë₂dsɨ́₂ guian₃ (70) dsa₂ sián'₂.  Jaun₂ qui₂ca₂chein₃ jma₃on₃ jma₃on₃ 'éi₂ i₃léin₂ ne₄
+cnt	La₁ chi₂jua'₂ le₂jaun₂ 'uɨin'₄ jniá₂ quian'₅₄ bí₂ quió'₅ Be'elzebú, ¿'ein₂ guë'₂ quió'₅ bí₂ quian₅ i₂quian'₅₄ 'nia'₂ a₂lé₂ le₃'uág'₂
+cnt	―Të₃ŋi'₅₄ 'nia'₂ tsá₃ i₂jmo₂ jua'₅₄ a₂ŋɨ́₄ lë₃ 'ɨ́n₅ 'au'₂ a₂le₃cha₂ quiáng'₂. Ia₁ on₃jua'₅₄ jmá'₃ a₂ŋɨ́₄ cha₂ quió'₅ dsa₂
+cnt	Mei'₂ bá₄ cang₂ jaun₂, dsó₂ i₂me'₂ guë́₄ qui₂ca₂'nag₃ a₂jme₁ma₂lë́₅ quió'₅. Quian'₅₄ cu₄ jaun₂ ca₂'í₃ juɨ₅ i₁ŋɨ₂ uɨ́ng₂ caun₂
+cnt	Juɨ₁lia'₂ i₂rë₂ti'₅₄ rë₂ quian'₅₄ ca₂juɨg₄ a₂të₂no₄ gu₂, ján₃ bá₄ le₂jaun₂ rë₂ti'₅₄ quian'₅₄ 'lióng₂. Le₂jaun₂ guë'₂ juɨ₁lia'₂
+cnt	Ia₁ jme₁tion'₅₄ dsa₂ 'éi₂ jmɨg₄ jaun₂ qui₂guë́'₅, qui₂'ɨ́n'₂ në́₃, jme₁qui₂jéin'₂ gu₂, qui₂cuɨin₂₃ chi'₂ quiáin₅ a₂jéin'₂ gu₂,
+cnt	ca₂lia'₂ jme₁ca₂dsióg₃ jmɨg₄ i₁ca₂'í₃ Noé 'ŋió'₃ nɨ₁barco, a₂ca₂can'₂ rë'₂ jmɨg₂ ta₁caun₂ mɨ₂güɨ́g₃, ca₂i₃'én₂ ca₂le₃jɨ́n₃.
+cnt	―Jme₁chan₂ jan₂ dsa₂ i₂ca₂jmo₃ caun₂ ja₁nau₂ ca₂chéin'₃ uɨng₂ mɨ́g₂ uvas. Cang₂ jaun₂ ca₂o₃'ɨ́in₃ bá₄ ca₂ŋó₃ uë́₂ ja₁siá'₂. Gu₂
+cnt	―Ca₂le₃jë́₃ a₂jág'₂ 'nia'₂ tióng'₂ në₅, já₅ caun₂ jmɨg₄ jë₁dsɨ₃'én₂, tsá₃ ma₃'e₂ nɨ₁cang₁ te₂'ŋiá₄ jua'₅₄ a₂le₁juɨ́₄ guë́₄
+cnt	'Iog₂ co₂dsia₅ ca₂rë₃liá'₃; tsɨ₁'mɨ'₂ cortina a₂jme₁'ei₅ dsi₂néi₂ guá'₅ templo, co₂dsia₅ ca₂chen₃ ca₂lë₃ tɨn₃ dso'₅₄ jo₂.
+cnt	Ia₁ jua'₅₄ mei'₂ guë́₃ ca₂rë₃'éng'₂ jág₁ quió'₅ Moisés, ján₃ bá₄ le₂jaun₂ jme₁le₃'éng'₂ jág₁ quió₃, ia₁ jniá₂ bá₄ ca₂'ag₃ Moisés ne₄
+cnt	Jme₁ca₂jnia₃ jaun₂, ca₂rë₃lí'₄ dsa₂ i₂të₁'ŋiá₄ të₂le₃ quióng₄ ca₂taun₂ jmɨ₁ŋí'₄, a₂jme₁chí'₄ caun₂ tan₅₄ tsɨ₁mu₅ ja₁jaun₂, ton'₂
+cnt	Chi₂jua'₂ 'ein₂ jan₂ ma₂'ei₅ dsɨ́₅ jmo₃ a₂'ŋio₂ dsɨ́₅ Diú₄, le₃ŋi₅ bá₄ 'éi₂ 'a₂ lia'₂ lë́₅ jág₁ a₂jme₂tág₂ jniá₂, chi₂jua'₂ já₅
+cnt	La₁ a₂juá'₂ le₂në₅ a₂'ɨin₂₃ Jme₂dsí₂ Jŋió₅ i₂jme₁ma₂'i₄ 'éi'₃ guen₃ dsa₂ i₂'én₂ të₂le₃ quió'₅; ia₁ tsá₃ jme₁ma₂guan₅ bá₄
+cnt	―Dsa₂ chan₂ gua'₅₄ 'uë₃ la₂ bá₄ lɨ́n'₅ 'nia'₂; jniá₂ në́₃, lɨ́ng₅ i₂chan₂ guei'₅₄. Dsa₂ i₂tén₅ mɨ₂güɨ́g₃ la₂ bá₄ lɨ́n'₅ 'nia'₂;
+cnt	―On₃jua'₅₄ 'uɨg₅₄ dsáu₂ 'ŋiog₅, on₃ guë'₂ 'uɨg₅₄ dsáu₁ chog₅₄-jmei₂; a₂jaun₂ bá₄ ca₂lë₃ ia₁jaun₂ le₃jniá₂ juɨ₅bí₂ quió'₅ Diú₄
+cnt	'ë₂ guë́₄ bá₄ 'éi₂ i₂ca₂jmo₃ Diú₄ rë₂tson₄, i₂ca₂chein₃ mɨ₂güɨ́g₃. ¿'Nia'₂ juɨg'₂ 'ɨ́ng'₅ 'lɨg'₅₄ Diú₄ ia₁ jniá₂ në₂juá'₃
+cnt	―Në₅ bá₄ jág'₂ 'nia'₂, tsá₃ 'e₂ quɨ'₅₄ 'nia'₂ jmɨg₄ jmó'₂ 'i₁caun₂. Jag₄ de'₂ 'nia'₂, ma₂i₂lén₂ ta₁caun₂ mɨ₂güɨ́g₃ le₃quió'₅
+cnt	Jme₁ma₂ca₂dsan₃ juá'₂ Jesús le₂në₅, ca₂o₃'ɨ́in₃ quiain'₅₄ chi'₂ dsɨ₂guia₃-tɨ́n₂, qui₂ca₂'ain₃ Jɨ'₅₄ Jma₃ Cedrón. Le₂quióng₄ ja₁jaun₂,
+cnt	Ja₁jaun₂ jme₁tión₂ dsa₂ i₂jme₂ti₃ ta₁, quiain'₅₄ chi'₂ 'ɨ'₅₄ quián₅ guá'₅. Jme₁ma₂ca₂dsia₃ ca₂jo'₅₄ si₂, ia₁ a₂jme₁güɨ́g₂, jaun₂
+cnt	Jme₁ma₂ca₂lë₃ tion₅ 'lióg₂ Jesús ne₄ cróg₄, jaun₂ ca₂can₃ tsɨ₁'mɨ'₂ quió'₅ Jesús, jaun₂ ca₂jmo₃ quén₂ dso'₅₄, jma₃jan₂ 'lióg₂ lia'₂
+cnt	ca₂dso'₅₄. Ján₃ bá₄ le₂jaun₂ ca₂can₃ nɨ₁tsɨn'₅₄ Jesús. La₁ nɨ₁tsɨn'₅₄ në́₃, tsá₃ jme₁rë₂'me₅; jme₁lë́₄ caun₂ 'mɨ'₂ con'₂ lë́₅
+cnt	Jaun₂ 'uɨg₅₄ ia₁ a₂jme₁lë́₄ jmɨg₄ a₂jmo₃ dsa₂ judíos co₂jŋia₅₄ quió'₅, ton'₂ 'uɨg₅₄ ia₁ a₂jme₁lë́₄ ma₂quián₅ jaun₂ tau₂ 'ŋio₅,
+cnt	Jme₁ca₂nei₂ jë₁le₂'uɨg₅₄ jmɨg₄ semana jaun₂ në́₃, jme₁tion'₅₄ chi'₂ dsɨ₂guia₃-tɨ́n₂ le₁ŋɨi'₂, qui₂le₁jnág₅ 'né₅ ja₁tioin'₅₄, ia₁
+cnt	Jme₁ca₂jnia₃ táng₃ jaun₂, jaun₂ jme₁chén'₄ Jesús chei'₅₄ jmɨ₁ŋí'₄, la₁ tsá₃ jaun₂ ŋi₅ chi'₂ dsɨ₂guia₃-tɨ́n₂ jŋia'₅₄ Jesús bá₄ 'éi₂.
+cnt	―Tsá₃ ca₂tɨ́n'₂ 'nia'₂ le₃ŋi'₅₄ 'a₂ lia'₂ jmo₃ Diú₄ Jmei₂ 'éi'₃ ca₂le₃jë́₃ 'e₂ 'ió'₄, 'e₂ jmɨg₄ në́₃. 'Ŋiog₅ bá₄ Diú₄ Jmei₂ ŋi₅
+cnt	La₁ David 'éi₂ jme₁lɨ́n₄ jan₂ i₂jme₁'ë́₂ jág₁ quián₅ Diú₄, jaun₂ jme₁ŋi₅ rë₂ a₂ca₂cuë₃ Diú₄ jág₁ 'ɨin₂₃ 'ŋiog₅, a₂le₃chan₂ jë₄
+cnt	quió'₅ ja₁ŋi'₅₄ chi'₂ dsio₅₄, jan₂ i₂lɨ́n₅ I₂rë₂'ɨ́n₁ quián₅ Diú₄. Jaun₂ i₂'éi₂ guá₃ goin₃ ne₄ ne₄ta₁ ja₁jme₁guá₄ 'ŋiog₅ David.
+cnt	Jaun₂ ca₂rë₃gó'₅ 'ŋio₅ lɨn₃ ca₂le₃jɨ́n₃ dsa₂ 'én₂ i₂lɨ́n₅ guá'₅, ca₂le₃jɨ́n₃ guë́₄ dsa₂ sián'₂ i₂ca₂rë₃ŋi₅ a₂ca₂lë₃ jaun₂.
+cnt	Dsá₂ 'au'₂ 'nia'₂ jmo₄ a₂ca₂lë₃, ma₂ŋó₃ ca₂la₂ 'lióng₂ ŋi₂, ca₂nau₂ Teudas a₂juá'₂ a₂lɨ́in₅ dsa₂ 'uan'₂ dsa₂ dsen₅₄. Jaun₂
+cnt	ca₂jme₃quiong'₅₄ con'₂ quén₂ 'ŋiá₂-lón₂ dsa₂ ŋe'₂. La₁ jme₁ca₂jŋag'₃ dsa₂, ca₂le₃jɨ́n₃ dsa₂ i₂jme₁quiain'₅₄ në́₃ ca₂i₃léin₂
+cnt	La₁ tsá₃ jua'₅₄ 'e₂ ca₂cuë₃ Diú₄ 'uë₃ la₂, on₃ guë'₂ ja₁chi'₃ caun₂ tag₅₄ jua'₅₄ ca₂cuë₃. La₁ ca₂cuë₃ bá₄ Diú₄ jág₁ quió'₅
+cnt	a₂cuë₃ 'uë₃ la₂, a₂jmo₃ le₃cha₂ quió'₅ chi'₂ quián₅ bá₄ Abraham jë₁ma₂join₂₃, o₁jŋia'₅₄ guë'₂ jmɨg₄ jaun₂ tsá₃ chi'₂ quián₅ Abraham
+cnt	’O₁jŋia'₅₄ la₂ tsá₃ jme₁'nio₃ dsa₂ go₄ Moisés le₂jŋiá₅, ia₁ ca₂juá'₂: “¿'Ein₂ ca₂'ɨn₃ 'ne₂ a₂lɨ́ng'₅ dsɨ₂tan₅₄ i₂qui₂dsɨ₅ 'éi'₃
+cnt	ja₁con₂ jnia'₅₄?” la₁ Diú₄ në́₃ ca₂chein₃ Moisés a₂lɨ́in₅ co₂'nió'₄ dsɨ₂tan₅₄ i₂lió₂, të₂le₃ quian'₅₄ ángel i₂ca₂jme₃jnia₅ jë₄
+cnt	Ján₃ bá₄ ca₂rë₃'én₂ 'ŋiog₅ Si₂mu₅₄ 'éi₂, ca₂jŋói₂ jmɨg₂ ján₃. Jaun₂ guë́₄ ca₂jme₃lióg₃ ca₂jme₃quiain'₅₄ Fe₂li₄, qui₂jág₅
+cnt	Jaun₂ dsa₂ 'én₂ rɨin'₅₄ në́₃, ca₂to'₂ 'ŋió'₃ caun₂ tsɨ₁mɨ'₂ pa₁, jaun₂ a₂'uë₂ ca₂sióin₂ 'éi₂ juɨ₅ ne₄ nɨ₁'ia'₂ a₂jme₁lë́₄
+cnt	Herodes në́₃ ca₂të₃, ca₂tióng₃ caun₂ jmɨg₄ a₂chi₁jŋiog₂₃ dsi₁lén₂ dsa₂. Jme₁ca₂të́₂ jmɨg₄ jaun₂, ca₂quɨ́'₂ Herodes tsɨn'₅₄
+cnt	'Cang₂ jaun₂ ca₂dsɨn₃ con'₂ quén₂ 'ŋiá₂-láu₂ rë₂dsɨ́₂ të₂láu₃-guiá₂ (450) ŋi₂, ca₂qui₃dsɨ₅ Diú₄ 'éi'₃ jɨn₄ dsa₂ 'éi₂ të₂le₃
+cnt	Jaun₂ në́₃, Jme₂dsí₂ Jŋió₅ bá₄ ca₂jme₃'o₅₄ a₂'niog'₅₄ jnia'₅₄ dsɨ₅, jaun₂ dse₃ bá₄ lág₂ jnia'₅₄ a₂tsá₃ cuë₅₄ jnia'₅₄ 'nia'₂
+cnt	―Chi₂jua'₂ jmo'₂ 'nia'₂ 'au'₂ a₂lɨ́n₅ jniá₂ të₃dsón'₂ dsa₂ i₂'én₂ jág₁ quió'₅ Te₁gui'₅₄, i₂nó'₅ 'nia'₂ ja₁quió₃ i₁jŋia'₄.
+cnt	Ia₁ quian'₅₄ bá₄ jniá₂ 'ne₂; 'i₁jan₂ tsá₃ téi₂ gu₂ jua'₅₄ a₂jmóg'₂ uɨg₅. Ia₁ juɨn₅ dsa₂ chan₂ juɨg₂ la₂ i₂le₃'én₂ quiáng₃.
+cnt	Ca₂i₃jŋióg₄ bá₄ jnia'₅₄ i₂náu₅ quian'₅₄ nɨ₁barco ca₂të₂ Asón ca₂i₁te₁ Pa₄, ia₁ jme₁ma₂lë́₅ jág₁ a₂'nio₃ dsó₃ 'ŋiog₅ juɨ₅ tag₅₄.
+cnt	Jaun₂ ca₂jen'₂ jnia'₅₄ dsa₂ 'én₂ rɨn'₅₄ tián'₅ ja₁jaun₂. Jaun₂ ca₂tió'₄ jnia'₅₄ guio₃ jmɨg₄ quiain'₅₄. Dsa₂ 'éi₂ në́₃, ca₂'ë́₂ jág₁
+cnt	Juá'₂ le₂në₅, ia₁ ma₂jág₂ dsa₂ le₂jŋiá₅ ma₂jɨ́in₂ Trófimo i₂chan₂ Efeso a₂i₂ŋɨ₅₄ quiain'₅₄ Pa₄ jë₄ juɨg₂ Jerusalén, jaun₂ lɨ́in₂
+cnt	Jaun₂ ca₂tság₃ táng₃ jniá₂: “Diú₄ quián₅ dsa₂ can'₅₄ quián₂ jniog₄ ma₂ca₂quióin'₂ 'ne₂ le₂jŋiá₅, ia₁jaun₂ le₃cuɨng'₂ 'e₂ jaun₂ a₂'ŋio₂
+cnt	―¡Diú₄ jnáu₃ quiáng'₂ 'ŋiag'₂, 'ne₂ i₂lɨ́ng'₅ lia'₂ lë́₅ caun₂ nɨ₁'ia'₂ a₂jŋia'₅₄ jniá₂ tiog₂ të₂le₃ co'₅₄!  ¿'Ŋéi'₂ 'ne₂ ja₁në₅
+cnt	qui₂dsɨ́'₁ 'éi'₃ ja₁con₂ jniá₂ con'₂ lë́₅ Si₂ 'Éi'₃? ¿Jaun₂ 'e₂ lë₃ jmo'₂ 'éi'₃ a₂cuë₃ dsa₂ jniá₂, ton'₂ tsá₃ le₂jaun₂ ta₁ quí'₅ Si₂
+cnt	Jaun₂ ca₂të́'₃ juɨg₅₄ 'lióg₂ dsen₅₄ on₃ juɨg₅₄ 'lióg₂ quiáin₅, ca₂jmo₃ 'éi'₃ a₂jmo₃ 'éi₂ co₂jŋia₅₄ tɨn₃ 'ŋiá₂-lón₂ 'lióg₂
+cnt	a₂dsɨ₃léin₂ juɨ₅ tag₅₄; 'nag'₂ ne₂guión₂ rë₂dsɨ́₂ guian₃ guë'₂ (70) dsɨ₃lén₂ co₁dsɨn₅₄ cua₁, tɨn₃ 'ŋia₂-lón₂ guë'₂ i₂cán₂ ŋí₁
+cnt	Chi₂jua'₂ cha₂ guë'₂ dso₄ a₂ma₂'no₃, a₂ca₂tɨ́ng₂ jóng₂, jaun₂ guén₄ bá₄ jniá₂ 'mú₃ quió₃. La₁ chi₂jua'₂ tsá₃ dsau₅ dso₄ a₂bóg'₂ dsa₂
+cnt	në₅, jaun₂ 'i₁jan₂ tsá₃ 'ein₂ ca₂tɨ́n₂ jua'₅₄ a₂jáng'₂ jniá₂ o₄gú₃ dsa₂ 'éi₂. Jaun₂ mɨ₅ jniá₂ nég'₄ ne₄ gui'₅₄ emperador, ia₁jaun₂
+cnt	Ia₁ a₂'éng₂ a₂jme₃jen'₅₄ Diú₄ 'lag₄, juɨ₁lia'₂ lë́₅ jág₁ quió'₅ ca₂cuë́'₃ gui'₅₄ can'₅₄ quián₂ jnia'₅₄ ma₂lɨ́g'₂, 'uɨg₅₄ jaun₂
+cnt	―'I₁ca₂juɨg₄ tsá₃ 'e₂ ma₂jmo₃ dsa₂ në₅, jua'₅₄ a₂ca₂tɨ́in₂ 'i₄ 'éi'₃ jóin₂, on₃ guë'₂ jua'₅₄ a₂dsi₂ten₅₄ 'ein₅₄ né'₃ 'má₃
+cnt	Caun₂ 'uë₂ jme₁ma₂të́₂ tɨn₃ semanas a₂tio'₅₄ jnia'₅₄ juɨ₅, lia'₂ ma₂jiog₅ jaun₂ bá₄ dsí₂ ne₄ Jmɨ₁ŋí'₄ Adria,  jme₁ca₂rë₃lí'₄ dsa₂
+cnt	'Io'₂ ca₂jmo₃ dsa₂ quian'₅₄ jnia'₅₄. Jaun₂ ca₂cuë₃ dsa₂ ca₂le₃jë́₃ 'e₂ 'nió'₅ quián₂ jnia'₅₄ jë₁ma₂të́₂ rë₁tió'₄ táng₃ jnia'₅₄
+cnt	Jaun₂ në́₃, 'nió'₄ a₂jme₁jme₃juɨin'₂ Diú₄ i₂tsá₃ ton₄ jmɨg₄ jón₂, ma₂ca₂jme₃tsɨ́in₃ bá₄ a₂co₂tág₅ co₂'né'₅ quió'₄ Diú₄ quian'₅₄
+cnt	nió'₄ quió'₅ dsa₂ mɨ₂güɨ́g₃ i₂dsan₂, juɨ₁lia'₂ nió'₄ quió'₅ já'₂ i₂'ɨn₅, já'₂ i₂tsë́'₅ quió'₅, já'₂ i₂lë́₂ quén₂ mɨ₂tag₄ në́₃.
+cnt	'ne₂ guë'₂ i₂jme₂tɨ́ng'₂ i₂sián'₂, ¿'e₂ guë'₂ 'uɨg₅₄ tsá₃ jme₂tɨ́ng'₁ guë'₂ 'ŋiag'₂? Chi₂jua'₂ 'ne₂ guë'₂ 'ë́'₅ jág₁ a₂tsá₃
+cnt	¿'E₂ jua'₂ jniog₄ jaun₂ në́₃? ¿A₂tsá₃ ta₁ tí₄ 'Éi'₃ ia₁ a₂'éin₂ jniog₄? ¡Dsón'₂ tsá₃ le₂jaun₂! 'Nió'₄ të₂le₃ cuë₂ bá₄ jniog₄ bí₂
+cnt	Ia₁ të₂le₃ quian'₅₄ Cristo 'éi₂ bá₄ ma₂i₁to'₅₄ jniog₄ ja₁jme₂gu'₅₄ Diú₄ ia₁ a₂'ua₁ dsɨ́₅, të₂le₃ ia₁ a₂'éin₂. Ja₁dse₃ në₅ në́₃,
+cnt	Le₂në₅ bá₄ 'nia'₂ ján₃, jmo₄ bá₄ 'nia'₂ 'au'₂ a₂ma₂dsang'₃ të₂le₃ quió'₅ dso₄, la₁ chan'₂ bá₄ 'nia'₂ le₃quió'₅ Diú₄ të₂le₃ quian'₅₄
+cnt	Ia₁ guion₄ jniá₂, 'i₁caun₂ a₂dse₃ tsá₃ cha₂ të₂dsɨ₃ jniá₂, co₂'nió'₄ le₃jua'₅₄ lia'₂ con'₂ lɨ́ng₅ dsa₂ nɨ₁ŋɨ́₅, ia₁ 'ɨ́n₅ bá₄
+cnt	Ia₁ jág₁ quió'₅ Diú₄ a₂ca₂cuë́'₃ Abraham, a₂la₂ bá₄ jaun₂: “Jein₂ rë₂në́₃ ŋi₂ caun₂, guio₅₄ jniá₂, jaun₂ le₃chan₂ jan₂ guein₂ quián₅
+cnt	La₁ të₂le₃ quió'₅ dsa₂ israelitas në́₃, ca₂juá'₂ Isaías a₂dsen₅₄ dsɨ́₅: “Juɨ₁'a₂ guë́₃ la₂ juɨn₅ lɨn₃ tsɨ₁jon₂ dsa₂ juɨg₂ Israel téin₅
+cnt	Juɨ₁lia'₂ të₂le₃ quian'₅₄ jág₁ dse₃ a₂lión₂ dsa₂, lɨ́in₅ co₂'nió'₄ dsa₂ i₂'ŋia₅₄ Diú₄, o₄quián'₂ 'nia'₂; la₁ lia'₂ ma₂'nio₃ jaun₂
+cnt	La₁ 'ne₂ në́₃, ¿'e₂ 'uɨg₅₄ cáun'₂ 'í₁ ja₁con₂ rɨ́ng'₂? ¿O₃ 'e₂ lë₃ jɨng'₅₄ sion₅ rɨ́ng'₂? Ia₁ ca₂le₃jág₃ bá₄ jniog₄ dsi₁no₃
+cnt	'ɨ́n₂ dsɨ₃ jniá₂ ŋɨg₅₄ juɨ₅ ja₁tion'₅₄ 'nia'₂ jë₁ma₂të́₂ rë₁nei₅₄ juɨ₅ España, ia₁jaun₂ lé₂ le₃tsag'₅₄ ne₄ juɨ₅ jaun₂, cang₂
+cnt	Timoteo, i₂quian'₄ jniá₂ jmo₂₃ ta₁, dsiáin'₂ jág₁ a₂cuɨin₂₃ Diú₄ 'nia'₂; le₂jaun₂ bá₄ ján₃ Lucio quian'₅₄ Jasón, Sosípater, i₂lɨ́n₅ dsa₂ go₃
+cnt	Juɨ₁lia'₂ dsa₂ i₂tsá₃ lɨ́n₅ i₂gu₂dsí₂ në́₃, tsá₃ guein₂₃ jág₁ quió'₅ Jme₂dsí₂, ia₁ lë́₅ jág₁ co₄ bá₄ la₂ le₃quió'₅ 'éi₂. Tsá₃
+cnt	Jaun₂ bá₄ në́₃, con'₂ jŋia'₅₄ dsa₂ i₂jme₂ti₃ ta₁ ne₄ Cristo bá₄ ca₂tɨ́n₂ dsa₂ jág₂ jnia'₅₄, a₂niog₅ ne₄ jnia'₅₄ jág₁ a₂jme₁rë₂'ma₄
+cnt	On₃jua'₅₄ jaun₂ rë'₂ juá'₅ jniá₂ a₂qui₂dsɨ₃uɨ́n'₃ 'nia'₂ co₂dsia₅ co₂ŋei'₅₄ ja₁con₂ dsa₂ i₂'no₅ dso₄, ja₁con₂ dsa₂ i₂'ua'₂ dsɨ́₅,
+cnt	dsa₂ i₂'ang₅, dsa₂ i₂qui₂jme₂juɨn'₂ diú₄ lag₄ në́₃. Ia₁ co₂ŋei'₅₄ jme₁'uɨ́n'₃ 'nia'₂ mɨ₂güɨ́g₃ la₂, jua'₅₄ mei'₂ guë́₃ le₂jaun₂.
+cnt	Con'₂ juá'₅ jniá₂ 'ŋió₃, 'nio₃ jniá₂ jua'₅₄ ca₂le₃jɨ́n₃ bá₄ dsa₂ ŋe'₂ lɨ́n₅ lia'₂ lɨ́ng₅ 'ŋió₃; la₁ con'₂ në₅ tɨn₂ Diú₄ jma₃quén₅
+cnt	La₁ juɨ₁lia'₂ dsa₂ i₂ma₂'ei₅ caun₂ dsɨ́₅, on₃jua'₅₄ a₂'nió'₅ 'ein₂ qui₂chi₂quióng₂ jmɨg₄, të₂le₃ quɨ'₅₄ jmɨg₄ jmo₃ 'í₁ 'ŋiog₅,
+cnt	¿Tsa₁ ŋi'₅₄ 'nia'₂, juɨ₁lia'₂ dsa₂ i₂niog₅ ne₄ a₂jŋió₅ dsi₂néi₂ guá'₅, guë́'₅ juɨ₁lia'₂ a₂cha₂ dsi₂néi₂ guá'₅; juɨ₁lia'₂ dsa₂
+cnt	Juɨ₁lia'₂ jme₁quian'₅₄ jniog₄ rɨn'₅₄, 'ne'₂ jniog₄ a₂'a₄ copa jŋió₅, cuë₂ ti₁'mag'₄ Diú₄: ¿on₁jua'₅₄ a₂quein'₄ jniog₄ jmɨ₄ Cristo? Le₂jaun₂
+cnt	Ia₁ juɨ₁lia'₂ ca₂já₃ dsa₂ mɨ́₂ dsɨ₁con₂ dsa₂ ŋe'₂, ján₃ bá₄ le₂jaun₂ guë'₂ në́₃ rë₂chan₂ dsa₂ ŋe'₂ cáun₂ dsa₂ mɨ́₂. La₁ ja₂lé₂
+cnt	Tsá₃ jmo₂₃ a₂tsá₃ dsi₂ten₅₄ jmo₃ ja₁con₂ rɨin'₅₄; tsá₃ 'no'₂ jmá'₃ lia'₂ con'₂ a₂dse₃ quió'₅ 'ŋiog₅; tsá₃ con'₂ lë₁rë₂'nei₂, on₃
+cnt	Cang₂ jaun₂, ca₂jág₂ co₂nio₄ lë́₅ guë́₄ ca₂jau₅₄ mei₅ dsa₂ rɨn'₅₄ jniog₄; mei'₂ tsá₃ ca₂le₃jɨ́n₃ bá₄ dsa₂ i₂ca₂jág₂ 'éi₂ chain₂
+cnt	Jaun₂ juɨ́g₂ jniá₂ 'nia'₂, tsá₃ lë₁jme₁gan₅ 'nia'₂ 'au'₂. Tsá₃ i₂jmo₂ 'nia'₂ juɨ₁lia'₂ juá'₂ caun₂ jág₁ a₂cha₂: “Juɨ₁lia'₂ dsa₂
+cnt	Le₂caun₂ do₂mei₅₄,  ca₂tɨ́n'₂ bá₄ 'nia'₂ le₂jang'₂ le₂jang'₂ cáu'₁ ca₂la₂ 'a₂ con'₂ tí₅ ca₂lɨng'₃. A₂jaun₂ con'₂ quiog₂ 'ma₄ 'nia'₂,
+cnt	Caun₂ bá₄ le₁'ág₄ dsɨ₅ jnia'₅₄ le₃ja₁con'₂ 'nia'₂ a₂jmó'₂ tió'₃ 'au'₂ a₂lión'₂ 'nia'₂ në́₃. Ia₁ ne₄ bá₄ jniog₄, në₁jua'₂ quen'₅₄
+cnt	La₁ tsá₃ tei₄ jme₁'ei₅ dsɨ₃, ia₁ tsá₃ ca₂dsáng'₂ Tito rɨn'₅₄ jniog₄. Ca₂'ág'₃ bá₄ jniá₂ jág₁ rɨn'₅₄ jniog₄ ja₁jaun₂, jaun₂ guë́₄ guio₃
+cnt	Le₂në₅ në́₃, juɨ₁'a₂ guë́₃ la₂ të₁ja₂lé₂ o₂me'₅₄ dsɨ₅ jë₁chong₂ jnia'₅₄, la₁ tsá₃ lë́₅ jua'₅₄ a₂tsá₃ dsian₅. Juɨ₁'e₂ guë́₃
+cnt	Jaun₂ le₂në₅ bá₄ lë́₅ 'a₂ lia'₂ të₁i₂nio₄ jnia'₅₄ i₂quian₄ jnia'₅₄ jág₁ o₄quió'₄ Cristo, ia₁ co₂'nió'₄ 'ŋiog₅ bá₄ Diú₄ chi₂léin'₂
+cnt	dsa₂ të₂le₃ quian'₅₄ jnia'₅₄. Jaun₂ jnia'₅₄ në́₃, chi₂len'₄ jnia'₅₄ 'nia'₂  quian'₅₄ jág₁ 'éi'₃ quió'₅ Cristo: “'Éi₂ 'nia'₂ caun₂ jág₁
+cnt	Cuë₅ jniá₂ jág₁ dse₃ a₂juɨ́g₂ 'nia'₂, juɨ₁lia'₂ jág₁ la₂, a₂dse₃ quián'₂ 'nia'₂ guiong'₅₄ bá₄, ia₁ 'nia'₂ bá₄ i₂ca₂jme₁lióg'₄
+cnt	Ta₁ a₂jme₂ti₄ jniog₄ ne₄ i₂sián'₂ jaun₂, jmo₅ ta₁ on₃jua'₅₄ jmá'₃ a₂jme₂'o₅₄ cuë₃ a₂'nió'₅ quió'₅ rɨn'₅₄ jniog₄; ján₃ bá₄ jmo₅ ta₁
+cnt	Lia'₂ con'₂ jme₁'eng₅₄ quian'₅₄ 'nia'₂, dsón'₂ bá₄ ca₂rë₃'nió'₅ quió₃ le₂jaun₂, la₁ tsá₃ 'e₂ guei₂ ca₂cuë́₃ jniá₂ 'i₁jan'₂ 'nia'₂. Ia₁
+cnt	dsa₂ rɨn'₅₄ jniog₄ i₂chan₂ Macedonia la₂ bá₄ ca₂i₁lein₅₄ juɨg₂ Corinto në₅, ca₂i₁can₅ a₂tsá₃ cha₂ quió₃ lia'₂ con'₂ jme₁chi₁quian₁₂
+cnt	jniá₂ jmɨg₄. Qui₂ca₂jmo₃ bá₄ jniá₂ 'í₁ jaun₂ tsá₃ 'ein₂ 'nia'₂ cán'₁ guei₂ o₄quió₃ jniá₂, jaun₂ caun₂ jmo₅₄ bá₄ jniá₂ 'í₁ jaun₂.
+cnt	Jaun₂ juɨ₁jme₂gu'₅₄ bá₄ Te₁gui'₅₄ Jesucristo; juɨ₁le₂jniá₂ jë₄ quián'₂ 'nia'₂ a₂'nio₃ Diú₄ 'nia'₂; juɨ₁'ei₅ caun₂ jág₁ jɨn'₄ 'nia'₂
+cnt	La₁ tsá₃ 'ein₂ ca₂cuë₃ jnia'₅₄ jmɨg₄ jŋia'₅₄ 'i₁ca₂tiá₂ tei₄ jua'₅₄ jme₃gau₅ 'éi₂, ia₁ 'niog₂ jnia'₅₄ a₂caun₂ o₁nóg'₅ cha₂ jág₁
+cnt	Cristo ca₂quí₃ ca₂lió₂ jniog₄ uɨg₅ a₂jme₁ca₂tág₂ guéi₁ con'₂ lë́₅ 'Éi'₃. Ia₁ ne₄ Si₂ juá'₂: “Ma₂rë₂'ë́₂ uɨg₅ ja₁con₂ chi₂jua'₂
+cnt	Dso₄ a₂ca₂jéin₃ jniá₂ jaun₂ në́₃ co₂'nió'₄ a₂ca₂caun₃ táu₂ Diú₄ 'nia'₂ bá₄ jaun₂. La₁ on₃jua'₅₄ a₂jaun₂ tsá₃ ca₂guei'₅₄ 'nia'₂
+cnt	jua'₅₄ a₂tsá₃ ca₂rë₃jei'₅₄. Të₂le₃ 'io'₂ guë́₄ ca₂guei'₅₄ bá₄ 'nia'₂ jniá₂ në₂jag₄ bá₄ jan₂ ángel quián₅ Diú₄, në₂jag₄ bá₄
+cnt	Ia₁ në₁jua'₂ chong₂ le₃quió'₅ Cristo Jesús, tsá₃ 'e₂ ta₁ jmo₃ o₁jŋia'₅₄ a₂rë₂uɨng₄ o₃ tsá₃ rë₂uɨng₄ 'e₂ lo₄ dsa₂. Ia₁ a₂le₃'éin₂
+cnt	Jaun₂ lë₃, lia'₂ co₂ráun₂ lé₂ le₃jmó₁, o₁jmó₁ jniog₄ a₂dse₃ ja₁con₂ ca₂le₃jɨ́n₃, la₁ ja₂lɨn₃ guë́₄ le₃ja₁con₂ rɨn'₅₄ jniog₄
+cnt	Ja₁jaun₂ ca₂dsiog₃ ca₂'ag₃ a₂lɨ́in₅ ta₁ juë'₂ lɨn₃ a₂goin₂ ne₄ quió'₅ ca₂le₃jë́₃ 'éi'₃, ne₄ quió'₅ ca₂le₃jë́₃ juɨ₅bí₂ a₂cha₂.
+cnt	'Éi₂ bá₄ juɨn'₂ ne₄ quió'₅ ca₂le₃jɨ́n₃ dsɨ₂tan₅₄ i₂'uan'₂ gon₂, ne₄ ca₂le₃jɨ́n₃ i₂juɨn'₂ i₂lɨ́n₅ juɨg₅₄, ján₃ bá₄ 'éi₂ juɨn'₂
+cnt	ne₄ ca₂le₃jë́₃ ne₅₄ ta₁ a₂lé₂ le₃lén₂ dsa₂, on₃jua'₅₄ jmá'₃ mɨ₂güɨ́g₃ la₂, ŋó₅ në₅ jmo₂₃ 'éi'₃ le₂tan₅₄ mɨ₂güɨ́g₃ caun₂.
+cnt	Jág₁ a₂ma₂ca₂rë₃jniá₂, a₂la₂ bá₄ jaun₂: të₂le₃ quian'₅₄ jág₁ dse₃ a₂lión₂ dsa₂, tɨn₃ dsɨ₂nau₂ gue₃ a₂lë́₅ jág₁ cuë₃ Diú₄
+cnt	co₂rë₂ bá₄ quian'₅₄ a₂tɨn₃ dsa₂ judíos. Lɨ́n'₅ 'nia'₂ dsa₂ i₂tén₅ caun₂ bá₄ ŋɨ́₅, ján₃ guë'₂ tɨn'₃ 'nia'₂ jág₁ a₂ron₅ cuë́₁ quió'₅
+cnt	Jaun₂ jma₃quén₅ ca₂chein'₃ dsa₂ quiáin₅ ca₂cuë₃ bí₂ ca₂cuë́'₃ le₂jan₂ le₂jan₂; i₂lɨn₅₄ ca₂chein'₃ a₂léin₂ i₂chen₄ quiáin₅; i₂lɨn₅₄
+cnt	guë'₂ ca₂ŋɨ₂ bí₂ a₂lé₂ ŋág₃ jág₁ a₂guéi'₅ quió'₅ Diú₄; i₂lɨn₅₄ guë'₂ ca₂cuë́'₃ bí₂ a₂qui₂dsɨ₃'ë́₃ jág₁ dse₃ a₂lión₂ dsa₂;
+cnt	'Nia'₂ guë'₂ jmei₂ chi'₂, tsá₃ jmag'₅₄ chi'₂ quiáng'₂ jua'₅₄ a₂lë₁jmai'₅₄, ia₁jaun₂ tsá₃ uë́₂ 'í₂ 'nei₂ dsɨ́₅, të₂le₃ 'nió'₅
+cnt	Le₂la₂ bá₄ chi₂len'₄ jniá₂ Diú₄: a₂qui₂dsɨ₃jón₃ a₂jme₁'nió'₄ 'nia'₂ rɨ́ng'₂ 'ŋio₅ lɨn₃, lia'₂ ma₂të₂dsi₅₄ jaun₂ a₂qui₂rë₂ŋɨ́'₂
+cnt	La₁ ca₂le₃jɨ́n'₃ bá₄ 'nia'₂ ma₂ŋi'₅₄ 'a₂ lia'₂ ma₂ca₂jme₃jnia₅ Timoteo a₂tɨin₂ a₂ŋi₅ a₂ma₂ja₂náu₅ jnia'₅₄ quiain'₅₄ a₂jme₂tí₁
+cnt	'Éi₂ bá₄ jme₃tsɨ́n₃ nɨ₁ŋɨ₁ jniog₄ a₂dsɨ₃'én₂ la₂, ia₁jaun₂ lé₂ lia'₂ jlá'₁ nɨ₁ŋɨ₁₂ 'ŋiog₅. Jmo₃ bá₄ a₂jaun₂ të₂le₃ quian'₅₄
+cnt	ia₁ cha₂ a₂'ɨ́n₂ 'au'₂ 'nia'₂ a₂ma₂rë₂'ma₄ a₂lé₂ quián'₂ 'nia'₂ guei'₅₄ i₂juɨ́g₃, jág₁ dse₃ a₂tí₅ a₂jme₁ma₂nei'₂ 'nia'₂ le₂jŋiá₅,
+cnt	Jaun₂ lë₃, le₂në₅ juɨ₁lia'₂ ca₂guen'₅₄ 'nia'₂ Cristo Jesús  a₂lɨ́in₅ juɨg'₂ 'nia'₂, caun₂ juɨ₁i₂nio'₄ bá₄ 'nia'₂ le₃quió'₅ 'éi₂;
+cnt	Jmo₄ 'nia'₂ tió'₃ 'au'₂ quian'₅₄ rɨ́ng'₂ le₂jang'₂ le₂jang'₂, ton'₂ 'én₃ 'nia'₂ dsáu₁ rɨ́ng'₂, në₁jua'₂ chan₂ i₂dsia₅ dsáu₁ rɨn'₅₄.
+cnt	Jniá₂ Pa₄, cuɨ́ng₅ Diú₄ 'nia'₂ quian'₅₄ letra quió₃ 'ŋió₃.  Juɨ₁dsiog'₂ bá₄ 'au'₂ 'nia'₂ a₂'eng₅₄ rë₂jnɨ́g₅. Juɨ₁jme₂gu'₅₄ bá₄ Diú₄
+cnt	Jaun₂ ¿'e₂ jaun₂ a₂'ɨ́n₂ dsɨ₅ jnia'₅₄ chong₂, a₂jmo₅ jnia'₅₄ 'io'₂, o₃ premio o₄quió'₄ a₂jmó₁ jnia'₅₄ táu'₅ jë₁ma₂të́₂ rë₁guan'₂
+cnt	Ia₁ 'ŋiog₅ bá₄ Te₁gui'₅₄ sióin₃ guei'₅₄ i₂juɨ́g₃ guió'₃ tiá₂ jmo₃ 'éi'₃, quian'₅₄ jág₁ quió'₅ ángel i₂'uan'₂ guë́₄, dsɨ₃'ein₅₄ ŋí₁
+cnt	juɨ₁cuë́'₄ bí₂ të₂'au'₂ 'nia'₂ ia₁jaun₂ caun₂ bá₄ 'ag₃ 'au'₂ 'nia'₂, jë₁dsiá'₁ jág₁, jë₁jmó'₂ 'nia'₂ ca₂le₃jë́₃ ne₅₄ a₂dse₃.
+cnt	Tsá₃ 'nió'₅ cán₂ ne₄ juɨ₅ quió'₅ guá'₅ jan₂ i₂të₂ca₂rë₃'én₂. Ia₁ con'₂ tsá₃ ŋó₅ në₁jua'₂ 'ŋio₅ ca₂jmo₃ róin₂, tiáin'₃ juɨ₁lia'₂
+cnt	Tsá₃ juɨ₁dsi₂'én₂ 'au'₂ a₂ma₂cuë₃ Diú₄ a₂ma₂tɨng'₂ a₂ca₂ŋɨg'₂ të₂le₃ quian'₅₄ dsa₂ can'₅₄ rɨn'₅₄ jniog₄ i₂ca₂quiog₂ gu₂ ne₄
+cnt	Chi₂jua'₂ chan₂ i₂jme₂tag₅ le₂siá'₂, ton'₂ tsá₃ dsáu₅ dsɨ́₅ jág₁ dse₃ quió'₅ Te₁gui'₅₄ Jesucristo, on₃ guë́₄ juá'₅ quió'₅ Diú₄ në́₃,
+cnt	Diú₄ ma₂ca₂jme₃jnia₂₃ léi₄ ja₁con₂ dsa₂ mɨ₂güɨ́g₃, a₂'nio₃, jme₁ca₂chein₃ Jesucristo i₂lió₂ quián₂ jniog₄, co₂dsia₅ ca₂'éin₂ bí₂
+cnt	A₂la₂ chei'₅₄ dsa₂ i₂jme₂tɨ́ng'₁: dsá₂ dsɨ́₅ juɨ₁jmo₁₂ o₄quió'₄ Te₁gui'₅₄ a₂tsá₃ tsɨin₃ quiain'₅₄ dsa₂, jág₁ a₂tsá₃ ta₁ tí₄,
+cnt	ia₁jaun₂ lén₂ dsa₂ quián₅ Diú₄ jan₂ dsa₂ ma₂ron₂, rë₂ rë₂qui₂rë₂'an₂ dsɨ́₅, rë₂'ŋia₅ ca₂le₃jë́₃ a₂'nió'₅ quió'₅ jaun₂ jmo₃
+cnt	Dsa₂ i₂niog₅ gu₂ guá'₅,  ca₂tɨ́in₂ ŋɨ₃ le₃ne₄ Diú₄ tsá₃ 'e₂ jág₁ cha₂ jua'₅₄ lé₂ le₃bóg'₂ dsa₂ dso₄, on₃jua'₅₄ i₂tsá₃ jág₁ cán₂,
+cnt	on₃ guë'₂ i₂caun₂ lë₁rë₂'ne₂, on₃ guë'₂ 'nió'₅ lén₂ jan₂ dsa₂ 'en₅, on₃ guë'₂ dsa₂ i₂tɨn₂ dsɨ́₅ 'no₅ mɨ'₅₄, on₃ guë'₂ dsa₂
+cnt	Jaun₂ le₂në₅ bá₄, 'ne₂ rɨn'₅₄ jniog₄, jmo₄ dse₃ 'au'₂ quian'₅₄ jniá₂ juɨ₁lia'₂ dsi₂ten₅₄ jmo₃ dsa₂ i₂'én₂ le₃quió'₅ Te₁gui'₅₄, jmo₄
+cnt	'Uɨg₅₄ jaun₂, të₁lia'₂ ron₅ guë́₄ jág₁ a₂ma₂cuë₃ Diú₄ a₂dsi₁no₃ jniog₄ ja₁dsɨ₁jŋia₁ ja₁coin₂, 'nió'₅ jmó₁ jniog₄ 'í₁ con'₂ tsá₃
+cnt	ja₁ca₂'í₃ Jesús o₄quián₂ jniog₄, ca₂dsiáin'₃ ne₄ juɨ₅ quián₂ jniog₄, ia₁ a₂ca₂lɨin₃ jme₂dsa₂ dsen₅₄ co₂tan₅₄, ca₂ne₅₄ lia'₂
+cnt	Jaun₂ guë́₄ ca₂tsɨ́'₃ dsa₂ juɨg₂: “A₂la₂ bá₄ jmɨ₂ quió'₅ jág₁ a₂ma₂lɨ'₅₄ quian'₅₄ Diú₄, lia'₂ con'₂ lë́₅ 'éi'₃ a₂ma₂jmo₃ Diú₄
+cnt	La₁ Jesucristo në́₃, jme₁ma₂ca₂jéin'₂ 'ŋiog₅ co₂ráun₂ tan₅₄ jaun₂ o₄quió'₄ dsáu₁ dsa₂, jaun₂ guë́₄ ca₂guá₂ të₂le₃ gu₂ ne₁ Diú₄.
+cnt	Ján₃ bá₄ të₂le₃ a₂'én₂ Jacob,  jme₁ma₂ja₂quián₃ jóin₂, ca₂jme₃gu'₅₄ quió'₅ le₂jan₂ le₂jan₂ chi'₂ ja₁ŋi'₅₄ José. Jaun₂ ca₂jme₃juɨin'₂
+cnt	Juɨ₁jme₂gó'₃ bá₄ le₃jɨ́n₃ juɨ₁lia'₂ a₂jén'₂ dsa₂ gu₂, ján₃ bá₄ juɨ₁le₅₄ bá₄ 'í₁ juɨ₁lia'₂ ja₁tian'₃ dsɨ₂i₂gu₂ co₂lë₅, ia₁
+cnt	La₁ 'nia'₂ në́₃ të₂le₃ o₂guí'₃ bá₄ tsɨ́ng'₂ dsa₂ te₂ŋé₂. ¿Ia₁ on₁jua'₅₄ dsa₂ cha₂ cu₄ guë'₂ i₂jmóg'₂ 'ang₂ quián'₂ 'nia'₂,
+cnt	Quian'₅₄ mɨ₂'o₄ jniog₄ la₂, 'uë₂ jág₁ a₂jme₂juɨ́n'₁ Diú₄, ján₃ guë'₂ 'uë₂ jág₁ 'lɨg'₅₄ a₂'ɨ́n₅ dsa₂ rɨn'₅₄. Rɨn'₅₄ jniog₄, tsá₃
+cnt	Cu₄nióg₄ cu₄tiog₂ quián'₂ 'nia'₂ qui₂ma₂'io₂ juɨ́'₅. Já₅ caun₂ jmɨg₄ jáng'₃ léi₄ juɨ́'₅. A₂në₅ bá₄ a₂co₃dsag₅₄ quián'₂ 'nia'₂,
+cnt	a₂dsiá₃ nɨ₁ŋɨ'₁ 'nia'₂ guiong'₅₄, lé₂ në₂jag₄ bá₄ si₂. Ia₁ 'ŋio₅ lɨn₃ qui₂ma₂dsia'₅₄ 'nia'₂ le₁má'₂ ca₂le₃jë́₃ ne₅₄ a₂cha₂
+cnt	Ca₂jme₃jnia₅ Diú₄ jág₁ a₂qui₂ca₂ŋɨ́'₂ dsɨ́₅ dsa₂ 'éi₂, la₁ on₃jua'₅₄ a₂dse₃ ja₁coin₂ guioin₅₄, a₂dse₃ të₂le₃ ja₁con'₂ 'nia'₂ bá₄
+cnt	quian'₅₄ Jme₂dsí₂ Jŋió₅ i₂chen₄ já₅ guei'₅₄ i₂juɨ́g₃. Ca₂le₂jiog₅ ángeles në́₃, jme₁'ɨ́n₅ dsɨ́₅ të₃ ne₅₄ ca₂le₃jë́₃ a₂në₅.
+cnt	Tió'₅, a₂ma₂ca₂ŋɨ́₂ juɨn₅₄ qui₂ma₂jmo'₅₄ 'nia'₂ ja₁ma₂ja₂nóg'₅, lia'₂ con'₂ lë́₅ jmo₅-dsáu₅ ca₂le₃jɨ́n₃ dsa₂ i₂tsá₃ cuɨn₅ Diú₄.
+cnt	Ia₁ jme₁chan'₂ 'nia'₂ tsá₃ caun₂ a₂jme₁'ɨ́n₅ 'au'₂; tsá₃ caun₂ a₂'lɨg'₅₄ a₂jme₁qui₂lë́₂ 'au'₂ 'nia'₂ në́₃; jme₁qui₂i₂niog'₅₄
+cnt	qui₂le₁'eng'₅; jme₁qui₂quë́'₂ 'nia'₂ tóng'₂ chí'₅ co₂mɨ'₅₄ niog₅ jmɨg₄. Jme₁'ág'₂ 'nia'₂ ca₂lia'₂ tsá₃ cuente niog₅; jme₁jme₂juɨ́n'₂ 'nia'₂
+cnt	Të₂le₃ quian'₅₄ Silvano  i₂jɨng₅₄ lia'₂ ja₁jɨng₁₂ jan₂ rɨ́ng'₃ i₂rë₂ti'₅₄, ma₂jmo₃ si₂ la₂ ja₁juá'₅ tɨn₃-'nɨ₅ jon₂ jág₁ a₂cuë́₃
+cnt	bí₂ 'nia'₂. Jág₁ a₂ma₂në₂juá'₃ jniá₂ në₅, jáng'₅ léi₄ 'a₂ lia'₂ dsón'₂ 'ua₁ dsɨ́₅ Diú₄. Jaun₂ nau₂ 'nia'₂ tiá₂ juɨ₅ në₅.
+cnt	ján₃ bá₄ le₂në₅ chi₂jua'₂ tsá₃ ca₂'én₂ Diú₄ dsáu₁ dsa₂ i₂jme₁chan₂ mɨ₂güɨ́g₃ gui'₅₄ ma₂lɨ́g'₂, tion₅₄ bá₄ ca₂jme₃cain'₂ jmɨg₂
+cnt	ca₂'éin₂ ca₂le₃jɨ́n₃ dsa₂ i₂tsá₃ Diú₄ cuɨn₅, jŋia'₅₄ lia'₂ Noé bá₄ i₂ca₂lióin₂ i₂jme₁'ë́₂ jág₁ a₂'ë₂₃ caun₂ juɨ₅ co₂dsau₅,
+cnt	La₁ jniog₄ në́₃, le₁jŋia₁ dsi₁no₃ caun₂ guei'₅₄ i₂juɨ́g₃ 'mɨ́₂ quian'₅₄ caun₂ gua'₅₄ 'uë₃ 'mɨ́₂ ja₁ma₂lë́₅ jág₁ cuë₃ Diú₄,
+cnt	ia₁ ma₂ca₂ŋag₅ bá₄ jniog₄ ja₁jme₁dsióg₃; ma₂ca₂rë₃chóng₃ táng₃ jniog₄ jë₁le₃chong₂ co₂tan₅₄. Ne₄ jniog₄ a₂në₅ ia₁ 'nio₃ bá₄ jniog₄
+cnt	La₁ në₁jua'₂ chan₂ i₂lɨn₅₄ juá'₂: “'Nió₃ jniá₂ Diú₄”, la₁ në₁jua'₂ 'ŋiai₅₄ bá₄ guë'₂ rɨin'₅₄ në́₃, jan₂ dsa₂ të₂jág₁ bá₄
+cnt	Le₂con₂ mɨ₂güɨ́g₃ bá₄ i₂nio₄ juɨn₅ dsa₂ i₂jme₂gau₅, tsá₃ jág₁ jmo₂₃ jua'₅₄ a₂juá'₂ a₂ca₂guan₃ Te₁gui'₅₄ chi₁dsáin₃. Dsa₂
+cnt	Le₂në₅ bá₄ ján₃ juɨ₁lia'₂ ca₂jmo₃ dsa₂ i₂jme₁chan₂ juɨg₂ Sodoma quian'₅₄ Gomorra, ca₂le₃jë́₃ guë́₄ juɨg₂ i₂jén₂ ma₂quián₅ jaun₂,
+cnt	Le₂la₂ juá'₂ 'éi₂ i₂jŋió₅, i₂të₃dsón'₂ tí₅ jág₁ quió'₅, i₂'io₅ ŋí₁ llave quió'₅ Rag₅₄ David. Juɨ₁lia'₂ a₂niá₅ 'éi₂, 'i₁jan₂ tsá₃
+cnt	Co₂jaun₂ bá₄ jme₁'io₂₃ bí₂ ján₃, juɨ₁lia'₂ Já'₂ 'Lɨn'₅₄ i₂le₂'uɨg₅₄, a₂qui₃dsɨ₂₃ 'éi'₃ o₄quió'₄; chi₃quióng₂ jmɨg₄ jme₃juag'₂
+cnt	―Tiá₃ ŋí₁ 'mu₃ quiáng'₂; chi₁lo'₂ cag'₅₄ nɨ₁'mu'₂ a₂qui₂le₁'ág₄ nɨ₁uɨng₂ a₂cha₂ gua'₅₄ 'uë₃, ia₁ ma₂ca₂juɨg₂ mɨ́g₂ uvas quió'₅.
+cnt	chi₁dsio₅₄, jaun₂ dsióg₄ ja₁dsɨ₃'éin₂. Dsɨ₃gó'₃ dsɨ́₅ dsa₂ i₂chan₂ ne₄ gua'₅₄ 'uë₃, ca₂le₃jɨ́n₃ i₂con'₂ tsá₃ le₁ton₅ ne₄ si₂
+cnt	ca₂le₃ ca₂nio₃ mɨ₂güɨ́g₃, mɨ₂si₂ a₂rë₂bɨn₅ a₂le₃chan₂ dsa₂; dsɨ₂qui₂dsɨ₃gó'₃ dsɨ́₅ jë₁ma₂jɨ́in₂ Já'₂ 'Lɨn'₅₄, 'uɨg₅₄ ia₁
+cnt	Jaun₂ ca₂jɨng₅₄ i₂të́'₂ Já'₂ 'Lɨn'₅₄, quiain'₅₄ ca₂le₃jɨ́n₃ rag₅₄ chan₂ ta₁caun₂ gua'₅₄ 'uë₃, quiain'₅₄ ca₂le₃jɨ́n₃ 'lióg₂
+cnt	quiáin₅. Ca₂liain'₃ rɨin'₅₄ ca₂jmo₃ caun₂ jág₁ a₂quɨ́in'₂ quiain'₅₄ i₂co₂dsɨn₅₄ cua₁ quiain'₅₄ ca₂le₃jɨ́n₃ 'lióg₂ i₂quiain'₅₄ në́₃.
+cnt	La₁ juɨ₁lia'₂ dsa₂ i₂tén'₅, juɨ₁lia'₂ dsa₂ i₂tsá₃ 'én₂, juɨ₁lia'₂ i₂lɨ₁'ŋio₅, juɨ₁lia'₂ i₂jme₂dsian₅ rɨn'₅₄, juɨ₁lia'₂ i₂nió'₅
+cnt	jág₁ a₂tsá₃ dsi₂ten₅₄ nió'₃, juɨ₁lia'₂ i₂tɨn₂ mɨ́₅ a₂chan₂ dsɨ́₅, juɨ₁lia'₂ i₂jme₂juɨn'₂ diú₄ lag₄, ca₂le₃jɨ́n₃ i₂co₂jmo₅ jág₁

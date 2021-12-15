@@ -1,0 +1,1643 @@
+grc	βιβλος |strong="976" x-morph="N-NSF" γενεσεως |strong="1078" x-morph="N-GSF" ιησου |strong="2424"
+grc	x-morph="N-GSM" χριστου |strong="5547" x-morph="N-GSM" υιου |strong="5207" x-morph="N-GSM" δαυιδ
+grc	|strong="1138" x-morph="N-PRI" υιου |strong="5207" x-morph="N-GSM" αβρααμ |strong="11" x-morph="N-PRI"
+grc	και |strong="2532" x-morph="CONJ" συ |strong="4771" x-morph="P-2NS" βηθλεεμ |strong="965" x-morph="N-PRI"
+grc	γη |strong="1093" x-morph="N-VSF" ιουδα |strong="2448" x-morph="N-GSM" ουδαμως |strong="3760"
+grc	x-morph="ADV-N" ελαχιστη |strong="1646" x-morph="A-NSF-S" ει |strong="1510 5719" x-morph="V-PAI-2S" εν
+grc	|strong="1722" x-morph="PREP" τοις |strong="3588" x-morph="T-DPM" ηγεμοσιν |strong="2232" x-morph="N-DPM"
+grc	ιουδα |strong="2448" x-morph="N-GSM" εκ |strong="1537" x-morph="PREP" σου |strong="4771" x-morph="P-2GS"
+grc	γαρ |strong="1063" x-morph="CONJ" εξελευσεται |strong="1831 5695" x-morph="V-FDI-3S" ηγουμενος
+grc	|strong="2233 5740" x-morph="V-PNP-NSM" οστις |strong="3748" x-morph="R-NSM" ποιμανει |strong="4165 5692"
+grc	x-morph="V-FAI-3S" τον |strong="3588" x-morph="T-ASM" λαον |strong="2992" x-morph="N-ASM" μου |strong="1473"
+grc	x-morph="P-1GS" τον |strong="3588" x-morph="T-ASM" ισραηλ |strong="2474" x-morph="N-PRI"
+grc	τοτε |strong="5119" x-morph="ADV" παραγινεται |strong="3854 5736" x-morph="V-PNI-3S" ο |strong="3588"
+grc	x-morph="T-NSM" ιησους |strong="2424" x-morph="N-NSM" απο |strong="575" x-morph="PREP" της |strong="3588"
+grc	x-morph="T-GSF" γαλιλαιας |strong="1056" x-morph="N-GSF" επι |strong="1909" x-morph="PREP" τον
+grc	|strong="3588" x-morph="T-ASM" ιορδανην |strong="2446" x-morph="N-ASM" προς |strong="4314" x-morph="PREP"
+grc	τον |strong="3588" x-morph="T-ASM" ιωαννην |strong="2491" x-morph="N-ASM" του |strong="3588"
+grc	x-morph="T-GSN" βαπτισθηναι |strong="907 5683" x-morph="V-APN" υπ |strong="5259" x-morph="PREP" αυτου
+grc	ιδων |strong="3708 5631" x-morph="V-2AAP-NSM" δε |strong="1161" x-morph="CONJ" τους |strong="3588"
+grc	x-morph="T-APM" οχλους |strong="3793" x-morph="N-APM" ανεβη |strong="305 5627" x-morph="V-2AAI-3S" εις
+grc	|strong="1519" x-morph="PREP" το |strong="3588" x-morph="T-ASN" ορος |strong="3735" x-morph="N-ASN" και
+grc	|strong="2532" x-morph="CONJ" καθισαντος |strong="2523 5660" x-morph="V-AAP-GSM" αυτου |strong="846"
+grc	x-morph="P-GSM" προσηλθον |strong="4334 5627" x-morph="V-2AAI-3P" αυτω |strong="846" x-morph="P-DSM" οι
+grc	|strong="3588" x-morph="T-NPM" μαθηται |strong="3101" x-morph="N-NPM" αυτου |strong="846" x-morph="P-GSM"
+grc	ερρεθη |strong="2046 5681" x-morph="V-API-3S" δε |strong="1161" x-morph="CONJ" οτι |strong="3754"
+grc	x-morph="CONJ" ος |strong="3739" x-morph="R-NSM" αν |strong="302" x-morph="PRT" απολυση |strong="630 5661"
+grc	x-morph="V-AAS-3S" την |strong="3588" x-morph="T-ASF" γυναικα |strong="1135" x-morph="N-ASF" αυτου
+grc	|strong="846" x-morph="P-GSM" δοτω |strong="1325 5628" x-morph="V-2AAM-3S" αυτη |strong="846" x-morph="P-DSF"
+grc	και |strong="2532" x-morph="CONJ" μη |strong="3361" x-morph="PRT-N" εισενεγκης |strong="1533 5661"
+grc	x-morph="V-AAS-2S" ημας |strong="1473" x-morph="P-1AP" εις |strong="1519" x-morph="PREP" πειρασμον
+grc	|strong="3986" x-morph="N-ASM" αλλα |strong="235" x-morph="CONJ" ρυσαι |strong="4506 5663" x-morph="V-ADM-2S"
+grc	ημας |strong="1473" x-morph="P-1AP" απο |strong="575" x-morph="PREP" του |strong="3588" x-morph="T-GSM"
+grc	πονηρου |strong="4190" x-morph="A-GSM" οτι |strong="3754" x-morph="CONJ" σου |strong="4771"
+grc	x-morph="P-2GS" εστιν |strong="1510 5719" x-morph="V-PAI-3S" η |strong="3588" x-morph="T-NSF" βασιλεια
+grc	|strong="932" x-morph="N-NSF" και |strong="2532" x-morph="CONJ" η |strong="3588" x-morph="T-NSF" δυναμις
+grc	|strong="1411" x-morph="N-NSF" και |strong="2532" x-morph="CONJ" η |strong="3588" x-morph="T-NSF" δοξα
+grc	|strong="1391" x-morph="N-NSF" εις |strong="1519" x-morph="PREP" τους |strong="3588" x-morph="T-APM"
+grc	η |strong="2228" x-morph="PRT" τις |strong="5101" x-morph="I-NSM" εστιν |strong="1510 5719" x-morph="V-PAI-3S"
+grc	εξ |strong="1537" x-morph="PREP" υμων |strong="4771" x-morph="P-2GP" ανθρωπος |strong="444"
+grc	x-morph="N-NSM" ον |strong="3739" x-morph="R-ASM" εαν |strong="1437" x-morph="COND" αιτηση |strong="154
+grc	5661" x-morph="V-AAS-3S" ο |strong="3588" x-morph="T-NSM" υιος |strong="5207" x-morph="N-NSM" αυτου
+grc	|strong="846" x-morph="P-GSM" αρτον |strong="740" x-morph="N-ASM" μη |strong="3361" x-morph="PRT-N" λιθον
+grc	|strong="3037" x-morph="N-ASM" επιδωσει |strong="1929 5692" x-morph="V-FAI-3S" αυτω |strong="846"
+grc	ακουσας |strong="191 5660" x-morph="V-AAP-NSM" δε |strong="1161" x-morph="CONJ" ο |strong="3588"
+grc	x-morph="T-NSM" ιησους |strong="2424" x-morph="N-NSM" εθαυμασεν |strong="2296 5656" x-morph="V-AAI-3S"
+grc	και |strong="2532" x-morph="CONJ" ειπεν |strong="3004 5627" x-morph="V-2AAI-3S" τοις |strong="3588"
+grc	x-morph="T-DPM" ακολουθουσιν |strong="190 5723" x-morph="V-PAP-DPM" αμην |strong="281" x-morph="HEB"
+grc	λεγω |strong="3004 5719" x-morph="V-PAI-1S" υμιν |strong="4771" x-morph="P-2DP" ουδε |strong="3761"
+grc	x-morph="CONJ-N" εν |strong="1722" x-morph="PREP" τω |strong="3588" x-morph="T-DSM" ισραηλ |strong="2474"
+grc	x-morph="N-PRI" τοσαυτην |strong="5118" x-morph="D-ASF" πιστιν |strong="4102" x-morph="N-ASF" ευρον
+grc	ινα |strong="2443" x-morph="CONJ" δε |strong="1161" x-morph="CONJ" ειδητε |strong="1492 5762"
+grc	x-morph="V-RAS-2P" οτι |strong="3754" x-morph="CONJ" εξουσιαν |strong="1849" x-morph="N-ASF" εχει
+grc	|strong="2192 5719" x-morph="V-PAI-3S" ο |strong="3588" x-morph="T-NSM" υιος |strong="5207" x-morph="N-NSM" του
+grc	|strong="3588" x-morph="T-GSM" ανθρωπου |strong="444" x-morph="N-GSM" επι |strong="1909" x-morph="PREP"
+grc	της |strong="3588" x-morph="T-GSF" γης |strong="1093" x-morph="N-GSF" αφιεναι |strong="863 5721"
+grc	x-morph="V-PAN" αμαρτιας |strong="266" x-morph="N-APF" τοτε |strong="5119" x-morph="ADV" λεγει
+grc	|strong="3004 5719" x-morph="V-PAI-3S" τω |strong="3588" x-morph="T-DSM" παραλυτικω |strong="3885"
+grc	x-morph="A-DSM" εγερθεις |strong="1453 5685" x-morph="V-APP-NSM" αρον |strong="142 5657" x-morph="V-AAM-2S"
+grc	σου |strong="4771" x-morph="P-2GS" την |strong="3588" x-morph="T-ASF" κλινην |strong="2825" x-morph="N-ASF"
+grc	και |strong="2532" x-morph="CONJ" υπαγε |strong="5217 5720" x-morph="V-PAM-2S" εις |strong="1519"
+grc	x-morph="PREP" τον |strong="3588" x-morph="T-ASM" οικον |strong="3624" x-morph="N-ASM" σου |strong="4771"
+grc	ιδων |strong="3708 5631" x-morph="V-2AAP-NSM" δε |strong="1161" x-morph="CONJ" τους |strong="3588"
+grc	x-morph="T-APM" οχλους |strong="3793" x-morph="N-APM" εσπλαγχνισθη |strong="4697 5675"
+grc	x-morph="V-AOI-3S" περι |strong="4012" x-morph="PREP" αυτων |strong="846" x-morph="P-GPM" οτι
+grc	|strong="3754" x-morph="CONJ" ησαν |strong="1510 5707" x-morph="V-IAI-3P" εσκυλμενοι |strong="4660 5772"
+grc	x-morph="V-RPP-NPM" και |strong="2532" x-morph="CONJ" ερριμμενοι |strong="4496 5772" x-morph="V-RPP-NPM"
+grc	ωσει |strong="5616" x-morph="ADV" προβατα |strong="4263" x-morph="N-APN" μη |strong="3361" x-morph="PRT-N"
+grc	εχοντα |strong="2192 5723" x-morph="V-PAP-NPN" ποιμενα |strong="4166" x-morph="N-ASM"
+grc	και |strong="2532" x-morph="CONJ" μη |strong="3361" x-morph="PRT-N" φοβεισθε |strong="5399 5737"
+grc	x-morph="V-PNM-2P" απο |strong="575" x-morph="PREP" των |strong="3588" x-morph="T-GPM" αποκτενοντων
+grc	|strong="615 5723" x-morph="V-PAP-GPM" το |strong="3588" x-morph="T-ASN" σωμα |strong="4983" x-morph="N-ASN"
+grc	την |strong="3588" x-morph="T-ASF" δε |strong="1161" x-morph="CONJ" ψυχην |strong="5590" x-morph="N-ASF" μη
+grc	|strong="3361" x-morph="PRT-N" δυναμενων |strong="1410 5740" x-morph="V-PNP-GPM" αποκτειναι
+grc	|strong="615 5658" x-morph="V-AAN" φοβηθητε 5399 5680 5399 5676 V-AOS-2P 5399 5676 δε |strong="1161"
+grc	x-morph="CONJ" μαλλον |strong="3123" x-morph="ADV" τον |strong="3588" x-morph="T-ASM" δυναμενον
+grc	|strong="1410 5740" x-morph="V-PNP-ASM" και |strong="2532" x-morph="CONJ" την |strong="3588" x-morph="T-ASF"
+grc	τινι |strong="5101" x-morph="I-DSN" δε |strong="1161" x-morph="CONJ" ομοιωσω |strong="3666 5692"
+grc	x-morph="V-FAI-1S" την |strong="3588" x-morph="T-ASF" γενεαν |strong="1074" x-morph="N-ASF" ταυτην
+grc	|strong="3778" x-morph="D-ASF" ομοια |strong="3664" x-morph="A-NSF" εστιν |strong="1510 5719"
+grc	x-morph="V-PAI-3S" παιδιοις |strong="3813" x-morph="N-DPN" εν |strong="1722" x-morph="PREP" αγοραις
+grc	και |strong="2532" x-morph="CONJ" επετιμησεν |strong="2008 5656" x-morph="V-AAI-3S" αυτοις
+grc	|strong="846" x-morph="P-DPM" ινα |strong="2443" x-morph="CONJ" μη |strong="3361" x-morph="PRT-N" φανερον
+grc	|strong="5318" x-morph="A-ASM" αυτον |strong="846" x-morph="P-ASM" ποιησωσιν |strong="4160 5661"
+grc	ετι |strong="2089" x-morph="ADV" δε |strong="1161" x-morph="CONJ" αυτου |strong="846" x-morph="P-GSM"
+grc	λαλουντος |strong="2980 5723" x-morph="V-PAP-GSM" τοις |strong="3588" x-morph="T-DPM" οχλοις
+grc	|strong="3793" x-morph="N-DPM" ιδου |strong="3708 5640" x-morph="V-2AMM-2S" η |strong="3588" x-morph="T-NSF"
+grc	μητηρ |strong="3384" x-morph="N-NSF" και |strong="2532" x-morph="CONJ" οι |strong="3588" x-morph="T-NPM"
+grc	αδελφοι |strong="80" x-morph="N-NPM" αυτου |strong="846" x-morph="P-GSM" ειστηκεισαν
+grc	|strong="2476 5715" x-morph="V-LAI-3P" εξω |strong="1854" x-morph="ADV" ζητουντες |strong="2212 5723"
+grc	x-morph="V-PAP-NPM" αυτω |strong="846" x-morph="P-DSM" λαλησαι |strong="2980 5658" x-morph="V-AAN"
+grc	οτε |strong="3753" x-morph="ADV" δε |strong="1161" x-morph="CONJ" εβλαστησεν |strong="985 5656"
+grc	x-morph="V-AAI-3S" ο |strong="3588" x-morph="T-NSM" χορτος |strong="5528" x-morph="N-NSM" και |strong="2532"
+grc	x-morph="CONJ" καρπον |strong="2590" x-morph="N-ASM" εποιησεν |strong="4160 5656" x-morph="V-AAI-3S"
+grc	τοτε |strong="5119" x-morph="ADV" εφανη |strong="5316 5648" x-morph="V-2API-3S" και |strong="2532"
+grc	x-morph="CONJ" τα |strong="3588" x-morph="T-NPN" ζιζανια |strong="2215" x-morph="N-NPN"
+grc	και |strong="2532" x-morph="CONJ" αι |strong="3588" x-morph="T-NPF" αδελφαι |strong="79" x-morph="N-NPF"
+grc	αυτου |strong="846" x-morph="P-GSM" ουχι |strong="3780" x-morph="PRT-I" πασαι |strong="3956"
+grc	x-morph="A-NPF" προς |strong="4314" x-morph="PREP" ημας |strong="1473" x-morph="P-1AP" εισιν |strong="1510
+grc	5719" x-morph="V-PAI-3P" ποθεν |strong="4159" x-morph="ADV-I" ουν |strong="3767" x-morph="CONJ" τουτω
+grc	|strong="3778" x-morph="D-DSM" ταυτα |strong="3778" x-morph="D-NPN" παντα |strong="3956" x-morph="A-NPN"
+grc	αποκριθεις |strong="611 5679" x-morph="V-AOP-NSM" δε |strong="1161" x-morph="CONJ" αυτω |strong="846"
+grc	x-morph="P-DSM" ο |strong="3588" x-morph="T-NSM" πετρος |strong="4074" x-morph="N-NSM" ειπεν |strong="3004
+grc	5627" x-morph="V-2AAI-3S" κυριε |strong="2962" x-morph="N-VSM" ει |strong="1487" x-morph="COND" συ
+grc	|strong="4771" x-morph="P-2NS" ει |strong="1510 5719" x-morph="V-PAI-2S" κελευσον |strong="2753 5657"
+grc	x-morph="V-AAM-2S" με |strong="1473" x-morph="P-1AS" προς |strong="4314" x-morph="PREP" σε |strong="4771"
+grc	x-morph="P-2AS" ελθειν |strong="2064 5629" x-morph="V-2AAN" επι |strong="1909" x-morph="PREP" τα
+grc	και |strong="2532" x-morph="CONJ" ιδου |strong="3708 5640" x-morph="V-2AMM-2S" γυνη |strong="1135"
+grc	x-morph="N-NSF" χαναναια |strong="5478" x-morph="A-NSF" απο |strong="575" x-morph="PREP" των
+grc	|strong="3588" x-morph="T-GPN" οριων |strong="3725" x-morph="N-GPN" εκεινων |strong="1565" x-morph="D-GPN"
+grc	εξελθουσα |strong="1831 5631" x-morph="V-2AAP-NSF" εκραυγασεν |strong="2905 5656" x-morph="V-AAI-3S"
+grc	αυτω |strong="846" x-morph="P-DSM" λεγουσα |strong="3004 5723" x-morph="V-PAP-NSF" ελεησον
+grc	|strong="1653 5657" x-morph="V-AAM-2S" με |strong="1473" x-morph="P-1AS" κυριε |strong="2962" x-morph="N-VSM"
+grc	υιε |strong="5207" x-morph="N-VSM" δαυιδ |strong="1138" x-morph="N-PRI" η |strong="3588" x-morph="T-NSF"
+grc	θυγατηρ |strong="2364" x-morph="N-NSF" μου |strong="1473" x-morph="P-1GS" κακως |strong="2560"
+grc	ελθων |strong="2064 5631" x-morph="V-2AAP-NSM" δε |strong="1161" x-morph="CONJ" ο |strong="3588"
+grc	x-morph="T-NSM" ιησους |strong="2424" x-morph="N-NSM" εις |strong="1519" x-morph="PREP" τα |strong="3588"
+grc	x-morph="T-APN" μερη |strong="3313" x-morph="N-APN" καισαρειας |strong="2542" x-morph="N-GSF" της
+grc	|strong="3588" x-morph="T-GSF" φιλιππου |strong="5376" x-morph="N-GSM" ηρωτα |strong="2065 5707"
+grc	x-morph="V-IAI-3S" τους |strong="3588" x-morph="T-APM" μαθητας |strong="3101" x-morph="N-APM" αυτου
+grc	|strong="846" x-morph="P-GSM" λεγων |strong="3004 5723" x-morph="V-PAP-NSM" τινα |strong="5101"
+grc	x-morph="I-ASM" με |strong="1473" x-morph="P-1AS" λεγουσιν |strong="3004 5719" x-morph="V-PAI-3P" οι
+grc	|strong="3588" x-morph="T-NPM" ανθρωποι |strong="444" x-morph="N-NPM" ειναι |strong="1510 5721"
+grc	x-morph="V-PAN" τον |strong="3588" x-morph="T-ASM" υιον |strong="5207" x-morph="N-ASM" του |strong="3588"
+grc	και |strong="2532" x-morph="CONJ" λεγων |strong="3004 5723" x-morph="V-PAP-NSM" κυριε |strong="2962"
+grc	x-morph="N-VSM" ελεησον |strong="1653 5657" x-morph="V-AAM-2S" μου |strong="1473" x-morph="P-1GS" τον
+grc	|strong="3588" x-morph="T-ASM" υιον |strong="5207" x-morph="N-ASM" οτι |strong="3754" x-morph="CONJ"
+grc	σεληνιαζεται |strong="4583 5736" x-morph="V-PNI-3S" και |strong="2532" x-morph="CONJ" κακως
+grc	|strong="2560" x-morph="ADV" πασχει |strong="3958 5719" x-morph="V-PAI-3S" πολλακις |strong="4178"
+grc	x-morph="ADV" γαρ |strong="1063" x-morph="CONJ" πιπτει |strong="4098 5719" x-morph="V-PAI-3S" εις
+grc	|strong="1519" x-morph="PREP" το |strong="3588" x-morph="T-ASN" πυρ |strong="4442" x-morph="N-ASN" και
+grc	|strong="2532" x-morph="CONJ" πολλακις |strong="4178" x-morph="ADV" εις |strong="1519" x-morph="PREP" το
+grc	αμην |strong="281" x-morph="HEB" λεγω |strong="3004 5719" x-morph="V-PAI-1S" υμιν |strong="4771"
+grc	x-morph="P-2DP" οσα |strong="3745" x-morph="K-APN" εαν |strong="1437" x-morph="COND" δησητε |strong="1210
+grc	5661" x-morph="V-AAS-2P" επι |strong="1909" x-morph="PREP" της |strong="3588" x-morph="T-GSF" γης
+grc	|strong="1093" x-morph="N-GSF" εσται |strong="1510 5695" x-morph="V-FDI-3S" δεδεμενα |strong="1210 5772"
+grc	x-morph="V-RPP-NPN" εν |strong="1722" x-morph="PREP" τω |strong="3588" x-morph="T-DSM" ουρανω |strong="3772"
+grc	x-morph="N-DSM" και |strong="2532" x-morph="CONJ" οσα |strong="3745" x-morph="K-APN" εαν |strong="1437"
+grc	x-morph="COND" λυσητε |strong="3089 5661" x-morph="V-AAS-2P" επι |strong="1909" x-morph="PREP" της
+grc	|strong="3588" x-morph="T-GSF" γης |strong="1093" x-morph="N-GSF" εσται |strong="1510 5695" x-morph="V-FDI-3S"
+grc	λελυμενα |strong="3089 5772" x-morph="V-RPP-NPN" εν |strong="1722" x-morph="PREP" τω |strong="3588"
+grc	τοτε |strong="5119" x-morph="ADV" προσηνεχθη |strong="4374 5681" x-morph="V-API-3S" αυτω
+grc	|strong="846" x-morph="P-DSM" παιδια |strong="3813" x-morph="N-NPN" ινα |strong="2443" x-morph="CONJ" τας
+grc	|strong="3588" x-morph="T-APF" χειρας |strong="5495" x-morph="N-APF" επιθη |strong="2007 5632"
+grc	x-morph="V-2AAS-3S" αυτοις |strong="846" x-morph="P-DPN" και |strong="2532" x-morph="CONJ"
+grc	προσευξηται |strong="4336 5667" x-morph="V-ADS-3S" οι |strong="3588" x-morph="T-NPM" δε |strong="1161"
+grc	x-morph="CONJ" μαθηται |strong="3101" x-morph="N-NPM" επετιμησαν |strong="2008 5656"
+grc	ο |strong="3588" x-morph="T-NSM" δε |strong="1161" x-morph="CONJ" αποκριθεις |strong="611 5679"
+grc	x-morph="V-AOP-NSM" ειπεν |strong="3004 5627" x-morph="V-2AAI-3S" ενι |strong="1520" x-morph="A-DSM" αυτων
+grc	|strong="846" x-morph="P-GPM" εταιρε |strong="2083" x-morph="N-VSM" ουκ |strong="3756" x-morph="PRT-N"
+grc	αδικω |strong="91 5719" x-morph="V-PAI-1S" σε |strong="4771" x-morph="P-2AS" ουχι |strong="3780"
+grc	x-morph="PRT-I" δηναριου |strong="1220" x-morph="N-GSN" συνεφωνησας |strong="4856 5656"
+grc	οι |strong="3588" x-morph="T-NPM" δε |strong="1161" x-morph="CONJ" οχλοι |strong="3793" x-morph="N-NPM" οι
+grc	|strong="3588" x-morph="T-NPM" προαγοντες |strong="4254 5723" x-morph="V-PAP-NPM" και |strong="2532"
+grc	x-morph="CONJ" οι |strong="3588" x-morph="T-NPM" ακολουθουντες |strong="190 5723" x-morph="V-PAP-NPM"
+grc	εκραζον |strong="2896 5707" x-morph="V-IAI-3P" λεγοντες |strong="3004 5723" x-morph="V-PAP-NPM"
+grc	ωσαννα |strong="5614" x-morph="HEB" τω |strong="3588" x-morph="T-DSM" υιω |strong="5207" x-morph="N-DSM"
+grc	δαυιδ |strong="1138" x-morph="N-PRI" ευλογημενος |strong="2127 5772" x-morph="V-RPP-NSM" ο
+grc	|strong="3588" x-morph="T-NSM" ερχομενος |strong="2064 5740" x-morph="V-PNP-NSM" εν |strong="1722"
+grc	x-morph="PREP" ονοματι |strong="3686" x-morph="N-DSN" κυριου |strong="2962" x-morph="N-GSM" ωσαννα
+grc	|strong="5614" x-morph="HEB" εν |strong="1722" x-morph="PREP" τοις |strong="3588" x-morph="T-DPN"
+grc	και |strong="2532" x-morph="CONJ" λαβοντες |strong="2983 5631" x-morph="V-2AAP-NPM" αυτον |strong="846"
+grc	x-morph="P-ASM" εξεβαλον |strong="1544 5627" x-morph="V-2AAI-3P" εξω |strong="1854" x-morph="ADV" του
+grc	|strong="3588" x-morph="T-GSM" αμπελωνος |strong="290" x-morph="N-GSM" και |strong="2532" x-morph="CONJ"
+grc	εν |strong="1722" x-morph="PREP" εκεινη |strong="1565" x-morph="D-DSF" τη |strong="3588" x-morph="T-DSF"
+grc	ημερα |strong="2250" x-morph="N-DSF" προσηλθον |strong="4334 5627" x-morph="V-2AAI-3P" αυτω
+grc	|strong="846" x-morph="P-DSM" σαδδουκαιοι |strong="4523" x-morph="N-NPM" οι |strong="3588" x-morph="T-NPM"
+grc	λεγοντες |strong="3004 5723" x-morph="V-PAP-NPM" μη |strong="3361" x-morph="PRT-N" ειναι |strong="1510
+grc	5721" x-morph="V-PAN" αναστασιν |strong="386" x-morph="N-ASF" και |strong="2532" x-morph="CONJ"
+grc	επηρωτησαν |strong="1905 5656" x-morph="V-AAI-3P" αυτον |strong="846" x-morph="P-ASM"
+grc	και |strong="2532" x-morph="CONJ" τους |strong="3588" x-morph="T-APM" ασπασμους |strong="783"
+grc	x-morph="N-APM" εν |strong="1722" x-morph="PREP" ταις |strong="3588" x-morph="T-DPF" αγοραις |strong="58"
+grc	x-morph="N-DPF" και |strong="2532" x-morph="CONJ" καλεισθαι |strong="2564 5745" x-morph="V-PPN" υπο
+grc	|strong="5259" x-morph="PREP" των |strong="3588" x-morph="T-GPM" ανθρωπων |strong="444" x-morph="N-GPM"
+grc	ιερουσαλημ |strong="2419" x-morph="N-PRI" ιερουσαλημ |strong="2419" x-morph="N-PRI" η
+grc	|strong="3588" x-morph="T-NSF" αποκτενουσα |strong="615 5723" x-morph="V-PAP-NSF"   τους |strong="3588"
+grc	x-morph="T-APM" προφητας |strong="4396" x-morph="N-APM" και |strong="2532" x-morph="CONJ"
+grc	λιθοβολουσα |strong="3036 5723" x-morph="V-PAP-NSF" τους |strong="3588" x-morph="T-APM"
+grc	απεσταλμενους |strong="649 5772" x-morph="V-RPP-APM" προς |strong="4314" x-morph="PREP" αυτην
+grc	|strong="846" x-morph="P-ASF" ποσακις |strong="4212" x-morph="ADV" ηθελησα |strong="2309 5656"
+grc	x-morph="V-AAI-1S" επισυναγαγειν |strong="1996 5629" x-morph="V-2AAN" τα |strong="3588" x-morph="T-APN"
+grc	τεκνα |strong="5043" x-morph="N-APN" σου |strong="4771" x-morph="P-2GS" ον |strong="3739" x-morph="R-ASM"
+grc	τροπον |strong="5158" x-morph="N-ASM" επισυναγει |strong="1996 5719" x-morph="V-PAI-3S" ορνις
+grc	|strong="3733" x-morph="N-NSF" τα |strong="3588" x-morph="T-APN" νοσσια |strong="3556" x-morph="N-APN"
+grc	εαυτης |strong="1438" x-morph="F-3GSF" υπο |strong="5259" x-morph="PREP" τας |strong="3588" x-morph="T-APF"
+grc	πτερυγας |strong="4420" x-morph="N-APF" και |strong="2532" x-morph="CONJ" ουκ |strong="3756"
+grc	οπου |strong="3699" x-morph="ADV" γαρ |strong="1063" x-morph="CONJ" εαν |strong="1437" x-morph="COND" η
+grc	|strong="1510 5725" x-morph="V-PAS-3S" το |strong="3588" x-morph="T-NSN" πτωμα |strong="4430" x-morph="N-NSN"
+grc	εκει |strong="1563" x-morph="ADV" συναχθησονται |strong="4863 5701" x-morph="V-FPI-3P" οι
+grc	τοτε |strong="5119" x-morph="ADV" ηγερθησαν |strong="1453 5681" x-morph="V-API-3P" πασαι
+grc	|strong="3956" x-morph="A-NPF" αι |strong="3588" x-morph="T-NPF" παρθενοι |strong="3933" x-morph="N-NPF"
+grc	εκειναι |strong="1565" x-morph="D-NPF" και |strong="2532" x-morph="CONJ" εκοσμησαν |strong="2885
+grc	5656" x-morph="V-AAI-3P" τας |strong="3588" x-morph="T-APF" λαμπαδας |strong="2985" x-morph="N-APF"
+grc	τοτε |strong="5119" x-morph="ADV" αποκριθησονται |strong="611 5700" x-morph="V-FOI-3P" αυτω
+grc	|strong="846" x-morph="P-DSM" οι |strong="3588" x-morph="T-NPM" δικαιοι |strong="1342" x-morph="A-NPM"
+grc	λεγοντες |strong="3004 5723" x-morph="V-PAP-NPM" κυριε |strong="2962" x-morph="N-VSM" ποτε
+grc	|strong="4219" x-morph="PRT-I" σε |strong="4771" x-morph="P-2AS" ειδομεν |strong="3708 5627"
+grc	x-morph="V-2AAI-1P" πεινωντα |strong="3983 5723" x-morph="V-PAP-ASM" και |strong="2532" x-morph="CONJ"
+grc	εθρεψαμεν |strong="5142 5656" x-morph="V-AAI-1P" η |strong="2228" x-morph="PRT" διψωντα |strong="1372
+grc	5723" x-morph="V-PAP-ASM" και |strong="2532" x-morph="CONJ" εποτισαμεν |strong="4222 5656"
+grc	και |strong="2532" x-morph="CONJ" εσθιοντων |strong="2068 5723" x-morph="V-PAP-GPM" αυτων
+grc	|strong="846" x-morph="P-GPM" ειπεν |strong="3004 5627" x-morph="V-2AAI-3S" αμην |strong="281" x-morph="HEB"
+grc	λεγω |strong="3004 5719" x-morph="V-PAI-1S" υμιν |strong="4771" x-morph="P-2DP" οτι |strong="3754"
+grc	x-morph="CONJ" εις |strong="1520" x-morph="A-NSM" εξ |strong="1537" x-morph="PREP" υμων |strong="4771"
+grc	x-morph="P-2GP" παραδωσει |strong="3860 5692" x-morph="V-FAI-3S" με |strong="1473" x-morph="P-1AS"
+grc	και |strong="2532" x-morph="CONJ" ιδου |strong="3708 5640" x-morph="V-2AMM-2S" εις |strong="1520"
+grc	x-morph="A-NSM" των |strong="3588" x-morph="T-GPM" μετα |strong="3326" x-morph="PREP" ιησου |strong="2424"
+grc	x-morph="N-GSM" εκτεινας |strong="1614 5660" x-morph="V-AAP-NSM" την |strong="3588" x-morph="T-ASF"
+grc	χειρα |strong="5495" x-morph="N-ASF" απεσπασεν |strong="645 5656" x-morph="V-AAI-3S" την
+grc	|strong="3588" x-morph="T-ASF" μαχαιραν |strong="3162" x-morph="N-ASF" αυτου |strong="846" x-morph="P-GSM"
+grc	και |strong="2532" x-morph="CONJ" παταξας |strong="3960 5660" x-morph="V-AAP-NSM" τον |strong="3588"
+grc	x-morph="T-ASM" δουλον |strong="1401" x-morph="N-ASM" του |strong="3588" x-morph="T-GSM" αρχιερεως
+grc	|strong="749" x-morph="N-GSM" αφειλεν |strong="851 5627" x-morph="V-2AAI-3S" αυτου |strong="846"
+grc	x-morph="P-GSM" το |strong="3588" x-morph="T-ASN" ωτιον |strong="5621" x-morph="N-ASN"
+grc	οι |strong="3588" x-morph="T-NPM" δε |strong="1161" x-morph="CONJ" αρχιερεις |strong="749" x-morph="N-NPM"
+grc	λαβοντες |strong="2983 5631" x-morph="V-2AAP-NPM" τα |strong="3588" x-morph="T-APN" αργυρια
+grc	|strong="694" x-morph="N-APN" ειπον |strong="3004 5627" x-morph="V-2AAI-3P" ουκ |strong="3756" x-morph="PRT-N"
+grc	εξεστιν |strong="1832 5719" x-morph="V-PAI-3S" βαλειν |strong="906 5629" x-morph="V-2AAN" αυτα
+grc	|strong="846" x-morph="P-APN" εις |strong="1519" x-morph="PREP" τον |strong="3588" x-morph="T-ASM"
+grc	κορβαναν |strong="2878" x-morph="N-ASM" επει |strong="1893" x-morph="CONJ" τιμη |strong="5092"
+grc	x-morph="N-NSF" αιματος |strong="129" x-morph="N-GSN" εστιν |strong="1510 5719" x-morph="V-PAI-3S"
+grc	και |strong="2532" x-morph="CONJ" καθημενοι |strong="2521 5740" x-morph="V-PNP-NPM" ετηρουν
+grc	|strong="5083 5707" x-morph="V-IAI-3P" αυτον |strong="846" x-morph="P-ASM" εκει |strong="1563" x-morph="ADV"
+grc	οι |strong="3588" x-morph="T-NPM" δε |strong="1161" x-morph="CONJ" πορευθεντες |strong="4198 5679"
+grc	x-morph="V-AOP-NPM" ησφαλισαντο |strong="805 5662" x-morph="V-ADI-3P" τον |strong="3588" x-morph="T-ASM"
+grc	ταφον |strong="5028" x-morph="N-ASM" σφραγισαντες |strong="4972 5660" x-morph="V-AAP-NPM" τον
+grc	|strong="3588" x-morph="T-ASM" λιθον |strong="3037" x-morph="N-ASM" μετα |strong="3326" x-morph="PREP" της
+grc	και |strong="2532" x-morph="CONJ" ευθεως |strong="2112" x-morph="ADV" αναβαινων |strong="305 5723"
+grc	x-morph="V-PAP-NSM" απο |strong="575" x-morph="PREP" του |strong="3588" x-morph="T-GSN" υδατος
+grc	|strong="5204" x-morph="N-GSN" ειδεν |strong="3708 5627" x-morph="V-2AAI-3S" σχιζομενους |strong="4977
+grc	5746" x-morph="V-PPP-APM" τους |strong="3588" x-morph="T-APM" ουρανους |strong="3772" x-morph="N-APM"
+grc	και |strong="2532" x-morph="CONJ" το |strong="3588" x-morph="T-ASN" πνευμα |strong="4151" x-morph="N-ASN"
+grc	ωσει |strong="5616" x-morph="ADV"   περιστεραν |strong="4058" x-morph="N-ASF" καταβαινον
+grc	|strong="2597 5723" x-morph="V-PAP-ASN" επ |strong="1909" x-morph="PREP" αυτον |strong="846" x-morph="P-ASM"
+grc	και |strong="2532" x-morph="CONJ" ερχεται |strong="2064 5736" x-morph="V-PNI-3S" προς |strong="4314"
+grc	x-morph="PREP" αυτον |strong="846" x-morph="P-ASM" λεπρος |strong="3015" x-morph="A-NSM" παρακαλων
+grc	|strong="3870 5723" x-morph="V-PAP-NSM" αυτον |strong="846" x-morph="P-ASM" και |strong="2532" x-morph="CONJ"
+grc	γονυπετων |strong="1120 5723" x-morph="V-PAP-NSM" αυτον |strong="846" x-morph="P-ASM" και
+grc	|strong="2532" x-morph="CONJ" λεγων |strong="3004 5723" x-morph="V-PAP-NSM" αυτω |strong="846" x-morph="P-DSM"
+grc	οτι |strong="3754" x-morph="CONJ" εαν |strong="1437" x-morph="COND" θελης |strong="2309 5725"
+grc	x-morph="V-PAS-2S" δυνασαι |strong="1410 5736" x-morph="V-PNI-2S" με |strong="1473" x-morph="P-1AS"
+grc	και |strong="2532" x-morph="CONJ" αυτος |strong="846" x-morph="P-NSM" ελεγεν |strong="3004 5707"
+grc	x-morph="V-IAI-3S" αυτοις |strong="846" x-morph="P-DPM" ουδεποτε |strong="3763" x-morph="ADV-N"
+grc	ανεγνωτε |strong="314 5627" x-morph="V-2AAI-2P" τι |strong="5101" x-morph="I-ASN" εποιησεν
+grc	|strong="4160 5656" x-morph="V-AAI-3S" δαυιδ |strong="1138" x-morph="N-PRI" οτε |strong="3753" x-morph="ADV"
+grc	χρειαν |strong="5532" x-morph="N-ASF" εσχεν |strong="2192 5627" x-morph="V-2AAI-3S" και |strong="2532"
+grc	x-morph="CONJ" επεινασεν |strong="3983 5656" x-morph="V-AAI-3S" αυτος |strong="846" x-morph="P-NSM"
+grc	και |strong="2532" x-morph="CONJ" οι |strong="3588" x-morph="T-NPM" μετ |strong="3326" x-morph="PREP"
+grc	ουδεις |strong="3762" x-morph="A-NSM-N" δυναται |strong="1410 5736" x-morph="V-PNI-3S" τα |strong="3588"
+grc	x-morph="T-APN" σκευη |strong="4632" x-morph="N-APN" του |strong="3588" x-morph="T-GSM" ισχυρου
+grc	|strong="2478" x-morph="A-GSM" εισελθων |strong="1525 5631" x-morph="V-2AAP-NSM" εις |strong="1519"
+grc	x-morph="PREP" την |strong="3588" x-morph="T-ASF" οικιαν |strong="3614" x-morph="N-ASF" αυτου
+grc	|strong="846" x-morph="P-GSM" διαρπασαι |strong="1283 5658" x-morph="V-AAN" εαν |strong="1437"
+grc	x-morph="COND" μη |strong="3361" x-morph="PRT-N" πρωτον |strong="4412" x-morph="ADV-S" τον |strong="3588"
+grc	x-morph="T-ASM" ισχυρον |strong="2478" x-morph="A-ASM" δηση |strong="1210 5661" x-morph="V-AAS-3S" και
+grc	|strong="2532" x-morph="CONJ" τοτε |strong="5119" x-morph="ADV" την |strong="3588" x-morph="T-ASF" οικιαν
+grc	|strong="3614" x-morph="N-ASF" αυτου |strong="846" x-morph="P-GSM" διαρπαση |strong="1283 5661"
+grc	ου |strong="3756" x-morph="PRT-N" γαρ |strong="1063" x-morph="CONJ" εστιν |strong="1510 5719"
+grc	x-morph="V-PAI-3S" τι |strong="5100" x-morph="X-NSN" κρυπτον |strong="2927" x-morph="A-NSN" ο |strong="3739"
+grc	x-morph="R-NSN" εαν |strong="1437" x-morph="COND" μη |strong="3361" x-morph="PRT-N" φανερωθη |strong="5319
+grc	5686" x-morph="V-APS-3S" ουδε |strong="3761" x-morph="CONJ-N" εγενετο |strong="1096 5633"
+grc	x-morph="V-2ADI-3S" αποκρυφον |strong="614" x-morph="A-NSN" αλλ |strong="235" x-morph="CONJ" ινα
+grc	|strong="2443" x-morph="CONJ" εις |strong="1519" x-morph="PREP" φανερον |strong="5318" x-morph="A-ASM"
+grc	ην |strong="1510 5707" x-morph="V-IAI-3S" δε |strong="1161" x-morph="CONJ" εκει |strong="1563" x-morph="ADV"
+grc	προς |strong="4314" x-morph="PREP" τω |strong="3588" x-morph="T-DSN" ορει |strong="3735" x-morph="N-DSN"
+grc	αγελη |strong="34" x-morph="N-NSF" χοιρων |strong="5519" x-morph="N-GPM" μεγαλη |strong="3173"
+grc	και |strong="2532" x-morph="CONJ" κρατησας |strong="2902 5660" x-morph="V-AAP-NSM" της |strong="3588"
+grc	x-morph="T-GSF" χειρος |strong="5495" x-morph="N-GSF" του |strong="3588" x-morph="T-GSN" παιδιου
+grc	|strong="3813" x-morph="N-GSN" λεγει |strong="3004 5719" x-morph="V-PAI-3S" αυτη |strong="846" x-morph="P-DSF"
+grc	ταλιθα |strong="5008" x-morph="ARAM" κουμι |strong="2891" x-morph="ARAM" ο |strong="3739" x-morph="R-NSN"
+grc	εστιν |strong="1510 5719" x-morph="V-PAI-3S" μεθερμηνευομενον |strong="3177 5746"
+grc	x-morph="V-PPP-NSN" το |strong="3588" x-morph="T-NSN" κορασιον |strong="2877" x-morph="N-NSN" σοι
+grc	|strong="4771" x-morph="P-2DS" λεγω |strong="3004 5719" x-morph="V-PAI-1S" εγειραι |strong="1453 5669"
+grc	ο |strong="3588" x-morph="T-NSM" δε |strong="1161" x-morph="CONJ" απελθων |strong="565 5631"
+grc	x-morph="V-2AAP-NSM" απεκεφαλισεν |strong="607 5656" x-morph="V-AAI-3S" αυτον |strong="846"
+grc	x-morph="P-ASM" εν |strong="1722" x-morph="PREP" τη |strong="3588" x-morph="T-DSF" φυλακη |strong="5438"
+grc	x-morph="N-DSF" και |strong="2532" x-morph="CONJ" ηνεγκεν |strong="5342 5656" x-morph="V-AAI-3S" την
+grc	|strong="3588" x-morph="T-ASF" κεφαλην |strong="2776" x-morph="N-ASF" αυτου |strong="846" x-morph="P-GSM"
+grc	επι |strong="1909" x-morph="PREP" πινακι |strong="4094" x-morph="N-DSM" και |strong="2532" x-morph="CONJ"
+grc	εδωκεν |strong="1325 5656" x-morph="V-AAI-3S" αυτην |strong="846" x-morph="P-ASF" τω |strong="3588"
+grc	x-morph="T-DSN" κορασιω |strong="2877" x-morph="N-DSN" και |strong="2532" x-morph="CONJ" το |strong="3588"
+grc	x-morph="T-NSN" κορασιον |strong="2877" x-morph="N-NSN" εδωκεν |strong="1325 5656" x-morph="V-AAI-3S"
+grc	αυτην |strong="846" x-morph="P-ASF" τη |strong="3588" x-morph="T-DSF" μητρι |strong="3384" x-morph="N-DSF"
+grc	και |strong="2532" x-morph="CONJ" ιδοντες |strong="3708 5631" x-morph="V-2AAP-NPM" τινας |strong="5100"
+grc	x-morph="X-APM" των |strong="3588" x-morph="T-GPM" μαθητων |strong="3101" x-morph="N-GPM" αυτου
+grc	|strong="846" x-morph="P-GSM" κοιναις |strong="2839" x-morph="A-DPF" χερσιν |strong="5495" x-morph="N-DPF"
+grc	τουτ |strong="3778" x-morph="D-NSN" εστιν |strong="1510 5719" x-morph="V-PAI-3S" ανιπτοις
+grc	|strong="449" x-morph="A-DPF" εσθιοντας |strong="2068 5723" x-morph="V-PAP-APM" αρτους |strong="740"
+grc	και |strong="2532" x-morph="CONJ" φερουσιν |strong="5342 5719" x-morph="V-PAI-3P" αυτω |strong="846"
+grc	x-morph="P-DSM" κωφον |strong="2974" x-morph="A-ASM" μογγιλαλον |strong="3424" x-morph="A-ASM"   και
+grc	|strong="2532" x-morph="CONJ" παρακαλουσιν |strong="3870 5719" x-morph="V-PAI-3P" αυτον |strong="846"
+grc	x-morph="P-ASM" ινα |strong="2443" x-morph="CONJ" επιθη |strong="2007 5632" x-morph="V-2AAS-3S" αυτω
+grc	|strong="846" x-morph="P-DSM" την |strong="3588" x-morph="T-ASF" χειρα |strong="5495" x-morph="N-ASF"
+grc	ειτα |strong="1534" x-morph="ADV" παλιν |strong="3825" x-morph="ADV" επεθηκεν |strong="2007 5656"
+grc	x-morph="V-AAI-3S" τας |strong="3588" x-morph="T-APF" χειρας |strong="5495" x-morph="N-APF" επι
+grc	|strong="1909" x-morph="PREP" τους |strong="3588" x-morph="T-APM" οφθαλμους |strong="3788" x-morph="N-APM"
+grc	αυτου |strong="846" x-morph="P-GSM" και |strong="2532" x-morph="CONJ" εποιησεν |strong="4160 5656"
+grc	x-morph="V-AAI-3S" αυτον |strong="846" x-morph="P-ASM" αναβλεψαι |strong="308 5658" x-morph="V-AAN"
+grc	και |strong="2532" x-morph="CONJ" αποκατεσταθη |strong="600 5681" x-morph="V-API-3S" και
+grc	|strong="2532" x-morph="CONJ" ενεβλεψεν |strong="1689 5656" x-morph="V-AAI-3S"   τηλαυγως
+grc	και |strong="2532" x-morph="CONJ" αποκριθεις |strong="611 5679" x-morph="V-AOP-NSM" εις |strong="1520"
+grc	x-morph="A-NSM" εκ |strong="1537" x-morph="PREP" του |strong="3588" x-morph="T-GSM" οχλου |strong="3793"
+grc	x-morph="N-GSM" ειπεν |strong="3004 5627" x-morph="V-2AAI-3S" διδασκαλε |strong="1320" x-morph="N-VSM"
+grc	ηνεγκα |strong="5342 5656" x-morph="V-AAI-1S" τον |strong="3588" x-morph="T-ASM" υιον |strong="5207"
+grc	x-morph="N-ASM" μου |strong="1473" x-morph="P-1GS" προς |strong="4314" x-morph="PREP" σε |strong="4771"
+grc	x-morph="P-2AS" εχοντα |strong="2192 5723" x-morph="V-PAP-ASM" πνευμα |strong="4151" x-morph="N-ASN"
+grc	και |strong="2532" x-morph="CONJ" εαν |strong="1437" x-morph="COND" ο |strong="3588" x-morph="T-NSM"
+grc	οφθαλμος |strong="3788" x-morph="N-NSM" σου |strong="4771" x-morph="P-2GS" σκανδαλιζη
+grc	|strong="4624 5725" x-morph="V-PAS-3S" σε |strong="4771" x-morph="P-2AS" εκβαλε |strong="1544 5628"
+grc	x-morph="V-2AAM-2S" αυτον |strong="846" x-morph="P-ASM" καλον |strong="2570" x-morph="A-NSN" σοι
+grc	|strong="4771" x-morph="P-2DS" εστιν |strong="1510 5719" x-morph="V-PAI-3S" μονοφθαλμον |strong="3442"
+grc	x-morph="A-ASM" εισελθειν |strong="1525 5629" x-morph="V-2AAN" εις |strong="1519" x-morph="PREP" την
+grc	|strong="3588" x-morph="T-ASF" βασιλειαν |strong="932" x-morph="N-ASF" του |strong="3588" x-morph="T-GSM"
+grc	θεου |strong="2316" x-morph="N-GSM" η |strong="2228" x-morph="PRT" δυο |strong="1417" x-morph="A-NUI"
+grc	οφθαλμους |strong="3788" x-morph="N-APM" εχοντα |strong="2192 5723" x-morph="V-PAP-ASM" βληθηναι
+grc	|strong="906 5683" x-morph="V-APN" εις |strong="1519" x-morph="PREP" την |strong="3588" x-morph="T-ASF"
+grc	γεενναν |strong="1067" x-morph="N-ASF" του |strong="3588" x-morph="T-GSN" πυρος |strong="4442"
+grc	εμβλεψας |strong="1689 5660" x-morph="V-AAP-NSM" δε |strong="1161" x-morph="CONJ" αυτοις |strong="846"
+grc	x-morph="P-DPM" ο |strong="3588" x-morph="T-NSM" ιησους |strong="2424" x-morph="N-NSM" λεγει |strong="3004
+grc	5719" x-morph="V-PAI-3S" παρα |strong="3844" x-morph="PREP" ανθρωποις |strong="444" x-morph="N-DPM"
+grc	αδυνατον |strong="102" x-morph="A-NSN" αλλ |strong="235" x-morph="CONJ" ου |strong="3756" x-morph="PRT-N"
+grc	παρα |strong="3844" x-morph="PREP" θεω |strong="2316" x-morph="N-DSM" παντα |strong="3956" x-morph="A-NPN"
+grc	γαρ |strong="1063" x-morph="CONJ" δυνατα |strong="1415" x-morph="A-NPN" εστιν |strong="1510 5719"
+grc	x-morph="V-PAI-3S" παρα |strong="3844" x-morph="PREP" τω |strong="3588" x-morph="T-DSM" θεω |strong="2316"
+grc	και |strong="2532" x-morph="CONJ" τινες |strong="5100" x-morph="X-NPM" των |strong="3588" x-morph="T-GPM"
+grc	εκει |strong="1563" x-morph="ADV" εστηκοτων |strong="2476 5761" x-morph="V-RAP-GPM" ελεγον
+grc	|strong="3004 5707" x-morph="V-IAI-3P" αυτοις |strong="846" x-morph="P-DPM" τι |strong="5101" x-morph="I-ASN"
+grc	ποιειτε |strong="4160 5719" x-morph="V-PAI-2P" λυοντες |strong="3089 5723" x-morph="V-PAP-NPM" τον
+grc	και |strong="2532" x-morph="CONJ" απεστειλεν |strong="649 5656" x-morph="V-AAI-3S" προς |strong="4314"
+grc	x-morph="PREP" τους |strong="3588" x-morph="T-APM" γεωργους |strong="1092" x-morph="N-APM" τω
+grc	|strong="3588" x-morph="T-DSM" καιρω |strong="2540" x-morph="N-DSM" δουλον |strong="1401" x-morph="N-ASM"
+grc	ινα |strong="2443" x-morph="CONJ" παρα |strong="3844" x-morph="PREP" των |strong="3588" x-morph="T-GPM"
+grc	γεωργων |strong="1092" x-morph="N-GPM" λαβη |strong="2983 5632" x-morph="V-2AAS-3S" απο |strong="575"
+grc	x-morph="PREP" του |strong="3588" x-morph="T-GSM" καρπου |strong="2590" x-morph="N-GSM" του |strong="3588"
+grc	και |strong="2532" x-morph="CONJ" ειπεν |strong="3004 5627" x-morph="V-2AAI-3S" αυτω |strong="846"
+grc	x-morph="P-DSM" ο |strong="3588" x-morph="T-NSM" γραμματευς |strong="1122" x-morph="N-NSM" καλως
+grc	|strong="2573" x-morph="ADV" διδασκαλε |strong="1320" x-morph="N-VSM" επ |strong="1909" x-morph="PREP"
+grc	αληθειας |strong="225" x-morph="N-GSF" ειπας |strong="3004 5627" x-morph="V-2AAI-2S" οτι |strong="3754"
+grc	x-morph="CONJ" εις |strong="1520" x-morph="A-NSM" εστιν |strong="1510 5719" x-morph="V-PAI-3S" και
+grc	|strong="2532" x-morph="CONJ" ουκ |strong="3756" x-morph="PRT-N" εστιν |strong="1510 5719" x-morph="V-PAI-3S"
+grc	αλλος |strong="243" x-morph="A-NSM" πλην |strong="4133" x-morph="ADV" αυτου |strong="846" x-morph="P-GSM"
+grc	προσευχεσθε |strong="4336 5737" x-morph="V-PNM-2P" δε |strong="1161" x-morph="CONJ" ινα |strong="2443"
+grc	x-morph="CONJ" μη |strong="3361" x-morph="PRT-N" γενηται |strong="1096 5638" x-morph="V-2ADS-3S" η
+grc	|strong="3588" x-morph="T-NSF" φυγη |strong="5437" x-morph="N-NSF" υμων |strong="4771" x-morph="P-2GP"
+grc	οι |strong="3588" x-morph="T-NPM" δε |strong="1161" x-morph="CONJ" ακουσαντες |strong="191 5660"
+grc	x-morph="V-AAP-NPM" εχαρησαν |strong="5463 5644" x-morph="V-2AOI-3P" και |strong="2532" x-morph="CONJ"
+grc	επηγγειλαντο |strong="1861 5673" x-morph="V-ANI-3P" αυτω |strong="846" x-morph="P-DSM" αργυριον
+grc	|strong="694" x-morph="N-ASN" δουναι |strong="1325 5629" x-morph="V-2AAN" και |strong="2532" x-morph="CONJ"
+grc	εζητει |strong="2212 5707" x-morph="V-IAI-3S" πως |strong="4459" x-morph="ADV-I" ευκαιρως
+grc	|strong="2122" x-morph="ADV" αυτον |strong="846" x-morph="P-ASM" παραδω |strong="3860 5632"
+grc	και |strong="2532" x-morph="CONJ" ερχεται |strong="2064 5736" x-morph="V-PNI-3S" το |strong="3588"
+grc	x-morph="T-ASN" τριτον |strong="5154" x-morph="A-ASN" και |strong="2532" x-morph="CONJ" λεγει
+grc	|strong="3004 5719" x-morph="V-PAI-3S" αυτοις |strong="846" x-morph="P-DPM" καθευδετε |strong="2518 5719
+grc	2518 5720 2518 5720" x-morph="V-PAI-2P" λοιπον |strong="3063" x-morph="A-ASN" και |strong="2532"
+grc	x-morph="CONJ" αναπαυεσθε 373 5731 373 5732 V-PMI-2P 373 5732 απεχει |strong="568 5719"
+grc	x-morph="V-PAI-3S" ηλθεν |strong="2064 5627" x-morph="V-2AAI-3S" η |strong="3588" x-morph="T-NSF" ωρα
+grc	|strong="5610" x-morph="N-NSF" ιδου |strong="3708 5640" x-morph="V-2AMM-2S" παραδιδοται |strong="3860
+grc	5743" x-morph="V-PPI-3S" ο |strong="3588" x-morph="T-NSM" υιος |strong="5207" x-morph="N-NSM" του
+grc	|strong="3588" x-morph="T-GSM" ανθρωπου |strong="444" x-morph="N-GSM" εις |strong="1519" x-morph="PREP"
+grc	τας |strong="3588" x-morph="T-APF" χειρας |strong="5495" x-morph="N-APF" των |strong="3588" x-morph="T-GPM"
+grc	ο |strong="3588" x-morph="T-NSM" δε |strong="1161" x-morph="CONJ" ηρξατο |strong="756 5662" x-morph="V-ADI-3S"
+grc	αναθεματιζειν |strong="332 5721" x-morph="V-PAN" και |strong="2532" x-morph="CONJ" ομνυναι
+grc	|strong="3660 5658" x-morph="V-AAN" οτι |strong="3754" x-morph="CONJ" ουκ |strong="3756" x-morph="PRT-N" οιδα
+grc	|strong="1492 5758" x-morph="V-RAI-1S" τον |strong="3588" x-morph="T-ASM" ανθρωπον |strong="444"
+grc	x-morph="N-ASM" τουτον |strong="3778" x-morph="D-ASM" ον |strong="3739" x-morph="R-ASM" λεγετε
+grc	και |strong="2532" x-morph="CONJ" οι |strong="3588" x-morph="T-NPM" παραπορευομενοι |strong="3899
+grc	5740" x-morph="V-PNP-NPM" εβλασφημουν |strong="987 5707" x-morph="V-IAI-3P" αυτον |strong="846"
+grc	x-morph="P-ASM" κινουντες |strong="2795 5723" x-morph="V-PAP-NPM" τας |strong="3588" x-morph="T-APF"
+grc	κεφαλας |strong="2776" x-morph="N-APF" αυτων |strong="846" x-morph="P-GPM" και |strong="2532"
+grc	x-morph="CONJ" λεγοντες |strong="3004 5723" x-morph="V-PAP-NPM" ουα |strong="3758" x-morph="INJ" ο
+grc	|strong="3588" x-morph="T-NSM" καταλυων |strong="2647 5723" x-morph="V-PAP-NSM" τον |strong="3588"
+grc	x-morph="T-ASM" ναον |strong="3485" x-morph="N-ASM" και |strong="2532" x-morph="CONJ" εν |strong="1722"
+grc	x-morph="PREP" τρισιν |strong="5140" x-morph="A-DPF" ημεραις |strong="2250" x-morph="N-DPF"
+grc	μετα |strong="3326" x-morph="PREP" δε |strong="1161" x-morph="CONJ" ταυτα |strong="3778" x-morph="D-APN"
+grc	δυσιν |strong="1417" x-morph="A-DPM" εξ |strong="1537" x-morph="PREP" αυτων |strong="846" x-morph="P-GPM"
+grc	περιπατουσιν |strong="4043 5723" x-morph="V-PAP-DPM" εφανερωθη |strong="5319 5681"
+grc	x-morph="V-API-3S" εν |strong="1722" x-morph="PREP" ετερα |strong="2087" x-morph="A-DSF" μορφη
+grc	|strong="3444" x-morph="N-DSF" πορευομενοις |strong="4198 5740" x-morph="V-PNP-DPM" εις |strong="1519"
+grc	εξελθων |strong="1831 5631" x-morph="V-2AAP-NSM" δε |strong="1161" x-morph="CONJ" ουκ |strong="3756"
+grc	x-morph="PRT-N" ηδυνατο |strong="1410 5711" x-morph="V-INI-3S-ATT" λαλησαι |strong="2980 5658"
+grc	x-morph="V-AAN" αυτοις |strong="846" x-morph="P-DPM" και |strong="2532" x-morph="CONJ" επεγνωσαν
+grc	|strong="1921 5627" x-morph="V-2AAI-3P" οτι |strong="3754" x-morph="CONJ" οπτασιαν |strong="3701"
+grc	x-morph="N-ASF" εωρακεν |strong="3708 5758" x-morph="V-RAI-3S-ATT" εν |strong="1722" x-morph="PREP" τω
+grc	|strong="3588" x-morph="T-DSM" ναω |strong="3485" x-morph="N-DSM" και |strong="2532" x-morph="CONJ" αυτος
+grc	|strong="846" x-morph="P-NSM" ην |strong="1510 5707" x-morph="V-IAI-3S" διανευων |strong="1269 5723"
+grc	x-morph="V-PAP-NSM" αυτοις |strong="846" x-morph="P-DPM" και |strong="2532" x-morph="CONJ" διεμενεν
+grc	καθειλεν |strong="2507 5627" x-morph="V-2AAI-3S" δυναστας |strong="1413" x-morph="N-APM" απο
+grc	|strong="575" x-morph="PREP" θρονων |strong="2362" x-morph="N-GPM" και |strong="2532" x-morph="CONJ"
+grc	υψωσεν |strong="5312 5656" x-morph="V-AAI-3S" ταπεινους |strong="5011" x-morph="A-APM"
+grc	αυτη |strong="3778" x-morph="D-NSF" η |strong="3588" x-morph="T-NSF" απογραφη |strong="582"
+grc	x-morph="N-NSF" πρωτη |strong="4413" x-morph="A-NSF-S" εγενετο |strong="1096 5633" x-morph="V-2ADI-3S"
+grc	ηγεμονευοντος |strong="2230 5723" x-morph="V-PAP-GSM" της |strong="3588" x-morph="T-GSF" συριας
+grc	φως |strong="5457" x-morph="N-NSN" εις |strong="1519" x-morph="PREP" αποκαλυψιν |strong="602"
+grc	x-morph="N-ASF" εθνων |strong="1484" x-morph="N-GPN" και |strong="2532" x-morph="CONJ" δοξαν
+grc	|strong="1391" x-morph="N-ASF" λαου |strong="2992" x-morph="N-GSM" σου |strong="4771" x-morph="P-2GS"
+grc	και |strong="2532" x-morph="CONJ" επηρωτων |strong="1905 5707" x-morph="V-IAI-3P" αυτον |strong="846"
+grc	x-morph="P-ASM" οι |strong="3588" x-morph="T-NPM" οχλοι |strong="3793" x-morph="N-NPM" λεγοντες
+grc	|strong="3004 5723" x-morph="V-PAP-NPM" τι |strong="5101" x-morph="I-ASN" ουν |strong="3767" x-morph="CONJ"
+grc	ημερας |strong="2250" x-morph="N-APF" τεσσαρακοντα |strong="5062" x-morph="A-NUI"
+grc	πειραζομενος |strong="3985 5746" x-morph="V-PPP-NSM" υπο |strong="5259" x-morph="PREP" του
+grc	|strong="3588" x-morph="T-GSM" διαβολου |strong="1228" x-morph="A-GSM" και |strong="2532" x-morph="CONJ"
+grc	ουκ |strong="3756" x-morph="PRT-N" εφαγεν |strong="5315 5627" x-morph="V-2AAI-3S" ουδεν |strong="3762"
+grc	x-morph="A-ASN-N" εν |strong="1722" x-morph="PREP" ταις |strong="3588" x-morph="T-DPF" ημεραις
+grc	|strong="2250" x-morph="N-DPF" εκειναις |strong="1565" x-morph="D-DPF" και |strong="2532" x-morph="CONJ"
+grc	συντελεσθεισων |strong="4931 5685" x-morph="V-APP-GPF" αυτων |strong="846" x-morph="P-GPF"
+grc	υστερον |strong="5305" x-morph="ADV" επεινασεν |strong="3983 5656" x-morph="V-AAI-3S"
+grc	και |strong="2532" x-morph="CONJ" εξεπλησσοντο |strong="1605 5712" x-morph="V-IPI-3P" επι
+grc	|strong="1909" x-morph="PREP" τη |strong="3588" x-morph="T-DSF" διδαχη |strong="1322" x-morph="N-DSF"
+grc	αυτου |strong="846" x-morph="P-GSM" οτι |strong="3754" x-morph="CONJ" εν |strong="1722" x-morph="PREP"
+grc	εξουσια |strong="1849" x-morph="N-DSF" ην |strong="1510 5707" x-morph="V-IAI-3S" ο |strong="3588"
+grc	x-morph="T-NSM" λογος |strong="3056" x-morph="N-NSM" αυτου |strong="846" x-morph="P-GSM"
+grc	και |strong="2532" x-morph="CONJ" ιδου |strong="3708 5640" x-morph="V-2AMM-2S" ανδρες |strong="435"
+grc	x-morph="N-NPM" φεροντες |strong="5342 5723" x-morph="V-PAP-NPM" επι |strong="1909" x-morph="PREP"
+grc	κλινης |strong="2825" x-morph="N-GSF" ανθρωπον |strong="444" x-morph="N-ASM" ος |strong="3739"
+grc	x-morph="R-NSM" ην |strong="1510 5707" x-morph="V-IAI-3S" παραλελυμενος |strong="3886 5772"
+grc	x-morph="V-RPP-NSM" και |strong="2532" x-morph="CONJ" εζητουν |strong="2212 5707" x-morph="V-IAI-3P"
+grc	αυτον |strong="846" x-morph="P-ASM" εισενεγκειν |strong="1533 5629" x-morph="V-2AAN" και
+grc	|strong="2532" x-morph="CONJ" θειναι |strong="5087 5629" x-morph="V-2AAN" ενωπιον |strong="1799"
+grc	ειπεν |strong="3004 5627" x-morph="V-2AAI-3S" ουν |strong="3767" x-morph="CONJ" ο |strong="3588"
+grc	x-morph="T-NSM" ιησους |strong="2424" x-morph="N-NSM" προς |strong="4314" x-morph="PREP" αυτους
+grc	|strong="846" x-morph="P-APM" επερωτησω |strong="1905 5692" x-morph="V-FAI-1S" υμας |strong="4771"
+grc	x-morph="P-2AP" τι |strong="5100" x-morph="X-ASN" εξεστιν |strong="1832 5719" x-morph="V-PAI-3S" τοις
+grc	|strong="3588" x-morph="T-DPN" σαββασιν |strong="4521" x-morph="N-DPN" αγαθοποιησαι |strong="15
+grc	5658" x-morph="V-AAN" η |strong="2228" x-morph="PRT" κακοποιησαι |strong="2554 5658" x-morph="V-AAN"
+grc	ψυχην |strong="5590" x-morph="N-ASF" σωσαι |strong="4982 5658" x-morph="V-AAN" η |strong="2228"
+grc	ειπεν |strong="3004 5627" x-morph="V-2AAI-3S" δε |strong="1161" x-morph="CONJ" παραβολην |strong="3850"
+grc	x-morph="N-ASF" αυτοις |strong="846" x-morph="P-DPM" μητι |strong="3385" x-morph="PRT-I" δυναται
+grc	|strong="1410 5736" x-morph="V-PNI-3S" τυφλος |strong="5185" x-morph="A-NSM" τυφλον |strong="5185"
+grc	x-morph="A-ASM" οδηγειν |strong="3594 5721" x-morph="V-PAN" ουχι |strong="3780" x-morph="PRT-I"
+grc	αμφοτεροι |strong="297" x-morph="A-NPM" εις |strong="1519" x-morph="PREP" βοθυνον |strong="999"
+grc	παραγενομενοι |strong="3854 5637" x-morph="V-2ADP-NPM" δε |strong="1161" x-morph="CONJ" προς
+grc	|strong="4314" x-morph="PREP" αυτον |strong="846" x-morph="P-ASM" οι |strong="3588" x-morph="T-NPM" ανδρες
+grc	|strong="435" x-morph="N-NPM" ειπον |strong="3004 5627" x-morph="V-2AAI-3P" ιωαννης |strong="2491"
+grc	x-morph="N-NSM" ο |strong="3588" x-morph="T-NSM" βαπτιστης |strong="910" x-morph="N-NSM" απεσταλκεν
+grc	|strong="649 5758" x-morph="V-RAI-3S" ημας |strong="1473" x-morph="P-1AP" προς |strong="4314" x-morph="PREP"
+grc	σε |strong="4771" x-morph="P-2AS" λεγων |strong="3004 5723" x-morph="V-PAP-NSM" συ |strong="4771"
+grc	x-morph="P-2NS" ει |strong="1510 5719" x-morph="V-PAI-2S" ο |strong="3588" x-morph="T-NSM" ερχομενος
+grc	|strong="2064 5740" x-morph="V-PNP-NSM" η |strong="2228" x-morph="PRT" αλλον |strong="243" x-morph="A-ASM"
+grc	ειπεν |strong="3004 5627" x-morph="V-2AAI-3S" δε |strong="1161" x-morph="CONJ" προς |strong="4314"
+grc	x-morph="PREP" την |strong="3588" x-morph="T-ASF" γυναικα |strong="1135" x-morph="N-ASF" η |strong="3588"
+grc	x-morph="T-NSF" πιστις |strong="4102" x-morph="N-NSF" σου |strong="4771" x-morph="P-2GS" σεσωκεν
+grc	|strong="4982 5758" x-morph="V-RAI-3S" σε |strong="4771" x-morph="P-2AS" πορευου |strong="4198 5737"
+grc	x-morph="V-PNM-2S" εις |strong="1519" x-morph="PREP" ειρηνην |strong="1515" x-morph="N-ASF"
+grc	επηρωτησεν |strong="1905 5656" x-morph="V-AAI-3S" δε |strong="1161" x-morph="CONJ" αυτον |strong="846"
+grc	x-morph="P-ASM" ο |strong="3588" x-morph="T-NSM" ιησους |strong="2424" x-morph="N-NSM" λεγων |strong="3004
+grc	5723" x-morph="V-PAP-NSM" τι |strong="5101" x-morph="I-NSN" σοι |strong="4771" x-morph="P-2DS" εστιν
+grc	|strong="1510 5719" x-morph="V-PAI-3S" ονομα |strong="3686" x-morph="N-NSN" ο |strong="3588" x-morph="T-NSM" δε
+grc	|strong="1161" x-morph="CONJ" ειπεν |strong="3004 5627" x-morph="V-2AAI-3S" λεγεων |strong="3003"
+grc	x-morph="N-NSM" οτι |strong="3754" x-morph="CONJ" δαιμονια |strong="1140" x-morph="N-NPN" πολλα
+grc	|strong="4183" x-morph="A-NPN" εισηλθεν |strong="1525 5627" x-morph="V-2AAI-3S" εις |strong="1519"
+grc	και |strong="2532" x-morph="CONJ" εις |strong="1519" x-morph="PREP" ην |strong="3739" x-morph="R-ASF" αν
+grc	|strong="302" x-morph="PRT" οικιαν |strong="3614" x-morph="N-ASF" εισελθητε |strong="1525 5632"
+grc	x-morph="V-2AAS-2P" εκει |strong="1563" x-morph="ADV" μενετε |strong="3306 5720" x-morph="V-PAM-2P" και
+grc	|strong="2532" x-morph="CONJ" εκειθεν |strong="1564" x-morph="ADV" εξερχεσθε |strong="1831 5737"
+grc	ταυτα |strong="3778" x-morph="D-APN" δε |strong="1161" x-morph="CONJ" αυτου |strong="846" x-morph="P-GSM"
+grc	λεγοντος |strong="3004 5723" x-morph="V-PAP-GSM" εγενετο |strong="1096 5633" x-morph="V-2ADI-3S"
+grc	νεφελη |strong="3507" x-morph="N-NSF" και |strong="2532" x-morph="CONJ" επεσκιασεν |strong="1982
+grc	5656" x-morph="V-AAI-3S" αυτους |strong="846" x-morph="P-APM" εφοβηθησαν |strong="5399 5675"
+grc	x-morph="V-AOI-3P" δε |strong="1161" x-morph="CONJ" εν |strong="1722" x-morph="PREP" τω |strong="3588"
+grc	x-morph="T-DSN" εκεινους |strong="1565" x-morph="D-APM" εισελθειν |strong="1525 5629" x-morph="V-2AAN"
+grc	εις |strong="1519" x-morph="PREP" την |strong="3588" x-morph="T-ASF" νεφελην |strong="3507" x-morph="N-ASF"
+grc	ελεγεν |strong="3004 5707" x-morph="V-IAI-3S" ουν |strong="3767" x-morph="CONJ" προς |strong="4314"
+grc	x-morph="PREP" αυτους |strong="846" x-morph="P-APM" ο |strong="3588" x-morph="T-NSM" μεν |strong="3303"
+grc	x-morph="PRT" θερισμος |strong="2326" x-morph="N-NSM" πολυς |strong="4183" x-morph="A-NSM" οι
+grc	|strong="3588" x-morph="T-NPM" δε |strong="1161" x-morph="CONJ" εργαται |strong="2040" x-morph="N-NPM"
+grc	ολιγοι |strong="3641" x-morph="A-NPM" δεηθητε |strong="1189 5676" x-morph="V-AOM-2P" ουν |strong="3767"
+grc	x-morph="CONJ" του |strong="3588" x-morph="T-GSM" κυριου |strong="2962" x-morph="N-GSM" του |strong="3588"
+grc	x-morph="T-GSM" θερισμου |strong="2326" x-morph="N-GSM" οπως |strong="3704" x-morph="ADV" εκβαλη
+grc	|strong="1544 5632" x-morph="V-2AAS-3S" εργατας |strong="2040" x-morph="N-APM" εις |strong="1519"
+grc	x-morph="PREP" τον |strong="3588" x-morph="T-ASM" θερισμον |strong="2326" x-morph="N-ASM" αυτου
+grc	ομοιως |strong="3668" x-morph="ADV" δε |strong="1161" x-morph="CONJ" και |strong="2532" x-morph="CONJ"
+grc	λευιτης |strong="3019" x-morph="N-NSM" γενομενος |strong="1096 5637" x-morph="V-2ADP-NSM" κατα
+grc	|strong="2596" x-morph="PREP" τον |strong="3588" x-morph="T-ASM" τοπον |strong="5117" x-morph="N-ASM"
+grc	ελθων |strong="2064 5631" x-morph="V-2AAP-NSM" και |strong="2532" x-morph="CONJ" ιδων |strong="3708 5631"
+grc	ει |strong="1487" x-morph="COND" δε |strong="1161" x-morph="CONJ" εν |strong="1722" x-morph="PREP" δακτυλω
+grc	|strong="1147" x-morph="N-DSM" θεου |strong="2316" x-morph="N-GSM" εκβαλλω |strong="1544 5719"
+grc	x-morph="V-PAI-1S" τα |strong="3588" x-morph="T-APN" δαιμονια |strong="1140" x-morph="N-APN" αρα
+grc	|strong="686" x-morph="PRT" εφθασεν |strong="5348 5656" x-morph="V-AAI-3S" εφ |strong="1909" x-morph="PREP"
+grc	υμας |strong="4771" x-morph="P-2AP" η |strong="3588" x-morph="T-NSF" βασιλεια |strong="932"
+grc	x-morph="N-NSF" του |strong="3588" x-morph="T-GSM" θεου |strong="2316" x-morph="N-GSM"
+grc	ινα |strong="2443" x-morph="CONJ" εκζητηθη |strong="1567 5686" x-morph="V-APS-3S" το |strong="3588"
+grc	x-morph="T-NSN" αιμα |strong="129" x-morph="N-NSN" παντων |strong="3956" x-morph="A-GPM" των
+grc	|strong="3588" x-morph="T-GPM" προφητων |strong="4396" x-morph="N-GPM" το |strong="3588" x-morph="T-NSN"
+grc	εκχυνομενον |strong="1632 5746" x-morph="V-PPP-NSN" απο |strong="575" x-morph="PREP" καταβολης
+grc	|strong="2602" x-morph="N-GSF" κοσμου |strong="2889" x-morph="N-GSM" απο |strong="575" x-morph="PREP" της
+grc	|strong="3588" x-morph="T-GSF" γενεας |strong="1074" x-morph="N-GSF" ταυτης |strong="3778" x-morph="D-GSF"
+grc	ει |strong="1487" x-morph="COND" ουν |strong="3767" x-morph="CONJ" ουτε |strong="3777" x-morph="CONJ-N"
+grc	ελαχιστον |strong="1646" x-morph="A-ASN-S" δυνασθε |strong="1410 5736" x-morph="V-PNI-2P" τι
+grc	|strong="5101" x-morph="I-ASN" περι |strong="4012" x-morph="PREP" των |strong="3588" x-morph="T-GPN"
+grc	λοιπων |strong="3062" x-morph="A-GPN" μεριμνατε |strong="3309 5719" x-morph="V-PAI-2P"
+grc	υποκριται |strong="5273" x-morph="N-VPM" το |strong="3588" x-morph="T-ASN" προσωπον |strong="4383"
+grc	x-morph="N-ASN" της |strong="3588" x-morph="T-GSF" γης |strong="1093" x-morph="N-GSF" και |strong="2532"
+grc	x-morph="CONJ" του |strong="3588" x-morph="T-GSM" ουρανου |strong="3772" x-morph="N-GSM" οιδατε
+grc	|strong="1492 5758" x-morph="V-RAI-2P" δοκιμαζειν |strong="1381 5721" x-morph="V-PAN" τον |strong="3588"
+grc	x-morph="T-ASM" δε |strong="1161" x-morph="CONJ" καιρον |strong="2540" x-morph="N-ASM" τουτον
+grc	|strong="3778" x-morph="D-ASM" πως |strong="4459" x-morph="ADV-I" ου |strong="3756" x-morph="PRT-N"
+grc	και |strong="2532" x-morph="CONJ" ερει |strong="2046 5692" x-morph="V-FAI-3S" λεγω |strong="3004 5719"
+grc	x-morph="V-PAI-1S" υμιν |strong="4771" x-morph="P-2DP" ουκ |strong="3756" x-morph="PRT-N" οιδα |strong="1492
+grc	5758" x-morph="V-RAI-1S" υμας |strong="4771" x-morph="P-2AP" ποθεν |strong="4159" x-morph="ADV-I" εστε
+grc	|strong="1510 5719" x-morph="V-PAI-2P" αποστητε |strong="868 5628" x-morph="V-2AAM-2P" απ |strong="575"
+grc	x-morph="PREP" εμου |strong="1473" x-morph="P-1GS" παντες |strong="3956" x-morph="A-NPM" οι |strong="3588"
+grc	x-morph="T-NPM" εργαται |strong="2040" x-morph="N-NPM" της |strong="3588" x-morph="T-GSF" αδικιας
+grc	και |strong="2532" x-morph="CONJ" ειπεν |strong="3004 5627" x-morph="V-2AAI-3S" ο |strong="3588"
+grc	x-morph="T-NSM" δουλος |strong="1401" x-morph="N-NSM" κυριε |strong="2962" x-morph="N-VSM" γεγονεν
+grc	|strong="1096 5754" x-morph="V-2RAI-3S" ως |strong="5613" x-morph="ADV" επεταξας |strong="2004 5656"
+grc	x-morph="V-AAI-2S" και |strong="2532" x-morph="CONJ" ετι |strong="2089" x-morph="ADV" τοπος |strong="5117"
+grc	εις |strong="1519" x-morph="PREP" εαυτον |strong="1438" x-morph="F-3ASM" δε |strong="1161" x-morph="CONJ"
+grc	ελθων |strong="2064 5631" x-morph="V-2AAP-NSM" ειπεν |strong="3004 5627" x-morph="V-2AAI-3S" ποσοι
+grc	|strong="4214" x-morph="Q-NPM" μισθιοι |strong="3407" x-morph="A-NPM" του |strong="3588" x-morph="T-GSM"
+grc	πατρος |strong="3962" x-morph="N-GSM" μου |strong="1473" x-morph="P-1GS" περισσευουσιν
+grc	|strong="4052 5719" x-morph="V-PAI-3P" αρτων |strong="740" x-morph="N-GPM" εγω |strong="1473" x-morph="P-1NS"
+grc	δε |strong="1161" x-morph="CONJ" λιμω |strong="3042" x-morph="N-DSM" απολλυμαι |strong="622 5731"
+grc	και |strong="2532" x-morph="CONJ" ειπεν |strong="3004 5627" x-morph="V-2AAI-3S" αυτοις |strong="846"
+grc	x-morph="P-DPM" υμεις |strong="4771" x-morph="P-2NP" εστε |strong="1510 5719" x-morph="V-PAI-2P" οι
+grc	|strong="3588" x-morph="T-NPM" δικαιουντες |strong="1344 5723" x-morph="V-PAP-NPM" εαυτους
+grc	|strong="1438" x-morph="F-2APM" ενωπιον |strong="1799" x-morph="ADV" των |strong="3588" x-morph="T-GPM"
+grc	ανθρωπων |strong="444" x-morph="N-GPM" ο |strong="3588" x-morph="T-NSM" δε |strong="1161" x-morph="CONJ"
+grc	θεος |strong="2316" x-morph="N-NSM" γινωσκει |strong="1097 5719" x-morph="V-PAI-3S" τας |strong="3588"
+grc	x-morph="T-APF" καρδιας |strong="2588" x-morph="N-APF" υμων |strong="4771" x-morph="P-2GP" οτι
+grc	|strong="3754" x-morph="CONJ" το |strong="3588" x-morph="T-NSN" εν |strong="1722" x-morph="PREP" ανθρωποις
+grc	|strong="444" x-morph="N-DPM" υψηλον |strong="5308" x-morph="A-NSN" βδελυγμα |strong="946"
+grc	x-morph="N-NSN" ενωπιον |strong="1799" x-morph="ADV" του |strong="3588" x-morph="T-GSM" θεου
+grc	και |strong="2532" x-morph="CONJ" ιδων |strong="3708 5631" x-morph="V-2AAP-NSM" ειπεν |strong="3004 5627"
+grc	x-morph="V-2AAI-3S" αυτοις |strong="846" x-morph="P-DPM" πορευθεντες |strong="4198 5679"
+grc	x-morph="V-AOP-NPM" επιδειξατε |strong="1925 5657" x-morph="V-AAM-2P" εαυτους |strong="1438"
+grc	x-morph="F-2APM" τοις |strong="3588" x-morph="T-DPM" ιερευσιν |strong="2409" x-morph="N-DPM" και
+grc	|strong="2532" x-morph="CONJ" εγενετο |strong="1096 5633" x-morph="V-2ADI-3S" εν |strong="1722" x-morph="PREP"
+grc	τω |strong="3588" x-morph="T-DSN" υπαγειν |strong="5217 5721" x-morph="V-PAN" αυτους |strong="846"
+grc	λεγω |strong="3004 5719" x-morph="V-PAI-1S" υμιν |strong="4771" x-morph="P-2DP" οτι |strong="3754"
+grc	x-morph="CONJ" ποιησει |strong="4160 5692" x-morph="V-FAI-3S" την |strong="3588" x-morph="T-ASF"
+grc	εκδικησιν |strong="1557" x-morph="N-ASF" αυτων |strong="846" x-morph="P-GPM" εν |strong="1722"
+grc	x-morph="PREP" ταχει |strong="5034" x-morph="N-DSN" πλην |strong="4133" x-morph="ADV" ο |strong="3588"
+grc	x-morph="T-NSM" υιος |strong="5207" x-morph="N-NSM" του |strong="3588" x-morph="T-GSM" ανθρωπου
+grc	|strong="444" x-morph="N-GSM" ελθων |strong="2064 5631" x-morph="V-2AAP-NSM" αρα |strong="687" x-morph="PRT-I"
+grc	ευρησει |strong="2147 5692" x-morph="V-FAI-3S" την |strong="3588" x-morph="T-ASF" πιστιν |strong="4102"
+grc	x-morph="N-ASF" επι |strong="1909" x-morph="PREP" της |strong="3588" x-morph="T-GSF" γης |strong="1093"
+grc	και |strong="2532" x-morph="CONJ" εβοησεν |strong="994 5656" x-morph="V-AAI-3S" λεγων |strong="3004
+grc	5723" x-morph="V-PAP-NSM" ιησου |strong="2424" x-morph="N-VSM" υιε |strong="5207" x-morph="N-VSM" δαυιδ
+grc	|strong="1138" x-morph="N-PRI" ελεησον |strong="1653 5657" x-morph="V-AAM-2S" με |strong="1473" x-morph="P-1AS"
+grc	και |strong="2532" x-morph="CONJ" ειπον |strong="3004 5627" x-morph="V-2AAI-3P" αυτω |strong="846"
+grc	x-morph="P-DSM" κυριε |strong="2962" x-morph="N-VSM" εχει |strong="2192 5719" x-morph="V-PAI-3S" δεκα
+grc	και |strong="2532" x-morph="CONJ" απεκριθησαν |strong="611 5662" x-morph="V-ADI-3P" μη |strong="3361"
+grc	x-morph="PRT-N" ειδεναι |strong="1492 5760" x-morph="V-RAN" ποθεν |strong="4159" x-morph="ADV-I"
+grc	οτι |strong="3754" x-morph="CONJ" δε |strong="1161" x-morph="CONJ" εγειρονται |strong="1453 5743"
+grc	x-morph="V-PPI-3P" οι |strong="3588" x-morph="T-NPM" νεκροι |strong="3498" x-morph="A-NPM" και
+grc	|strong="2532" x-morph="CONJ" μωσης |strong="3475" x-morph="N-NSM"   εμηνυσεν |strong="3377 5656"
+grc	x-morph="V-AAI-3S" επι |strong="1909" x-morph="PREP" της |strong="3588" x-morph="T-GSF" βατου |strong="942"
+grc	x-morph="N-GSF" ως |strong="5613" x-morph="ADV" λεγει |strong="3004 5719" x-morph="V-PAI-3S" κυριον
+grc	|strong="2962" x-morph="N-ASM" τον |strong="3588" x-morph="T-ASM" θεον |strong="2316" x-morph="N-ASM"
+grc	αβρααμ |strong="11" x-morph="N-PRI" και |strong="2532" x-morph="CONJ" τον |strong="3588" x-morph="T-ASM"
+grc	θεον |strong="2316" x-morph="N-ASM" ισαακ |strong="2464" x-morph="N-PRI" και |strong="2532" x-morph="CONJ"
+grc	τον |strong="3588" x-morph="T-ASM" θεον |strong="2316" x-morph="N-ASM" ιακωβ |strong="2384" x-morph="N-PRI"
+grc	οταν |strong="3752" x-morph="CONJ" δε |strong="1161" x-morph="CONJ" ιδητε |strong="3708 5632"
+grc	x-morph="V-2AAS-2P" κυκλουμενην |strong="2944 5746" x-morph="V-PPP-ASF" υπο |strong="5259" x-morph="PREP"
+grc	στρατοπεδων |strong="4760" x-morph="N-GPN" την |strong="3588" x-morph="T-ASF" ιερουσαλημ
+grc	|strong="2419" x-morph="N-PRI" τοτε |strong="5119" x-morph="ADV" γνωτε |strong="1097 5628" x-morph="V-2AAM-2P"
+grc	οτι |strong="3754" x-morph="CONJ" ηγγικεν |strong="1448 5758" x-morph="V-RAI-3S" η |strong="3588"
+grc	x-morph="T-NSF" ερημωσις |strong="2050" x-morph="N-NSF" αυτης |strong="846" x-morph="P-GSF"
+grc	κακεινος |strong="2548" x-morph="D-NSM-K" υμιν |strong="4771" x-morph="P-2DP" δειξει |strong="1166
+grc	5692" x-morph="V-FAI-3S" ανωγεον |strong="508" x-morph="N-ASN" μεγα |strong="3173" x-morph="A-ASN"
+grc	εστρωμενον |strong="4766 5772" x-morph="V-RPP-ASN" εκει |strong="1563" x-morph="ADV" ετοιμασατε
+grc	λεγων |strong="3004 5723" x-morph="V-PAP-NSM" πατερ |strong="3962" x-morph="N-VSM" ει |strong="1487"
+grc	x-morph="COND" βουλει |strong="1014 5736" x-morph="V-PNI-2S" παρενεγκειν |strong="3911 5629"
+grc	x-morph="V-2AAN" το |strong="3588" x-morph="T-ASN" ποτηριον |strong="4221" x-morph="N-ASN" τουτο
+grc	|strong="3778" x-morph="D-ASN" απ |strong="575" x-morph="PREP" εμου |strong="1473" x-morph="P-1GS" πλην
+grc	|strong="4133" x-morph="ADV" μη |strong="3361" x-morph="PRT-N" το |strong="3588" x-morph="T-NSN" θελημα
+grc	|strong="2307" x-morph="N-NSN" μου |strong="1473" x-morph="P-1GS" αλλα |strong="235" x-morph="CONJ" το
+grc	|strong="3588" x-morph="T-NSN" σον |strong="4674" x-morph="S-2NSN" γενεσθω |strong="1096 5634"
+grc	και |strong="2532" x-morph="CONJ" ανασταν |strong="450 5631" x-morph="V-2AAP-NSN" απαν |strong="537"
+grc	x-morph="A-NSN" το |strong="3588" x-morph="T-NSN" πληθος |strong="4128" x-morph="N-NSN" αυτων
+grc	|strong="846" x-morph="P-GPM" ηγαγον |strong="71 5627" x-morph="V-2AAI-3P" αυτον |strong="846"
+grc	x-morph="P-ASM" επι |strong="1909" x-morph="PREP" τον |strong="3588" x-morph="T-ASM" πιλατον
+grc	οτι |strong="3754" x-morph="CONJ" ει |strong="1487" x-morph="COND" εν |strong="1722" x-morph="PREP" τω
+grc	|strong="3588" x-morph="T-DSN" υγρω |strong="5200" x-morph="A-DSN" ξυλω |strong="3586" x-morph="N-DSN"
+grc	ταυτα |strong="3778" x-morph="D-APN" ποιουσιν |strong="4160 5719" x-morph="V-PAI-3P" εν |strong="1722"
+grc	x-morph="PREP" τω |strong="3588" x-morph="T-DSN" ξηρω |strong="3584" x-morph="A-DSN" τι |strong="5101"
+grc	εμφοβων |strong="1719" x-morph="A-GPM" δε |strong="1161" x-morph="CONJ" γενομενων |strong="1096 5637"
+grc	x-morph="V-2ADP-GPF" αυτων |strong="846" x-morph="P-GPF" και |strong="2532" x-morph="CONJ" κλινουσων
+grc	|strong="2827 5723" x-morph="V-PAP-GPF" το |strong="3588" x-morph="T-ASN" προσωπον |strong="4383"
+grc	x-morph="N-ASN" εις |strong="1519" x-morph="PREP" την |strong="3588" x-morph="T-ASF" γην |strong="1093"
+grc	x-morph="N-ASF" ειπον |strong="3004 5627" x-morph="V-2AAI-3P" προς |strong="4314" x-morph="PREP" αυτας
+grc	|strong="846" x-morph="P-APF" τι |strong="5101" x-morph="I-ASN" ζητειτε |strong="2212 5719" x-morph="V-PAI-2P"
+grc	τον |strong="3588" x-morph="T-ASM" ζωντα |strong="2198 5723" x-morph="V-PAP-ASM" μετα |strong="3326"
+grc	x-morph="PREP" των |strong="3588" x-morph="T-GPM" νεκρων |strong="3498" x-morph="A-GPM"
+grc	και |strong="2532" x-morph="CONJ" αυτοι |strong="846" x-morph="P-NPM" εξηγουντο |strong="1834 5711"
+grc	x-morph="V-INI-3P" τα |strong="3588" x-morph="T-APN" εν |strong="1722" x-morph="PREP" τη |strong="3588"
+grc	x-morph="T-DSF" οδω |strong="3598" x-morph="N-DSF" και |strong="2532" x-morph="CONJ" ως |strong="5613"
+grc	x-morph="ADV" εγνωσθη |strong="1097 5681" x-morph="V-API-3S" αυτοις |strong="846" x-morph="P-DPM" εν
+grc	|strong="1722" x-morph="PREP" τη |strong="3588" x-morph="T-DSF" κλασει |strong="2800" x-morph="N-DSF" του
+grc	οσοι |strong="3745" x-morph="K-NPM" δε |strong="1161" x-morph="CONJ" ελαβον |strong="2983 5627"
+grc	x-morph="V-2AAI-3P" αυτον |strong="846" x-morph="P-ASM" εδωκεν |strong="1325 5656" x-morph="V-AAI-3S"
+grc	αυτοις |strong="846" x-morph="P-DPM" εξουσιαν |strong="1849" x-morph="N-ASF" τεκνα |strong="5043"
+grc	x-morph="N-NPN" θεου |strong="2316" x-morph="N-GSM" γενεσθαι |strong="1096 5635" x-morph="V-2ADN" τοις
+grc	|strong="3588" x-morph="T-DPM" πιστευουσιν |strong="4100 5723" x-morph="V-PAP-DPM" εις |strong="1519"
+grc	x-morph="PREP" το |strong="3588" x-morph="T-ASN" ονομα |strong="3686" x-morph="N-ASN" αυτου |strong="846"
+grc	και |strong="2532" x-morph="CONJ" ηγαγεν |strong="71 5627" x-morph="V-2AAI-3S" αυτον |strong="846"
+grc	x-morph="P-ASM" προς |strong="4314" x-morph="PREP" τον |strong="3588" x-morph="T-ASM" ιησουν
+grc	|strong="2424" x-morph="N-ASM" εμβλεψας |strong="1689 5660" x-morph="V-AAP-NSM"   αυτω |strong="846"
+grc	x-morph="P-DSM" ο |strong="3588" x-morph="T-NSM" ιησους |strong="2424" x-morph="N-NSM" ειπεν |strong="3004
+grc	5627" x-morph="V-2AAI-3S" συ |strong="4771" x-morph="P-2NS" ει |strong="1510 5719" x-morph="V-PAI-2S" σιμων
+grc	|strong="4613" x-morph="N-NSM" ο |strong="3588" x-morph="T-NSM" υιος |strong="5207" x-morph="N-NSM" ιωνα
+grc	|strong="2495" x-morph="N-GSM" συ |strong="4771" x-morph="P-2NS" κληθηση |strong="2564 5701"
+grc	x-morph="V-FPI-2S" κηφας |strong="2786" x-morph="N-NSM" ο |strong="3739" x-morph="R-NSN" ερμηνευεται
+grc	εκεινος |strong="1565" x-morph="D-NSM" δε |strong="1161" x-morph="CONJ" ελεγεν |strong="3004 5707"
+grc	x-morph="V-IAI-3S" περι |strong="4012" x-morph="PREP" του |strong="3588" x-morph="T-GSM" ναου |strong="3485"
+grc	x-morph="N-GSM" του |strong="3588" x-morph="T-GSN" σωματος |strong="4983" x-morph="N-GSN" αυτου
+grc	και |strong="2532" x-morph="CONJ" ηλθον |strong="2064 5627" x-morph="V-2AAI-3P" προς |strong="4314"
+grc	x-morph="PREP" τον |strong="3588" x-morph="T-ASM" ιωαννην |strong="2491" x-morph="N-ASM" και
+grc	|strong="2532" x-morph="CONJ" ειπον |strong="3004 5627" x-morph="V-2AAI-3P" αυτω |strong="846" x-morph="P-DSM"
+grc	ραββι |strong="4461" x-morph="HEB" ος |strong="3739" x-morph="R-NSM" ην |strong="1510 5707" x-morph="V-IAI-3S"
+grc	μετα |strong="3326" x-morph="PREP" σου |strong="4771" x-morph="P-2GS" περαν |strong="4008" x-morph="ADV"
+grc	του |strong="3588" x-morph="T-GSM" ιορδανου |strong="2446" x-morph="N-GSM" ω |strong="3739" x-morph="R-DSM"
+grc	συ |strong="4771" x-morph="P-2NS" μεμαρτυρηκας |strong="3140 5758" x-morph="V-RAI-2S" ιδε
+grc	|strong="3708 5628" x-morph="V-2AAM-2S" ουτος |strong="3778" x-morph="D-NSM" βαπτιζει |strong="907 5719"
+grc	x-morph="V-PAI-3S" και |strong="2532" x-morph="CONJ" παντες |strong="3956" x-morph="A-NPM" ερχονται
+grc	|strong="2064 5736" x-morph="V-PNI-3P" προς |strong="4314" x-morph="PREP" αυτον |strong="846" x-morph="P-ASM"
+grc	οι |strong="3588" x-morph="T-NPM" πατερες |strong="3962" x-morph="N-NPM" ημων |strong="1473"
+grc	x-morph="P-1GP" εν |strong="1722" x-morph="PREP" τω |strong="3588" x-morph="T-DSN" ορει |strong="3735"
+grc	x-morph="N-DSN" τουτω |strong="3778" x-morph="D-DSN" προσεκυνησαν |strong="4352 5656"
+grc	x-morph="V-AAI-3P" και |strong="2532" x-morph="CONJ" υμεις |strong="4771" x-morph="P-2NP" λεγετε
+grc	|strong="3004 5719" x-morph="V-PAI-2P" οτι |strong="3754" x-morph="CONJ" εν |strong="1722" x-morph="PREP"
+grc	ιεροσολυμοις |strong="2414" x-morph="N-DPN" εστιν |strong="1510 5719" x-morph="V-PAI-3S" ο
+grc	|strong="3588" x-morph="T-NSM" τοπος |strong="5117" x-morph="N-NSM" οπου |strong="3699" x-morph="ADV" δει
+grc	|strong="1163 5719" x-morph="V-PAI-3S" προσκυνειν |strong="4352 5721" x-morph="V-PAN"
+grc	λεγει |strong="3004 5719" x-morph="V-PAI-3S" αυτω |strong="846" x-morph="P-DSM" ο |strong="3588"
+grc	x-morph="T-NSM" ιησους |strong="2424" x-morph="N-NSM" πορευου |strong="4198 5737" x-morph="V-PNM-2S" ο
+grc	|strong="3588" x-morph="T-NSM" υιος |strong="5207" x-morph="N-NSM" σου |strong="4771" x-morph="P-2GS" ζη
+grc	|strong="2198 5719" x-morph="V-PAI-3S" και |strong="2532" x-morph="CONJ" επιστευσεν |strong="4100 5656"
+grc	x-morph="V-AAI-3S" ο |strong="3588" x-morph="T-NSM" ανθρωπος |strong="444" x-morph="N-NSM" τω |strong="3588"
+grc	x-morph="T-DSM" λογω |strong="3056" x-morph="N-DSM" ω |strong="3739" x-morph="R-DSM" ειπεν |strong="3004
+grc	5627" x-morph="V-2AAI-3S" αυτω |strong="846" x-morph="P-DSM" ο |strong="3588" x-morph="T-NSM" ιησους
+grc	|strong="2424" x-morph="N-NSM" και |strong="2532" x-morph="CONJ" επορευετο |strong="4198 5711"
+grc	ωσπερ |strong="5618" x-morph="ADV" γαρ |strong="1063" x-morph="CONJ" ο |strong="3588" x-morph="T-NSM"
+grc	πατηρ |strong="3962" x-morph="N-NSM" εχει |strong="2192 5719" x-morph="V-PAI-3S" ζωην |strong="2222"
+grc	x-morph="N-ASF" εν |strong="1722" x-morph="PREP" εαυτω |strong="1438" x-morph="F-3DSM" ουτως |strong="3779"
+grc	x-morph="ADV" εδωκεν |strong="1325 5656" x-morph="V-AAI-3S" και |strong="2532" x-morph="CONJ" τω
+grc	|strong="3588" x-morph="T-DSM" υιω |strong="5207" x-morph="N-DSM" ζωην |strong="2222" x-morph="N-ASF" εχειν
+grc	|strong="2192 5721" x-morph="V-PAN" εν |strong="1722" x-morph="PREP" εαυτω |strong="1438" x-morph="F-3DSM"
+grc	εστιν |strong="1510 5719" x-morph="V-PAI-3S" παιδαριον |strong="3808" x-morph="N-NSN" εν |strong="1520"
+grc	x-morph="A-NSN" ωδε |strong="5602" x-morph="ADV" ο |strong="3739" x-morph="R-NSN" εχει |strong="2192 5719"
+grc	x-morph="V-PAI-3S" πεντε |strong="4002" x-morph="A-NUI" αρτους |strong="740" x-morph="N-APM"
+grc	κριθινους |strong="2916" x-morph="A-APM" και |strong="2532" x-morph="CONJ" δυο |strong="1417"
+grc	x-morph="A-NUI" οψαρια |strong="3795" x-morph="N-APN" αλλα |strong="235" x-morph="CONJ" ταυτα
+grc	|strong="3778" x-morph="D-NPN" τι |strong="5101" x-morph="I-NSN" εστιν |strong="1510 5719" x-morph="V-PAI-3S"
+grc	τουτο |strong="3778" x-morph="D-NSN" δε |strong="1161" x-morph="CONJ" εστιν |strong="1510 5719"
+grc	x-morph="V-PAI-3S" το |strong="3588" x-morph="T-NSN" θελημα |strong="2307" x-morph="N-NSN" του
+grc	|strong="3588" x-morph="T-GSM" πεμψαντος |strong="3992 5660" x-morph="V-AAP-GSM" με |strong="1473"
+grc	x-morph="P-1AS" πατρος |strong="3962" x-morph="N-GSM" ινα |strong="2443" x-morph="CONJ" παν |strong="3956"
+grc	x-morph="A-ASN" ο |strong="3739" x-morph="R-ASN" δεδωκεν |strong="1325 5758" x-morph="V-RAI-3S" μοι
+grc	|strong="1473" x-morph="P-1DS" μη |strong="3361" x-morph="PRT-N" απολεσω |strong="622 5661" x-morph="V-AAS-1S"
+grc	εξ |strong="1537" x-morph="PREP" αυτου |strong="846" x-morph="P-GSN" αλλα |strong="235" x-morph="CONJ"
+grc	αναστησω |strong="450 5692" x-morph="V-FAI-1S" αυτο |strong="846" x-morph="P-ASN"
+grc	και |strong="2532" x-morph="CONJ" ημεις |strong="1473" x-morph="P-1NP" πεπιστευκαμεν |strong="4100
+grc	5758" x-morph="V-RAI-1P" και |strong="2532" x-morph="CONJ" εγνωκαμεν |strong="1097 5758" x-morph="V-RAI-1P"
+grc	οτι |strong="3754" x-morph="CONJ" συ |strong="4771" x-morph="P-2NS" ει |strong="1510 5719" x-morph="V-PAI-2S" ο
+grc	|strong="3588" x-morph="T-NSM" χριστος |strong="5547" x-morph="N-NSM" ο |strong="3588" x-morph="T-NSM" υιος
+grc	|strong="5207" x-morph="N-NSM" του |strong="3588" x-morph="T-GSM" θεου |strong="2316" x-morph="N-GSM" του
+grc	εκραξεν |strong="2896 5656" x-morph="V-AAI-3S" ουν |strong="3767" x-morph="CONJ" εν |strong="1722"
+grc	x-morph="PREP" τω |strong="3588" x-morph="T-DSN" ιερω |strong="2411" x-morph="N-DSN" διδασκων
+grc	|strong="1321 5723" x-morph="V-PAP-NSM" ο |strong="3588" x-morph="T-NSM" ιησους |strong="2424" x-morph="N-NSM"
+grc	και |strong="2532" x-morph="CONJ" λεγων |strong="3004 5723" x-morph="V-PAP-NSM" καμε |strong="2504"
+grc	x-morph="P-1AS-K" οιδατε |strong="1492 5758" x-morph="V-RAI-2P" και |strong="2532" x-morph="CONJ" οιδατε
+grc	|strong="1492 5758" x-morph="V-RAI-2P" ποθεν |strong="4159" x-morph="ADV-I" ειμι |strong="1510 5719"
+grc	x-morph="V-PAI-1S" και |strong="2532" x-morph="CONJ" απ |strong="575" x-morph="PREP" εμαυτου |strong="1683"
+grc	x-morph="F-1GSM" ουκ |strong="3756" x-morph="PRT-N" εληλυθα |strong="2064 5754" x-morph="V-2RAI-1S" αλλ
+grc	|strong="235" x-morph="CONJ" εστιν |strong="1510 5719" x-morph="V-PAI-3S" αληθινος |strong="228"
+grc	x-morph="A-NSM" ο |strong="3588" x-morph="T-NSM" πεμψας |strong="3992 5660" x-morph="V-AAP-NSM" με
+grc	|strong="1473" x-morph="P-1AS" ον |strong="3739" x-morph="R-ASM" υμεις |strong="4771" x-morph="P-2NP" ουκ
+grc	εν |strong="1722" x-morph="PREP" δε |strong="1161" x-morph="CONJ" τω |strong="3588" x-morph="T-DSM" νομω
+grc	ο |strong="3588" x-morph="T-NSM" δε |strong="1161" x-morph="CONJ" δουλος |strong="1401" x-morph="N-NSM" ου
+grc	|strong="3756" x-morph="PRT-N" μενει |strong="3306 5719" x-morph="V-PAI-3S" εν |strong="1722" x-morph="PREP"
+grc	τη |strong="3588" x-morph="T-DSF" οικια |strong="3614" x-morph="N-DSF" εις |strong="1519" x-morph="PREP"
+grc	τον |strong="3588" x-morph="T-ASM" αιωνα |strong="165" x-morph="N-ASM" ο |strong="3588" x-morph="T-NSM"
+grc	υιος |strong="5207" x-morph="N-NSM" μενει |strong="3306 5719" x-morph="V-PAI-3S" εις |strong="1519"
+grc	x-morph="PREP" τον |strong="3588" x-morph="T-ASM" αιωνα |strong="165" x-morph="N-ASM"
+grc	ταυτα |strong="3778" x-morph="D-APN" ειπων |strong="3004 5631" x-morph="V-2AAP-NSM" επτυσεν
+grc	|strong="4429 5656" x-morph="V-AAI-3S" χαμαι |strong="5476" x-morph="ADV" και |strong="2532" x-morph="CONJ"
+grc	εποιησεν |strong="4160 5656" x-morph="V-AAI-3S" πηλον |strong="4081" x-morph="N-ASM" εκ |strong="1537"
+grc	x-morph="PREP" του |strong="3588" x-morph="T-GSN" πτυσματος |strong="4427" x-morph="N-GSN" και
+grc	|strong="2532" x-morph="CONJ" επεχρισεν |strong="2025 5656" x-morph="V-AAI-3S" τον |strong="3588"
+grc	x-morph="T-ASM" πηλον |strong="4081" x-morph="N-ASM" επι |strong="1909" x-morph="PREP" τους |strong="3588"
+grc	x-morph="T-APM" οφθαλμους |strong="3788" x-morph="N-APM" του |strong="3588" x-morph="T-GSM" τυφλου
+grc	απεκριθη |strong="611 5662" x-morph="V-ADI-3S" εκεινος |strong="1565" x-morph="D-NSM" και
+grc	|strong="2532" x-morph="CONJ" ειπεν |strong="3004 5627" x-morph="V-2AAI-3S" και |strong="2532" x-morph="CONJ"
+grc	τις |strong="5101" x-morph="I-NSM" εστιν |strong="1510 5719" x-morph="V-PAI-3S" κυριε |strong="2962"
+grc	x-morph="N-VSM" ινα |strong="2443" x-morph="CONJ" πιστευσω |strong="4100 5661" x-morph="V-AAS-1S" εις
+grc	απεκριθη |strong="611 5662" x-morph="V-ADI-3S" αυτοις |strong="846" x-morph="P-DPM" ο |strong="3588"
+grc	x-morph="T-NSM" ιησους |strong="2424" x-morph="N-NSM" ειπον |strong="3004 5627" x-morph="V-2AAI-1S" υμιν
+grc	|strong="4771" x-morph="P-2DP" και |strong="2532" x-morph="CONJ" ου |strong="3756" x-morph="PRT-N"
+grc	πιστευετε |strong="4100 5719" x-morph="V-PAI-2P" τα |strong="3588" x-morph="T-NPN" εργα |strong="2041"
+grc	x-morph="N-NPN" α |strong="3739" x-morph="R-APN" εγω |strong="1473" x-morph="P-1NS" ποιω |strong="4160 5719"
+grc	x-morph="V-PAI-1S" εν |strong="1722" x-morph="PREP" τω |strong="3588" x-morph="T-DSN" ονοματι |strong="3686"
+grc	x-morph="N-DSN" του |strong="3588" x-morph="T-GSM" πατρος |strong="3962" x-morph="N-GSM" μου |strong="1473"
+grc	x-morph="P-1GS" ταυτα |strong="3778" x-morph="D-NPN" μαρτυρει |strong="3140 5719" x-morph="V-PAI-3S"
+grc	ειρηκει |strong="2046 5715" x-morph="V-LAI-3S-ATT" δε |strong="1161" x-morph="CONJ" ο |strong="3588"
+grc	x-morph="T-NSM" ιησους |strong="2424" x-morph="N-NSM" περι |strong="4012" x-morph="PREP" του
+grc	|strong="3588" x-morph="T-GSM" θανατου |strong="2288" x-morph="N-GSM" αυτου |strong="846" x-morph="P-GSM"
+grc	εκεινοι |strong="1565" x-morph="D-NPM" δε |strong="1161" x-morph="CONJ" εδοξαν |strong="1380 5656"
+grc	x-morph="V-AAI-3P" οτι |strong="3754" x-morph="CONJ" περι |strong="4012" x-morph="PREP" της |strong="3588"
+grc	x-morph="T-GSF" κοιμησεως |strong="2838" x-morph="N-GSF" του |strong="3588" x-morph="T-GSM" υπνου
+grc	και |strong="2532" x-morph="CONJ" ταυτα |strong="3778" x-morph="D-APN" ειπων |strong="3004 5631"
+grc	x-morph="V-2AAP-NSM" φωνη |strong="5456" x-morph="N-DSF" μεγαλη |strong="3173" x-morph="A-DSF"
+grc	εκραυγασεν |strong="2905 5656" x-morph="V-AAI-3S" λαζαρε |strong="2976" x-morph="N-VSM" δευρο
+grc	ταυτα |strong="3778" x-morph="D-APN" δε |strong="1161" x-morph="CONJ" ουκ |strong="3756" x-morph="PRT-N"
+grc	εγνωσαν |strong="1097 5627" x-morph="V-2AAI-3P" οι |strong="3588" x-morph="T-NPM" μαθηται
+grc	|strong="3101" x-morph="N-NPM" αυτου |strong="846" x-morph="P-GSM" το |strong="3588" x-morph="T-ASN"
+grc	πρωτον |strong="4413" x-morph="A-ASN-S" αλλ |strong="235" x-morph="CONJ" οτε |strong="3753" x-morph="ADV"
+grc	εδοξασθη |strong="1392 5681" x-morph="V-API-3S" ιησους |strong="2424" x-morph="N-NSM"   τοτε
+grc	|strong="5119" x-morph="ADV" εμνησθησαν |strong="3415 5681" x-morph="V-API-3P" οτι |strong="3754"
+grc	x-morph="CONJ" ταυτα |strong="3778" x-morph="D-NPN" ην |strong="1510 5707" x-morph="V-IAI-3S" επ
+grc	|strong="1909" x-morph="PREP" αυτω |strong="846" x-morph="P-DSM" γεγραμμενα |strong="1125 5772"
+grc	x-morph="V-RPP-NPN" και |strong="2532" x-morph="CONJ" ταυτα |strong="3778" x-morph="D-APN" εποιησαν
+grc	εγω |strong="1473" x-morph="P-1NS" φως |strong="5457" x-morph="N-ASN" εις |strong="1519" x-morph="PREP" τον
+grc	|strong="3588" x-morph="T-ASM" κοσμον |strong="2889" x-morph="N-ASM" εληλυθα |strong="2064 5754"
+grc	x-morph="V-2RAI-1S" ινα |strong="2443" x-morph="CONJ" πας |strong="3956" x-morph="A-NSM" ο |strong="3588"
+grc	x-morph="T-NSM" πιστευων |strong="4100 5723" x-morph="V-PAP-NSM" εις |strong="1519" x-morph="PREP" εμε
+grc	|strong="1473" x-morph="P-1AS" εν |strong="1722" x-morph="PREP" τη |strong="3588" x-morph="T-DSF" σκοτια
+grc	|strong="4653" x-morph="N-DSF" μη |strong="3361" x-morph="PRT-N" μεινη |strong="3306 5661" x-morph="V-AAS-3S"
+grc	αποκρινεται |strong="611 5736" x-morph="V-PNI-3S" ο |strong="3588" x-morph="T-NSM" ιησους
+grc	|strong="2424" x-morph="N-NSM" εκεινος |strong="1565" x-morph="D-NSM" εστιν |strong="1510 5719"
+grc	x-morph="V-PAI-3S" ω |strong="3739" x-morph="R-DSM" εγω |strong="1473" x-morph="P-1NS" βαψας |strong="911
+grc	5660" x-morph="V-AAP-NSM" το |strong="3588" x-morph="T-ASN" ψωμιον |strong="5596" x-morph="N-ASN"
+grc	επιδωσω |strong="1929 5692" x-morph="V-FAI-1S" και |strong="2532" x-morph="CONJ" εμβαψας |strong="1686
+grc	5660" x-morph="V-AAP-NSM" το |strong="3588" x-morph="T-ASN" ψωμιον |strong="5596" x-morph="N-ASN"
+grc	διδωσιν |strong="1325 5719" x-morph="V-PAI-3S" ιουδα |strong="2455" x-morph="N-DSM" σιμωνος
+grc	ουκ |strong="3756" x-morph="PRT-N" αφησω |strong="863 5692" x-morph="V-FAI-1S" υμας |strong="4771"
+grc	x-morph="P-2AP" ορφανους |strong="3737" x-morph="A-APM" ερχομαι |strong="2064 5736" x-morph="V-PNI-1S"
+grc	ταυτα |strong="3778" x-morph="D-APN" εντελλομαι |strong="1781 5736" x-morph="V-PNI-1S" υμιν
+grc	|strong="4771" x-morph="P-2DP" ινα |strong="2443" x-morph="CONJ" αγαπατε |strong="25 5725" x-morph="V-PAS-2P"
+grc	αμην |strong="281" x-morph="HEB" αμην |strong="281" x-morph="HEB" λεγω |strong="3004 5719"
+grc	x-morph="V-PAI-1S" υμιν |strong="4771" x-morph="P-2DP" οτι |strong="3754" x-morph="CONJ" κλαυσετε
+grc	|strong="2799 5692" x-morph="V-FAI-2P" και |strong="2532" x-morph="CONJ" θρηνησετε |strong="2354 5692"
+grc	x-morph="V-FAI-2P" υμεις |strong="4771" x-morph="P-2NP" ο |strong="3588" x-morph="T-NSM" δε |strong="1161"
+grc	x-morph="CONJ" κοσμος |strong="2889" x-morph="N-NSM" χαρησεται |strong="5463 5690" x-morph="V-2FOI-3S"
+grc	υμεις |strong="4771" x-morph="P-2NP" δε |strong="1161" x-morph="CONJ" λυπηθησεσθε |strong="3076 5701"
+grc	x-morph="V-FPI-2P" αλλ |strong="235" x-morph="CONJ" η |strong="3588" x-morph="T-NSF" λυπη |strong="3077"
+grc	x-morph="N-NSF" υμων |strong="4771" x-morph="P-2GP" εις |strong="1519" x-morph="PREP" χαραν |strong="5479"
+grc	αγιασον |strong="37 5657" x-morph="V-AAM-2S" αυτους |strong="846" x-morph="P-APM" εν |strong="1722"
+grc	x-morph="PREP" τη |strong="3588" x-morph="T-DSF" αληθεια |strong="225" x-morph="N-DSF" σου |strong="4771"
+grc	x-morph="P-2GS" ο |strong="3588" x-morph="T-NSM" λογος |strong="3056" x-morph="N-NSM" ο |strong="3588"
+grc	x-morph="T-NSM" σος |strong="4674" x-morph="S-2NSM" αληθεια |strong="225" x-morph="N-NSF" εστιν
+grc	τι |strong="5101" x-morph="I-NSN" με |strong="1473" x-morph="P-1AS" επερωτας |strong="1905 5719"
+grc	x-morph="V-PAI-2S" επερωτησον |strong="1905 5657" x-morph="V-AAM-2S" τους |strong="3588" x-morph="T-APM"
+grc	ακηκοοτας |strong="191 5756" x-morph="V-2RAP-APM-ATT" τι |strong="5101" x-morph="I-ASN" ελαλησα
+grc	|strong="2980 5656" x-morph="V-AAI-1S" αυτοις |strong="846" x-morph="P-DPM" ιδε |strong="3708 5628"
+grc	x-morph="V-2AAM-2S" ουτοι |strong="3778" x-morph="D-NPM" οιδασιν |strong="1492 5758" x-morph="V-RAI-3P" α
+grc	|strong="3739" x-morph="R-APN" ειπον |strong="3004 5627" x-morph="V-2AAI-1S" εγω |strong="1473" x-morph="P-1NS"
+grc	απεκριθη |strong="611 5662" x-morph="V-ADI-3S" ιησους |strong="2424" x-morph="N-NSM" ουκ
+grc	|strong="3756" x-morph="PRT-N" ειχες |strong="2192 5707" x-morph="V-IAI-2S" εξουσιαν |strong="1849"
+grc	x-morph="N-ASF" ουδεμιαν |strong="3762" x-morph="A-ASF-N" κατ |strong="2596" x-morph="PREP" εμου
+grc	|strong="1473" x-morph="P-1GS" ει |strong="1487" x-morph="COND" μη |strong="3361" x-morph="PRT-N" ην
+grc	|strong="1510 5707" x-morph="V-IAI-3S" σοι |strong="4771" x-morph="P-2DS" δεδομενον |strong="1325 5772"
+grc	x-morph="V-RPP-NSN" ανωθεν |strong="509" x-morph="ADV" δια |strong="1223" x-morph="PREP" τουτο
+grc	|strong="3778" x-morph="D-ASN" ο |strong="3588" x-morph="T-NSM" παραδιδους |strong="3860 5723"
+grc	x-morph="V-PAP-NSM" με |strong="1473" x-morph="P-1AS" σοι |strong="4771" x-morph="P-2DS" μειζονα
+grc	|strong="3173" x-morph="A-ASF-C" αμαρτιαν |strong="266" x-morph="N-ASF" εχει |strong="2192 5719"
+grc	ην |strong="1510 5707" x-morph="V-IAI-3S" δε |strong="1161" x-morph="CONJ" εν |strong="1722" x-morph="PREP" τω
+grc	|strong="3588" x-morph="T-DSM" τοπω |strong="5117" x-morph="N-DSM" οπου |strong="3699" x-morph="ADV"
+grc	εσταυρωθη |strong="4717 5681" x-morph="V-API-3S" κηπος |strong="2779" x-morph="N-NSM" και
+grc	|strong="2532" x-morph="CONJ" εν |strong="1722" x-morph="PREP" τω |strong="3588" x-morph="T-DSM" κηπω
+grc	|strong="2779" x-morph="N-DSM" μνημειον |strong="3419" x-morph="N-NSN" καινον |strong="2537"
+grc	x-morph="A-NSN" εν |strong="1722" x-morph="PREP" ω |strong="3739" x-morph="R-DSN" ουδεπω |strong="3764"
+grc	x-morph="ADV-N" ουδεις |strong="3762" x-morph="A-NSM-N" ετεθη |strong="5087 5681" x-morph="V-API-3S"
+grc	λεγει |strong="3004 5719" x-morph="V-PAI-3S" αυτω |strong="846" x-morph="P-DSM" ο |strong="3588"
+grc	x-morph="T-NSM" ιησους |strong="2424" x-morph="N-NSM" οτι |strong="3754" x-morph="CONJ" εωρακας
+grc	|strong="3708 5758" x-morph="V-RAI-2S-ATT" με |strong="1473" x-morph="P-1AS" πεπιστευκας |strong="4100
+grc	5758" x-morph="V-RAI-2S" μακαριοι |strong="3107" x-morph="A-NPM" οι |strong="3588" x-morph="T-NPM" μη
+grc	|strong="3361" x-morph="PRT-N" ιδοντες |strong="3708 5631" x-morph="V-2AAP-NPM" και |strong="2532"
+grc	οις |strong="3739" x-morph="R-DPM" και |strong="2532" x-morph="CONJ" παρεστησεν |strong="3936 5656"
+grc	x-morph="V-AAI-3S" εαυτον |strong="1438" x-morph="F-3ASM" ζωντα |strong="2198 5723" x-morph="V-PAP-ASM"
+grc	μετα |strong="3326" x-morph="PREP" το |strong="3588" x-morph="T-ASN" παθειν |strong="3958 5629"
+grc	x-morph="V-2AAN" αυτον |strong="846" x-morph="P-ASM" εν |strong="1722" x-morph="PREP" πολλοις
+grc	|strong="4183" x-morph="A-DPN" τεκμηριοις |strong="5039" x-morph="N-DPN" δι |strong="1223" x-morph="PREP"
+grc	ημερων |strong="2250" x-morph="N-GPF" τεσσαρακοντα |strong="5062" x-morph="A-NUI"
+grc	οπτανομενος |strong="3700 5740" x-morph="V-PNP-NSM" αυτοις |strong="846" x-morph="P-DPM" και
+grc	|strong="2532" x-morph="CONJ" λεγων |strong="3004 5723" x-morph="V-PAP-NSM" τα |strong="3588" x-morph="T-APN"
+grc	περι |strong="4012" x-morph="PREP" της |strong="3588" x-morph="T-GSF" βασιλειας |strong="932"
+grc	x-morph="N-GSF" του |strong="3588" x-morph="T-GSM" θεου |strong="2316" x-morph="N-GSM"
+grc	εξισταντο |strong="1839 5710" x-morph="V-IMI-3P" δε |strong="1161" x-morph="CONJ" παντες
+grc	|strong="3956" x-morph="A-NPM" και |strong="2532" x-morph="CONJ" εθαυμαζον |strong="2296 5707"
+grc	x-morph="V-IAI-3P" λεγοντες |strong="3004 5723" x-morph="V-PAP-NPM" προς |strong="4314" x-morph="PREP"
+grc	αλληλους |strong="240" x-morph="C-APM" ουκ |strong="3756" x-morph="PRT-N" ιδου |strong="3708 5640"
+grc	x-morph="V-2AMM-2S" παντες |strong="3956" x-morph="A-NPM" ουτοι |strong="3778" x-morph="D-NPM" εισιν
+grc	|strong="1510 5719" x-morph="V-PAI-3P" οι |strong="3588" x-morph="T-NPM" λαλουντες |strong="2980 5723"
+grc	ακουσαντες |strong="191 5660" x-morph="V-AAP-NPM" δε |strong="1161" x-morph="CONJ" κατενυγησαν
+grc	|strong="2660 5648" x-morph="V-2API-3P" τη |strong="3588" x-morph="T-DSF" καρδια |strong="2588" x-morph="N-DSF"
+grc	ειπον |strong="3004 5627" x-morph="V-2AAI-3P" τε |strong="5037" x-morph="PRT" προς |strong="4314"
+grc	x-morph="PREP" τον |strong="3588" x-morph="T-ASM" πετρον |strong="4074" x-morph="N-ASM" και |strong="2532"
+grc	x-morph="CONJ" τους |strong="3588" x-morph="T-APM" λοιπους |strong="3062" x-morph="A-APM"
+grc	αποστολους |strong="652" x-morph="N-APM" τι |strong="5101" x-morph="I-ASN" ποιησομεν |strong="4160
+grc	5692" x-morph="V-FAI-1P"   ανδρες |strong="435" x-morph="N-VPM" αδελφοι |strong="80" x-morph="N-VPM"
+grc	και |strong="2532" x-morph="CONJ" αποστειλη |strong="649 5661" x-morph="V-AAS-3S" τον |strong="3588"
+grc	x-morph="T-ASM" προκεχειρισμενον |strong="4400 5772" x-morph="V-RPP-ASM" υμιν |strong="4771"
+grc	x-morph="P-2DP" χριστον |strong="5547" x-morph="N-ASM" ιησουν |strong="2424" x-morph="N-ASM"
+grc	οι |strong="3588" x-morph="T-NPM" δε |strong="1161" x-morph="CONJ" ακουσαντες |strong="191 5660"
+grc	x-morph="V-AAP-NPM" ομοθυμαδον |strong="3661" x-morph="ADV" ηραν |strong="142 5656" x-morph="V-AAI-3P"
+grc	φωνην |strong="5456" x-morph="N-ASF" προς |strong="4314" x-morph="PREP" τον |strong="3588" x-morph="T-ASM"
+grc	θεον |strong="2316" x-morph="N-ASM" και |strong="2532" x-morph="CONJ" ειπον |strong="3004 5627"
+grc	x-morph="V-2AAI-3P" δεσποτα |strong="1203" x-morph="N-VSM" συ |strong="4771" x-morph="P-2NS" ο |strong="3588"
+grc	x-morph="T-NSM" θεος |strong="2316" x-morph="N-NSM" ο |strong="3588" x-morph="T-NSM" ποιησας |strong="4160
+grc	5660" x-morph="V-AAP-NSM" τον |strong="3588" x-morph="T-ASM" ουρανον |strong="3772" x-morph="N-ASM" και
+grc	|strong="2532" x-morph="CONJ" την |strong="3588" x-morph="T-ASF" γην |strong="1093" x-morph="N-ASF" και
+grc	|strong="2532" x-morph="CONJ" την |strong="3588" x-morph="T-ASF" θαλασσαν |strong="2281" x-morph="N-ASF"
+grc	και |strong="2532" x-morph="CONJ" παντα |strong="3956" x-morph="A-APN" τα |strong="3588" x-morph="T-APN" εν
+grc	αναστας |strong="450 5631" x-morph="V-2AAP-NSM" δε |strong="1161" x-morph="CONJ" ο |strong="3588"
+grc	x-morph="T-NSM" αρχιερευς |strong="749" x-morph="N-NSM" και |strong="2532" x-morph="CONJ" παντες
+grc	|strong="3956" x-morph="A-NPM" οι |strong="3588" x-morph="T-NPM" συν |strong="4862" x-morph="PREP" αυτω
+grc	|strong="846" x-morph="P-DSM" η |strong="3588" x-morph="T-NSF" ουσα |strong="1510 5723" x-morph="V-PAP-NSF"
+grc	αιρεσις |strong="139" x-morph="N-NSF" των |strong="3588" x-morph="T-GPM" σαδδουκαιων
+grc	|strong="4523" x-morph="N-GPM" επλησθησαν |strong="4130 5681" x-morph="V-API-3P" ζηλου |strong="2205"
+grc	και |strong="2532" x-morph="CONJ" ηρεσεν |strong="700 5656" x-morph="V-AAI-3S" ο |strong="3588"
+grc	x-morph="T-NSM" λογος |strong="3056" x-morph="N-NSM" ενωπιον |strong="1799" x-morph="ADV" παντος
+grc	|strong="3956" x-morph="A-GSN" του |strong="3588" x-morph="T-GSN" πληθους |strong="4128" x-morph="N-GSN"
+grc	και |strong="2532" x-morph="CONJ" εξελεξαντο |strong="1586 5668" x-morph="V-AMI-3P" στεφανον
+grc	|strong="4736" x-morph="N-ASM" ανδρα |strong="435" x-morph="N-ASM" πληρης |strong="4134" x-morph="A-NSM"
+grc	πιστεως |strong="4102" x-morph="N-GSF" και |strong="2532" x-morph="CONJ" πνευματος |strong="4151"
+grc	x-morph="N-GSN" αγιου |strong="40" x-morph="A-GSN" και |strong="2532" x-morph="CONJ" φιλιππον
+grc	|strong="5376" x-morph="N-ASM" και |strong="2532" x-morph="CONJ" προχορον |strong="4402" x-morph="N-ASM"
+grc	και |strong="2532" x-morph="CONJ" νικανορα |strong="3527" x-morph="N-ASM" και |strong="2532"
+grc	x-morph="CONJ" τιμωνα |strong="5096" x-morph="N-ASM" και |strong="2532" x-morph="CONJ" παρμεναν
+grc	|strong="3937" x-morph="N-ASM" και |strong="2532" x-morph="CONJ" νικολαον |strong="3532" x-morph="N-ASM"
+grc	προσηλυτον |strong="4339" x-morph="N-ASM" αντιοχεα |strong="491" x-morph="N-ASM"
+grc	εν |strong="1722" x-morph="PREP" ω |strong="3739" x-morph="R-DSM" καιρω |strong="2540" x-morph="N-DSM"
+grc	εγεννηθη |strong="1080 5681" x-morph="V-API-3S" μωσης |strong="3475" x-morph="N-NSM" και |strong="2532"
+grc	x-morph="CONJ" ην |strong="1510 5707" x-morph="V-IAI-3S" αστειος |strong="791" x-morph="A-NSM" τω
+grc	|strong="3588" x-morph="T-DSM" θεω |strong="2316" x-morph="N-DSM" ος |strong="3739" x-morph="R-NSM"
+grc	ανετραφη |strong="397 5648" x-morph="V-2API-3S" μηνας |strong="3376" x-morph="N-APM" τρεις
+grc	|strong="5140" x-morph="A-APM" εν |strong="1722" x-morph="PREP" τω |strong="3588" x-morph="T-DSM" οικω
+grc	|strong="3624" x-morph="N-DSM" του |strong="3588" x-morph="T-GSM" πατρος |strong="3962" x-morph="N-GSM"
+grc	ουχι |strong="3780" x-morph="PRT-I" η |strong="3588" x-morph="T-NSF" χειρ |strong="5495" x-morph="N-NSF"
+grc	μου |strong="1473" x-morph="P-1GS" εποιησεν |strong="4160 5656" x-morph="V-AAI-3S" ταυτα |strong="3778"
+grc	πετρος |strong="4074" x-morph="N-NSM" δε |strong="1161" x-morph="CONJ" ειπεν |strong="3004 5627"
+grc	x-morph="V-2AAI-3S" προς |strong="4314" x-morph="PREP" αυτον |strong="846" x-morph="P-ASM" το |strong="3588"
+grc	x-morph="T-NSN" αργυριον |strong="694" x-morph="N-NSN" σου |strong="4771" x-morph="P-2GS" συν
+grc	|strong="4862" x-morph="PREP" σοι |strong="4771" x-morph="P-2DS" ειη |strong="1510 5722" x-morph="V-PAO-3S"
+grc	εις |strong="1519" x-morph="PREP" απωλειαν |strong="684" x-morph="N-ASF" οτι |strong="3754"
+grc	x-morph="CONJ" την |strong="3588" x-morph="T-ASF" δωρεαν |strong="1431" x-morph="N-ASF" του |strong="3588"
+grc	x-morph="T-GSM" θεου |strong="2316" x-morph="N-GSM" ενομισας |strong="3543 5656" x-morph="V-AAI-2S" δια
+grc	|strong="1223" x-morph="PREP" χρηματων |strong="5536" x-morph="N-GPN" κτασθαι |strong="2932 5738"
+grc	ο |strong="3588" x-morph="T-NSM" δε |strong="1161" x-morph="CONJ" κυριος |strong="2962" x-morph="N-NSM"
+grc	προς |strong="4314" x-morph="PREP" αυτον |strong="846" x-morph="P-ASM" αναστας |strong="450 5631"
+grc	x-morph="V-2AAP-NSM" πορευθητι |strong="4198 5676" x-morph="V-AOM-2S" επι |strong="1909" x-morph="PREP"
+grc	την |strong="3588" x-morph="T-ASF" ρυμην |strong="4505" x-morph="N-ASF" την |strong="3588" x-morph="T-ASF"
+grc	καλουμενην |strong="2564 5746" x-morph="V-PPP-ASF" ευθειαν |strong="2117" x-morph="A-ASF" και
+grc	|strong="2532" x-morph="CONJ" ζητησον |strong="2212 5657" x-morph="V-AAM-2S" εν |strong="1722" x-morph="PREP"
+grc	οικια |strong="3614" x-morph="N-DSF" ιουδα |strong="2455" x-morph="N-GSM" σαυλον |strong="4569"
+grc	x-morph="N-ASM" ονοματι |strong="3686" x-morph="N-DSN" ταρσεα |strong="5018" x-morph="N-ASM" ιδου
+grc	|strong="3708 5640" x-morph="V-2AMM-2S" γαρ |strong="1063" x-morph="CONJ" προσευχεται |strong="4336 5736"
+grc	δους |strong="1325 5631" x-morph="V-2AAP-NSM" δε |strong="1161" x-morph="CONJ" αυτη |strong="846"
+grc	x-morph="P-DSF" χειρα |strong="5495" x-morph="N-ASF" ανεστησεν |strong="450 5656" x-morph="V-AAI-3S"
+grc	αυτην |strong="846" x-morph="P-ASF" φωνησας |strong="5455 5660" x-morph="V-AAP-NSM" δε |strong="1161"
+grc	x-morph="CONJ" τους |strong="3588" x-morph="T-APM" αγιους |strong="40" x-morph="A-APM" και |strong="2532"
+grc	x-morph="CONJ" τας |strong="3588" x-morph="T-APF" χηρας |strong="5503" x-morph="N-APF" παρεστησεν
+grc	|strong="3936 5656" x-morph="V-AAI-3S" αυτην |strong="846" x-morph="P-ASF" ζωσαν |strong="2198 5723"
+grc	εφη |strong="5346 5707" x-morph="V-IAI-3S" τε |strong="5037" x-morph="PRT" προς |strong="4314" x-morph="PREP"
+grc	αυτους |strong="846" x-morph="P-APM" υμεις |strong="4771" x-morph="P-2NP" επιστασθε |strong="1987
+grc	5736" x-morph="V-PNI-2P" ως |strong="5613" x-morph="ADV" αθεμιτον |strong="111" x-morph="A-NSN" εστιν
+grc	|strong="1510 5719" x-morph="V-PAI-3S" ανδρι |strong="435" x-morph="N-DSM" ιουδαιω |strong="2453"
+grc	x-morph="A-DSM" κολλασθαι |strong="2853 5745" x-morph="V-PPN" η |strong="2228" x-morph="PRT"
+grc	προσερχεσθαι |strong="4334 5738" x-morph="V-PNN" αλλοφυλω |strong="246" x-morph="A-DSM" και
+grc	|strong="2532" x-morph="CONJ" εμοι |strong="1473" x-morph="P-1DS" ο |strong="3588" x-morph="T-NSM" θεος
+grc	|strong="2316" x-morph="N-NSM" εδειξεν |strong="1166 5656" x-morph="V-AAI-3S" μηδενα |strong="3367"
+grc	x-morph="A-ASM-N" κοινον |strong="2839" x-morph="A-ASM" η |strong="2228" x-morph="PRT" ακαθαρτον
+grc	|strong="169" x-morph="A-ASM" λεγειν |strong="3004 5721" x-morph="V-PAN" ανθρωπον |strong="444"
+grc	τουτο |strong="3778" x-morph="D-NSN" δε |strong="1161" x-morph="CONJ" εγενετο |strong="1096 5633"
+grc	x-morph="V-2ADI-3S" επι |strong="1909" x-morph="PREP" τρις |strong="5151" x-morph="ADV" και |strong="2532"
+grc	x-morph="CONJ" παλιν |strong="3825" x-morph="ADV" ανεσπασθη |strong="385 5681" x-morph="V-API-3S"
+grc	απαντα |strong="537" x-morph="A-NPN" εις |strong="1519" x-morph="PREP" τον |strong="3588" x-morph="T-ASM"
+grc	διελθοντες |strong="1330 5631" x-morph="V-2AAP-NPM" δε |strong="1161" x-morph="CONJ" πρωτην
+grc	|strong="4413" x-morph="A-ASF-S" φυλακην |strong="5438" x-morph="N-ASF" και |strong="2532" x-morph="CONJ"
+grc	δευτεραν |strong="1208" x-morph="A-ASF" ηλθον |strong="2064 5627" x-morph="V-2AAI-3P" επι
+grc	|strong="1909" x-morph="PREP" την |strong="3588" x-morph="T-ASF" πυλην |strong="4439" x-morph="N-ASF" την
+grc	|strong="3588" x-morph="T-ASF" σιδηραν |strong="4603" x-morph="A-ASF" την |strong="3588" x-morph="T-ASF"
+grc	φερουσαν |strong="5342 5723" x-morph="V-PAP-ASF" εις |strong="1519" x-morph="PREP" την |strong="3588"
+grc	x-morph="T-ASF" πολιν |strong="4172" x-morph="N-ASF" ητις |strong="3748" x-morph="R-NSF" αυτοματη
+grc	|strong="844" x-morph="A-NSF" ηνοιχθη |strong="455 5681" x-morph="V-API-3S" αυτοις |strong="846"
+grc	x-morph="P-DPM" και |strong="2532" x-morph="CONJ" εξελθοντες |strong="1831 5631" x-morph="V-2AAP-NPM"
+grc	προηλθον |strong="4281 5627" x-morph="V-2AAI-3P" ρυμην |strong="4505" x-morph="N-ASF" μιαν
+grc	|strong="1520" x-morph="A-ASF" και |strong="2532" x-morph="CONJ" ευθεως |strong="2112" x-morph="ADV"
+grc	απεστη |strong="868 5627" x-morph="V-2AAI-3S" ο |strong="3588" x-morph="T-NSM" αγγελος |strong="32"
+grc	x-morph="N-NSM" απ |strong="575" x-morph="PREP" αυτου |strong="846" x-morph="P-GSM"
+grc	μετα |strong="3326" x-morph="PREP" δε |strong="1161" x-morph="CONJ" την |strong="3588" x-morph="T-ASF"
+grc	αναγνωσιν |strong="320" x-morph="N-ASF" του |strong="3588" x-morph="T-GSM" νομου |strong="3551"
+grc	x-morph="N-GSM" και |strong="2532" x-morph="CONJ" των |strong="3588" x-morph="T-GPM" προφητων
+grc	|strong="4396" x-morph="N-GPM" απεστειλαν |strong="649 5656" x-morph="V-AAI-3P" οι |strong="3588"
+grc	x-morph="T-NPM" αρχισυναγωγοι |strong="752" x-morph="N-NPM" προς |strong="4314" x-morph="PREP"
+grc	αυτους |strong="846" x-morph="P-APM" λεγοντες |strong="3004 5723" x-morph="V-PAP-NPM" ανδρες
+grc	|strong="435" x-morph="N-VPM" αδελφοι |strong="80" x-morph="N-VPM" ει |strong="1487" x-morph="COND" εστιν
+grc	|strong="1510 5719" x-morph="V-PAI-3S" λογος |strong="3056" x-morph="N-NSM" εν |strong="1722" x-morph="PREP"
+grc	υμιν |strong="4771" x-morph="P-2DP" παρακλησεως |strong="3874" x-morph="N-GSF" προς |strong="4314"
+grc	x-morph="PREP" τον |strong="3588" x-morph="T-ASM" λαον |strong="2992" x-morph="N-ASM" λεγετε |strong="3004
+grc	ιδοντες |strong="3708 5631" x-morph="V-2AAP-NPM" δε |strong="1161" x-morph="CONJ" οι |strong="3588"
+grc	x-morph="T-NPM" ιουδαιοι |strong="2453" x-morph="A-NPM" τους |strong="3588" x-morph="T-APM" οχλους
+grc	|strong="3793" x-morph="N-APM" επλησθησαν |strong="4130 5681" x-morph="V-API-3P" ζηλου |strong="2205"
+grc	x-morph="N-GSM" και |strong="2532" x-morph="CONJ" αντελεγον |strong="483 5707" x-morph="V-IAI-3P" τοις
+grc	|strong="3588" x-morph="T-DPN" υπο |strong="5259" x-morph="PREP" του |strong="3588" x-morph="T-GSM" παυλου
+grc	|strong="3972" x-morph="N-GSM" λεγομενοις |strong="3004 5746" x-morph="V-PPP-DPN" αντιλεγοντες
+grc	|strong="483 5723" x-morph="V-PAP-NPM" και |strong="2532" x-morph="CONJ" βλασφημουντες |strong="987
+grc	χειροτονησαντες |strong="5500 5660" x-morph="V-AAP-NPM" δε |strong="1161" x-morph="CONJ" αυτοις
+grc	|strong="846" x-morph="P-DPM" πρεσβυτερους |strong="4245" x-morph="A-APM-C" κατ |strong="2596"
+grc	x-morph="PREP" εκκλησιαν |strong="1577" x-morph="N-ASF" προσευξαμενοι |strong="4336 5666"
+grc	x-morph="V-ADP-NPM" μετα |strong="3326" x-morph="PREP" νηστειων |strong="3521" x-morph="N-GPF"
+grc	παρεθεντο |strong="3908 5639" x-morph="V-2AMI-3P" αυτους |strong="846" x-morph="P-APM" τω
+grc	|strong="3588" x-morph="T-DSM" κυριω |strong="2962" x-morph="N-DSM" εις |strong="1519" x-morph="PREP" ον
+grc	|strong="3739" x-morph="R-ASM" πεπιστευκεισαν |strong="4100 5715" x-morph="V-LAI-3P"
+grc	εδοξεν |strong="1380 5656" x-morph="V-AAI-3S" ημιν |strong="1473" x-morph="P-1DP" γενομενοις
+grc	|strong="1096 5637" x-morph="V-2ADP-DPM" ομοθυμαδον |strong="3661" x-morph="ADV" εκλεξαμενους
+grc	|strong="1586 5671" x-morph="V-AMP-APM" ανδρας |strong="435" x-morph="N-APM" πεμψαι |strong="3992 5658"
+grc	x-morph="V-AAN" προς |strong="4314" x-morph="PREP" υμας |strong="4771" x-morph="P-2AP" συν |strong="4862"
+grc	x-morph="PREP" τοις |strong="3588" x-morph="T-DPM" αγαπητοις |strong="27" x-morph="A-DPM" ημων
+grc	|strong="1473" x-morph="P-1GP" βαρναβα |strong="921" x-morph="N-DSM" και |strong="2532" x-morph="CONJ"
+grc	ως |strong="5613" x-morph="ADV" δε |strong="1161" x-morph="CONJ" εβαπτισθη |strong="907 5681"
+grc	x-morph="V-API-3S" και |strong="2532" x-morph="CONJ" ο |strong="3588" x-morph="T-NSM" οικος |strong="3624"
+grc	x-morph="N-NSM" αυτης |strong="846" x-morph="P-GSF" παρεκαλεσεν |strong="3870 5656" x-morph="V-AAI-3S"
+grc	λεγουσα |strong="3004 5723" x-morph="V-PAP-NSF" ει |strong="1487" x-morph="COND" κεκρικατε
+grc	|strong="2919 5758" x-morph="V-RAI-2P" με |strong="1473" x-morph="P-1AS" πιστην |strong="4103" x-morph="A-ASF"
+grc	τω |strong="3588" x-morph="T-DSM" κυριω |strong="2962" x-morph="N-DSM" ειναι |strong="1510 5721"
+grc	x-morph="V-PAN" εισελθοντες |strong="1525 5631" x-morph="V-2AAP-NPM" εις |strong="1519" x-morph="PREP"
+grc	τον |strong="3588" x-morph="T-ASM" οικον |strong="3624" x-morph="N-ASM" μου |strong="1473" x-morph="P-1GS"
+grc	μεινατε |strong="3306 5657" x-morph="V-AAM-2P" και |strong="2532" x-morph="CONJ" παρεβιασατο
+grc	προσλαβομενοι |strong="4355 5642" x-morph="V-2AMP-NPM" δε |strong="1161" x-morph="CONJ" οι
+grc	|strong="3588" x-morph="T-NPM" ιουδαιοι |strong="2453" x-morph="A-NPM" οι |strong="3588" x-morph="T-NPM"
+grc	απειθουντες |strong="544 5723" x-morph="V-PAP-NPM" των |strong="3588" x-morph="T-GPM" αγοραιων
+grc	|strong="60" x-morph="A-GPM" τινας |strong="5100" x-morph="X-APM" ανδρας |strong="435" x-morph="N-APM"
+grc	πονηρους |strong="4190" x-morph="A-APM" και |strong="2532" x-morph="CONJ" οχλοποιησαντες
+grc	|strong="3792 5660" x-morph="V-AAP-NPM" εθορυβουν |strong="2350 5707" x-morph="V-IAI-3P" την |strong="3588"
+grc	x-morph="T-ASF" πολιν |strong="4172" x-morph="N-ASF" επισταντες |strong="2186 5631" x-morph="V-2AAP-NPM"
+grc	τε |strong="5037" x-morph="PRT" τη |strong="3588" x-morph="T-DSF" οικια |strong="3614" x-morph="N-DSF"
+grc	ιασονος |strong="2394" x-morph="N-GSM" εζητουν |strong="2212 5707" x-morph="V-IAI-3P" αυτους
+grc	|strong="846" x-morph="P-APM" αγαγειν |strong="71 5629" x-morph="V-2AAN" εις |strong="1519" x-morph="PREP"
+grc	μετα |strong="3326" x-morph="PREP" δε |strong="1161" x-morph="CONJ" ταυτα |strong="3778" x-morph="D-APN"
+grc	χωρισθεις |strong="5563 5685" x-morph="V-APP-NSM" ο |strong="3588" x-morph="T-NSM" παυλος
+grc	|strong="3972" x-morph="N-NSM" εκ |strong="1537" x-morph="PREP" των |strong="3588" x-morph="T-GPF" αθηνων
+grc	|strong="116" x-morph="N-GPF" ηλθεν |strong="2064 5627" x-morph="V-2AAI-3S" εις |strong="1519" x-morph="PREP"
+grc	ειπεν |strong="3004 5627" x-morph="V-2AAI-3S" τε |strong="5037" x-morph="PRT" προς |strong="4314"
+grc	x-morph="PREP" αυτους |strong="846" x-morph="P-APM" εις |strong="1519" x-morph="PREP" τι |strong="5101"
+grc	x-morph="I-ASN" ουν |strong="3767" x-morph="CONJ" εβαπτισθητε |strong="907 5681" x-morph="V-API-2P" οι
+grc	|strong="3588" x-morph="T-NPM" δε |strong="1161" x-morph="CONJ" ειπον |strong="3004 5627" x-morph="V-2AAI-3P"
+grc	εις |strong="1519" x-morph="PREP" το |strong="3588" x-morph="T-ASN" ιωαννου |strong="2491" x-morph="N-GSM"
+grc	εκ |strong="1537" x-morph="PREP" δε |strong="1161" x-morph="CONJ" του |strong="3588" x-morph="T-GSM" οχλου
+grc	|strong="3793" x-morph="N-GSM" προεβιβασαν |strong="4264 5656" x-morph="V-AAI-3P" αλεξανδρον
+grc	|strong="223" x-morph="N-ASM" προβαλοντων |strong="4261 5660" x-morph="V-AAP-GPM" αυτον |strong="846"
+grc	x-morph="P-ASM" των |strong="3588" x-morph="T-GPM" ιουδαιων |strong="2453" x-morph="A-GPM" ο |strong="3588"
+grc	x-morph="T-NSM" δε |strong="1161" x-morph="CONJ" αλεξανδρος |strong="223" x-morph="N-NSM"
+grc	κατασεισας |strong="2678 5660" x-morph="V-AAP-NSM" την |strong="3588" x-morph="T-ASF" χειρα
+grc	|strong="5495" x-morph="N-ASF" ηθελεν |strong="2309 5707" x-morph="V-IAI-3S" απολογεισθαι
+grc	|strong="626 5738" x-morph="V-PNN" τω |strong="3588" x-morph="T-DSM" δημω |strong="1218" x-morph="N-DSM"
+grc	και |strong="2532" x-morph="CONJ" νυν |strong="3568" x-morph="ADV" ιδου |strong="3708 5640"
+grc	x-morph="V-2AMM-2S" εγω |strong="1473" x-morph="P-1NS" δεδεμενος |strong="1210 5772" x-morph="V-RPP-NSM"
+grc	τω |strong="3588" x-morph="T-DSN" πνευματι |strong="4151" x-morph="N-DSN" πορευομαι |strong="4198
+grc	5736" x-morph="V-PNI-1S" εις |strong="1519" x-morph="PREP" ιερουσαλημ |strong="2419" x-morph="N-PRI" τα
+grc	|strong="3588" x-morph="T-APN" εν |strong="1722" x-morph="PREP" αυτη |strong="846" x-morph="P-DSF"
+grc	συναντησοντα |strong="4876 5694" x-morph="V-FAP-APN" μοι |strong="1473" x-morph="P-1DS" μη
+grc	μη |strong="3361" x-morph="PRT-N" πειθομενου |strong="3982 5746" x-morph="V-PPP-GSM" δε |strong="1161"
+grc	x-morph="CONJ" αυτου |strong="846" x-morph="P-GSM" ησυχασαμεν |strong="2270 5656" x-morph="V-AAI-1P"
+grc	ειποντες |strong="3004 5631" x-morph="V-2AAP-NPM" το |strong="3588" x-morph="T-NSN" θελημα
+grc	|strong="2307" x-morph="N-NSN" του |strong="3588" x-morph="T-GSM" κυριου |strong="2962" x-morph="N-GSM"
+grc	ος |strong="3739" x-morph="R-NSM" ταυτην |strong="3778" x-morph="D-ASF" την |strong="3588" x-morph="T-ASF"
+grc	οδον |strong="3598" x-morph="N-ASF" εδιωξα |strong="1377 5656" x-morph="V-AAI-1S" αχρι |strong="891"
+grc	x-morph="ADV" θανατου |strong="2288" x-morph="N-GSM" δεσμευων |strong="1195 5723" x-morph="V-PAP-NSM"
+grc	και |strong="2532" x-morph="CONJ" παραδιδους |strong="3860 5723" x-morph="V-PAP-NSM" εις |strong="1519"
+grc	x-morph="PREP" φυλακας |strong="5441 5438" x-morph="N-APF" ανδρας |strong="435" x-morph="N-APM" τε
+grc	|strong="5037" x-morph="PRT" και |strong="2532" x-morph="CONJ" γυναικας |strong="1135" x-morph="N-APF"
+grc	οι |strong="3588" x-morph="T-NPM" δε |strong="1161" x-morph="CONJ" παρεστωτες |strong="3936 5761"
+grc	x-morph="V-RAP-NPM" ειπον |strong="3004 5627" x-morph="V-2AAI-3P" τον |strong="3588" x-morph="T-ASM"
+grc	αρχιερεα |strong="749" x-morph="N-ASM" του |strong="3588" x-morph="T-GSM" θεου |strong="2316"
+grc	αναγνους |strong="314 5631" x-morph="V-2AAP-NSM" δε |strong="1161" x-morph="CONJ" ο |strong="3588"
+grc	x-morph="T-NSM" ηγεμων |strong="2232" x-morph="N-NSM" και |strong="2532" x-morph="CONJ" επερωτησας
+grc	|strong="1905 5660" x-morph="V-AAP-NSM" εκ |strong="1537" x-morph="PREP" ποιας |strong="4169" x-morph="I-GSF"
+grc	επαρχιας |strong="1885" x-morph="N-GSF" εστιν |strong="1510 5719" x-morph="V-PAI-3S" και |strong="2532"
+grc	x-morph="CONJ" πυθομενος |strong="4441 5637" x-morph="V-2ADP-NSM" οτι |strong="3754" x-morph="CONJ" απο
+grc	αιτουμενοι |strong="154 5734" x-morph="V-PMP-NPM" χαριν |strong="5485" x-morph="N-ASF" κατ
+grc	|strong="2596" x-morph="PREP" αυτου |strong="846" x-morph="P-GSM" οπως |strong="3704" x-morph="ADV"
+grc	μεταπεμψηται |strong="3343 5667" x-morph="V-ADS-3S" αυτον |strong="846" x-morph="P-ASM" εις
+grc	|strong="1519" x-morph="PREP" ιερουσαλημ |strong="2419" x-morph="N-PRI" ενεδραν |strong="1747"
+grc	x-morph="N-ASF" ποιουντες |strong="4160 5723" x-morph="V-PAP-NPM" ανελειν |strong="337 5629"
+grc	x-morph="V-2AAN" αυτον |strong="846" x-morph="P-ASM" κατα |strong="2596" x-morph="PREP" την |strong="3588"
+grc	και |strong="2532" x-morph="CONJ" νυν |strong="3568" x-morph="ADV" επ |strong="1909" x-morph="PREP"
+grc	ελπιδι |strong="1680" x-morph="N-DSF" της |strong="3588" x-morph="T-GSF" προς |strong="4314"
+grc	x-morph="PREP" τους |strong="3588" x-morph="T-APM" πατερας |strong="3962" x-morph="N-APM"
+grc	επαγγελιας |strong="1860" x-morph="N-GSF" γενομενης |strong="1096 5637" x-morph="V-2ADP-GSF" υπο
+grc	|strong="5259" x-morph="PREP" του |strong="3588" x-morph="T-GSM" θεου |strong="2316" x-morph="N-GSM"
+grc	εστηκα |strong="2476 5758" x-morph="V-RAI-1S" κρινομενος |strong="2919 5746" x-morph="V-PPP-NSM"
+grc	κακειθεν |strong="2547" x-morph="ADV-K" αναχθεντες |strong="321 5685" x-morph="V-APP-NPM"
+grc	υπεπλευσαμεν |strong="5284 5656" x-morph="V-AAI-1P" την |strong="3588" x-morph="T-ASF" κυπρον
+grc	|strong="2954" x-morph="N-ASF" δια |strong="1223" x-morph="PREP" το |strong="3588" x-morph="T-ASN" τους
+grc	|strong="3588" x-morph="T-APM" ανεμους |strong="417" x-morph="N-APM" ειναι |strong="1510 5721"
+grc	διο |strong="1352" x-morph="CONJ" παρακαλω |strong="3870 5719" x-morph="V-PAI-1S" υμας |strong="4771"
+grc	x-morph="P-2AP" προσλαβειν |strong="4355 5629" x-morph="V-2AAN" τροφης |strong="5160" x-morph="N-GSF"
+grc	τουτο |strong="3778" x-morph="D-NSN" γαρ |strong="1063" x-morph="CONJ" προς |strong="4314" x-morph="PREP"
+grc	της |strong="3588" x-morph="T-GSF" υμετερας |strong="5212" x-morph="S-2GPF" σωτηριας |strong="4991"
+grc	x-morph="N-GSF" υπαρχει |strong="5225 5719" x-morph="V-PAI-3S" ουδενος |strong="3762" x-morph="A-GSM-N"
+grc	γαρ |strong="1063" x-morph="CONJ" υμων |strong="4771" x-morph="P-2GP" θριξ |strong="2359" x-morph="N-NSF"
+grc	εκ |strong="1537" x-morph="PREP" της |strong="3588" x-morph="T-GSF" κεφαλης |strong="2776" x-morph="N-GSF"
+grc	δια |strong="1223" x-morph="PREP" ταυτην |strong="3778" x-morph="D-ASF" ουν |strong="3767" x-morph="CONJ"
+grc	την |strong="3588" x-morph="T-ASF" αιτιαν |strong="156" x-morph="N-ASF" παρεκαλεσα |strong="3870
+grc	5656" x-morph="V-AAI-1S" υμας |strong="4771" x-morph="P-2AP" ιδειν |strong="3708 5629" x-morph="V-2AAN" και
+grc	|strong="2532" x-morph="CONJ" προσλαλησαι |strong="4354 5658" x-morph="V-AAN" ενεκεν |strong="1752"
+grc	x-morph="PREP" γαρ |strong="1063" x-morph="CONJ" της |strong="3588" x-morph="T-GSF" ελπιδος |strong="1680"
+grc	x-morph="N-GSF" του |strong="3588" x-morph="T-GSM" ισραηλ |strong="2474" x-morph="N-PRI" την |strong="3588"
+grc	x-morph="T-ASF" αλυσιν |strong="254" x-morph="N-ASF" ταυτην |strong="3778" x-morph="D-ASF"
+grc	διοτι |strong="1360" x-morph="CONJ" το |strong="3588" x-morph="T-NSN" γνωστον |strong="1110"
+grc	x-morph="A-NSN" του |strong="3588" x-morph="T-GSM" θεου |strong="2316" x-morph="N-GSM" φανερον
+grc	|strong="5318" x-morph="A-NSN" εστιν |strong="1510 5719" x-morph="V-PAI-3S" εν |strong="1722" x-morph="PREP"
+grc	αυτοις |strong="846" x-morph="P-DPM" ο |strong="3588" x-morph="T-NSM" γαρ |strong="1063" x-morph="CONJ"
+grc	θεος |strong="2316" x-morph="N-NSM" αυτοις |strong="846" x-morph="P-DPM" εφανερωσεν |strong="5319
+grc	ιδε |strong="3708 5628" x-morph="V-2AAM-2S" συ |strong="4771" x-morph="P-2NS" ιουδαιος |strong="2453"
+grc	x-morph="A-NSM" επονομαζη |strong="2028 5743" x-morph="V-PPI-2S" και |strong="2532" x-morph="CONJ"
+grc	επαναπαυη |strong="1879 5736" x-morph="V-PNI-2S" τω |strong="3588" x-morph="T-DSM" νομω |strong="3551"
+grc	x-morph="N-DSM" και |strong="2532" x-morph="CONJ" καυχασαι |strong="2744 5736" x-morph="V-PNI-2S" εν
+grc	ουκ |strong="3756" x-morph="PRT-N" εστιν |strong="1510 5719" x-morph="V-PAI-3S" φοβος |strong="5401"
+grc	x-morph="N-NSM" θεου |strong="2316" x-morph="N-GSM" απεναντι |strong="561" x-morph="ADV" των
+grc	|strong="3588" x-morph="T-GPM" οφθαλμων |strong="3788" x-morph="N-GPM" αυτων |strong="846" x-morph="P-GPM"
+grc	καθως |strong="2531" x-morph="ADV" γεγραπται |strong="1125 5769" x-morph="V-RPI-3S" οτι |strong="3754"
+grc	x-morph="CONJ" πατερα |strong="3962" x-morph="N-ASM" πολλων |strong="4183" x-morph="A-GPN" εθνων
+grc	|strong="1484" x-morph="N-GPN" τεθεικα |strong="5087 5758" x-morph="V-RAI-1S" σε |strong="4771"
+grc	x-morph="P-2AS" κατεναντι |strong="2713" x-morph="ADV" ου |strong="3739" x-morph="R-GSM"
+grc	επιστευσεν |strong="4100 5656" x-morph="V-AAI-3S" θεου |strong="2316" x-morph="N-GSM" του
+grc	|strong="3588" x-morph="T-GSM" ζωοποιουντος |strong="2227 5723" x-morph="V-PAP-GSM" τους |strong="3588"
+grc	x-morph="T-APM" νεκρους |strong="3498" x-morph="A-APM" και |strong="2532" x-morph="CONJ" καλουντος
+grc	|strong="2564 5723" x-morph="V-PAP-GSM" τα |strong="3588" x-morph="T-APN" μη |strong="3361" x-morph="PRT-N"
+grc	οντα |strong="1510 5723" x-morph="V-PAP-APN" ως |strong="5613" x-morph="ADV" οντα |strong="1510 5723"
+grc	τι |strong="5101" x-morph="I-ASN" ουν |strong="3767" x-morph="CONJ" ερουμεν |strong="2046 5692"
+grc	x-morph="V-FAI-1P" επιμενομεν |strong="1961 5719" x-morph="V-PAI-1P"   τη |strong="3588" x-morph="T-DSF"
+grc	αμαρτια |strong="266" x-morph="N-DSF" ινα |strong="2443" x-morph="CONJ" η |strong="3588" x-morph="T-NSF"
+grc	χαρις |strong="5485" x-morph="N-NSF" πλεοναση |strong="4121 5661" x-morph="V-AAS-3S"
+grc	αφορμην |strong="874" x-morph="N-ASF" δε |strong="1161" x-morph="CONJ" λαβουσα |strong="2983 5631"
+grc	x-morph="V-2AAP-NSF" η |strong="3588" x-morph="T-NSF" αμαρτια |strong="266" x-morph="N-NSF" δια
+grc	|strong="1223" x-morph="PREP" της |strong="3588" x-morph="T-GSF" εντολης |strong="1785" x-morph="N-GSF"
+grc	κατειργασατο |strong="2716 5662" x-morph="V-ADI-3S" εν |strong="1722" x-morph="PREP" εμοι
+grc	|strong="1473" x-morph="P-1DS" πασαν |strong="3956" x-morph="A-ASF" επιθυμιαν |strong="1939"
+grc	x-morph="N-ASF" χωρις |strong="5565" x-morph="ADV" γαρ |strong="1063" x-morph="CONJ" νομου |strong="3551"
+grc	x-morph="N-GSM" αμαρτια |strong="266" x-morph="N-NSF" νεκρα |strong="3498" x-morph="A-NSF"
+grc	ει |strong="1487" x-morph="COND" γαρ |strong="1063" x-morph="CONJ" κατα |strong="2596" x-morph="PREP"
+grc	σαρκα |strong="4561" x-morph="N-ASF" ζητε |strong="2198 5719" x-morph="V-PAI-2P" μελλετε |strong="3195
+grc	5719" x-morph="V-PAI-2P" αποθνησκειν |strong="599 5721" x-morph="V-PAN" ει |strong="1487" x-morph="COND"
+grc	δε |strong="1161" x-morph="CONJ" πνευματι |strong="4151" x-morph="N-DSN" τας |strong="3588"
+grc	x-morph="T-APF" πραξεις |strong="4234" x-morph="N-APF" του |strong="3588" x-morph="T-GSN" σωματος
+grc	|strong="4983" x-morph="N-GSN" θανατουτε |strong="2289 5719" x-morph="V-PAI-2P" ζησεσθε |strong="2198
+grc	οιτινες |strong="3748" x-morph="R-NPM" εισιν |strong="1510 5719" x-morph="V-PAI-3P" ισραηλιται
+grc	|strong="2475" x-morph="N-NPM" ων |strong="3739" x-morph="R-GPM" η |strong="3588" x-morph="T-NSF" υιοθεσια
+grc	|strong="5206" x-morph="N-NSF" και |strong="2532" x-morph="CONJ" η |strong="3588" x-morph="T-NSF" δοξα
+grc	|strong="1391" x-morph="N-NSF" και |strong="2532" x-morph="CONJ" αι |strong="3588" x-morph="T-NPF"
+grc	διαθηκαι |strong="1242" x-morph="N-NPF" και |strong="2532" x-morph="CONJ" η |strong="3588" x-morph="T-NSF"
+grc	νομοθεσια |strong="3548" x-morph="N-NSF" και |strong="2532" x-morph="CONJ" η |strong="3588"
+grc	x-morph="T-NSF" λατρεια |strong="2999" x-morph="N-NSF" και |strong="2532" x-morph="CONJ" αι |strong="3588"
+grc	αδελφοι |strong="80" x-morph="N-VPM" η |strong="3588" x-morph="T-NSF" μεν |strong="3303" x-morph="PRT"
+grc	ευδοκια |strong="2107" x-morph="N-NSF" της |strong="3588" x-morph="T-GSF" εμης |strong="1699"
+grc	x-morph="S-1GSF" καρδιας |strong="2588" x-morph="N-GSF" και |strong="2532" x-morph="CONJ" η |strong="3588"
+grc	x-morph="T-NSF" δεησις |strong="1162" x-morph="N-NSF" η |strong="3588" x-morph="T-NSF" προς |strong="4314"
+grc	x-morph="PREP" τον |strong="3588" x-morph="T-ASM" θεον |strong="2316" x-morph="N-ASM" υπερ |strong="5228"
+grc	x-morph="PREP" του |strong="3588" x-morph="T-GSM" ισραηλ |strong="2474" x-morph="N-PRI" εστιν
+grc	|strong="1510 5719" x-morph="V-PAI-3S" εις |strong="1519" x-morph="PREP" σωτηριαν |strong="4991"
+grc	σκοτισθητωσαν |strong="4654 5682" x-morph="V-APM-3P" οι |strong="3588" x-morph="T-NPM" οφθαλμοι
+grc	|strong="3788" x-morph="N-NPM" αυτων |strong="846" x-morph="P-GPM" του |strong="3588" x-morph="T-GSN" μη
+grc	|strong="3361" x-morph="PRT-N" βλεπειν |strong="991 5721" x-morph="V-PAN" και |strong="2532" x-morph="CONJ"
+grc	τον |strong="3588" x-morph="T-ASM" νωτον |strong="3577" x-morph="N-ASM" αυτων |strong="846"
+grc	x-morph="P-GPM" δια |strong="1223" x-morph="PREP" παντος |strong="3956" x-morph="A-GSN" συγκαμψον
+grc	καθαπερ |strong="2509" x-morph="ADV" γαρ |strong="1063" x-morph="CONJ" εν |strong="1722" x-morph="PREP"
+grc	ενι |strong="1520" x-morph="A-DSN" σωματι |strong="4983" x-morph="N-DSN" μελη |strong="3196"
+grc	x-morph="N-APN" πολλα |strong="4183" x-morph="A-APN" εχομεν |strong="2192 5719" x-morph="V-PAI-1P" τα
+grc	|strong="3588" x-morph="T-NPN" δε |strong="1161" x-morph="CONJ" μελη |strong="3196" x-morph="N-NPN" παντα
+grc	|strong="3956" x-morph="A-NPN" ου |strong="3756" x-morph="PRT-N" την |strong="3588" x-morph="T-ASF" αυτην
+grc	|strong="846" x-morph="P-ASF" εχει |strong="2192 5719" x-morph="V-PAI-3S" πραξιν |strong="4234"
+grc	ως |strong="5613" x-morph="ADV" εν |strong="1722" x-morph="PREP" ημερα |strong="2250" x-morph="N-DSF"
+grc	ευσχημονως |strong="2156" x-morph="ADV" περιπατησωμεν |strong="4043 5661" x-morph="V-AAS-1P"
+grc	μη |strong="3361" x-morph="PRT-N" κωμοις |strong="2970" x-morph="N-DPM" και |strong="2532" x-morph="CONJ"
+grc	μεθαις |strong="3178" x-morph="N-DPF" μη |strong="3361" x-morph="PRT-N" κοιταις |strong="2845"
+grc	x-morph="N-DPF" και |strong="2532" x-morph="CONJ" ασελγειαις |strong="766" x-morph="N-DPF" μη
+grc	|strong="3361" x-morph="PRT-N" εριδι |strong="2054" x-morph="N-DSF" και |strong="2532" x-morph="CONJ" ζηλω
+grc	και |strong="2532" x-morph="CONJ" γαρ |strong="1063" x-morph="CONJ" ο |strong="3588" x-morph="T-NSM"
+grc	χριστος |strong="5547" x-morph="N-NSM" ουχ |strong="3756" x-morph="PRT-N" εαυτω |strong="1438"
+grc	x-morph="F-3DSM" ηρεσεν |strong="700 5656" x-morph="V-AAI-3S" αλλα |strong="235" x-morph="CONJ" καθως
+grc	|strong="2531" x-morph="ADV" γεγραπται |strong="1125 5769" x-morph="V-RPI-3S" οι |strong="3588"
+grc	x-morph="T-NPM" ονειδισμοι |strong="3680" x-morph="N-NPM" των |strong="3588" x-morph="T-GPM"
+grc	ονειδιζοντων |strong="3679 5723" x-morph="V-PAP-GPM" σε |strong="4771" x-morph="P-2AS" επεπεσον
+grc	|strong="1968 5627" x-morph="V-2AAI-3P" επ |strong="1909" x-morph="PREP" εμε |strong="1473" x-morph="P-1AS"
+grc	ο |strong="3588" x-morph="T-NSM" δε |strong="1161" x-morph="CONJ" θεος |strong="2316" x-morph="N-NSM" της
+grc	|strong="3588" x-morph="T-GSF" ειρηνης |strong="1515" x-morph="N-GSF" μετα |strong="3326" x-morph="PREP"
+grc	παντων |strong="3956" x-morph="A-GPM" υμων |strong="4771" x-morph="P-2GP" αμην |strong="281" x-morph="HEB"
+grc	καθως |strong="2531" x-morph="ADV" το |strong="3588" x-morph="T-NSN" μαρτυριον |strong="3142"
+grc	x-morph="N-NSN" του |strong="3588" x-morph="T-GSM" χριστου |strong="5547" x-morph="N-GSM" εβεβαιωθη
+grc	|strong="950 5681" x-morph="V-API-3S" εν |strong="1722" x-morph="PREP" υμιν |strong="4771" x-morph="P-2DP"
+grc	ινα |strong="2443" x-morph="CONJ" η |strong="3588" x-morph="T-NSF" πιστις |strong="4102" x-morph="N-NSF"
+grc	υμων |strong="4771" x-morph="P-2GP" μη |strong="3361" x-morph="PRT-N" η |strong="1510 5725" x-morph="V-PAS-3S"
+grc	εν |strong="1722" x-morph="PREP" σοφια |strong="4678" x-morph="N-DSF" ανθρωπων |strong="444"
+grc	x-morph="N-GPM" αλλ |strong="235" x-morph="CONJ" εν |strong="1722" x-morph="PREP" δυναμει |strong="1411"
+grc	η |strong="3588" x-morph="T-NSF" γαρ |strong="1063" x-morph="CONJ" σοφια |strong="4678" x-morph="N-NSF" του
+grc	|strong="3588" x-morph="T-GSM" κοσμου |strong="2889" x-morph="N-GSM" τουτου |strong="3778" x-morph="D-GSM"
+grc	μωρια |strong="3472" x-morph="N-NSF" παρα |strong="3844" x-morph="PREP" τω |strong="3588" x-morph="T-DSM"
+grc	θεω |strong="2316" x-morph="N-DSM" εστιν |strong="1510 5719" x-morph="V-PAI-3S" γεγραπται
+grc	|strong="1125 5769" x-morph="V-RPI-3S" γαρ |strong="1063" x-morph="CONJ" ο |strong="3588" x-morph="T-NSM"
+grc	δρασσομενος |strong="1405 5740" x-morph="V-PNP-NSM" τους |strong="3588" x-morph="T-APM" σοφους
+grc	|strong="4680" x-morph="A-APM" εν |strong="1722" x-morph="PREP" τη |strong="3588" x-morph="T-DSF"
+grc	παραδουναι |strong="3860 5629" x-morph="V-2AAN" τον |strong="3588" x-morph="T-ASM" τοιουτον
+grc	|strong="5108" x-morph="D-ASM" τω |strong="3588" x-morph="T-DSM" σατανα |strong="4567" x-morph="N-DSM" εις
+grc	|strong="1519" x-morph="PREP" ολεθρον |strong="3639" x-morph="N-ASM" της |strong="3588" x-morph="T-GSF"
+grc	σαρκος |strong="4561" x-morph="N-GSF" ινα |strong="2443" x-morph="CONJ" το |strong="3588" x-morph="T-NSN"
+grc	πνευμα |strong="4151" x-morph="N-NSN" σωθη |strong="4982 5686" x-morph="V-APS-3S" εν |strong="1722"
+grc	x-morph="PREP" τη |strong="3588" x-morph="T-DSF" ημερα |strong="2250" x-morph="N-DSF" του |strong="3588"
+grc	x-morph="T-GSM" κυριου |strong="2962" x-morph="N-GSM" ιησου |strong="2424" x-morph="N-GSM"
+grc	δια |strong="1223" x-morph="PREP" δε |strong="1161" x-morph="CONJ" τας |strong="3588" x-morph="T-APF"
+grc	πορνειας |strong="4202" x-morph="N-APF" εκαστος |strong="1538" x-morph="A-NSM" την |strong="3588"
+grc	x-morph="T-ASF" εαυτου |strong="1438" x-morph="F-3GSM" γυναικα |strong="1135" x-morph="N-ASF" εχετω
+grc	|strong="2192 5720" x-morph="V-PAM-3S" και |strong="2532" x-morph="CONJ" εκαστη |strong="1538" x-morph="A-NSF"
+grc	τον |strong="3588" x-morph="T-ASM" ιδιον |strong="2398" x-morph="A-ASM" ανδρα |strong="435"
+grc	θελω |strong="2309 5719" x-morph="V-PAI-1S" δε |strong="1161" x-morph="CONJ" υμας |strong="4771"
+grc	x-morph="P-2AP" αμεριμνους |strong="275" x-morph="A-APM" ειναι |strong="1510 5721" x-morph="V-PAN" ο
+grc	|strong="3588" x-morph="T-NSM" αγαμος |strong="22" x-morph="N-NSM" μεριμνα |strong="3309 5719"
+grc	x-morph="V-PAI-3S" τα |strong="3588" x-morph="T-APN" του |strong="3588" x-morph="T-GSM" κυριου
+grc	|strong="2962" x-morph="N-GSM" πως |strong="4459" x-morph="ADV-I" αρεσει |strong="700 5692" x-morph="V-FAI-3S"
+grc	εν |strong="1722" x-morph="PREP" γαρ |strong="1063" x-morph="CONJ" τω |strong="3588" x-morph="T-DSM"
+grc	μωυσεως |strong="3475" x-morph="N-GSM"   νομω |strong="3551" x-morph="N-DSM" γεγραπται
+grc	|strong="1125 5769" x-morph="V-RPI-3S" ου |strong="3756" x-morph="PRT-N" φιμωσεις |strong="5392 5692"
+grc	x-morph="V-FAI-2S" βουν |strong="1016" x-morph="N-ASM" αλοωντα |strong="248 5723" x-morph="V-PAP-ASM" μη
+grc	|strong="3361" x-morph="PRT-N" των |strong="3588" x-morph="T-GPM" βοων |strong="1016" x-morph="N-GPM" μελει
+grc	|strong="3199 5719" x-morph="V-PAI-3S" τω |strong="3588" x-morph="T-DSM" θεω |strong="2316" x-morph="N-DSM"
+grc	ωστε |strong="5620" x-morph="CONJ" ο |strong="3588" x-morph="T-NSM" δοκων |strong="1380 5723"
+grc	x-morph="V-PAP-NSM" εσταναι |strong="2476 5760" x-morph="V-RAN" βλεπετω |strong="991 5720"
+grc	x-morph="V-PAM-3S" μη |strong="3361" x-morph="PRT-N" πεση |strong="4098 5632" x-morph="V-2AAS-3S"
+grc	και |strong="2532" x-morph="CONJ" γαρ |strong="1063" x-morph="CONJ" ουκ |strong="3756" x-morph="PRT-N"
+grc	εκτισθη |strong="2936 5681" x-morph="V-API-3S" ανηρ |strong="435" x-morph="N-NSM" δια |strong="1223"
+grc	x-morph="PREP" την |strong="3588" x-morph="T-ASF" γυναικα |strong="1135" x-morph="N-ASF" αλλα
+grc	|strong="235" x-morph="CONJ" γυνη |strong="1135" x-morph="N-NSF" δια |strong="1223" x-morph="PREP" τον
+grc	και |strong="2532" x-morph="CONJ" διαιρεσεις |strong="1243" x-morph="N-NPF" διακονιων
+grc	|strong="1248" x-morph="N-GPF" εισιν |strong="1510 5719" x-morph="V-PAI-3P" και |strong="2532" x-morph="CONJ"
+grc	ο |strong="3588" x-morph="T-NSM" αυτος |strong="846" x-morph="P-NSM" κυριος |strong="2962" x-morph="N-NSM"
+grc	η |strong="3588" x-morph="T-NSF" αγαπη |strong="26" x-morph="N-NSF" μακροθυμει |strong="3114 5719"
+grc	x-morph="V-PAI-3S" χρηστευεται |strong="5541 5736" x-morph="V-PNI-3S" η |strong="3588" x-morph="T-NSF"
+grc	αγαπη |strong="26" x-morph="N-NSF" ου |strong="3756" x-morph="PRT-N" ζηλοι |strong="2206 5719"
+grc	x-morph="V-PAI-3S" η |strong="3588" x-morph="T-NSF" αγαπη |strong="26" x-morph="N-NSF" ου |strong="3756"
+grc	x-morph="PRT-N" περπερευεται |strong="4068 5736" x-morph="V-PNI-3S" ου |strong="3756" x-morph="PRT-N"
+grc	εν |strong="1722" x-morph="PREP" τω |strong="3588" x-morph="T-DSM" νομω |strong="3551" x-morph="N-DSM"
+grc	γεγραπται |strong="1125 5769" x-morph="V-RPI-3S" οτι |strong="3754" x-morph="CONJ" εν |strong="1722"
+grc	x-morph="PREP" ετερογλωσσοις |strong="2084" x-morph="A-DPM" και |strong="2532" x-morph="CONJ" εν
+grc	|strong="1722" x-morph="PREP" χειλεσιν |strong="5491" x-morph="N-DPN" ετεροις |strong="2087"
+grc	x-morph="A-DPN" λαλησω |strong="2980 5692" x-morph="V-FAI-1S" τω |strong="3588" x-morph="T-DSM" λαω
+grc	|strong="2992" x-morph="N-DSM" τουτω |strong="3778" x-morph="D-DSM" και |strong="2532" x-morph="CONJ" ουδ
+grc	|strong="3761" x-morph="CONJ-N" ουτως |strong="3779" x-morph="ADV" εισακουσονται |strong="1522 5695"
+grc	x-morph="V-FDI-3P" μου |strong="1473" x-morph="P-1GS" λεγει |strong="3004 5719" x-morph="V-PAI-3S" κυριος
+grc	ειτε |strong="1535" x-morph="CONJ" ουν |strong="3767" x-morph="CONJ" εγω |strong="1473" x-morph="P-1NS"
+grc	ειτε |strong="1535" x-morph="CONJ" εκεινοι |strong="1565" x-morph="D-NPM" ουτως |strong="3779"
+grc	x-morph="ADV" κηρυσσομεν |strong="2784 5719" x-morph="V-PAI-1P" και |strong="2532" x-morph="CONJ"
+grc	ουτως |strong="3779" x-morph="ADV" επιστευσατε |strong="4100 5656" x-morph="V-AAI-2P"
+grc	αλλη |strong="243" x-morph="A-NSF" δοξα |strong="1391" x-morph="N-NSF" ηλιου |strong="2246"
+grc	x-morph="N-GSM" και |strong="2532" x-morph="CONJ" αλλη |strong="243" x-morph="A-NSF" δοξα |strong="1391"
+grc	x-morph="N-NSF" σεληνης |strong="4582" x-morph="N-GSF" και |strong="2532" x-morph="CONJ" αλλη
+grc	|strong="243" x-morph="A-NSF" δοξα |strong="1391" x-morph="N-NSF" αστερων |strong="792" x-morph="N-GPM"
+grc	αστηρ |strong="792" x-morph="N-NSM" γαρ |strong="1063" x-morph="CONJ" αστερος |strong="792"
+grc	x-morph="N-GSM" διαφερει |strong="1308 5719" x-morph="V-PAI-3S" εν |strong="1722" x-morph="PREP" δοξη
+grc	γρηγορειτε |strong="1127 5720" x-morph="V-PAM-2P" στηκετε |strong="4739 5720" x-morph="V-PAM-2P" εν
+grc	|strong="1722" x-morph="PREP" τη |strong="3588" x-morph="T-DSF" πιστει |strong="4102" x-morph="N-DSF"
+grc	ανδριζεσθε |strong="407 5737" x-morph="V-PNM-2P" κραταιουσθε |strong="2901 5744" x-morph="V-PPM-2P"
+grc	ο |strong="3588" x-morph="T-NSM" γαρ |strong="1063" x-morph="CONJ" του |strong="3588" x-morph="T-GSM" θεου
+grc	|strong="2316" x-morph="N-GSM" υιος |strong="5207" x-morph="N-NSM" ιησους |strong="2424" x-morph="N-NSM"
+grc	χριστος |strong="5547" x-morph="N-NSM" ο |strong="3588" x-morph="T-NSM" εν |strong="1722" x-morph="PREP"
+grc	υμιν |strong="4771" x-morph="P-2DP" δι |strong="1223" x-morph="PREP" ημων |strong="1473" x-morph="P-1GP"
+grc	κηρυχθεις |strong="2784 5685" x-morph="V-APP-NSM" δι |strong="1223" x-morph="PREP" εμου |strong="1473"
+grc	x-morph="P-1GS" και |strong="2532" x-morph="CONJ" σιλουανου |strong="4610" x-morph="N-GSM" και
+grc	|strong="2532" x-morph="CONJ" τιμοθεου |strong="5095" x-morph="N-GSM" ουκ |strong="3756" x-morph="PRT-N"
+grc	εγενετο |strong="1096 5633" x-morph="V-2ADI-3S" ναι |strong="3483" x-morph="PRT" και |strong="2532"
+grc	x-morph="CONJ" ου |strong="3756" x-morph="PRT-N" αλλα |strong="235" x-morph="CONJ" ναι |strong="3483"
+grc	x-morph="PRT" εν |strong="1722" x-morph="PREP" αυτω |strong="846" x-morph="P-DSM" γεγονεν |strong="1096
+grc	πως |strong="4459" x-morph="ADV-I" ουχι |strong="3780" x-morph="PRT-I" μαλλον |strong="3123" x-morph="ADV"
+grc	η |strong="3588" x-morph="T-NSF" διακονια |strong="1248" x-morph="N-NSF" του |strong="3588" x-morph="T-GSN"
+grc	πνευματος |strong="4151" x-morph="N-GSN" εσται |strong="1510 5695" x-morph="V-FDI-3S" εν |strong="1722"
+grc	και |strong="2532" x-morph="CONJ" γαρ |strong="1063" x-morph="CONJ" εν |strong="1722" x-morph="PREP" τουτω
+grc	|strong="3778" x-morph="D-DSN" στεναζομεν |strong="4727 5719" x-morph="V-PAI-1P" το |strong="3588"
+grc	x-morph="T-ASN" οικητηριον |strong="3613" x-morph="N-ASN" ημων |strong="1473" x-morph="P-1GP" το
+grc	|strong="3588" x-morph="T-ASN" εξ |strong="1537" x-morph="PREP" ουρανου |strong="3772" x-morph="N-GSM"
+grc	επενδυσασθαι |strong="1902 5670" x-morph="V-AMN" επιποθουντες |strong="1971 5723"
+grc	το |strong="3588" x-morph="T-NSN" στομα |strong="4750" x-morph="N-NSN" ημων |strong="1473" x-morph="P-1GP"
+grc	ανεωγεν |strong="455 5754" x-morph="V-2RAI-3S" προς |strong="4314" x-morph="PREP" υμας |strong="4771"
+grc	x-morph="P-2AP" κορινθιοι |strong="2881" x-morph="A-VPM" η |strong="3588" x-morph="T-NSF" καρδια
+grc	|strong="2588" x-morph="N-NSF" ημων |strong="1473" x-morph="P-1GP" πεπλατυνται |strong="4115 5769"
+grc	αλλ |strong="235" x-morph="CONJ" ωσπερ |strong="5618" x-morph="ADV" εν |strong="1722" x-morph="PREP"
+grc	παντι |strong="3956" x-morph="A-DSN" περισσευετε |strong="4052 5719" x-morph="V-PAI-2P" πιστει
+grc	|strong="4102" x-morph="N-DSF" και |strong="2532" x-morph="CONJ" λογω |strong="3056" x-morph="N-DSM" και
+grc	|strong="2532" x-morph="CONJ" γνωσει |strong="1108" x-morph="N-DSF" και |strong="2532" x-morph="CONJ" παση
+grc	|strong="3956" x-morph="A-DSF" σπουδη |strong="4710" x-morph="N-DSF" και |strong="2532" x-morph="CONJ" τη
+grc	|strong="3588" x-morph="T-DSF" εξ |strong="1537" x-morph="PREP" υμων |strong="4771" x-morph="P-2GP" εν
+grc	|strong="1722" x-morph="PREP" ημιν |strong="1473" x-morph="P-1DP" αγαπη |strong="26" x-morph="N-DSF" ινα
+grc	|strong="2443" x-morph="CONJ" και |strong="2532" x-morph="CONJ" εν |strong="1722" x-morph="PREP" ταυτη
+grc	|strong="3778" x-morph="D-DSF" τη |strong="3588" x-morph="T-DSF" χαριτι |strong="5485" x-morph="N-DSF"
+grc	δια |strong="1223" x-morph="PREP" της |strong="3588" x-morph="T-GSF" δοκιμης |strong="1382"
+grc	x-morph="N-GSF" της |strong="3588" x-morph="T-GSF" διακονιας |strong="1248" x-morph="N-GSF" ταυτης
+grc	|strong="3778" x-morph="D-GSF" δοξαζοντες |strong="1392 5723" x-morph="V-PAP-NPM" τον |strong="3588"
+grc	x-morph="T-ASM" θεον |strong="2316" x-morph="N-ASM" επι |strong="1909" x-morph="PREP" τη |strong="3588"
+grc	x-morph="T-DSF" υποταγη |strong="5292" x-morph="N-DSF" της |strong="3588" x-morph="T-GSF" ομολογιας
+grc	|strong="3671" x-morph="N-GSF" υμων |strong="4771" x-morph="P-2GP" εις |strong="1519" x-morph="PREP" το
+grc	|strong="3588" x-morph="T-ASN" ευαγγελιον |strong="2098" x-morph="N-ASN" του |strong="3588"
+grc	x-morph="T-GSM" χριστου |strong="5547" x-morph="N-GSM" και |strong="2532" x-morph="CONJ" απλοτητι
+grc	|strong="572" x-morph="N-DSF" της |strong="3588" x-morph="T-GSF" κοινωνιας |strong="2842" x-morph="N-GSF"
+grc	εις |strong="1519" x-morph="PREP" αυτους |strong="846" x-morph="P-APM" και |strong="2532" x-morph="CONJ"
+grc	εστιν |strong="1510 5719" x-morph="V-PAI-3S" αληθεια |strong="225" x-morph="N-NSF" χριστου
+grc	|strong="5547" x-morph="N-GSM" εν |strong="1722" x-morph="PREP" εμοι |strong="1473" x-morph="P-1DS" οτι
+grc	|strong="3754" x-morph="CONJ" η |strong="3588" x-morph="T-NSF" καυχησις |strong="2746" x-morph="N-NSF"
+grc	αυτη |strong="3778" x-morph="D-NSF" ου |strong="3756" x-morph="PRT-N" φραγησεται |strong="5420 5691"
+grc	x-morph="V-2FPI-3S" εις |strong="1519" x-morph="PREP" εμε |strong="1473" x-morph="P-1AS" εν |strong="1722"
+grc	x-morph="PREP" τοις |strong="3588" x-morph="T-DPN" κλιμασιν |strong="2824" x-morph="N-DPN" της
+grc	και |strong="2532" x-morph="CONJ" τη |strong="3588" x-morph="T-DSF" υπερβολη |strong="5236"
+grc	x-morph="N-DSF" των |strong="3588" x-morph="T-GPF" αποκαλυψεων |strong="602" x-morph="N-GPF" ινα
+grc	|strong="2443" x-morph="CONJ" μη |strong="3361" x-morph="PRT-N" υπεραιρωμαι |strong="5229 5747"
+grc	x-morph="V-PPS-1S" εδοθη |strong="1325 5681" x-morph="V-API-3S" μοι |strong="1473" x-morph="P-1DS" σκολοψ
+grc	|strong="4647" x-morph="N-NSM" τη |strong="3588" x-morph="T-DSF" σαρκι |strong="4561" x-morph="N-DSF"
+grc	αγγελος |strong="32" x-morph="N-NSM" σαταν |strong="4566" x-morph="N-PRI" ινα |strong="2443"
+grc	x-morph="CONJ" με |strong="1473" x-morph="P-1AS" κολαφιζη |strong="2852 5725" x-morph="V-PAS-3S" ινα
+grc	|strong="2443" x-morph="CONJ" μη |strong="3361" x-morph="PRT-N" υπεραιρωμαι |strong="5229 5747"
+grc	και |strong="2532" x-morph="CONJ" οι |strong="3588" x-morph="T-NPM" συν |strong="4862" x-morph="PREP" εμοι
+grc	|strong="1473" x-morph="P-1DS" παντες |strong="3956" x-morph="A-NPM" αδελφοι |strong="80" x-morph="N-NPM"
+grc	ταις |strong="3588" x-morph="T-DPF" εκκλησιαις |strong="1577" x-morph="N-DPF" της |strong="3588"
+grc	ο |strong="3588" x-morph="T-NSM" γαρ |strong="1063" x-morph="CONJ" ενεργησας |strong="1754 5660"
+grc	x-morph="V-AAP-NSM" πετρω |strong="4074" x-morph="N-DSM" εις |strong="1519" x-morph="PREP" αποστολην
+grc	|strong="651" x-morph="N-ASF" της |strong="3588" x-morph="T-GSF" περιτομης |strong="4061" x-morph="N-GSF"
+grc	ενηργησεν |strong="1754 5656" x-morph="V-AAI-3S" και |strong="2532" x-morph="CONJ" εμοι |strong="1473"
+grc	x-morph="P-1DS" εις |strong="1519" x-morph="PREP" τα |strong="3588" x-morph="T-APN" εθνη |strong="1484"
+grc	τουτο |strong="3778" x-morph="D-ASN" δε |strong="1161" x-morph="CONJ" λεγω |strong="3004 5719"
+grc	x-morph="V-PAI-1S" διαθηκην |strong="1242" x-morph="N-ASF" προκεκυρωμενην |strong="4300 5772"
+grc	x-morph="V-RPP-ASF" υπο |strong="5259" x-morph="PREP" του |strong="3588" x-morph="T-GSM" θεου |strong="2316"
+grc	x-morph="N-GSM" εις |strong="1519" x-morph="PREP" χριστον |strong="5547" x-morph="N-ASM" ο |strong="3588"
+grc	x-morph="T-NSM" μετα |strong="3326" x-morph="PREP" ετη |strong="2094" x-morph="N-APN" τετρακοσια
+grc	|strong="5071" x-morph="A-APN" και |strong="2532" x-morph="CONJ" τριακοντα |strong="5144" x-morph="A-NUI"
+grc	γεγονως |strong="1096 5756" x-morph="V-2RAP-NSM" νομος |strong="3551" x-morph="N-NSM" ουκ |strong="3756"
+grc	x-morph="PRT-N" ακυροι |strong="208 5719" x-morph="V-PAI-3S" εις |strong="1519" x-morph="PREP" το
+grc	|strong="3588" x-morph="T-ASN" καταργησαι |strong="2673 5658" x-morph="V-AAN" την |strong="3588"
+grc	καλον |strong="2570" x-morph="A-NSN" δε |strong="1161" x-morph="CONJ" το |strong="3588" x-morph="T-NSN"
+grc	ζηλουσθαι |strong="2206 5745" x-morph="V-PPN" εν |strong="1722" x-morph="PREP" καλω |strong="2570"
+grc	x-morph="A-DSN" παντοτε |strong="3842" x-morph="ADV" και |strong="2532" x-morph="CONJ" μη |strong="3361"
+grc	x-morph="PRT-N" μονον |strong="3440" x-morph="ADV" εν |strong="1722" x-morph="PREP" τω |strong="3588"
+grc	x-morph="T-DSN" παρειναι |strong="3918 5721" x-morph="V-PAN" με |strong="1473" x-morph="P-1AS" προς
+grc	η |strong="3588" x-morph="T-NSF" γαρ |strong="1063" x-morph="CONJ" σαρξ |strong="4561" x-morph="N-NSF"
+grc	επιθυμει |strong="1937 5719" x-morph="V-PAI-3S" κατα |strong="2596" x-morph="PREP" του |strong="3588"
+grc	x-morph="T-GSN" πνευματος |strong="4151" x-morph="N-GSN" το |strong="3588" x-morph="T-NSN" δε
+grc	|strong="1161" x-morph="CONJ" πνευμα |strong="4151" x-morph="N-NSN" κατα |strong="2596" x-morph="PREP" της
+grc	|strong="3588" x-morph="T-GSF" σαρκος |strong="4561" x-morph="N-GSF" ταυτα |strong="3778" x-morph="D-NPN"
+grc	δε |strong="1161" x-morph="CONJ" αντικειται |strong="480 5736" x-morph="V-PNI-3S" αλληλοις
+grc	|strong="240" x-morph="C-DPN" ινα |strong="2443" x-morph="CONJ" μη |strong="3361" x-morph="PRT-N" α
+grc	|strong="3739" x-morph="R-APN" αν |strong="302" x-morph="PRT" θελητε |strong="2309 5725" x-morph="V-PAS-2P"
+grc	ταυτα |strong="3778" x-morph="D-APN" ποιητε |strong="4160 5725" x-morph="V-PAS-2P"
+grc	ευλογητος |strong="2128" x-morph="A-NSM" ο |strong="3588" x-morph="T-NSM" θεος |strong="2316"
+grc	x-morph="N-NSM" και |strong="2532" x-morph="CONJ" πατηρ |strong="3962" x-morph="N-NSM" του |strong="3588"
+grc	x-morph="T-GSM" κυριου |strong="2962" x-morph="N-GSM" ημων |strong="1473" x-morph="P-1GP" ιησου
+grc	|strong="2424" x-morph="N-GSM" χριστου |strong="5547" x-morph="N-GSM" ο |strong="3588" x-morph="T-NSM"
+grc	ευλογησας |strong="2127 5660" x-morph="V-AAP-NSM" ημας |strong="1473" x-morph="P-1AP" εν |strong="1722"
+grc	x-morph="PREP" παση |strong="3956" x-morph="A-DSF" ευλογια |strong="2129" x-morph="N-DSF"
+grc	πνευματικη |strong="4152" x-morph="A-DSF" εν |strong="1722" x-morph="PREP" τοις |strong="3588"
+grc	x-morph="T-DPN" επουρανιοις |strong="2032" x-morph="A-DPN" εν |strong="1722" x-morph="PREP" χριστω
+grc	αυτου |strong="846" x-morph="P-GSM" γαρ |strong="1063" x-morph="CONJ" εσμεν |strong="1510 5719"
+grc	x-morph="V-PAI-1P" ποιημα |strong="4161" x-morph="N-NSN" κτισθεντες |strong="2936 5685"
+grc	x-morph="V-APP-NPM" εν |strong="1722" x-morph="PREP" χριστω |strong="5547" x-morph="N-DSM" ιησου
+grc	|strong="2424" x-morph="N-DSM" επι |strong="1909" x-morph="PREP" εργοις |strong="2041" x-morph="N-DPN"
+grc	αγαθοις |strong="18" x-morph="A-DPN" οις |strong="3739" x-morph="R-DPN" προητοιμασεν
+grc	|strong="4282 5656" x-morph="V-AAI-3S" ο |strong="3588" x-morph="T-NSM" θεος |strong="2316" x-morph="N-NSM" ινα
+grc	|strong="2443" x-morph="CONJ" εν |strong="1722" x-morph="PREP" αυτοις |strong="846" x-morph="P-DPN"
+grc	εν |strong="1722" x-morph="PREP" αγαπη |strong="26" x-morph="N-DSF" ερριζωμενοι |strong="4492 5772"
+grc	x-morph="V-RPP-NPM" και |strong="2532" x-morph="CONJ" τεθεμελιωμενοι |strong="2311 5772"
+grc	x-morph="V-RPP-NPM" ινα |strong="2443" x-morph="CONJ" εξισχυσητε |strong="1840 5661" x-morph="V-AAS-2P"
+grc	καταλαβεσθαι |strong="2638 5641" x-morph="V-2AMN" συν |strong="4862" x-morph="PREP" πασιν
+grc	|strong="3956" x-morph="A-DPM" τοις |strong="3588" x-morph="T-DPM" αγιοις |strong="40" x-morph="A-DPM" τι
+grc	|strong="5101" x-morph="I-NSN" το |strong="3588" x-morph="T-NSN" πλατος |strong="4114" x-morph="N-NSN" και
+grc	|strong="2532" x-morph="CONJ" μηκος |strong="3372" x-morph="N-NSN" και |strong="2532" x-morph="CONJ" βαθος
+grc	|strong="899" x-morph="N-NSN" και |strong="2532" x-morph="CONJ" υψος |strong="5311" x-morph="N-NSN"
+grc	μηδε |strong="3366" x-morph="CONJ-N" διδοτε |strong="1325 5720" x-morph="V-PAM-2P" τοπον |strong="5117"
+grc	x-morph="N-ASM" τω |strong="3588" x-morph="T-DSM" διαβολω |strong="1228" x-morph="A-DSM"
+grc	οι |strong="3588" x-morph="T-NPM" ανδρες |strong="435" x-morph="N-NPM" αγαπατε |strong="25 5720"
+grc	x-morph="V-PAM-2P" τας |strong="3588" x-morph="T-APF" γυναικας |strong="1135" x-morph="N-APF" εαυτων
+grc	|strong="1438" x-morph="F-2GPM" καθως |strong="2531" x-morph="ADV" και |strong="2532" x-morph="CONJ" ο
+grc	|strong="3588" x-morph="T-NSM" χριστος |strong="5547" x-morph="N-NSM" ηγαπησεν |strong="25 5656"
+grc	x-morph="V-AAI-3S" την |strong="3588" x-morph="T-ASF" εκκλησιαν |strong="1577" x-morph="N-ASF" και
+grc	|strong="2532" x-morph="CONJ" εαυτον |strong="1438" x-morph="F-3ASM" παρεδωκεν |strong="3860 5656"
+grc	x-morph="V-AAI-3S" υπερ |strong="5228" x-morph="PREP" αυτης |strong="846" x-morph="P-GSF"
+grc	ον |strong="3739" x-morph="R-ASM" επεμψα |strong="3992 5656" x-morph="V-AAI-1S" προς |strong="4314"
+grc	x-morph="PREP" υμας |strong="4771" x-morph="P-2AP" εις |strong="1519" x-morph="PREP" αυτο |strong="846"
+grc	x-morph="P-ASN" τουτο |strong="3778" x-morph="D-ASN" ινα |strong="2443" x-morph="CONJ" γνωτε |strong="1097
+grc	5632" x-morph="V-2AAS-2P" τα |strong="3588" x-morph="T-APN" περι |strong="4012" x-morph="PREP" ημων
+grc	|strong="1473" x-morph="P-1GP" και |strong="2532" x-morph="CONJ" παρακαλεση |strong="3870 5661"
+grc	x-morph="V-AAS-3S" τας |strong="3588" x-morph="T-APF" καρδιας |strong="2588" x-morph="N-APF" υμων
+grc	και |strong="2532" x-morph="CONJ" μη |strong="3361" x-morph="PRT-N" πτυρομενοι |strong="4426 5746"
+grc	x-morph="V-PPP-NPM" εν |strong="1722" x-morph="PREP" μηδενι |strong="3367" x-morph="A-DSN-N" υπο
+grc	|strong="5259" x-morph="PREP" των |strong="3588" x-morph="T-GPM" αντικειμενων |strong="480 5740"
+grc	x-morph="V-PNP-GPM" ητις |strong="3748" x-morph="R-NSF" αυτοις |strong="846" x-morph="P-DPM" μεν
+grc	|strong="3303" x-morph="PRT" εστιν |strong="1510 5719" x-morph="V-PAI-3S" ενδειξις |strong="1732"
+grc	x-morph="N-NSF" απωλειας |strong="684" x-morph="N-GSF" υμιν |strong="4771" x-morph="P-2DP" δε
+grc	|strong="1161" x-morph="CONJ" σωτηριας |strong="4991" x-morph="N-GSF" και |strong="2532" x-morph="CONJ"
+grc	τουτο |strong="3778" x-morph="D-NSN" απο |strong="575" x-morph="PREP" θεου |strong="2316" x-morph="N-GSM"
+grc	σπουδαιοτερως |strong="4708" x-morph="ADV-C" ουν |strong="3767" x-morph="CONJ" επεμψα
+grc	|strong="3992 5656" x-morph="V-AAI-1S" αυτον |strong="846" x-morph="P-ASM" ινα |strong="2443" x-morph="CONJ"
+grc	ιδοντες |strong="3708 5631" x-morph="V-2AAP-NPM" αυτον |strong="846" x-morph="P-ASM" παλιν
+grc	|strong="3825" x-morph="ADV" χαρητε |strong="5463 5647" x-morph="V-2AOS-2P" καγω |strong="2504"
+grc	x-morph="P-1NS-K" αλυποτερος |strong="253" x-morph="A-NSM-C" ω |strong="1510 5725" x-morph="V-PAS-1S"
+grc	και |strong="2532" x-morph="CONJ" η |strong="3588" x-morph="T-NSF" ειρηνη |strong="1515" x-morph="N-NSF"
+grc	του |strong="3588" x-morph="T-GSM" θεου |strong="2316" x-morph="N-GSM" η |strong="3588" x-morph="T-NSF"
+grc	υπερεχουσα |strong="5242 5723" x-morph="V-PAP-NSF" παντα |strong="3956" x-morph="A-ASM" νουν
+grc	|strong="3563" x-morph="N-ASM" φρουρησει |strong="5432 5692" x-morph="V-FAI-3S" τας |strong="3588"
+grc	x-morph="T-APF" καρδιας |strong="2588" x-morph="N-APF" υμων |strong="4771" x-morph="P-2GP" και
+grc	|strong="2532" x-morph="CONJ" τα |strong="3588" x-morph="T-APN" νοηματα |strong="3540" x-morph="N-APN"
+grc	υμων |strong="4771" x-morph="P-2GP" εν |strong="1722" x-morph="PREP" χριστω |strong="5547" x-morph="N-DSM"
+grc	εν |strong="1722" x-morph="PREP" ω |strong="3739" x-morph="R-DSM" εχομεν |strong="2192 5719"
+grc	x-morph="V-PAI-1P" την |strong="3588" x-morph="T-ASF" απολυτρωσιν |strong="629" x-morph="N-ASF"   την
+grc	|strong="3588" x-morph="T-ASF" αφεσιν |strong="859" x-morph="N-ASF" των |strong="3588" x-morph="T-GPF"
+grc	απεκδυσαμενος |strong="554 5666" x-morph="V-ADP-NSM" τας |strong="3588" x-morph="T-APF" αρχας
+grc	|strong="746" x-morph="N-APF" και |strong="2532" x-morph="CONJ" τας |strong="3588" x-morph="T-APF"
+grc	εξουσιας |strong="1849" x-morph="N-APF" εδειγματισεν |strong="1165 5656" x-morph="V-AAI-3S" εν
+grc	|strong="1722" x-morph="PREP" παρρησια |strong="3954" x-morph="N-DSF" θριαμβευσας |strong="2358
+grc	5660" x-morph="V-AAP-NSM" αυτους |strong="846" x-morph="P-APM" εν |strong="1722" x-morph="PREP" αυτω
+grc	οι |strong="3588" x-morph="T-NPM" δουλοι |strong="1401" x-morph="N-NPM" υπακουετε |strong="5219 5720"
+grc	x-morph="V-PAM-2P" κατα |strong="2596" x-morph="PREP" παντα |strong="3956" x-morph="A-APN" τοις
+grc	|strong="3588" x-morph="T-DPM" κατα |strong="2596" x-morph="PREP" σαρκα |strong="4561" x-morph="N-ASF"
+grc	κυριοις |strong="2962" x-morph="N-DPM" μη |strong="3361" x-morph="PRT-N" εν |strong="1722" x-morph="PREP"
+grc	ανθρωπαρεσκοι |strong="441" x-morph="A-NPM" αλλ |strong="235" x-morph="CONJ" εν |strong="1722"
+grc	x-morph="PREP" απλοτητι |strong="572" x-morph="N-DSF" καρδιας |strong="2588" x-morph="N-GSF"
+grc	φοβουμενοι |strong="5399 5740" x-morph="V-PNP-NPM" τον |strong="3588" x-morph="T-ASM" θεον
+grc	αυτοι |strong="846" x-morph="P-NPM" γαρ |strong="1063" x-morph="CONJ" περι |strong="4012" x-morph="PREP"
+grc	ημων |strong="1473" x-morph="P-1GP" απαγγελλουσιν |strong="518 5719" x-morph="V-PAI-3P" οποιαν
+grc	|strong="3697" x-morph="A-ASF" εισοδον |strong="1529" x-morph="N-ASF" εσχομεν |strong="2192 5627"
+grc	x-morph="V-2AAI-1P" προς |strong="4314" x-morph="PREP" υμας |strong="4771" x-morph="P-2AP" και
+grc	|strong="2532" x-morph="CONJ" πως |strong="4459" x-morph="ADV" επεστρεψατε |strong="1994 5656"
+grc	x-morph="V-AAI-2P" προς |strong="4314" x-morph="PREP" τον |strong="3588" x-morph="T-ASM" θεον |strong="2316"
+grc	x-morph="N-ASM" απο |strong="575" x-morph="PREP" των |strong="3588" x-morph="T-GPN" ειδωλων |strong="1497"
+grc	x-morph="N-GPN" δουλευειν |strong="1398 5721" x-morph="V-PAN" θεω |strong="2316" x-morph="N-DSM" ζωντι
+grc	|strong="2198 5723" x-morph="V-PAP-DSM" και |strong="2532" x-morph="CONJ" αληθινω |strong="228"
+grc	τινα |strong="5101" x-morph="I-ASF" γαρ |strong="1063" x-morph="CONJ" ευχαριστιαν |strong="2169"
+grc	x-morph="N-ASF" δυναμεθα |strong="1410 5736" x-morph="V-PNI-1P" τω |strong="3588" x-morph="T-DSM" θεω
+grc	|strong="2316" x-morph="N-DSM" ανταποδουναι |strong="467 5629" x-morph="V-2AAN" περι |strong="4012"
+grc	x-morph="PREP" υμων |strong="4771" x-morph="P-2GP" επι |strong="1909" x-morph="PREP" παση |strong="3956"
+grc	x-morph="A-DSF" τη |strong="3588" x-morph="T-DSF" χαρα |strong="5479" x-morph="N-DSF" η |strong="3739"
+grc	x-morph="R-DSF" χαιρομεν |strong="5463 5719" x-morph="V-PAI-1P" δι |strong="1223" x-morph="PREP" υμας
+grc	|strong="4771" x-morph="P-2AP" εμπροσθεν |strong="1715" x-morph="PREP" του |strong="3588" x-morph="T-GSM"
+grc	ημεις |strong="1473" x-morph="P-1NP" δε |strong="1161" x-morph="CONJ" ημερας |strong="2250"
+grc	x-morph="N-GSF" οντες |strong="1510 5723" x-morph="V-PAP-NPM" νηφωμεν |strong="3525 5725"
+grc	x-morph="V-PAS-1P" ενδυσαμενοι |strong="1746 5671" x-morph="V-AMP-NPM" θωρακα |strong="2382"
+grc	x-morph="N-ASM" πιστεως |strong="4102" x-morph="N-GSF" και |strong="2532" x-morph="CONJ" αγαπης
+grc	|strong="26" x-morph="N-GSF" και |strong="2532" x-morph="CONJ" περικεφαλαιαν |strong="4030"
+grc	x-morph="N-ASF" ελπιδα |strong="1680" x-morph="N-ASF" σωτηριας |strong="4991" x-morph="N-GSF"
+grc	οταν |strong="3752" x-morph="CONJ" ελθη |strong="2064 5632" x-morph="V-2AAS-3S" ενδοξασθηναι
+grc	|strong="1740 5683" x-morph="V-APN" εν |strong="1722" x-morph="PREP" τοις |strong="3588" x-morph="T-DPM"
+grc	αγιοις |strong="40" x-morph="A-DPM" αυτου |strong="846" x-morph="P-GSM" και |strong="2532" x-morph="CONJ"
+grc	θαυμασθηναι |strong="2296 5683" x-morph="V-APN" εν |strong="1722" x-morph="PREP" πασιν |strong="3956"
+grc	x-morph="A-DPM" τοις |strong="3588" x-morph="T-DPM" πιστευσασιν |strong="4100 5660" x-morph="V-AAP-DPM"
+grc	οτι |strong="3754" x-morph="CONJ" επιστευθη |strong="4100 5681" x-morph="V-API-3S" το |strong="3588"
+grc	x-morph="T-NSN" μαρτυριον |strong="3142" x-morph="N-NSN" ημων |strong="1473" x-morph="P-1GP" εφ
+grc	|strong="1909" x-morph="PREP" υμας |strong="4771" x-morph="P-2AP" εν |strong="1722" x-morph="PREP" τη
+grc	|strong="3588" x-morph="T-DSF" ημερα |strong="2250" x-morph="N-DSF" εκεινη |strong="1565" x-morph="D-DSF"
+grc	ακουομεν |strong="191 5719" x-morph="V-PAI-1P" γαρ |strong="1063" x-morph="CONJ" τινας |strong="5100"
+grc	x-morph="X-APM" περιπατουντας |strong="4043 5723" x-morph="V-PAP-APM" εν |strong="1722" x-morph="PREP"
+grc	υμιν |strong="4771" x-morph="P-2DP" ατακτως |strong="814" x-morph="ADV" μηδεν |strong="3367"
+grc	x-morph="A-ASN-N" εργαζομενους |strong="2038 5740" x-morph="V-PNP-APM" αλλα |strong="235"
+grc	τουτο |strong="3778" x-morph="D-NSN" γαρ |strong="1063" x-morph="CONJ" καλον |strong="2570"
+grc	x-morph="A-NSN" και |strong="2532" x-morph="CONJ" αποδεκτον |strong="587" x-morph="A-NSN" ενωπιον
+grc	|strong="1799" x-morph="ADV" του |strong="3588" x-morph="T-GSM" σωτηρος |strong="4990" x-morph="N-GSM"
+grc	εν |strong="1722" x-morph="PREP" υποκρισει |strong="5272" x-morph="N-DSF" ψευδολογων
+grc	|strong="5573" x-morph="A-GPM" κεκαυτηριασμενων |strong="2743 5772" x-morph="V-RPP-GPM" την
+grc	|strong="3588" x-morph="T-ASF" ιδιαν |strong="2398" x-morph="A-ASF" συνειδησιν |strong="4893"
+grc	ει |strong="1487" x-morph="COND" τις |strong="5100" x-morph="X-NSM" πιστος |strong="4103" x-morph="A-NSM" η
+grc	|strong="2228" x-morph="PRT" πιστη |strong="4103" x-morph="A-NSF" εχει |strong="2192 5719" x-morph="V-PAI-3S"
+grc	χηρας |strong="5503" x-morph="N-APF" επαρκειτω |strong="1884 5720" x-morph="V-PAM-3S" αυταις
+grc	|strong="846" x-morph="P-DPF" και |strong="2532" x-morph="CONJ" μη |strong="3361" x-morph="PRT-N" βαρεισθω
+grc	|strong="916 5744" x-morph="V-PPM-3S" η |strong="3588" x-morph="T-NSF" εκκλησια |strong="1577" x-morph="N-NSF"
+grc	ινα |strong="2443" x-morph="CONJ" ταις |strong="3588" x-morph="T-DPF" οντως |strong="3689" x-morph="ADV"
+grc	χηραις |strong="5503" x-morph="N-DPF" επαρκεση |strong="1884 5661" x-morph="V-AAS-3S"
+grc	ην |strong="3739" x-morph="R-ASF" τινες |strong="5100" x-morph="X-NPM" επαγγελλομενοι
+grc	|strong="1861 5740" x-morph="V-PNP-NPM" περι |strong="4012" x-morph="PREP" την |strong="3588" x-morph="T-ASF"
+grc	πιστιν |strong="4102" x-morph="N-ASF" ηστοχησαν |strong="795 5656" x-morph="V-AAI-3P" η |strong="3588"
+grc	x-morph="T-NSF" χαρις |strong="5485" x-morph="N-NSF" μετα |strong="3326" x-morph="PREP" σου |strong="4771"
+grc	ει |strong="1487" x-morph="COND" υπομενομεν |strong="5278 5719" x-morph="V-PAI-1P" και |strong="2532"
+grc	x-morph="CONJ" συμβασιλευσομεν |strong="4821 5692" x-morph="V-FAI-1P" ει |strong="1487" x-morph="COND"
+grc	αρνουμεθα |strong="720 5736" x-morph="V-PNI-1P" κακεινος |strong="2548" x-morph="D-NSM-K"
+grc	αρνησεται |strong="720 5695" x-morph="V-FDI-3S" ημας |strong="1473" x-morph="P-1AP"
+grc	πασα |strong="3956" x-morph="A-NSF" γραφη |strong="1124" x-morph="N-NSF" θεοπνευστος |strong="2315"
+grc	x-morph="A-NSF" και |strong="2532" x-morph="CONJ" ωφελιμος |strong="5624" x-morph="A-NSM" προς
+grc	|strong="4314" x-morph="PREP" διδασκαλιαν |strong="1319" x-morph="N-ASF" προς |strong="4314"
+grc	x-morph="PREP" ελεγχον |strong="1650" x-morph="N-ASM" προς |strong="4314" x-morph="PREP"
+grc	επανορθωσιν |strong="1882" x-morph="N-ASF" προς |strong="4314" x-morph="PREP" παιδειαν
+grc	|strong="3809" x-morph="N-ASF" την |strong="3588" x-morph="T-ASF" εν |strong="1722" x-morph="PREP"
+grc	δει |strong="1163 5719" x-morph="V-PAI-3S" γαρ |strong="1063" x-morph="CONJ" τον |strong="3588"
+grc	x-morph="T-ASM" επισκοπον |strong="1985" x-morph="N-ASM" ανεγκλητον |strong="410" x-morph="A-ASM"
+grc	ειναι |strong="1510 5721" x-morph="V-PAN" ως |strong="5613" x-morph="ADV" θεου |strong="2316"
+grc	x-morph="N-GSM" οικονομον |strong="3623" x-morph="N-ASM" μη |strong="3361" x-morph="PRT-N" αυθαδη
+grc	|strong="829" x-morph="A-ASM" μη |strong="3361" x-morph="PRT-N" οργιλον |strong="3711" x-morph="A-ASM" μη
+grc	|strong="3361" x-morph="PRT-N" παροινον |strong="3943" x-morph="A-ASM" μη |strong="3361" x-morph="PRT-N"
+grc	πληκτην |strong="4131" x-morph="N-ASM" μη |strong="3361" x-morph="PRT-N" αισχροκερδη |strong="146"
+grc	ου |strong="3739" x-morph="R-GSN" εξεχεεν |strong="1632 5656" x-morph="V-AAI-3S" εφ |strong="1909"
+grc	x-morph="PREP" ημας |strong="1473" x-morph="P-1AP" πλουσιως |strong="4146" x-morph="ADV" δια
+grc	|strong="1223" x-morph="PREP" ιησου |strong="2424" x-morph="N-GSM" χριστου |strong="5547" x-morph="N-GSM"
+grc	του |strong="3588" x-morph="T-GSM" σωτηρος |strong="4990" x-morph="N-GSM" ημων |strong="1473"
+grc	πεποιθως |strong="3982 5756" x-morph="V-2RAP-NSM" τη |strong="3588" x-morph="T-DSF" υπακοη
+grc	|strong="5218" x-morph="N-DSF" σου |strong="4771" x-morph="P-2GS" εγραψα |strong="1125 5656"
+grc	x-morph="V-AAI-1S" σοι |strong="4771" x-morph="P-2DS" ειδως |strong="1492 5761" x-morph="V-RAP-NSM" οτι
+grc	|strong="3754" x-morph="CONJ" και |strong="2532" x-morph="CONJ" υπερ |strong="5228" x-morph="PREP" ο
+grc	|strong="3739" x-morph="R-ASN" λεγω |strong="3004 5719" x-morph="V-PAI-1S" ποιησεις |strong="4160 5692"
+grc	λεγων |strong="3004 5723" x-morph="V-PAP-NSM" απαγγελω |strong="518 5692" x-morph="V-FAI-1S" το
+grc	|strong="3588" x-morph="T-ASN" ονομα |strong="3686" x-morph="N-ASN" σου |strong="4771" x-morph="P-2GS" τοις
+grc	|strong="3588" x-morph="T-DPM" αδελφοις |strong="80" x-morph="N-DPM" μου |strong="1473" x-morph="P-1GS" εν
+grc	|strong="1722" x-morph="PREP" μεσω |strong="3319" x-morph="A-DSN" εκκλησιας |strong="1577" x-morph="N-GSF"
+grc	και |strong="2532" x-morph="CONJ" εν |strong="1722" x-morph="PREP" τουτω |strong="3778" x-morph="D-DSM"
+grc	παλιν |strong="3825" x-morph="ADV" ει |strong="1487" x-morph="COND" εισελευσονται |strong="1525
+grc	5695" x-morph="V-FDI-3P" εις |strong="1519" x-morph="PREP" την |strong="3588" x-morph="T-ASF"
+grc	και |strong="2532" x-morph="CONJ" καλον |strong="2570" x-morph="A-ASN" γευσαμενους |strong="1089
+grc	5666" x-morph="V-ADP-APM" θεου |strong="2316" x-morph="N-GSM" ρημα |strong="4487" x-morph="N-ASN"
+grc	δυναμεις |strong="1411" x-morph="N-APF" τε |strong="5037" x-morph="PRT" μελλοντος |strong="3195
+grc	και |strong="2532" x-morph="CONJ" περισσοτερον |strong="4053" x-morph="A-NSN-C" ετι |strong="2089"
+grc	x-morph="ADV" καταδηλον |strong="2612" x-morph="A-NSN" εστιν |strong="1510 5719" x-morph="V-PAI-3S" ει
+grc	|strong="1487" x-morph="COND" κατα |strong="2596" x-morph="PREP" την |strong="3588" x-morph="T-ASF"
+grc	ομοιοτητα |strong="3665" x-morph="N-ASF" μελχισεδεκ |strong="3198" x-morph="N-PRI"
+grc	ανισταται |strong="450 5731" x-morph="V-PMI-3S" ιερευς |strong="2409" x-morph="N-NSM" ετερος
+grc	χρυσουν |strong="5552" x-morph="A-ASN" εχουσα |strong="2192 5723" x-morph="V-PAP-NSF"
+grc	θυμιατηριον |strong="2369" x-morph="N-ASN" και |strong="2532" x-morph="CONJ" την |strong="3588"
+grc	x-morph="T-ASF" κιβωτον |strong="2787" x-morph="N-ASF" της |strong="3588" x-morph="T-GSF" διαθηκης
+grc	|strong="1242" x-morph="N-GSF" περικεκαλυμμενην |strong="4028 5772" x-morph="V-RPP-ASF"
+grc	παντοθεν |strong="3840" x-morph="ADV" χρυσιω |strong="5553" x-morph="N-DSN" εν |strong="1722"
+grc	x-morph="PREP" η |strong="3739" x-morph="R-DSF" σταμνος |strong="4713" x-morph="N-NSF" χρυση
+grc	|strong="5552" x-morph="A-NSF" εχουσα |strong="2192 5723" x-morph="V-PAP-NSF" το |strong="3588" x-morph="T-ASN"
+grc	μαννα |strong="3131" x-morph="HEB" και |strong="2532" x-morph="CONJ" η |strong="3588" x-morph="T-NSF"
+grc	ραβδος |strong="4464" x-morph="N-NSF" ααρων |strong="2" x-morph="N-PRI" η |strong="3588" x-morph="T-NSF"
+grc	βλαστησασα |strong="985 5660" x-morph="V-AAP-NSF" και |strong="2532" x-morph="CONJ" αι |strong="3588"
+grc	x-morph="T-NPF" πλακες |strong="4109" x-morph="N-NPF" της |strong="3588" x-morph="T-GSF" διαθηκης
+grc	ολοκαυτωματα |strong="3646" x-morph="N-APN" και |strong="2532" x-morph="CONJ" περι |strong="4012"
+grc	x-morph="PREP" αμαρτιας |strong="266" x-morph="N-GSF" ουκ |strong="3756" x-morph="PRT-N" ευδοκησας
+grc	υπομονης |strong="5281" x-morph="N-GSF" γαρ |strong="1063" x-morph="CONJ" εχετε |strong="2192 5719"
+grc	x-morph="V-PAI-2P" χρειαν |strong="5532" x-morph="N-ASF" ινα |strong="2443" x-morph="CONJ" το |strong="3588"
+grc	x-morph="T-ASN" θελημα |strong="2307" x-morph="N-ASN" του |strong="3588" x-morph="T-GSM" θεου
+grc	|strong="2316" x-morph="N-GSM" ποιησαντες |strong="4160 5660" x-morph="V-AAP-NPM" κομισησθε
+grc	|strong="2865 5672" x-morph="V-AMS-2P" την |strong="3588" x-morph="T-ASF" επαγγελιαν |strong="1860"
+grc	πιστει |strong="4102" x-morph="N-DSF" κατελιπεν |strong="2641 5627" x-morph="V-2AAI-3S" αιγυπτον
+grc	|strong="125" x-morph="N-ASF" μη |strong="3361" x-morph="PRT-N" φοβηθεις |strong="5399 5679"
+grc	x-morph="V-AOP-NSM" τον |strong="3588" x-morph="T-ASM" θυμον |strong="2372" x-morph="N-ASM" του
+grc	|strong="3588" x-morph="T-GSM" βασιλεως |strong="935" x-morph="N-GSM" τον |strong="3588" x-morph="T-ASM"
+grc	γαρ |strong="1063" x-morph="CONJ" αορατον |strong="517" x-morph="A-ASM" ως |strong="5613" x-morph="ADV"
+grc	ορων |strong="3708 5723" x-morph="V-PAP-NSM" εκαρτερησεν |strong="2594 5656" x-morph="V-AAI-3S"
+grc	ιστε |strong="1492 5759" x-morph="V-RAM-2P" γαρ |strong="1063" x-morph="CONJ" οτι |strong="3754"
+grc	x-morph="CONJ" και |strong="2532" x-morph="CONJ" μετεπειτα |strong="3347" x-morph="ADV" θελων
+grc	|strong="2309 5723" x-morph="V-PAP-NSM" κληρονομησαι |strong="2816 5658" x-morph="V-AAN" την
+grc	|strong="3588" x-morph="T-ASF" ευλογιαν |strong="2129" x-morph="N-ASF" απεδοκιμασθη |strong="593
+grc	5681" x-morph="V-API-3S" μετανοιας |strong="3341" x-morph="N-GSF" γαρ |strong="1063" x-morph="CONJ"
+grc	τοπον |strong="5117" x-morph="N-ASM" ουχ |strong="3756" x-morph="PRT-N" ευρεν |strong="2147 5627"
+grc	x-morph="V-2AAI-3S" καιπερ |strong="2539" x-morph="CONJ" μετα |strong="3326" x-morph="PREP" δακρυων
+grc	|strong="1144" x-morph="N-GPN" εκζητησας |strong="1567 5660" x-morph="V-AAP-NSM" αυτην |strong="846"
+grc	προσευχεσθε |strong="4336 5737" x-morph="V-PNM-2P" περι |strong="4012" x-morph="PREP" ημων
+grc	|strong="1473" x-morph="P-1GP" πεποιθαμεν |strong="3982 5754" x-morph="V-2RAI-1P" γαρ |strong="1063"
+grc	x-morph="CONJ" οτι |strong="3754" x-morph="CONJ" καλην |strong="2570" x-morph="A-ASF" συνειδησιν
+grc	|strong="4893" x-morph="N-ASF" εχομεν |strong="2192 5719" x-morph="V-PAI-1P" εν |strong="1722" x-morph="PREP"
+grc	πασιν |strong="3956" x-morph="A-DPN" καλως |strong="2573" x-morph="ADV" θελοντες |strong="2309 5723"
+grc	οτι |strong="3754" x-morph="CONJ" ει |strong="1487" x-morph="COND" τις |strong="5100" x-morph="X-NSM"
+grc	ακροατης |strong="202" x-morph="N-NSM" λογου |strong="3056" x-morph="N-GSM" εστιν |strong="1510 5719"
+grc	x-morph="V-PAI-3S" και |strong="2532" x-morph="CONJ" ου |strong="3756" x-morph="PRT-N" ποιητης
+grc	|strong="4163" x-morph="N-NSM" ουτος |strong="3778" x-morph="D-NSM" εοικεν |strong="1503 5758"
+grc	x-morph="V-RAI-3S" ανδρι |strong="435" x-morph="N-DSM" κατανοουντι |strong="2657 5723"
+grc	x-morph="V-PAP-DSM" το |strong="3588" x-morph="T-ASN" προσωπον |strong="4383" x-morph="N-ASN" της
+grc	|strong="3588" x-morph="T-GSF" γενεσεως |strong="1078" x-morph="N-GSF" αυτου |strong="846" x-morph="P-GSM"
+grc	ωσπερ |strong="5618" x-morph="ADV" γαρ |strong="1063" x-morph="CONJ" το |strong="3588" x-morph="T-NSN"
+grc	σωμα |strong="4983" x-morph="N-NSN" χωρις |strong="5565" x-morph="ADV" πνευματος |strong="4151"
+grc	x-morph="N-GSN" νεκρον |strong="3498" x-morph="A-NSN" εστιν |strong="1510 5719" x-morph="V-PAI-3S"
+grc	ουτως |strong="3779" x-morph="ADV" και |strong="2532" x-morph="CONJ" η |strong="3588" x-morph="T-NSF"
+grc	πιστις |strong="4102" x-morph="N-NSF" χωρις |strong="5565" x-morph="ADV" των |strong="3588"
+grc	x-morph="T-GPN" εργων |strong="2041" x-morph="N-GPN" νεκρα |strong="3498" x-morph="A-NSF" εστιν
+grc	εις |strong="1520" x-morph="A-NSM" εστιν |strong="1510 5719" x-morph="V-PAI-3S" ο |strong="3588"
+grc	x-morph="T-NSM" νομοθετης |strong="3550" x-morph="N-NSM" ο |strong="3588" x-morph="T-NSM" δυναμενος
+grc	|strong="1410 5740" x-morph="V-PNP-NSM" σωσαι |strong="4982 5658" x-morph="V-AAN" και |strong="2532"
+grc	x-morph="CONJ" απολεσαι |strong="622 5658" x-morph="V-AAN" συ |strong="4771" x-morph="P-2NS" δε
+grc	|strong="1161" x-morph="CONJ" τις |strong="5101" x-morph="I-NSM" ει |strong="1510 5719" x-morph="V-PAI-2S" ος
+grc	|strong="3739" x-morph="R-NSM" κρινεις |strong="2919 5719" x-morph="V-PAI-2S" τον |strong="3588"
+grc	τους |strong="3588" x-morph="T-APM" εν |strong="1722" x-morph="PREP" δυναμει |strong="1411"
+grc	x-morph="N-DSF" θεου |strong="2316" x-morph="N-GSM" φρουρουμενους |strong="5432 5746"
+grc	x-morph="V-PPP-APM" δια |strong="1223" x-morph="PREP" πιστεως |strong="4102" x-morph="N-GSF" εις
+grc	|strong="1519" x-morph="PREP" σωτηριαν |strong="4991" x-morph="N-ASF" ετοιμην |strong="2092"
+grc	x-morph="A-ASF" αποκαλυφθηναι |strong="601 5683" x-morph="V-APN" εν |strong="1722" x-morph="PREP"
+grc	οι |strong="3588" x-morph="T-NPM" ποτε |strong="4218" x-morph="PRT" ου |strong="3756" x-morph="PRT-N" λαος
+grc	|strong="2992" x-morph="N-NSM" νυν |strong="3568" x-morph="ADV" δε |strong="1161" x-morph="CONJ" λαος
+grc	|strong="2992" x-morph="N-NSM" θεου |strong="2316" x-morph="N-GSM" οι |strong="3588" x-morph="T-NPM" ουκ
+grc	|strong="3756" x-morph="PRT-N" ηλεημενοι |strong="1653 5772" x-morph="V-RPP-NPM" νυν |strong="3568"
+grc	x-morph="ADV" δε |strong="1161" x-morph="CONJ" ελεηθεντες |strong="1653 5685" x-morph="V-APP-NPM"
+grc	κυριον |strong="2962" x-morph="N-ASM" δε |strong="1161" x-morph="CONJ" τον |strong="3588" x-morph="T-ASM"
+grc	θεον |strong="2316" x-morph="N-ASM" αγιασατε |strong="37 5657" x-morph="V-AAM-2P" εν |strong="1722"
+grc	x-morph="PREP" ταις |strong="3588" x-morph="T-DPF" καρδιαις |strong="2588" x-morph="N-DPF" υμων
+grc	|strong="4771" x-morph="P-2GP" ετοιμοι |strong="2092" x-morph="A-NPM" δε |strong="1161" x-morph="CONJ" αει
+grc	|strong="104" x-morph="ADV" προς |strong="4314" x-morph="PREP" απολογιαν |strong="627" x-morph="N-ASF"
+grc	παντι |strong="3956" x-morph="A-DSM" τω |strong="3588" x-morph="T-DSM" αιτουντι |strong="154 5723"
+grc	x-morph="V-PAP-DSM" υμας |strong="4771" x-morph="P-2AP" λογον |strong="3056" x-morph="N-ASM" περι
+grc	|strong="4012" x-morph="PREP" της |strong="3588" x-morph="T-GSF" εν |strong="1722" x-morph="PREP" υμιν
+grc	|strong="4771" x-morph="P-2DP" ελπιδος |strong="1680" x-morph="N-GSF" μετα |strong="3326" x-morph="PREP"
+grc	πραυτητος |strong="4240" x-morph="N-GSF" και |strong="2532" x-morph="CONJ" φοβου |strong="5401"
+grc	και |strong="2532" x-morph="CONJ" φανερωθεντος |strong="5319 5685" x-morph="V-APP-GSM" του
+grc	|strong="3588" x-morph="T-GSM" αρχιποιμενος |strong="750" x-morph="N-GSM" κομιεισθε |strong="2865
+grc	5695" x-morph="V-FDI-2P-ATT" τον |strong="3588" x-morph="T-ASM" αμαραντινον |strong="262" x-morph="A-ASM"
+grc	της |strong="3588" x-morph="T-GSF" δοξης |strong="1391" x-morph="N-GSF" στεφανον |strong="4735"
+grc	τουτο |strong="3778" x-morph="D-ASN" πρωτον |strong="4412" x-morph="ADV-S" γινωσκοντες
+grc	|strong="1097 5723" x-morph="V-PAP-NPM" οτι |strong="3754" x-morph="CONJ" πασα |strong="3956" x-morph="A-NSF"
+grc	προφητεια |strong="4394" x-morph="N-NSF" γραφης |strong="1124" x-morph="N-GSF" ιδιας |strong="2398"
+grc	x-morph="A-GSF" επιλυσεως |strong="1955" x-morph="N-GSF" ου |strong="3756" x-morph="PRT-N" γινεται
+grc	οι |strong="3588" x-morph="T-NPM" δε |strong="1161" x-morph="CONJ" νυν |strong="3568" x-morph="ADV"
+grc	ουρανοι |strong="3772" x-morph="N-NPM" και |strong="2532" x-morph="CONJ" η |strong="3588" x-morph="T-NSF"
+grc	γη |strong="1093" x-morph="N-NSF" τω |strong="3588" x-morph="T-DSM" αυτου |strong="846" x-morph="P-GSM"
+grc	λογω |strong="3056" x-morph="N-DSM" τεθησαυρισμενοι |strong="2343 5772" x-morph="V-RPP-NPM"
+grc	εισιν |strong="1510 5719" x-morph="V-PAI-3P" πυρι |strong="4442" x-morph="N-DSN" τηρουμενοι
+grc	|strong="5083 5746" x-morph="V-PPP-NPM" εις |strong="1519" x-morph="PREP" ημεραν |strong="2250"
+grc	x-morph="N-ASF" κρισεως |strong="2920" x-morph="N-GSF" και |strong="2532" x-morph="CONJ" απωλειας
+grc	|strong="684" x-morph="N-GSF" των |strong="3588" x-morph="T-GPM" ασεβων |strong="765" x-morph="A-GPM"
+grc	ο |strong="3588" x-morph="T-NSM" λεγων |strong="3004 5723" x-morph="V-PAP-NSM" εν |strong="1722" x-morph="PREP"
+grc	τω |strong="3588" x-morph="T-DSN" φωτι |strong="5457" x-morph="N-DSN" ειναι |strong="1510 5721"
+grc	x-morph="V-PAN" και |strong="2532" x-morph="CONJ" τον |strong="3588" x-morph="T-ASM" αδελφον |strong="80"
+grc	x-morph="N-ASM" αυτου |strong="846" x-morph="P-GSM" μισων |strong="3404 5723" x-morph="V-PAP-NSM" εν
+grc	|strong="1722" x-morph="PREP" τη |strong="3588" x-morph="T-DSF" σκοτια |strong="4653" x-morph="N-DSF"
+grc	εστιν |strong="1510 5719" x-morph="V-PAI-3S" εως |strong="2193" x-morph="ADV" αρτι |strong="737"
+grc	εν |strong="1722" x-morph="PREP" τουτω |strong="3778" x-morph="D-DSN" φανερα |strong="5318"
+grc	x-morph="A-NPN" εστιν |strong="1510 5719" x-morph="V-PAI-3S" τα |strong="3588" x-morph="T-NPN" τεκνα
+grc	|strong="5043" x-morph="N-NPN" του |strong="3588" x-morph="T-GSM" θεου |strong="2316" x-morph="N-GSM" και
+grc	|strong="2532" x-morph="CONJ" τα |strong="3588" x-morph="T-NPN" τεκνα |strong="5043" x-morph="N-NPN" του
+grc	|strong="3588" x-morph="T-GSM" διαβολου |strong="1228" x-morph="A-GSM" πας |strong="3956" x-morph="A-NSM" ο
+grc	|strong="3588" x-morph="T-NSM" μη |strong="3361" x-morph="PRT-N" ποιων |strong="4160 5723" x-morph="V-PAP-NSM"
+grc	δικαιοσυνην |strong="1343" x-morph="N-ASF" ουκ |strong="3756" x-morph="PRT-N" εστιν |strong="1510
+grc	5719" x-morph="V-PAI-3S" εκ |strong="1537" x-morph="PREP" του |strong="3588" x-morph="T-GSM" θεου
+grc	|strong="2316" x-morph="N-GSM" και |strong="2532" x-morph="CONJ" ο |strong="3588" x-morph="T-NSM" μη
+grc	|strong="3361" x-morph="PRT-N" αγαπων |strong="25 5723" x-morph="V-PAP-NSM" τον |strong="3588" x-morph="T-ASM"
+grc	και |strong="2532" x-morph="CONJ" ημεις |strong="1473" x-morph="P-1NP" εγνωκαμεν |strong="1097 5758"
+grc	x-morph="V-RAI-1P" και |strong="2532" x-morph="CONJ" πεπιστευκαμεν |strong="4100 5758"
+grc	x-morph="V-RAI-1P" την |strong="3588" x-morph="T-ASF" αγαπην |strong="26" x-morph="N-ASF" ην |strong="3739"
+grc	x-morph="R-ASF" εχει |strong="2192 5719" x-morph="V-PAI-3S" ο |strong="3588" x-morph="T-NSM" θεος
+grc	|strong="2316" x-morph="N-NSM" εν |strong="1722" x-morph="PREP" ημιν |strong="1473" x-morph="P-1DP" ο
+grc	|strong="3588" x-morph="T-NSM" θεος |strong="2316" x-morph="N-NSM" αγαπη |strong="26" x-morph="N-NSF"
+grc	εστιν |strong="1510 5719" x-morph="V-PAI-3S" και |strong="2532" x-morph="CONJ" ο |strong="3588"
+grc	x-morph="T-NSM" μενων |strong="3306 5723" x-morph="V-PAP-NSM" εν |strong="1722" x-morph="PREP" τη
+grc	|strong="3588" x-morph="T-DSF" αγαπη |strong="26" x-morph="N-DSF" εν |strong="1722" x-morph="PREP" τω
+grc	|strong="3588" x-morph="T-DSM" θεω |strong="2316" x-morph="N-DSM" μενει |strong="3306 5719" x-morph="V-PAI-3S"
+grc	και |strong="2532" x-morph="CONJ" ο |strong="3588" x-morph="T-NSM" θεος |strong="2316" x-morph="N-NSM" εν
+grc	|strong="1722" x-morph="PREP" αυτω |strong="846" x-morph="P-DSM" μενει |strong="3306 5719" x-morph="V-PAI-3S"
+grc	εχαρην |strong="5463 5644" x-morph="V-2AOI-1S" λιαν |strong="3029" x-morph="ADV" οτι |strong="3754"
+grc	x-morph="CONJ" ευρηκα |strong="2147 5758" x-morph="V-RAI-1S" εκ |strong="1537" x-morph="PREP" των
+grc	|strong="3588" x-morph="T-GPN" τεκνων |strong="5043" x-morph="N-GPN" σου |strong="4771" x-morph="P-2GS"
+grc	περιπατουντας |strong="4043 5723" x-morph="V-PAP-APM" εν |strong="1722" x-morph="PREP" αληθεια
+grc	|strong="225" x-morph="N-DSF" καθως |strong="2531" x-morph="ADV" εντολην |strong="1785" x-morph="N-ASF"
+grc	ελαβομεν |strong="2983 5627" x-morph="V-2AAI-1P" παρα |strong="3844" x-morph="PREP" του |strong="3588"
+grc	ως |strong="5613" x-morph="ADV" σοδομα |strong="4670" x-morph="N-NPN" και |strong="2532" x-morph="CONJ"
+grc	γομορρα |strong="1116" x-morph="N-NSF" και |strong="2532" x-morph="CONJ" αι |strong="3588" x-morph="T-NPF"
+grc	περι |strong="4012" x-morph="PREP" αυτας |strong="846" x-morph="P-APF" πολεις |strong="4172"
+grc	x-morph="N-NPF" τον |strong="3588" x-morph="T-ASM" ομοιον |strong="3664" x-morph="A-ASM" τουτοις
+grc	|strong="3778" x-morph="D-DPM" τροπον |strong="5158" x-morph="N-ASM" εκπορνευσασαι |strong="1608
+grc	5660" x-morph="V-AAP-NPF" και |strong="2532" x-morph="CONJ" απελθουσαι |strong="565 5631"
+grc	x-morph="V-2AAP-NPF" οπισω |strong="3694" x-morph="ADV" σαρκος |strong="4561" x-morph="N-GSF" ετερας
+grc	|strong="2087" x-morph="A-GSF" προκεινται |strong="4295 5736" x-morph="V-PNI-3P" δειγμα |strong="1164"
+grc	x-morph="N-ASN" πυρος |strong="4442" x-morph="N-GSN" αιωνιου |strong="166" x-morph="A-GSN" δικην
+grc	|strong="1349" x-morph="N-ASF" υπεχουσαι |strong="5254 5723" x-morph="V-PAP-NPF"
+grc	και |strong="2532" x-morph="CONJ" εκει |strong="1563" x-morph="ADV"   επεστρεψα |strong="1994 5656"
+grc	x-morph="V-AAI-1S" βλεπειν |strong="991 5721" x-morph="V-PAN" την |strong="3588" x-morph="T-ASF" φωνην
+grc	|strong="5456" x-morph="N-ASF" ητις |strong="3748" x-morph="R-NSF" ελαλει |strong="2980 5707"
+grc	x-morph="V-IAI-3S" μετ |strong="3326" x-morph="PREP" εμου |strong="1473" x-morph="P-1GS" και |strong="2532"
+grc	x-morph="CONJ" επιστρεψας |strong="1994 5660" x-morph="V-AAP-NSM" ειδον |strong="3708 5627"
+grc	x-morph="V-2AAI-1S" επτα |strong="2033" x-morph="A-NUI" λυχνιας |strong="3087" x-morph="N-APF" χρυσας
+grc	ιδου |strong="3708 5640" x-morph="V-2AMM-2S" βαλλω |strong="906 5719" x-morph="V-PAI-1S" αυτην
+grc	|strong="846" x-morph="P-ASF" εις |strong="1519" x-morph="PREP" κλινην |strong="2825" x-morph="N-ASF" και
+grc	|strong="2532" x-morph="CONJ" τους |strong="3588" x-morph="T-APM" μοιχευοντας |strong="3431 5723"
+grc	x-morph="V-PAP-APM" μετ |strong="3326" x-morph="PREP" αυτης |strong="846" x-morph="P-GSF" εις |strong="1519"
+grc	x-morph="PREP" θλιψιν |strong="2347" x-morph="N-ASF" μεγαλην |strong="3173" x-morph="A-ASF" εαν
+grc	|strong="1437" x-morph="COND" μη |strong="3361" x-morph="PRT-N" μετανοησωσιν |strong="3340 5661"
+grc	x-morph="V-AAS-3P" εκ |strong="1537" x-morph="PREP" των |strong="3588" x-morph="T-GPN" εργων |strong="2041"
+grc	μετα |strong="3326" x-morph="PREP" ταυτα |strong="3778" x-morph="D-APN" ειδον |strong="3708 5627"
+grc	x-morph="V-2AAI-1S" και |strong="2532" x-morph="CONJ" ιδου |strong="3708 5640" x-morph="V-2AMM-2S" θυρα
+grc	|strong="2374" x-morph="N-NSF" ανεωγμενη |strong="455 5772" x-morph="V-RPP-NSF" εν |strong="1722"
+grc	x-morph="PREP" τω |strong="3588" x-morph="T-DSM" ουρανω |strong="3772" x-morph="N-DSM" και |strong="2532"
+grc	x-morph="CONJ" η |strong="3588" x-morph="T-NSF" φωνη |strong="5456" x-morph="N-NSF" η |strong="3588"
+grc	x-morph="T-NSF" πρωτη |strong="4413" x-morph="A-NSF-S" ην |strong="3739" x-morph="R-ASF" ηκουσα
+grc	|strong="191 5656" x-morph="V-AAI-1S" ως |strong="5613" x-morph="ADV" σαλπιγγος |strong="4536"
+grc	x-morph="N-GSF" λαλουσης |strong="2980 5723" x-morph="V-PAP-GSF" μετ |strong="3326" x-morph="PREP" εμου
+grc	|strong="1473" x-morph="P-1GS" λεγων |strong="3004 5723" x-morph="V-PAP-NSM"   αναβα |strong="305 5628"
+grc	x-morph="V-2AAM-2S" ωδε |strong="5602" x-morph="ADV" και |strong="2532" x-morph="CONJ" δειξω |strong="1166
+grc	5692" x-morph="V-FAI-1S" σοι |strong="4771" x-morph="P-2DS" α |strong="3739" x-morph="R-APN" δει |strong="1163
+grc	5719" x-morph="V-PAI-3S" γενεσθαι |strong="1096 5635" x-morph="V-2ADN" μετα |strong="3326" x-morph="PREP"
+grc	και |strong="2532" x-morph="CONJ" ηκουσα |strong="191 5656" x-morph="V-AAI-1S" φωνην |strong="5456"
+grc	x-morph="N-ASF" εν |strong="1722" x-morph="PREP" μεσω |strong="3319" x-morph="A-DSN" των |strong="3588"
+grc	x-morph="T-GPN" τεσσαρων |strong="5064" x-morph="A-GPN" ζωων |strong="2226" x-morph="N-GPN"
+grc	λεγουσαν |strong="3004 5723" x-morph="V-PAP-ASF" χοινιξ |strong="5518" x-morph="N-NSM" σιτου
+grc	|strong="4621" x-morph="N-GSM" δηναριου |strong="1220" x-morph="N-GSN" και |strong="2532" x-morph="CONJ"
+grc	τρεις |strong="5140" x-morph="A-NPM" χοινικες |strong="5518" x-morph="N-NPM" κριθης |strong="2915"
+grc	x-morph="N-GSF" δηναριου |strong="1220" x-morph="N-GSN" και |strong="2532" x-morph="CONJ" το
+grc	|strong="3588" x-morph="T-ASN" ελαιον |strong="1637" x-morph="N-ASN" και |strong="2532" x-morph="CONJ" τον
+grc	|strong="3588" x-morph="T-ASM" οινον |strong="3631" x-morph="N-ASM" μη |strong="3361" x-morph="PRT-N"
+grc	και |strong="2532" x-morph="CONJ" ειδον |strong="3708 5627" x-morph="V-2AAI-1S" τους |strong="3588"
+grc	x-morph="T-APM" επτα |strong="2033" x-morph="A-NUI" αγγελους |strong="32" x-morph="N-APM" οι
+grc	|strong="3739" x-morph="R-NPM" ενωπιον |strong="1799" x-morph="ADV" του |strong="3588" x-morph="T-GSM"
+grc	θεου |strong="2316" x-morph="N-GSM" εστηκασιν |strong="2476 5758" x-morph="V-RAI-3P" και |strong="2532"
+grc	x-morph="CONJ" εδοθησαν |strong="1325 5681" x-morph="V-API-3P" αυτοις |strong="846" x-morph="P-DPM"
+grc	η |strong="3588" x-morph="T-NSF" γαρ |strong="1063" x-morph="CONJ" εξουσια |strong="1849" x-morph="N-NSF"
+grc	των |strong="3588" x-morph="T-GPM" ιππων |strong="2462" x-morph="N-GPM" εν |strong="1722" x-morph="PREP" τω
+grc	|strong="3588" x-morph="T-DSN" στοματι |strong="4750" x-morph="N-DSN" αυτων |strong="846" x-morph="P-GPM"
+grc	εστιν |strong="1510 5719" x-morph="V-PAI-3S" και |strong="2532" x-morph="CONJ" εν |strong="1722"
+grc	x-morph="PREP" ταις |strong="3588" x-morph="T-DPF" ουραις |strong="3769" x-morph="N-DPF" αυτων
+grc	|strong="846" x-morph="P-GPM" αι |strong="3588" x-morph="T-NPF" γαρ |strong="1063" x-morph="CONJ" ουραι
+grc	|strong="3769" x-morph="N-NPF" αυτων |strong="846" x-morph="P-GPM" ομοιαι |strong="3664" x-morph="A-NPF"
+grc	οφεων |strong="3789" x-morph="N-GPM"   εχουσαι |strong="2192 5723" x-morph="V-PAP-NPF" κεφαλας
+grc	|strong="2776" x-morph="N-APF" και |strong="2532" x-morph="CONJ" εν |strong="1722" x-morph="PREP" αυταις
+grc	λεγοντες |strong="3004 5723" x-morph="V-PAP-NPM" ευχαριστουμεν |strong="2168 5719"
+grc	x-morph="V-PAI-1P" σοι |strong="4771" x-morph="P-2DS" κυριε |strong="2962" x-morph="N-VSM" ο |strong="3588"
+grc	x-morph="T-NSM" θεος |strong="2316" x-morph="N-NSM" ο |strong="3588" x-morph="T-NSM" παντοκρατωρ
+grc	|strong="3841" x-morph="N-NSM" ο |strong="3588" x-morph="T-NSM" ων |strong="1510 5723" x-morph="V-PAP-NSM" και
+grc	|strong="2532" x-morph="CONJ" ο |strong="3588" x-morph="T-NSM" ην |strong="1510 5707" x-morph="V-IAI-3S" οτι
+grc	|strong="3754" x-morph="CONJ" ειληφας |strong="2983 5758" x-morph="V-RAI-2S" την |strong="3588"
+grc	x-morph="T-ASF" δυναμιν |strong="1411" x-morph="N-ASF" σου |strong="4771" x-morph="P-2GS" την
+grc	|strong="3588" x-morph="T-ASF" μεγαλην |strong="3173" x-morph="A-ASF" και |strong="2532" x-morph="CONJ"
+grc	και |strong="2532" x-morph="CONJ" ειδον |strong="3708 5627" x-morph="V-2AAI-1S" αλλο |strong="243"
+grc	x-morph="A-ASN" θηριον |strong="2342" x-morph="N-ASN" αναβαινον |strong="305 5723" x-morph="V-PAP-ASN"
+grc	εκ |strong="1537" x-morph="PREP" της |strong="3588" x-morph="T-GSF" γης |strong="1093" x-morph="N-GSF" και
+grc	|strong="2532" x-morph="CONJ" ειχεν |strong="2192 5707" x-morph="V-IAI-3S" κερατα |strong="2768"
+grc	x-morph="N-APN" δυο |strong="1417" x-morph="A-NUI" ομοια |strong="3664" x-morph="A-APN" αρνιω
+grc	|strong="721" x-morph="N-DSN" και |strong="2532" x-morph="CONJ" ελαλει |strong="2980 5707" x-morph="V-IAI-3S"
+grc	και |strong="2532" x-morph="CONJ" αδουσιν |strong="103 5719" x-morph="V-PAI-3P" την |strong="3588"
+grc	x-morph="T-ASF" ωδην |strong="5603" x-morph="N-ASF" μωυσεως |strong="3475" x-morph="N-GSM" του
+grc	|strong="3588" x-morph="T-GSM" δουλου |strong="1401" x-morph="N-GSM" του |strong="3588" x-morph="T-GSM"
+grc	θεου |strong="2316" x-morph="N-GSM" και |strong="2532" x-morph="CONJ" την |strong="3588" x-morph="T-ASF"
+grc	ωδην |strong="5603" x-morph="N-ASF" του |strong="3588" x-morph="T-GSN" αρνιου |strong="721"
+grc	x-morph="N-GSN" λεγοντες |strong="3004 5723" x-morph="V-PAP-NPM" μεγαλα |strong="3173" x-morph="A-NPN"
+grc	και |strong="2532" x-morph="CONJ" θαυμαστα |strong="2298" x-morph="A-NPN" τα |strong="3588"
+grc	x-morph="T-NPN" εργα |strong="2041" x-morph="N-NPN" σου |strong="4771" x-morph="P-2GS" κυριε |strong="2962"
+grc	x-morph="N-VSM" ο |strong="3588" x-morph="T-NSM" θεος |strong="2316" x-morph="N-NSM" ο |strong="3588"
+grc	x-morph="T-NSM" παντοκρατωρ |strong="3841" x-morph="N-NSM" δικαιαι |strong="1342" x-morph="A-NPF"
+grc	και |strong="2532" x-morph="CONJ" αληθιναι |strong="228" x-morph="A-NPF" αι |strong="3588" x-morph="T-NPF"
+grc	οδοι |strong="3598" x-morph="N-NPF" σου |strong="4771" x-morph="P-2GS" ο |strong="3588" x-morph="T-NSM"
+grc	βασιλευς |strong="935" x-morph="N-NSM" των |strong="3588" x-morph="T-GPN" εθνων |strong="1484"
+grc	και |strong="2532" x-morph="CONJ" η |strong="3588" x-morph="T-NSF" γυνη |strong="1135" x-morph="N-NSF" ην
+grc	|strong="1510 5707" x-morph="V-IAI-3S" περιβεβλημενη |strong="4016 5772" x-morph="V-RPP-NSF"
+grc	και |strong="2532" x-morph="CONJ" ειδον |strong="3708 5627" x-morph="V-2AAI-1S" αγγελον |strong="32"
+grc	x-morph="N-ASM" καταβαινοντα |strong="2597 5723" x-morph="V-PAP-ASM" εκ |strong="1537" x-morph="PREP"
+grc	του |strong="3588" x-morph="T-GSM" ουρανου |strong="3772" x-morph="N-GSM" εχοντα |strong="2192 5723"
+grc	x-morph="V-PAP-ASM" την |strong="3588" x-morph="T-ASF" κλειν |strong="2807" x-morph="N-ASF" της
+grc	|strong="3588" x-morph="T-GSF" αβυσσου |strong="12" x-morph="N-GSF" και |strong="2532" x-morph="CONJ"
+grc	αλυσιν |strong="254" x-morph="N-ASF" μεγαλην |strong="3173" x-morph="A-ASF" επι |strong="1909"
+grc	x-morph="PREP" την |strong="3588" x-morph="T-ASF" χειρα |strong="5495" x-morph="N-ASF" αυτου |strong="846"
+grc	και |strong="2532" x-morph="CONJ" η |strong="3588" x-morph="T-NSF" πολις |strong="4172" x-morph="N-NSF"
+grc	τετραγωνος |strong="5068" x-morph="A-NSF" κειται |strong="2749 5736" x-morph="V-PNI-3S" και
+grc	|strong="2532" x-morph="CONJ" το |strong="3588" x-morph="T-NSN" μηκος |strong="3372" x-morph="N-NSN" αυτης
+grc	|strong="846" x-morph="P-GSF" οσον |strong="3745" x-morph="K-NSN" το |strong="3588" x-morph="T-NSN" πλατος
+grc	|strong="4114" x-morph="N-NSN" και |strong="2532" x-morph="CONJ" εμετρησεν |strong="3354 5656"
+grc	x-morph="V-AAI-3S" την |strong="3588" x-morph="T-ASF" πολιν |strong="4172" x-morph="N-ASF" τω |strong="3588"
+grc	x-morph="T-DSM" καλαμω |strong="2563" x-morph="N-DSM" επι |strong="1909" x-morph="PREP" σταδιους
+grc	και |strong="2532" x-morph="CONJ" εαν |strong="1437" x-morph="COND" τις |strong="5100" x-morph="X-NSM"
+grc	αφελη |strong="851 5632" x-morph="V-2AAS-3S" απο |strong="575" x-morph="PREP" των |strong="3588"
+grc	x-morph="T-GPM" λογων |strong="3056" x-morph="N-GPM" του |strong="3588" x-morph="T-GSN" βιβλιου
+grc	|strong="975" x-morph="N-GSN" της |strong="3588" x-morph="T-GSF" προφητειας |strong="4394" x-morph="N-GSF"
+grc	ταυτης |strong="3778" x-morph="D-GSF" αφελοι |strong="851 5659" x-morph="V-AAO-3S"   ο |strong="3588"
+grc	x-morph="T-NSM" θεος |strong="2316" x-morph="N-NSM" το |strong="3588" x-morph="T-ASN" μερος |strong="3313"
+grc	x-morph="N-ASN" αυτου |strong="846" x-morph="P-GSM" απο |strong="575" x-morph="PREP" του |strong="3588"
+grc	x-morph="T-GSN" ξυλου |strong="3586" x-morph="N-GSN" της |strong="3588" x-morph="T-GSF" ζωης |strong="2222"
+grc	x-morph="N-GSF" και |strong="2532" x-morph="CONJ" εκ |strong="1537" x-morph="PREP" της |strong="3588"
+grc	x-morph="T-GSF" πολεως |strong="4172" x-morph="N-GSF" της |strong="3588" x-morph="T-GSF" αγιας
+grc	|strong="40" x-morph="A-GSF" των |strong="3588" x-morph="T-GPN" γεγραμμενων |strong="1125 5772"
+grc	x-morph="V-RPP-GPN" εν |strong="1722" x-morph="PREP" τω |strong="3588" x-morph="T-DSN" βιβλιω |strong="975"

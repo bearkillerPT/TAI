@@ -1,0 +1,54 @@
+
+id=Wmzr
+charset=0
+lang=mzr
+font=Charis SIL
+short.title=Marubo -Rute
+title=Ruth in Marúbo 
+description=The Book of Ruth in Marúbo of Brazil. [mzr]\
+Partes da Bíblia (Rute) na língua Marúbo do Brasil [mzr]\
+© 2019, Missão Novas Tribos do Brasil
+version.major=1
+version.minor=0
+version.date=2019-10-18
+publisher=Missão Novas Tribos do Brasil
+publish.date=2019
+author=Missão Novas Tribos do Brasil
+creator=ScriptureEarth.org
+source=Missão Novas Tribos do Brasil
+about=The Book of Ruth in Marúbo of Brazil. [mzr]\
+<p>Partes da Bíblia (Rute) na língua Marúbo do Brasil. [mzr]\
+<p>******************************\
+<p>Copyright © 2019 New Tribes Mission of Brazil.\
+<p>Published, 2019, Missão Novas Tribos do Brasil \
+<p><font color=blue><i>http://www.ScriptureEarth.org</i></font>; \
+<p><font color=blue><i>ScriptureEarth@Wycliffe.ca</i></font>; \
+<p><font color=blue><i>http://www.novastribosdobrasil.org.br</i></font>; \
+<p>This translation is made available to you under the following terms:\
+<p>******************************\
+<p><b>Creative Commons Licença</b> <i>Atribuição-Uso não-comercial-Vedada a criação de obras derivadas 4.0 Unported</i>\
+<p><b>Você pode</b>\ — copiar, distribuir, exibir e executar a obra\
+<p><b>Sob as seguintes condições:</b>\
+<p><b>• Atribuição.</b> — Você deve dar crédito ao autor original, da forma especificada pelo autor ou licenciante.\
+<p><b>• Uso ñão-Comercial.</b> — Você não pode utilizar esta obra com finalidades comerciais.\
+<p><b>• Vedada a Criação de Obras Derividas.</b> — Você não pode alterar, transformar ou criar outra obra com base nesta.\
+<p><b>• Sem restrições adicionais</b>\ — Você não pode aplicar termos jurídicos ou medidas de caráter tecnológico que restrinjam legalmente outros de fazerem algo que a licença permita.\
+<p><b>Avisos:</b> Você não tem de cumprir com os termos da licença relativamente a elementos do material que estejam no domínio público ou cuja utilização seja permitida por uma exceção ou limitação que seja aplicável.\
+<p>Não são dadas quaisquer garantias. A licença pode não lhe dar todas as autorizações necessárias para o uso pretendido. Por exemplo, outros direitos, tais como direitos de imagem, de privacidade ou direitos morais, podem limitar o uso do material.\
+<p><font color=blue><i>http://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt_BR</i></font>\
+<p>******************************\
+<p><b>Creative Commons</b> <i>Atribution-Non Comercial-No Derivatives 4.0</i>\
+<p><font color=blue><i>http://creativecommons.org/licenses/by-nc-nd/4.0/</i></font>\
+<p><b>You are free to:<i>Share</i></b> — copy and redistribute the material in any medium or format\
+<p><b><i>Under the following terms:</i></b>\
+<p><b>• Attribution.</b> — You must give appropriate credit, provide a link to the license, and indicate if changes were made. \
+You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.\
+<p><b>• Noncommercial.</b> — You may not use the material for commercial purposes.\
+<p><b>• No Derivative Works.</b> If you remix, transform, or build upon the material, you may not distribute the modified material.\
+<p><b><i>No additional restrictions</i></b> — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\
+<p><b>• Waiver.</b> — Any of the above conditions can be waived if you get permission from the copyright holder.\
+<p><b>• Other Rights.</b> In no way are any of the following rights affected by the license:\
+<p>— Your fair dealing or fair use rights;\
+<p>— The author's moral rights;\
+<p>— Rights other persons may have either in the work itself or in how the work is used, such as publicity or privacy rights.\
+<p><b>Notice</b> — For any reuse or distribution, you must make clear to others the license terms of this work.\

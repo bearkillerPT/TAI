@@ -1,0 +1,60 @@
+
+id=Wnsu
+charset=0
+lang=Náhuatl de la Sierra Negra
+font=Charis SIL
+short.title=Náhuatl de la Sierra Negra
+title=Nuevo Testamento en el náhuatl de la Sierra Negra
+title.english=New Testament in Náhuatl, Sierra Negra
+description=El Nuevo Testamento en el náhuatl de la Sierra Negra
+version.major=1
+version.minor=0
+version.date=2010-06-09
+publisher=Wycliffe Bible Translators, Inc.
+publish.date=1987, 2006, 2009
+author=Wycliffe Bible Translators
+creator=ScriptureEarth.org
+source=Wycliffe Bible Translators
+about=Copyright ©Wycliffe Bible Translators, Inc, 2017\
+<p><font color=blue><i>http://www.ScriptureEarth.org</i></font>; \
+ScriptureEarth@Wycliffe.net; <font color=blue><i>http://www.Wycliffe.org</i></font>\
+<p><b>Creative Commons License</b> <i>Attribution-Noncommercial-No Derivative Works 3.0</i>\
+<p><b>Your are free:</b>\
+<p><b><i>   -To Share</i></b>  — to copy, distribute and transmit the work\
+<p><b>Under the following conditions:</b>\
+<p><b>Attribution.</b> You must attribute the work in the manner specified \
+by the author or licensor (but not in any way that suggests that they \
+endorse you or your use of the work).\
+<p><b>Noncommercial.</b> You may not use this work for commercial purposes.\
+<p><b>No Derivative Works.</b> You may not alter, transform, or build upon this work.\
+<p><b><i>   -With the understanding</i></b>\
+<p><b>Waiver</b> — Any of the above conditions can be waived \
+if you get permission from the copyright holder.\
+<p><b>Other Rights</b> — In no way are any of the following rights affected by the license:\
+<p>-Your fair dealing or fair use rights;\
+<p>-The author's moral rights;\
+<p>-Rights other persons may have either in the work itself or in how the work is used, \
+such as publicity or privacy rights.\
+<p><b>Notice</b> — For any reuse or distribution, you must make clear to others \
+the license terms of this work.\
+<p><font color=blue><i>http://creativecommons.org/licenses/by-nc-nd/3.0</i></font>\
+<p> . . . . . . . . . . . . . . . . . . .\
+<p><b>Creative Commons License</b> <i>Atribución-No comercial-No Derivadas 3.0</i>\
+<p><b>Eres libre de:</b>\
+<p>-copiar, distribuir y comunicar públicamente la obra\
+<p><b>Bajo las condiciones siguientes</b>\
+<p><b>Atribución</b> — Debes reconocer la autoría de la obra en los términos especificados\
+ por el propio autor o licenciante.\
+<p><b>No comercial</b> — No puedes utilizar esta obra para fines comerciales.\
+<p><b>No Derivadas</b> — No está permitido que alteres, transformes o generes una obra derivada\
+a partir de esta obra.\
+<p><b>Con la comprensión eso:</b>\
+<p><b>Renuncia</b> — Un de los sobre condiciones puede ser renunciado\
+si consigue el permiso del sostenedor de las derechas.\
+<p><b>Otras derechas</b> — Están de ninguna manera los siguientes derechas afectadas por la licencia:\
+<p>-Las derechas del uso justo;\
+<p>-Las derechas morales del autor;\
+<p>-Las derechas que otras personas pueden tener en el trabajo mismo o en cómo se utiliza el trabajo, \
+por ejemplo las derechas de publicidad o las derechas privadas.\
+<p><b>Aviso</b> — Para obras reutilizadas o redistribuidos, tiene que avisar claramente estos términos de la licencia.\
+<p><font color=blue><i>http://creativecommons.org/licenses/by-nc-nd/3.0</i></font>

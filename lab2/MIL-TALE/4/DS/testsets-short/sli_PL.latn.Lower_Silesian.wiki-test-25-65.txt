@@ -1,0 +1,535 @@
+sli	(* 10. August 1830 ei Brassel; † 19. Dezember 1916 ei Perlin;
+sli	eigentlich Guido Georg Friedrich Erdmann Heinrich Adelbert Graf
+sli	Henckel Fürst von Donnersmarck) woar als Reichsgraf Spross der
+sli	Familie Henckel von Donnersmarck und wurde 1901 ei den
+sli	(* 11. März 1856 ei Folkabarg; † 29. Mai 1934 ei Brassel)
+sli	woar anne aeberschläscher Mundoartdichterin, Schriftstellerin
+sli	(* 13. Maerz 1902 ei Kattowitz; +24. Februar 1975 ei Paris) woar
+sli	a deitscher Fotograf, Bildhauer und Autor.
+sli	(* 15. Dezember 1732 ei Landshutt, Schläsing; † 1. Oktober
+sli	1808 ei Grieneeche bei Brassel) woar a preußischer Baumeester
+sli	on Architekt. Senne Werke gehiern zu dann friehesta Bauta des
+sli	Klassizismus ei Deitschland. Sei bekanntestes Werk ies doas
+sli	Brandenburger Tor ei Perlin.
+sli	(* 16. November 1983 ei Schwedt/Uder) ies anne deitsche
+sli	Schwimmerin. Se gewann während ihrer Karriere bisher 19
+sli	Medailla bei Olympischa Summerspiela suwie Welt- on
+sli	Europameesterschofta, darunter zwee Olympiasiege, zwee
+sli	Weltmeestertittel on sechs Europameestertittel.
+sli	(* 1863 ei Mollwitz; † ?) woar a schläscher Dialektdichter
+sli	(* 18. Juni 1868 ei Holweschwäärde, Niederschläsing, † 13.
+sli	Januar 1920) woar a deitscher Komponist.
+sli	; * 19. Juni 1945 ei Rangun, Britisch-Birma, heite Myanmar) ies
+sli	Puletikerin und setzt siech seit dann späten 1980er-Joahra fier
+sli	anne gewaltluuse Demokratisierung ihres Heemtelandes a. 1991
+sli	erhielt se dann Friedensnobelpreis.
+sli	(* 20. Januar 1980 ei Hombarg (Efze)) ies anne deitsche
+sli	Schauspielerin. Bekoannt wourde se dorch de ARD-Serie Berlin,
+sli	Berlin on dann TV-Film Dresden.
+sli	(* 22. Januar 1879 ei Neusorge b. Schlegel, Landkreis
+sli	Neurode/Schläsing; +22. August 1949 Goehrde/Niedersachsa) woar
+sli	a deutscher Theologe, Schriftsteller und Heemteforscher der
+sli	(* 24. Juni 1874 ei Huhndurf bei Hoabelschwerde; † 17. Oktober
+sli	1946 ei Amecke / Sauerland) woar a schläscher Dialektdichter
+sli	(* 26. November 1804 ei Berthelsdurf, + 30. Juli 1887 ei
+sli	Kattowitz) woar a Generaldirektor dar Thiele- Winklerschen Werke
+sli	on Mitbegründer vu Kattowitz.
+sli	(* 27. November 1863 ei ''Bernstoadt ei Schläsing''; +20.
+sli	Dezember 1943 ei Perlin) woar a deitscher Maler.
+sli	(* 28. Oktober 1833 ei Ossig (Krees Striege), Niederschläsing;
+sli	† 1. November 1898 ei Schweinz) woar a schläscher
+sli	Dialektdichter, Schriftsteller, Jornalist on Hauslehrer.
+sli	(* 2. Oktober 1616 ei Glogau, Schläsing; +16. Juli 1664 ebenda;
+sli	eigentlich Andreas Greif) woar a deitscher Dichter on Dramatiker
+sli	des Barock. Ar woar der bedeutendste deitsche Sonettdichter des
+sli	(* 31. Mai 1930 ei San Francisco, Kalifornien) ies a
+sli	US-amerikanischer Filmschauspieler, -regisseur, -produzent,
+sli	-komponist und Puletiker.
+sli	(* 4. Dezember 1881 ei Brassel; +8. August 1944 ei
+sli	Perlin-Ploetzensee) woar a deitscher Generalfeldmarschall und
+sli	waehrend des Zweeta Weltkrieges Armeekommandeur und
+sli	Widerstandskämpfer des 20. Juli 1944.
+sli	(* 5. März 1940 ei Brassel) ies a deitscher Fußbollspieler und
+sli	(* 7. August 1901 ei Bolatitz, Oberschläsing; † 26. April
+sli	1969 ei Perlin) woar a deitscher Schriftsteller.
+sli	(* 8. Januar 1935 ei Tupelo, Mississippi, Vereinigte Stoata; †
+sli	16. August 1977 ei Memphis, Tennessee, USA; geb. ''Elvis Aron
+sli	Presley'' später ''Elvis Aaron Presley'') woar a
+sli	US-amerikanischer Sänger on Schauspieler, der aufgrund sennes
+sli	immensen on dauerhafta Erfolges dan Beinoama „King“ bzw.
+sli	''King of Rock ’n’ Roll'' erhielt.
+sli	(* 9. März 1945 ei Girlachsdurf, Landkreis Reichenbach,
+sli	Niederschläsing) ies anne deitsche Sängerin und
+sli	Schauspielerin. Sie hoat bisher mehr als 30 Alba ei der Bereicha
+sli	Schlager, Popmusik, Chanson, Kabarett und Musical
+sli	Aalt Hommer ies anne Urtschoaft ei der Gemeende Aalt Poppel eim
+sli	Landkrees Uppeln der  Woiwodschoaft Uppeln ei Niederschläsing.
+sli	Äber-Neundurf ies a Urtsteel der sächsischa Stoadt Gerltz eim
+sli	Aeberschläsch (au Oberschläs'sche Schproche oder
+sli	Aeberschläsche Sproache, deitsch: ''Oberschlesisch'') ies a
+sli	Sproache/Dialekt vo Schläsch. Aeberschläsch reeda ei der
+sli	A Hübel ies ols Geländefurm anne mittelgruße Erhebung ei
+sli	anner Landschoaft, meest mit eher abgerundeta Furma und mit
+sli	Pflanza bewachsa. Ar ies kleener ols a Barg, ober normalerweise
+sli	größer ols a Fels oder anne Bodenwelle.
+sli	Amsen ooch Omsen (''Formicidae'') geheera zu den staatabildenden
+sli	Insekta und stella eene Familie innerhalb der Hautfliegler
+sli	Annabarg, ''Annaberg'' (historisch), schlonsakisch: ''Anaberg'')
+sli	ies a Durf ei der Pullakei ei der Stoadt- und Landgemeinde
+sli	Leschnitz ei der Woiwodschoaft Uppeln. Bekannt ies der rund 550
+sli	Eenwuhner zeehlende Urt fier is gleichnamige Kloster mit
+sli	Wallfahrtskirche uff 'm Annabarg.
+sli	Anne Schriett-fier-Schriett-Anleitung, de erklärt, wie du ei
+sli	Wikipeedia Bilder huchlädst on ei Ortikel einbaust.
+sli	A Nudelkulle ies anne etwa 20 bis 40 Zentimeter lange massive
+sli	Walze mit glatter Oberfläche und wird fier doas gleimäßige
+sli	Ausrolla vo Teig fier Nudeln, Strudel, Kucha, Torta benutzt.
+sli	Rührteig lässt sich mit solch anner Teigrolle allerdings nä
+sli	Arnsdurf, ies a Durf ei Pula ei der Gemeende Gierschdurf ei der
+sli	Woiwodschoaft Niederschläsing.
+sli	Aufgrund des wandernda Zenitstandes der Sunne zwischa südlichem
+sli	und nördlichem Wendekreis wiederholt sich der Summer ei jeder
+sli	Hemisphäre ei annem jährlicha Turnus.
+sli	Außerdem woar ar a bedeutender Industrieller und anner der
+sli	reichsta Männer seiner Zeit. Ar errichtete eim Mai 1916 de
+sli	Fürst-Donnersmarck-Stiftung zu Perlin.
+sli	Barockhaus Neißstrooße 30, Portal
+sli	Beichte?, bleech, Eeche (A.146), ei/eefach!, eifrich!, feige,
+sli	Fleesch, gleech/glei(ch), Geheemnis, heeme (giehn), reecha
+sli	(T.203o), Reefa! (H.65), Schleefe!, schweefa, Seefe!, Seeger
+sli	(A.95), Speeche!, streechan?, Streefa (S.69), Teeg! (A.155),
+sli	Vergleich?, wäich(a), Zeecha //  Hee, Stree
+sli	Beltzer Mundoart ies a Dialekt vun Aeberschläsch. Beltzer
+sli	Bierseidel - wega seiner grußa Aehnlichkeit mit alta
+sli	Schoppagläsern ei Brassels Brauereia, Kretschmereia und
+sli	Gastwirtschafta wurde ar su genannt.
+sli	Bin aus'm Newa Riesageberche,
+sli	Bischwitz ies anne Urtschoaft ei der Niederschläsing. Bischwitz
+sli	leit ei der Gemeende Jottsmühle eim Landkrees Brassel ei der
+sli	pulscha Woiwodschoaft Niederschläsing.
+sli	Blick vun Südwest uff dann Komplex eim Friehjoahr 2001
+sli	Boahnhof Kattowitz · Silesia City Center
+sli	Bojanice (ehemals Ludwigsdorf im Landkreis Schweidnitz,
+sli	Niederschlesien), eine Ortschaft in der Woiwodschaft
+sli	Niederschlesien; siehe Świdnica
+sli	Brieg ies anne Stoadt ei Pula ei Schläsing eim Landkrees Brieg
+sli	ei der Woiwodschoaft Oppeln. Se leit rund 50 kilometer
+sli	Siedestlich vo Brassel oa der Uder.
+sli	Bunzel ies anne Stoadt ei Pula ei der Woiwodschoaft
+sli	Niederschläsing. Bunzel hoatt 40.528 Einwohner.
+sli	Charakteristisch ies der subalpine Charakter des Geberges mit
+sli	eiszeitlicha Gletscherkara, Bargseen und den steila felsigen
+sli	Flanka der Barge. Nahe oam Kamm bei Spindlermiehle (
+sli	Cunewaale ies a stoatlich anerkoannter Erholungsurt on anne
+sli	Gemeende eim Landkrees Bautzen. Is leit mitta eim Lausitzer
+sli	Bargland zwischa Bautzen on Liebe.
+sli	däm Taubenschlage und där grünen Laube!
+sli	Dar Deitsche Kaiser Heinrich dar l. (um 876-956) underwarf
+sli	Biehma on de Slawa estlich dar Elbe dar Deitscha Oberhoheet.
+sli	Senn Suhn Otto l. (937-965) brach de Macht dar Stammesherzöge,
+sli	de Bischöfe - on sumit de Kerche - wurden de Heetstützen
+sli	Dar Keenig on spätere Kaiser Ferdinand l. erstrebte anna
+sli	Ausgleich mit dann Protestanta ei Deitschland. Oam Augsburger
+sli	Religionsfrieda woar ar maßgeblich beteiligt. Danach woar
+sli	westlichen Ferschten dar Glaubaswechsel gestattet.
+sli	Dar Ring hoot de Gestalt annes Rechtecks mit dan Mooßen 205 mal
+sli	175 m. De Bebauong rund um dan Ring arfulgte ei verschiedena
+sli	Stilepuchen: Dar mittlere Tääl des Ringes ies doarch dan
+sli	''Tritt'' (ein Mittelblock) besetzt, welcher oaus damm Rathaus,
+sli	damm Stoadthaus suwie zoalreecha Biergerhäusern besteht.
+sli	Dar Zülkowitze Dialekt ies a Dialekt vu Schlonsakische
+sli	Sproache, dar vu Feliks Steuer eim Buch ''Dialekt Sułkowski''
+sli	De Aaltstoadtbricke woar de erschte befestigte Neißequerung uff
+sli	'm Gerltzer Stoadtgebiet. Se verband bis 1945 ei verschiedena
+sli	Baufurma de Gerltzer Aaltstoadt mit der Ustvurstoadt.
+sli	De Ausdehnung des Baskenlandes ies politisch und
+sli	gesellschoftlich umstritta und stieht eim Spannungsfeld vun
+sli	baskschem, spanschem und franzeeschem Nationalismus.
+sli	De Brassler Aaltstoadt ies der historische Stoadtkarn vu Brassel.
+sli	De Desoxyribonukleinsäure (kurz DNS) ies a ei olla Läbewesa un
+sli	DNS-Vira vorkommendes Biomolekül un de Trägerin dar
+sli	Arbinformation. Se enthält under anderem de Gene, de fier RNS
+sli	un Proteine codieren, welche fier de biologische Entwicklung
+sli	annes Organismus un dan Stoffwechsel ei dar Zelle notwendig
+sli	De erschte Pommeranze ei Peltsch
+sli	De Glootzer Ruse (Trollius europaeus, deutsch: Trollblume)
+sli	gehört zur Familie der Hahnenfußgewächse. Andere Trivialnama
+sli	sein Goldköpfchen, Butterblume, Butterkugel (Ankenbollen),
+sli	Budabinkerl, Butterrosn, Kugelranunkel oder Natter(n)knöpfe.
+sli	De Hauptstädte der Woiwodschoaft sänn Landsbarg oa derr
+sli	Woarthe ols Sitz des voo der Zentralregierung eingesetzta
+sli	Ministerpräsidenta, der fier de Verwaltung dar zentral oaus
+sli	Warschau zugeteilta Finanza, fier is Innenressort und Polizei
+sli	zuständig ies, und Grienberg ols Sitz des
+sli	Woiwodschoaftsmarschalls, senner Regierung und des Parlaments
+sli	Deichsel ies a Durf ei Pula ei der Gemeende Steine ei der
+sli	Woiwodschoaft Niederschläsing.
+sli	De Kaiserbricke ei Brassel ies anne monumentale Hängebricke,
+sli	fiehrt ieber de breite Uder noach der Scheitniger Vurstoadt.
+sli	De Landesfoahne bestieht aus zwee hurizuntala Streefa. De Forba
+sli	der Foahne berufen siech uff doas Woappa Aeberschläsing,
+sli	wodurch siech noach dann Regeln der Heraldik de Forbe Guld des
+sli	Odlers uba befindet, de Hintergrundforbe Bloo unda.
+sli	De Looms ies a 20 km langer linker Nebenfluss dar Bober eim
+sli	De Muschelminna ies a 1887 erbauter Brunna ei der Stoadt
+sli	Görlitz. Der Name entstand oaus dem Volksmund, welcher de uff
+sli	dem Marmorsockel befindliche Bronzestatue so bezeichnete.
+sli	De oft als „Bundesländer“ bezeichneta Gliedstaata der
+sli	Bundesrepublik Deitschland waan uffizjell ols ''Länder''
+sli	De Provinz Westpommern entstand 1999 eim Zuge dar pulscha
+sli	Verwaltungsreform oaus dar Vereenigung dar Provinza Stettin un
+sli	Köslin suwie oaus Teela dar Provinza Landsbarg oa dar Warthe,
+sli	Schneidemühl un Stolp. De Hauptstoadt dar Provinz ies Stettin.
+sli	Der ahle Jäger Moritz hotte e sener Staube in obgerichten
+sli	Der Boahnhof Kattowitz ies der grießte und wichtigste Boahnhof
+sli	der oberschläs'scha Stoadt Kattowitz.
+sli	Der Eiffeltorm (franz.: ''la Tour Eiffel'') ies a Woahrzeecha
+sli	der franzeeschen Hauptstoadt Paris on stieht weltweit ols Symbol
+sli	fier ganz Frankreich. Ar wourde ei dann Joahra 1887 bis 1889
+sli	anlässlich des hundertjähriga Jubiläums der franzeescha
+sli	Der Glootzer Gebärgs-Verein e.V. (GGV) ies a eingetragener
+sli	Verein mit Sitz ei Braunschweig. Der ursprünglich 1881 ei
+sli	Glootz gegründete Verein wurde 1951 ei Braunschweig wieder
+sli	Der Landkrees Brassel ies a Landkrees südlich und östlich der
+sli	niederschläscha Hauptstoadt Brassel ei der Pullakei. Ar gehiert
+sli	der Woiwodschoaft Niederschläsing oa, Kreesstoadt ies doas
+sli	kreesfreie Brassel. Uff anner Fläche vu 1.116 km² laba rund
+sli	Der Landkrees umfasst fünf Stoadt- und Landgemeenda, deren
+sli	gleichnamige Haupturte olle das Stoadtrecht besetza:
+sli	Der Leiter woar Theofil Kupka, a ehemaliger pulscher
+sli	Nationalist. Bei dieser Organisation handelte es sich um de
+sli	eenflussreichste seiner Oart.
+sli	Der Polonia Beuthen ies a Fußbollverein oaus Beuthen O.S..
+sli	Der Regierungsbezirk Liegnz woar a Regierungsbezirk ei der
+sli	preischa Provinz Schläsing. Ar bestand vu 1813 bis 1945 und
+sli	umfasste 'n nurdwastlicha Teel Schläsings.
+sli	Der Sicherheitsdienst des Reichsführers SS (SD) woar a Teel des
+sli	nationalsozialistischa Machtapparates ei der Zeit des
+sli	Nationalsozialismus eim Deutscha Reich.
+sli	Der Torhieter ies der eenzige Spieler der jeweiliga Moanschoaft,
+sli	der den Boll mit der Hand spiela darf, oallerdings nur innerhalb
+sli	Der Wanderer im Riesengebirge - ies fier de Heemtegeschichte on
+sli	doas kulturelle Laba eim Riesageberge annes dar wichtigsta Werke.
+sli	De Schläsche Gebergsboahn ies anne Hauptboahn ei Pula. Se
+sli	verläuft vun Gerltz ieber Lauban, Herschbrig noach Walmbrig ei
+sli	De Schniekuppe ies mit 1602 m. i. NN de hichste Erhebung eim
+sli	Riesageberge on damit dar hichste Barg vo der Bihmscha Republik
+sli	on vo Schläsing. Ieber a Gipfel verleeft de Stoatgrenze zwischa
+sli	Pula on dar Bimscha Republik.
+sli	De Spezialseyta gahn enn Ieberblick ieber dann aktuella Zustand
+sli	der Wikipeedia bezüglich Inhalte, Organisation on Nutzer.
+sli	Beispiele sein a Ieberblick ieber olle Ortikel, a
+sli	Benutzerverzeechnis, anne Liste verwaister Ortikel, oaber au de
+sli	Seyte zum Huchlada vun Dateien.
+sli	De Stoadt leit siedlich vu Laubn ei der Woiwodschoft
+sli	Niederschläsing und ies Sitz der gleichnamiga Stoadt- und
+sli	De Sunne oam 7. Juni 1992. Der Sunnafleck
+sli	De Universität Brassel, ooch  Schläsche
+sli	Friedrich-Wilhelm-Universität ies anne traditionsreiche, 1702
+sli	gegründete Universität ei Brassel.
+sli	De vier Vereine SV Blitz 1897 Brassel, FC 1898 Brassel, SC
+sli	Schlesien 1901 Brassel und SC Preußen 1902 Brassel griendeta oa
+sli	diesem Taag dann Verband Brassler Bollspiel-Vereine.
+sli	De Wilmesauer ies anne ethnographische Gruppe, de in Wilmesau
+sli	wohn tun. Se sprecha Wilmesaurisch on hoan iehre Troacht on
+sli	De Woiwodschoaft Uppeln bildet 's Zentrum der deitscha
+sli	Minderheet ei der Pullakei, de seit 1998 Oateel oa der Regierung
+sli	De zweete Moannschoaft ''GKS II Kattowitz'' spielt ei der
+sli	''B-Klasse'', während de Dama-Moannschoaft ei der zweeta Liga
+sli	Dieser folgt eim westlicha Kalender immer dem ersta
+sli	Friehjoahrsvollmond und liegt somit fruehestens oam 22. Maerz,
+sli	spaetestens oam 25. April.
+sli	Doas 1922 oa Pula abgetretene Ust-Aeberschläsing bildete fortan
+sli	de Autonome Woiwodschoaft Schläsing mit der Hauptstoadt
+sli	Kattowitz. Vorher woara beede Teele Oberschläsings eim
+sli	Regierungsbezirk Oppeln zusommagefasst.
+sli	Doas Autoboahnkreuz Gleiwitz-Sossnitza leit siedlich der pulscha
+sli	Stoadt Gleiwitz ei der Woiwodschoaft Schläsing. Is verbindet de
+sli	pulscha Autoboahna A1 und A4 suwie de Nationalstrooße 44
+sli	miteinander und stallt derzeit doas grießte Autoboahnkreuz
+sli	Doas Durf leit oam nerdlicha Abhang des Eulagebärges oam
+sli	Iebergang zum Woarther Geberge uff 400—600 m ü. NN und
+sli	besitzt anne gleichnamige Passhöhe, deren Stroaße vo Glootz
+sli	Doas Familienhaus vu Ernst Willimowski ei Kattowitz.
+sli	Doas Haus Schläsing ies a Zentrum fier Kultur un Geschichte dar
+sli	noach dem Zweeta Weltkrieg oaus ihrer Heemte vertriebena
+sli	Schläsinger eim Keenigswinterer Stoadtteel Heisterbacherrott.
+sli	Doas Kulturhistorische Museum Gerltz befendet siech ei drei
+sli	denkmoalgeschitzta Gebäuda, 'm Kaisertrutz, 'm Reichnboacher
+sli	Turm, beede oam Ploatz des 17. Juni, und 'm Barockhaus
+sli	Doas niederschläsche Herzogtum Sagan, z.B. Pechern ies a kleene
+sli	Teel Schläsings eim heitiga Deitschland
+sli	Doas reiche, aufblühende Schläsing verlockte de Fiehrer dar
+sli	aufrührerischen Hussiten immer wieder zu Kriegs- on Raubzügen,
+sli	Brandschatzungen on Plünderungen. Zehn Joahre lang verheerten
+sli	de Hussiten doas Uderland.
+sli	Doas Schläsche Museum zu Gerltz wurde oam 13. Mai 2006 ei annem
+sli	architektonisch neu komponierta Komplex ereffnet, dar vier
+sli	historische Gebäude zusommafasst: dann Schienhof, doas
+sli	Mittelhaus, doas Gebäude oam Fieschmoarkt, de beide oaus damm
+sli	Joahr 1832 stoamma, suwie doas Hollenhaus oam Undermoarkt 4.
+sli	Doas Schläsing, du mei liebes Heemteland ies a Vulkslied und
+sli	gilt oals de zweeter Regionalhymne der Schläsing. Der Text
+sli	stoammt vo dem Schriftsteller Johannes Reinelt, de Melodie vo
+sli	dem Komponista Paul Mittmann.
+sli	Doas Stettiner Roathaus ies a Wahrzeicha der Stoadt Stettin.
+sli	Doas vu Kaiser Karl V. der Stoadt verliehene Wappen (verwendet
+sli	1530 bis 1938, 1945 bis 1948 und wieder seit 1990) ies a
+sli	quadrierter Schild mit Mittelschild, ei der Mitte der Kopf vu
+sli	Johannes dem Täufer ei anner silbernen Schüssel, eim erschta
+sli	Feld der böhmische Löwe, eim zweeta der schläsche Odler, eim
+sli	dritta a „W“ (doas sich uff 'n Griender der Stoadt Wratislaw
+sli	bezieht), eim vierta doas Haupt Johannes des Evangelista. De
+sli	beida Johannes sein neba der Hl. Hedwig besondere Patrone der
+sli	Do kom dar Jäger zur Theire ne. A duchte dam Junge ne Freide
+sli	Draasn oder Draasdn ies de Landeshauptstoadt des Freistoates
+sli	durch Trockna und/oder Räuchern konserviert. Bei industriell
+sli	hergestellter Wurscht werda häufig Kunstdärme, auch Gläser
+sli	und Konservendosen verwendet.
+sli	Ehemaliger Bismarcktorm uff der Huha Eule
+sli	Ei Deitschland existiert ''Initiative der Autonomie Schlesiens
+sli	e.V. (IAS)'' ei Würzburg, dar jedoch miet dem ei Pula aktiven
+sli	''RAŚ'' nee verknüpft ies.
+sli	Ei ihm laga under onderem de Städte und Industriestandorte
+sli	Kattowitz, Kenigshütte, Laurahütte, Myslowitz, Ruda,
+sli	Schwientochlowitz, Tarnowitz und Pless.
+sli	Eim Joahr 2004 wurde a Neubau ols Fußgängerbricke zwischa
+sli	Gerltz uff deitscher und Ust-Gerltz uff pulscher Seite ieber de
+sli	Lausitzer Neiße ereffnet.
+sli	Eim Zweeta Weltkrieg wurde doas Schlooß zerstört, de Ruina
+sli	1950 gesprengt. Heite sein vun dar ursprünglichen Bausubstanz
+sli	ocke noo dar ehemalige Palais Spätgen suwie Reste vun
+sli	Es gibt greeßere Sprecherzoahla in Russland, Litaua, Belarus,
+sli	der Ukraine und Tschechia und den ondera Nachfolgestaata der
+sli	Sowjetunion, ober ooch ei Kanada, Irland, Argentinia und
+sli	evangelisch. Ei Niederschläsing woar doas Verhältnis fast im
+sli	gekehrt: 68 Prozent geheerta dar evangelischa Kerche oa on
+sli	FC Preussen 05 Kattowitz (1905-1922)
+sli	findende lutherische Kerche woar schwer anzukämpfen. Oaus
+sli	Schweidnitz bekannt, dass eim Joahre 1561 dar erschte
+sli	evangelische Pastor eingeführt wurde. Bis zum Anfang des 17.
+sli	Joahrhunderts konnte siech de neue Lehre friedlich entwickeln.
+sli	Flugploatz Gerltz · Schlesien heute · Verkehrsgesellschoft
+sli	Friedrichsfelde ies anne Urtschoaft ei der Aeberschläsing.
+sli	Friedrichsfelde leit ei der Gemeende Turawa eim Landkrees Uppeln
+sli	ei der pulscha Woiwodschoaft Uppeln.
+sli	Fuugen Sie an'n Vierschloug durch de Furmel:
+sli	Gegriendet wurde der Verein 1905 noach dem Zerfall des
+sli	Sportvereins Frisch Auf Kattowitz.
+sli	Gierschdurf ies a Urt eim Siedwesta Pulas und Sitz der
+sli	gleichnamigen Landgemeende. Ar leit eim Landkrees Herschbrig der
+sli	Woiwodschoaft Niederschläsing zu Füßen des Riesageberges,
+sli	gehört der Euroregion Neiße oa und verfügt ieber zoahlreiche
+sli	Glauge oder Gloge ies anne Stoadt ei Pula, ei der Woiwodschoaft
+sli	Niederschläsing. Se leit eim westlichen Teel des Landes rund 80
+sli	km nurdwestlich der niederschläscha Hauptstoadt Brassel oa der
+sli	Uder. Glauge hoot 68.512 Eenwohner.
+sli	Glootz ies anne Stoadt ei Pula eim Siedwesta der
+sli	Wp/sli/Woiwodschoaft Niederschläsing. Glootz hoatt 28.076
+sli	Grabinschrift ei Teschener Mundoart
+sli	Groabt mich ock derhääme ei,
+sli	Gruß Pitterwitz ies a Durf eim Landkrees Rattebor der pulscha
+sli	Woiwodschoaft Schläsing. 'S zeelt rund 2.400 Eewuhner und ies
+sli	Haupturt der gleichnoamiga Landgemeende mit etwa 7.000 Eewuhnern.
+sli	Häckerle ies a traditionelles Fischgericht der deitscha Kuche
+sli	on stoammt ursprienglich oaus Schläsing.
+sli	Herbert Andert ies dar Suhn des Heemteforschers Hermann Andert
+sli	(1879-1945) un dar Bruder vo Werner Andert.
+sli	Heute befenda siech eim Roathaus doas Standesoamt, a
+sli	Repräsentationssoal und a Café eim Kallergewelbe. Der
+sli	Roathaustorm hoot anne Hiehe vu 41,5 Metern.
+sli	Hoabelschwerde, Hoabeschwerde oder Holweschwäärde ies anne
+sli	Stoadt ei der Woiwodschoaft Niederschläsing. Sie liegt eim
+sli	Glootzer Kessel, oam Fuß des Holweschwäärder Gebirges und oam
+sli	linka Ufer der Glootzer Neiße bei der Einmündung der
+sli	Weistritz. De Entfernung zu der nördlich gelegena Kreisstoadt
+sli	Huhkirch, au Huhkerch ies a Durf eim Landkrees Ust-Gerltz ei der
+sli	Woiwodschoft Niederschläsing ei Pula. Is gehiert zur Gemeende
+sli	) ies a Durf ei Pula ei der Gemeende Rudnik ei der Woiwodschoaft
+sli	Schläsing. Lubowitz hoot 365 Einwohner.
+sli	Im de Joahrhundertwende woarn Moczigemba und Wodgurka de beida
+sli	oberschläscha Witzfigurn.
+sli	Is gibt ei Pula au anne Gruppe vo Schläsingern de siech ocke
+sli	qls Schläsinger bezeichna. Dies kam besonders bei der
+sli	Volkszählung 2002 zur Geltung, ols 173.200 Bürger Schläsch
+sli	Is mir gutt on schlecht gegonga, ho'-
+sli	IV. Estliches Stoadtgebiet
+sli	Joahrhunderts pulscher Fiersta- und Bischofssitz. Danoach
+sli	gehierte der grießte Teel dar heutiga Woiwodschoaft bis 1945
+sli	Kaiserstandarte Wilhelms II.
+sli	Karl von Holtei, 1798-1880
+sli	Kenigshuld ies anne Urtschoaft ei der Aeberschläsing.
+sli	Kenigshuld leit ei der Gemeende Turawa eim Landkrees Uppeln ei
+sli	der pulscha Woiwodschoaft Uppeln.
+sli	Kleen Kottorz ies anne Urtschoaft ei der Aeberschläsing. Kleen
+sli	Kottorz leit ei der Gemeende Turawa eim Landkrees Uppeln ei der
+sli	pulscha Woiwodschoaft Uppeln.
+sli	Koarte des gleetzischa Mundoartgebietes
+sli	''Kościół św. Anny Samotrzeciej''
+sli	Krocke ies anne Stoadt ei der Pullakei und de Hauptstoadt vu der
+sli	Woiwodschoaft Kleenpullakei. Krocke hoot 756.183 Eewuhner.
+sli	Kustathoaler Mundoart ies a Dialekt vu Aeberschläsch.
+sli	Kustathoaler Mundoart reeda ei Kustathoal.
+sli	Landeshaus der Provinz Schläsing
+sli	Langa Brecke ies a Durf eim Sieden des Landkrees Glootz ei der
+sli	Woiwodschoaft Niederschläsing ei Pula. Is geheert zur Gemeende
+sli	Hoabelschwerde, vun der is dreiza Kilometer westlich entfernt
+sli	Lichteberg ies anne Urtschoaft ei der Gemeende Gruttke eim
+sli	Landkrees Brieg ei der Woiwodschoaft Uppeln.
+sli	Lithographie vo Friedrich Lieder, 1825
+sli	Łoniowa — Durf mit 951 Eewuhnern eim Landkrees Brzesko,
+sli	Woiwodschoaft Kleenpullakei.
+sli	Malino ies a Stoadtteel der kreesfreia Stoadt Uppeln ei der
+sli	Mehr oals 30 Steedte on viele Dörfer wurden vun ihnen
+sli	zerstört. Oals Ferdinand l. (1503-1564) oaus damm katholischem
+sli	Hause Habsburg eim Joahre 1526 Keenig vun Biehma on Ungarn
+sli	wurde, begann anne 200 Joahre währende Habsburger Herrschoft
+sli	ieber Schläsing; Schläsing understand dar esterreichischa
+sli	Microsoft ies a Computerferma. Arsch a'r der gruußten
+sli	Compterferma. Präsident vum Microsoft is hoot Steve Ballmer.
+sli	Mit schätzungsweise 750 Milliona verkoofta Tonträgern woar ar
+sli	anner der kommerziell erfolgreichsta Musiker ei der Geschichte
+sli	Nachdem ar 1946 au vo den Pula abgeschoba wurde, begann ar ei
+sli	annem kleena Ort bei Erfurt miet annem Neuaufbau seener
+sli	beruflichen Loofboahn. Ei der spätera DDR erhoffte ar siech de
+sli	Ruhe fier seene weitere Schaffaskroaft. Der Schein oaber trog.
+sli	Neiderländisch oder Neiderdeutsch ies a Dialekt vo Schläsch.
+sli	Neiderländisch reeda ei Neiderland ("reiber und neiber eiber de
+sli	Neu Sandez ies anne Stoadt ei der Pullakei und de Kreesstoadt vu
+sli	der Woiwodschoaft Kleenpullakei. Neu Sandez hoatt 88.000
+sli	Einwohner. Stoadt hoatt Fußbollsportverein, Sandecja Nowy
+sli	Sącz, de Moannschoaft spielt ei der Saison 2011/2012 ei der
+sli	Niederschläsing ies de Bezeichnung fier den Westteel
+sli	Schläsing, welcher heite grießtateel ei dar Woiwodschoft
+sli	Niederschläsing on dar Woiwodschoft Lebus on zu annem Teel, dar
+sli	Landkrees Görlitz, ei Deitschland liegt.
+sli	Noach der Volkszählung 1939 lebta ei Schläsing (ohne
+sli	Ostoberschläsing) etwa 4.6 Millionen Einwohner.
+sli	Noo heite dient de Aula fier Festlichkeita dar Universität un
+sli	wird  wegen  ihrer hervorragenda Akustik au fier Kunzerte
+sli	Oals Bunzler Keramik waan keramsche Erzeugnisse oaus der Stoadt
+sli	Bunzel ei Niederschläsing und ihrer Umgebung bezeechnet.
+sli	Oam 4. September 2008 waan deitschsproachiga Urtschilder ei
+sli	Anwesenheet des Woiwoda Zygmunt Łukaszczyk feierlich enthielt.
+sli	Oaus Ihna wurde später Antek und Franzek.
+sli	Oder: "Poß uff du - een Fiff und du bist umzingelt!"}}
+sli	Ols Schläsinger ooch Usinger bezeichnet ma sowohl Persona
+sli	deitscher, pulscher oder bimscher Nationalität, de oaus Region
+sli	Schläsing stamma, ols au Menscha, de siech selbst ols ethnische
+sli	On die Bächlan, klor on helle
+sli	Osseg ies anne Urtschoaft ei der Gemeende Gruttke eim Landkrees
+sli	Brieg ei der Woiwodschoaft Uppeln.
+sli	Pauerwitz ies anne Kleenstoadt in der Woiwodschoaft Uppeln ei
+sli	Puln. Se leit oa der Zinna, etwa 60 Kilometer siedlich der
+sli	Provinzhauptstoadt Uppeln und etwa 40 Kilometer nurdwastlich vu
+sli	Ostrau. Rund ocht Kilometer siedlich vu Pauerwitz verläuft de
+sli	Pflaumakucha ies a Blechkucha oaus Hefeteig oder Muerbteig, der
+sli	uff annem Backblech duenn ausgebracht und mit halbierta
+sli	Zwetschga (anner underoart der Pflauma), belegt wird.
+sli	Pitterschwale ies anne Stoadt ei der Pullakei ei der
+sli	Woiwodschoaft Niederschläsing.
+sli	Postkarte 1902, Dreikaisereck ei Myslowitz
+sli	Pulsche Schläsinger sprecha ''Ślůnski''.
+sli	Raues Endoplasmatisches Reticulum
+sli	Riebnig ies anne Urtschoaft ei der Gemeende Aalt Poppel eim
+sli	Landkrees Uppeln der Woiwodschoaft Uppeln ei Niederschläsing.
+sli	Rußbarg (deutsch ''Roßberg O.S.'', pulsch ''Rozbark'') ies a
+sli	Stoadtteel der aeberschläscha Stoadt Aeberbeuthn ei der
+sli	Pullakei. 's granzt direkt oa doas östliche Ende der Aaltstoadt
+sli	Sakre-Turawa ies anne Urtschoaft ei der Aeberschläsing.
+sli	Sakre-Turawa leit ei der Gemeende Turawa eim Landkrees Uppeln ei
+sli	der pulscha Woiwodschoaft Uppeln.
+sli	Scheitnig ies a Urtsteel vu Brassel und befendet siech eim
+sli	Schimmch ies eene sächsische Gemeende eim Landkrees Gerltz. De
+sli	eim Südusta Sachsens liegende Gemeende liegt nahe dar Grenze zu
+sli	Schläsche Graupawurscht – Krupniok
+sli	Schläsches Museum · Schläsches Thiater
+sli	Schläsch Wikipedia Administrator ies Przemub.
+sli	Schluß mit'm labrigen Lasten- und Ausgleichsgewürge,
+sli	Se entspringt ie dar Provinz Oppeln un mündet nach 180 km
+sli	langem nordwärts gehendem Lauf unweit voo Peisern ei de Warthe.
+sli	Se ies a Zentrum vu Industrie, Handel und Forschung und gehiert
+sli	zu 'n kulturella Mittelpunkta des Landes. De Universitätsstoadt
+sli	ies zudam grießter Verkehrsknotenpunkt zwischa Perlin un
+sli	Seit 1999 gibt is anne pulsche Woiwodschoft Niederschläsing, de
+sli	teelweise miet dem historischa Niederschläsing iebereinstimmt.
+sli	September 1939 oals Symbol der Ootonomieanstrengunga Schläsings
+sli	und des Pulatums vun den Deutscha dem Ardboden gleichgemacht,
+sli	wobei de heilgebliebena Exponate teilweise geroobt und zum Teel
+sli	noach Beuthen (''Bytom''), ei doas dort ansässige
+sli	Oberschläsche Museum geschoafft wurda.
+sli	Siehe ooch: deutsche Wikipedia.
+sli	Sitte, au de Sitte ies eene Gruße Kreesstoadt eim Landkrees
+sli	Gerltz. Se liegt eim äußersten Südusta dar Äberlausitz on
+sli	Sachsens eim Dreiländereck „Deitschland-Pula-Bimsche
+sli	Später woar ar als Fußbollspieler noo beim Wiener AC ei
+sli	Oesterreich, beim DSV Saaz und SK Prostejov ei der
+sli	Tschechoslowakei sowie beim Le Havre AC, beim FC Metz und bei
+sli	Stade Rennais ei Frankreichs aktiv.
+sli	Steedte on Gemeenda, de under geistlicher Herrschoft standen on
+sli	seit längerer Zeit protestantisch woara, durften nee zur
+sli	Stoadthaus on Brassler Rathaus
+sli	Stor, da a pol' Waurte sprechen kunnte. Rief dar Jäger:
+sli	Sturchbarg (deutsch Storchberg, pulsch Stożek Mały) ies a 750
+sli	Meter hoher Barg bei Langwaltersdurf (Walmbriger Barge Sud).
+sli	Tarnau ies anne Stoadt ei der Pullakei und de Kreesstoadt vu der
+sli	Woiwodschoaft Kleenpullakei. Tarnau hoatt 110.000 Einwohner.
+sli	Tief eim Toale, zwescha Barcha,
+sli	Traditionell ies de Foahne Schläsing au de Foahne
+sli	Niederschläsing, während Oberschläsing anne eigene Foahne
+sli	Tunke ies anne flüssig bis sämig gebundene, würzende Beigabe
+sli	zu verschiedena Warm- und Kaltspeisa, Salata und Desserts.
+sli	Uff dem Gipfel befinda sich eenige Aussichtspunkte, de
+sli	Teufelskanzel und eene TV – Sendestation. Dies ies ohne
+sli	Zweefel eener der scheensta Plätze eim Riesageberge.
+sli	Uff seener Homepage schreibt dar RGV: ''Noo 55 Joahre noach
+sli	seener Vertreibung oaus dem Betreuungsgebiet des Riesageberges
+sli	on seener angrenzenden Geberge hoot ar ieber 1300 begeisterte
+sli	Mitglieder, on stetig kumma neue Wanderfreunde hinzu.''
+sli	Ungetruebt woar de Freunde jedoch nae, da a Gerichtsvollzieher
+sli	mitgereist woar, der doas Preisgeld vo Bergius einbehielt. 1936
+sli	erhielt Bergius de Ehrendoktorwuerde der Harvard University.
+sli	Ust-Gerltz ies de pulsche Nupperrstoadt vo Gerltz, deren
+sli	ustvorstoadt se bis 1945 woar. Se leit oam estlichen Ufer der
+sli	Lausitzer Neiße eim pulscha Teel der Aeberlausitz und gehiert
+sli	Vereinswoappa vu Borussia Dortmund
+sli	Vinzenz Hampel woar der Komponist der Melodie des
+sli	Riesagebergsliedes. Ar wurde oam 29. Januar 1880 ei Mastig bei
+sli	Arnau gebora. Ar wählte den Beruf des Lehrers und
+sli	spezialisierte siech uff dem Gebiet der Pädagogik und der
+sli	Heilpädagogik eim Riesengebirgsvorland und in Hohenelbe.
+sli	V. Siedliches Stoadtgebiet
+sli	Vun Poelzig stoammt ooch der Generalplan des
+sli	Ausstellungsgeländes, doas ei den Scheitniger Park (heute Park
+sli	Szczytnicki) hineinkomponiert wurde.
+sli	Walmbriger Barge bildet zusomma miet dam Eulengebirge und dam
+sli	Falkengebirge den westlicha Teil der Mittelsudeta. Doas Gebirge
+sli	erstreckt sich westlich und südwestlich der niederschläscha
+sli	Weeßrussland (weeßrussisch: ''Беларусь'',
+sli	''Рэспубліка Беларусь''; russisch:
+sli	''Белоруссия'', ''Республика
+sli	Беларусь'') ies a ei Mitteleuropa gelegener Stoat.
+sli	Wenn ma von heim dotthie de neue Schossee arindar gieht, da
+sli	kimmt ma bis zur dumfa? Hitte, an wenn ma wetter nuff gieht
+sli	kimmt ma zuntn Hause, doas ies Hulzblockbau mit Schindeln
+sli	gedackt, de Haustiere die is gaus? anders... altertiemlich un
+sli	das Haus is noch gebaut wie Schlesien noch zu Eesterreich
+sli	wiedo hem ei's Elternhaus,
+sli	Wilhelmstrooße / Siegesstrooße
+sli	Wita Stwosza), außerdem dar eim 14. oder 15 Jh.
+sli	doarchgebrochene Hintermarkt (Kurzy Targ) oa der Ostseete suwie
+sli	zwee schmoale Hintergassa: Stockgasse (ul. Więzienna) und
+sli	Dorotheagasse (przejście św. Doroty).
+sli	Wo man su redet, doas ies de Gegend im Grienberg, Glauge,
+sli	Steene, Wauhle, Trepnitz, Trachabarg, Militsch. Durt wohnta de
+sli	Neiderländer. Ei ihrer Heemtesproache wird doas huchdeitsche
+sli	"I" und "E" meist zu "ei", doas "O" und "U" zu "au'.
+sli	Wurscht ies anne Zubereitung oaus zerkleinertem Fleesch, Speck,
+sli	Salz und Gewürza, bei bestimmta Sorta au under Verwendung vo
+sli	Zilz ies anne Landstoadt ei Puln mit 2,653 Eewuhnern (2006). Se
+sli	leit ocht Kilometer nurdestlich vu Neustoadt (Aeberschläsing)
+sli	oam Zilzer Woasser und gehiert 'm Landkrees Neustoadt
+sli	(Aeberschläsing), Woiwodschoaft Uppeln oa.
+sli	Zur Ausbreitung des Christentums eim Usta wurden vun Heinrich on
+sli	Otto, Bistümer eingerichtet, su eim Joahre 968 doas Erzbistum
+sli	Magdeburg oals Missionszentrum. Otto l. understellte ihm 5

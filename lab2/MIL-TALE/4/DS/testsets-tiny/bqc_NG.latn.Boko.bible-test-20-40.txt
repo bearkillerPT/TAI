@@ -1,0 +1,3094 @@
+bqc	Asĩnizĩ Lua musu ń zĩ́lɛo
+bqc	Lua pↄ́ pↄ́ á kɛ̀ↄ è
+bqc	píi, à kɛ̀ maa wásawasa. Gu
+bqc	sì, gu dↄ̀, a gↄↄ sooloden we.
+bqc	Gↄ̃ɛ ń a nao ku puizi an pla
+bqc	ḿpii, kási wí lí ń kũo.
+bqc	n lí pↄ́ ma ginɛ ǹ a bɛ ble
+bqc	Ɔ̃ Kainu dàzɛu à kɛ̃̀ Diiwa.
+bqc	À gɛ̀ zↄ̃̀lɛ Nↄdi bùsuu
+bqc	Kɛ́ à kà wɛ̃̀ ↄ̀aa
+bqc	síiↄ̃ ń basↄokwio (910), ↄ̃
+bqc	Kɛ́ Lua dṹnia gwà, a è a
+bqc	ↄ̃̀ↄkpà, asa gbɛ̃́pii zɛ́
+bqc	Í fɛ̀lɛ kù gbɛ̀sĩsĩpiↄla
+bqc	Ãma ásuli nↄ̀ↄ pↄ́ wi a
+bqc	kòlokpao soo, asa a au mɛ́ a
+bqc	Í daa dṹniaa gbɛa Nↄee kɛ̀
+bqc	wɛ̃̀ ↄ̀aa do ń basoplakwio
+bqc	Ofii, Avila, Yobaba. Yotã
+bqc	Tela buiↄ yã́n kɛ: Tela Ablaũ
+bqc	ń Nakↄↄo ń Halanao ì, ↄ̃
+bqc	Falaↄ̃ↄ yã'ò a gbɛ̃́ↄnɛ
+bqc	Ablaũ yã́ musu, ↄ̃ aa gɛ̀
+bqc	zɛ̀ɛ̀ ń a nao ń a àizɛɛↄ
+bqc	À mↄ lè Ablaũ vĩ̀i nɛ́
+bqc	Lↄtu ku Sↄdↄũ, ↄ̃ aa aà
+bqc	kũ̀ wà tàò ń aà
+bqc	Kɛ́ ĩatɛ̃ lɛ́ gɛ̃ kpɛ́u,
+bqc	izↄ̃ↄ dà Ablaũla, ↄ̃ gusia
+bqc	zↄ̃ↄ pↄ́ tò vĩa aà kũ̀
+bqc	Hagaa nɛgↄ̃ɛ ì ń Ablaũo,
+bqc	ↄ̃ Ablaũ tↄkpàɛ̀ Isimaɛla.
+bqc	Kɛ́ à wɛzù, à gbɛ̃ↄn
+bqc	àaↄ̃ↄ è zɛa.  Kɛ́ à ń
+bqc	é màa, ↄ̃ à fɛ̀lɛ a
+bqc	kpɛɛlɛ ń bao, à gɛ̀ dàńlɛ
+bqc	Ɔ̃ à mɛ̀: Dii, ńsu to n pↄ
+bqc	pao, yã́ɛ bee bàasio má yã'o
+bqc	lↄo. Tó gbɛ̃maaↄ kà kwi
+bqc	sↄ̃ bɛ? A wèwà à mɛ̀: Má
+bqc	wɛ̃́lɛpi kaalɛo gbɛ̃ↄn
+bqc	Beewa kɛ́ Lua guzulɛ pↄ́ Lↄtu
+bqc	kuu wɛ̃́lɛↄ kàalɛ, Ablahaũ
+bqc	yã́ dↄ̀aàgu, ↄ̃ à Lↄtu
+bqc	Ablahaũ tↄkpà nɛ́piɛ Izaaki.
+bqc	Ablahaũ baali bà Bɛɛsɛba, ↄ̃
+bqc	à Dii Lua Gↄↄpiide sìsi we.
+bqc	I yã́pi o a làao, ↄ̃ Bɛtuɛ
+bqc	nɛ́ Lɛbɛka bↄ̀ ń loo dia a
+bqc	gã̀u. Bɛtuɛá Ablahaũ vĩ̀i
+bqc	Nakↄↄ nɛ́ pↄ́ a ì ń a na
+bqc	E màↄ yã́pi o ma nↄ̀sɛ guu
+bqc	màↄ láa, ↄ̃ Lɛbɛka bↄ̀
+bqc	ń loo dia a gã̀u, à mↄ̀
+bqc	lↄ̀ↄ'ɛa à itↄ̀. Ɔ̃ má
+bqc	òɛ̀ aà ma gba í mà mi.
+bqc	Ablahaũ a àizɛɛ kpà Izaakiwa
+bqc	Yakↄbu mɛ̀: Ǹ n yoakɛzɛ  kpaa
+bqc	Ɔ̃ Abimɛlɛki ò Izaakiɛ:
+bqc	Gowála, asa n gbãa dɛwála
+bqc	aà gɛ nↄ̀ↄ dɛɛ, i a pↄeã
+bqc	do kuuoɛ à ble, í sa'olɛkɛɛ̀
+bqc	ń Dii tↄ́o e àↄ gɛ́ gai.
+bqc	aà báaada gbɛ̃́ pↄ́
+bqc	bùsu pↄ́ a kpà Ablahaũwaɛ bee.
+bqc	Gbɛ pↄ́ má pɛ̀lɛ dↄngubↄ
+bqc	ũpi a gↄ̃ n gbagbakĩi ũɛ,
+bqc	mɛ́ pↄ́ pↄ́ n ma gba píi,
+bqc	Labã a zↄnↄɛ Bila kpà
+bqc	Lasɛliwa aàↄ zĩkɛɛ̀.
+bqc	Ɔ̃ à tↄkpàɛ̀ Yosɛfu  à
+bqc	mɛ̀: Dii ɛa nɛgↄ̃ɛ pãle
+bqc	Ɔ̃ Lua Malaika òmɛɛ nanapi guu:
+bqc	Yakↄbu! Ɔ̃ ma mɛ̀: Má kɛ́!
+bqc	Màa ma kɛ n bɛ e wɛ̃̀ bao.
+bqc	Wɛ̃̀ gɛ̃o mɛ̀ndosai ma
+bqc	zĩkɛ̀nɛ n nɛnↄɛ gbɛ̃ↄn
+bqc	plaↄ yã́i. Ma wɛ̃̀ soolo kɛ̀
+bqc	n kpàsa yã́ musu. N ma asea
+bqc	À ń ná a zĩkɛnaↄnɛ ń
+bqc	ↄzĩ bui ń buio, ↄ̃ a ònɛ́:
+bqc	Àↄ bɛ ma aɛ, í gupua da á
+bqc	zãnguo gã ń gão.
+bqc	Dↄaamɛɛ Baa, mapi n zↄ̀blena,
+bqc	míↄ tɛ pↄ́ↄ kpɛ ń nɛ́ↄ
+bqc	busɛbusɛ e mà mↄ n le Sei.
+bqc	Wɛ̃́lɛpideↄ Amↄↄ ń a nɛ́
+bqc	Sikɛũo yãmà, ↄ̃ gↄ̃ɛↄ
+bqc	Yakↄbu nɛgↄ̃ɛↄ kuɛplaɛ.
+bqc	Sobala nɛgↄ̃ɛↄ tↄ́n kɛ:
+bqc	Alavã, Manaata, Ebali, Sefo, Onaũ.
+bqc	À nanapi sɛ̀lɛ sìu a maeɛ lↄ,
+bqc	ↄ̃ aà mae pàlawà à mɛ̀:
+bqc	Bↄtaa nana ń ò màai? Mapi ń n
+bqc	dao ń n vĩ̀iↄ, ńlɛ e wá
+bqc	ↄ̃ à aà wɛgwà, à aà
+bqc	dìlɛ a bɛ ziia ũ, à pↄ́
+bqc	pↄ́ a vĩ píi nàɛ̀ a ↄzĩ.
+bqc	Vɛ̃ɛlipi gↄ̃n àaↄ̃ɛ. À
+bqc	labↄ̀ à vukɛ̀, à nɛ'ì à
+bqc	Ɔ̃ Falaↄ̃ↄ òɛ̀: Ma nana guu
+bqc	má è má zɛa Niililɛ.
+bqc	Kãa gbãa ku e wɛ̃̀ sopla,
+bqc	í ɛa mↄmɛɛ ń á dãunapio,
+bqc	mí dↄ̃ kɛ́ á yã́á
+bqc	sĩanaɛ, mɛ́ wa á dɛdɛ lↄo.
+bqc	À gɛ́ ń ↄ̃ao lɛɛ pla, í
+bqc	ↄ̃a pↄ́ wa dàɛ́ á sakiliↄ
+bqc	guu sↄaanɛ́. Tó wà zã̀wàn
+bqc	Ɔ̃a pↄ́ wá è yãa wá
+bqc	sakiliↄ guu, wi ɛa suonɛ bↄa za
+bqc	Kanaao lé? Wá fↄ̃ ã́nusu ge
+bqc	vua sɛ kpã́i n dii bɛa?
+bqc	Ɔ̃ Yosɛfu ònɛ́: À sↄ̃mazi.
+bqc	Kɛ́ aa sↄ̃̀aàzi, ↄ̃ à
+bqc	mɛ̀: Mámɛ má á dãuna Yosɛfu
+bqc	pↄ́ á yìa, wà sùaànↄ
+bqc	Aa ń pↄtuoↄ ń àizɛɛ pↄ́
+bqc	aa è Kanaa bùsuuↄ sɛ̀lɛ
+bqc	Yosɛfu gɛ̀ yã'ò Falaↄ̃ↄɛ
+bqc	à mɛ̀: Ma vĩ̀iↄ bↄ̀ Kanaa
+bqc	bùsuu ń ń sãↄ ń ń bleↄ
+bqc	ń ń zuↄ ń pↄ́ pↄ́ aa
+bqc	vĩↄ píi, aa mↄ̀ Gosɛ̃
+bqc	Ɔ̃ Yakↄbu mɛ̀: Lɛgbɛ̃mɛɛ.
+bqc	Kɛ́ à lɛgbɛ̃̀ɛ̀, ↄ̃
+bqc	Yakↄbupi kùlɛ Luaɛ a lii mizĩ.
+bqc	Ɔ̃ Isaili ò Yosɛfuɛ: Ma ka gaa,
+bqc	ãma Lua aↄ kúánↄ, i ɛa
+bqc	táánↄ á deziↄ bùsuu.
+bqc	aà buiↄ mɛ́ aaↄ lípana kũa
+bqc	Yosɛfu buiↄ dɛ lán lí nɛ'ina
+bqc	pↄ́ kú nibↄna saɛwa,
+bqc	e gↄↄ bla, kɛ́ asu yaikɛo
+bqc	yã́i, asa màa Egipiↄ ì kɛ,
+bqc	ↄ̃ aa aà gɛ'ĩanabↄ̀ gↄↄ
+bqc	Isailiↄ nɛ'ì aa kↄ̃̀ aa
+bqc	kã̀fĩ aa dasikũ̀ maamaa, aa
+bqc	Kɛ́ Falaↄ̃ↄ yã́pi mà,
+bqc	àlɛ wɛɛlɛ Mↄizi dɛ, ↄ̃ à
+bqc	bàalɛ̀ɛ̀ à tà Madiã
+bqc	bùsuu,  à zↄ̃̀lɛ lↄ̀ↄ
+bqc	Má ↄtↄ̃ Egipiↄwa, mí
+bqc	dabudabuↄ kɛ mà kpaońzi, i gbasa
+bqc	Mↄizi yã́ pↄ́ Dii a zĩ oi
+bqc	dàu a sìu Aalonaɛ ń seela pↄ́
+bqc	Ma bàa kúńnↄ ma mɛ̀ má
+bqc	Kanaa bùsu pↄ́ aa ku a guu
+bqc	kási Falaↄ̃ↄ a á yãmao. Má
+bqc	yã́kpalɛkɛńnↄ, mí bↄ ń
+bqc	ma zĩgↄ̃ ma gbɛ̃́ Isailiↄ.
+bqc	Ɔ̃ Mↄizi ò Falaↄ̃ↄɛ:
+bqc	Gↄↄ dilɛmɛɛ mà awakpanɛ Diiɛ
+bqc	ń n ìwaↄ ń n gbɛ̃́ↄ, kɛ́
+bqc	aà blↄↄↄ kɛ̃ma ń n uaↄ,
+bqc	Falaↄ̃ↄ yã́ pↄ́ kɛ̀pi
+bqc	gbɛ̀a a mà Isailiↄ pↄ́ↄ kee
+bqc	i gao, kási aà swã́ gì
+bqc	gbãaɛ, i gbɛ̃́piↄ gbaɛo.
+bqc	kɛ ǹ e ǹ o n nɛ́ↄnɛ ń n
+bqc	tↄũnaↄ lá ma Egipiↄ wɛtã̀
+bqc	ń dabudabu pↄ́ má kɛ̀ ń
+bqc	guuo, í dↄ̃ kɛ́ mámɛmaa Dii.
+bqc	Má tó Egipiↄ Isailiↄ wɛgwa.
+bqc	Mↄizi sↄ̃ a bɛɛɛ vĩ Egipi
+bqc	Tó Dii lɛ́ pã bùsua àlɛ
+bqc	Egipiↄ dɛdɛ, mɛ́ à au è
+bqc	kpɛɛlɛ gĩↄwa, a gɛ̃aɛ. A to
+bqc	gbɛ̃dɛdɛna gɛ̃ázi à á
+bqc	Isaili nɛgↄ̃ɛ sɛ̃́iaↄ ń
+bqc	pↄtuo nɛsana sɛ̃́iaↄ kpaa, asa
+bqc	Kɛ́ Falaↄ̃ↄ kãikũ̀,
+bqc	Isailiↄ wɛzù, ↄ̃ aa Egipiↄ
+bqc	è tɛ́ ń kpɛ. Vĩa ń kṹ
+bqc	maamaa, ↄ̃ aa wiilɛ̀ Diiwa.
+bqc	Kanaa bùsudeↄ kúsu a kwɛ ḿpii.
+bqc	Ma Isailiↄ zↄakaa mà. Onɛ́
+bqc	oosia aa nↄ̀ↄ só, zia kↄↄ aa
+bqc	blɛble aa kã́, aai dↄ̃ kɛ́
+bqc	mámɛmaa Dii ń Lua.
+bqc	Máↄ zɛa n aɛ Olebu gbɛwa we.
+bqc	Gbɛpi lɛ́, í i bↄ, aai mi. Ɔ̃
+bqc	Mↄizĩkɛ̀ màa Isaili
+bqc	níↄ ikoyã pↄ́ Lua dìlɛↄ
+bqc	danɛ́, níↄ zɛ́ pↄ́ dɛ aa
+bqc	sɛ ↄlↄnɛ́ ń yã́ pↄ́ aali
+bqc	Mↄizi ò Diiɛ: Aa dɛdɛo, asa n
+bqc	wá gbá laai n mɛ̀ wà kↄↄ da
+bqc	gbɛpi pↄlɛu, i gↄ̃ n pↄ́
+bqc	Tó à mↄ̀ adoɛ, a bↄ adoɛ.
+bqc	Tó a nↄ vĩɛ, aà bↄ ń a
+bqc	Tó gbɛ̃́ pↄ́ wɛ̃̀ a
+bqc	lↄ̀ↄlɛ, ge tó à lↄ̀ↄ
+bqc	yↄ̃̀, i pↄ́ taɛo, ↄ̃ zu ge
+bqc	zàa'ĩna zù a guu,
+bqc	Tó n n gbɛ̃́dee zwãa
+bqc	tↄ̀ↄmasì, kpawà e ĩatɛ̃
+bqc	À zↄble Dii á Luaɛ, i
+bqc	báaadaɛ́ á blɛu ń á imiao, i
+bqc	Pↄ́ pↄ́ ńyↄ̃ símá gba
+bqc	ũↄn kɛ: Vua, ã́nusu,
+bqc	A gↄ̃napi iↄ vúↄ vĩ mɛ̀n
+bqc	àaↄ̃'aaↄ̃ zoolozoolonnↄ lán
+bqc	kã́navuwa ń a bɛↄ. Màa dau
+bqc	gↄ̃na mɛ̀n soolopiↄ aaↄ dɛ
+bqc	Lí pɛ̀pɛɛ kɛ màa lↄ mɛ̀n
+bqc	pla zwã̀akpɛ bɛ'aɛ oipi golaↄ
+bqc	Kaapi lɛ́ zwãa iↄ gã̀sĩsuu
+bqc	bao ń a lipɛlɛo mɛ̀n síiↄ̃
+bqc	ń a zɛbↄo mɛ̀n síiↄ̃. A
+bqc	zwãapi iↄ dɛ pↄ́lɛ pↄ́ wa
+bqc	gↄ̃inakɛ̀wà ń babuunao ń
+bqc	bà gàaluladeo ń wↄ̃ↄtɛ̃nao
+bqc	ní balɛɛnapiↄ lɛ doↄ dↄdↄ
+bqc	Zupi au sí, ní máma ma
+bqc	gbagbakĩi kↄ́baↄwa ń n
+bqc	ↄtonao, ní au pↄ́ gↄ̃̀
+bqc	ɛ́lɛ ma gbagbakĩipi gbázĩ.
+bqc	Á buiↄ líↄ sa pↄ́ wì a
+bqc	pↄ́ kátɛu à tɛ́kũpi oa
+bqc	kpaaũkpɛ kpɛɛlɛ gↄↄpii.
+bqc	Wekĩi máli kpaaũuánↄ, míli
+bqc	Nísipi máma kpaaũkpɛwa ń
+bqc	Kɛ́ Dii yã'ò Mↄiziɛ Sinai gbɛ
+bqc	musu a làa, ↄ̃ à ikoyã kɛ̃̀
+bqc	gbɛ̀ pɛ̀pɛɛↄwa mɛ̀n pla ń
+bqc	azĩa ↄtonao, a kpàwà.
+bqc	gbɛ̃́ↄnɛ: A duun zↄ̃ↄ kɛ̀,
+bqc	ń beeo má ɛa mà dɛdɛ gbɛwa
+bqc	mà gɛ́ Dii kĩ́i lↄ, wìliↄ
+bqc	dↄ̃o tó má e awakpaɛ́ á
+bqc	Ǹyↄ̃ ku sↄu guu kↄↄkↄↄ.
+bqc	Dɛdɛ Sinai gbɛwa, ní zɛ ma aɛ a
+bqc	Bee gbɛa Isailiↄ sↄ̃̀aàzi
+bqc	ḿpii, ↄ̃ à yã́ pↄ́ Dii
+bqc	dìlɛɛ Sinai gbɛ musu ònɛ́
+bqc	Gbɛ̃zↄ̃ↄↄ mↄ̀ ń òsoↄ
+bqc	ń gbɛ̀ bɛɛɛdeↄ, kɛ́ wà
+bqc	zĩkɛò sa'o'ula ń aà
+bqc	Aa lipɛpɛɛpiↄ swã́ bↄ̀bↄ
+bqc	aa kpàaĩ mɛ̀n plapla. Màa aa
+bqc	zwã̀akpɛ lípiↄ kɛ̀ píi.
+bqc	Aa zãpiↄ pɛ̀pɛ lipɛpɛɛpi
+bqc	zĩ́lɛ táabũnupi sɛ́liↄ
+bqc	Zwã̀a gã̀sĩsuu gɛ̃o ku kaa
+bqc	lɛ́ ↄzɛɛi lↄ ń a lipɛlɛↄ
+bqc	mɛ̀n àaↄ̃ ń a zɛbↄↄ
+bqc	Gbɛpiↄ kuɛplaɛ Isaili buiↄ
+bqc	tↄ́ lɛ́u. Wà tↄ́piↄ kɛ̃̀
+bqc	gbɛpiↄwa dodo, lá wì
+bqc	wɛ̃̀sãkɛ̃ pɛ̃nawawa.
+bqc	Dii yã'ò Mↄiziɛ à mɛ̀:
+bqc	Mↄizi ń Aalonao ń aà nɛ́ↄ
+bqc	ń ↄↄ ń ń gbáↄ pìpiò.
+bqc	Àli ɛ́'ɛ, í nísikawà
+bqc	Tó sa'onkia pↄ́ wa dìlɛ mɛ́
+bqc	kɛ̀, à gbɛ̃́pii dàyãu.
+bqc	Aàli mↄ́ Diiɛ ń gáae
+bqc	sãasaio duuna pↄ́ á kɛ̀pi
+bqc	i ↄna a miwa, i a kòlokpa
+bqc	awakpabↄ ũ sa pↄ́ wì a pↄ́
+bqc	kátɛu à tɛ́kũ okĩi.
+bqc	aà yã́ɛ bee dilɛ Aalonaɛ ń a
+bqc	nɛ́ↄ. Sa pↄ́ wì a pↄ́
+bqc	kátɛu à tɛ́kũ yãdilɛaↄn
+bqc	kɛ: Sa pↄ́ wà a pↄ́ kàtɛu
+bqc	à tɛkũ̀ lí gↄ̃ sa'okĩi
+bqc	kĩnau gwã́ e gu gɛ dↄò, a
+bqc	tɛ́ su àↄ gaa vĩo.
+bqc	Pↄ́wɛn gba pↄ́ wà kàa
+bqc	kɛ̀ò ge wà blɛkɛ̀ò oou ge
+bqc	mↄ̀pɛpɛɛwa líↄ dɛ sa'ona
+bqc	Dii ò Mↄiziɛ à mɛ̀:
+bqc	Ɔ̃ Mↄizi ò Aalonaɛ ń a
+bqc	nɛ́ↄ: À nↄ̀ↄɛ bee fùukɛ
+bqc	kpaaũkpɛ kpɛɛlɛ, í só we ń
+bqc	á daazĩu kàa gba pↄ́ kú
+bqc	gbí guuↄ, lá Dii dìlɛwa à
+bqc	Aalona nɛ́ↄ Nadabu ń Abiuo ń
+bqc	tɛ́sibↄↄ sɛ̀, aa tɛkàu aa
+bqc	tulaletikàa, ↄ̃ aa mↄ̀ Dii aɛ
+bqc	À nↄ̀ↄpiↄ tɛ̃́, ásuli
+bqc	sóo, ásu ↄkã a gɛwa seo.
+bqc	Tó pↄ́wɛna pↄ́ wa kà
+bqc	ílɛɛ sↄ̃, aↄ gbãlɛaɛ́ɛ.
+bqc	aàli wɛ́tɛi. Tó gyãpi lì ade
+bqc	mɛa píiɛ, aàli ade dilɛ
+bqc	gbãlɛsai. Lá aà mɛ dàkↄ̃i
+bqc	píi, a gbãsĩ vĩo.
+bqc	sa'ona lí wɛ́tɛi. Tó bↄpi kaa
+bqc	dɛ púuu lán gyã pↄ́ ì
+bqc	Sa'ona lí tàae fĩabobↄpi au
+bqc	sɛ́ à máma gbɛ̃́ pↄ́ àlɛ
+bqc	gbãbↄɛ̀ ↄplaa swã́lɛbawa
+bqc	ń aà ↄplaa ↄnɛmio ń aà
+bqc	sa'ona lí ɛa gɛ̃ wɛ́tɛi. Tó
+bqc	fupi kã̀fĩ kpɛ́piuɛ, fù
+bqc	pãsĩɛ, kpɛ́pi gbãlɛ̀n we.
+bqc	Pↄkasa ge báa pↄ́ ípi
+bqc	kàwà, aàli pí, kási pↄ́pi
+bqc	Aàli bↄ gɛ́ zupi au dã, i mↄ
+bqc	fã duunkɛ̃makĩi aɛwa ń
+bqc	ↄnɛzↄblenao, i fã́fã
+bqc	duunkɛ̃makĩipi aɛ gɛ̃n sopla.
+bqc	mɛ́ i mↄò kpaaũkpɛ kpɛɛlɛ
+bqc	sa'oioao, wali ade bↄ a gbɛ̃́ↄ
+bqc	Ńsu ku nↄ̀ↄwa ǹ gbãlɛòo.
+bqc	Nↄɛ su azĩa kpa nↄ̀ↄwa à
+bqc	kpáwa'owao. Yã́ fuangbaaɛ.
+bqc	Tó a gɛ̃ á bùsuu, mɛ́ a li
+bqc	bɛdee bà, àli a bɛ dilɛ tɛ̃
+bqc	ũ gĩa. Lípi bɛ líↄ dɛɛ́
+bqc	tɛ̃ ũ e wɛ̃̀ àaↄ̃, ásuli
+bqc	Tó nↄɛ tò pↄtuo kpáwa'òwa,
+bqc	wàli ń dɛdɛ, kɛ́ aa ńzĩa
+bqc	ge gbɛ̃́ pↄ́ a gbá ge a ↄ
+bqc	mɛ́ ásuli pↄtuo bee taa sí bui
+bqc	zĩ̀loe kĩ́i à sa'oò mapi á
+bqc	Luawa blɛ ũo. A sãa vĩɛ, a
+bqc	Tó álɛ pↄkɛkɛ á bùsuu,
+bqc	ásuli kɛkɛ e á bú lɛ́wao,
+bqc	mɛ́ ásuli a kↄ̃nwɛo. Àli tó
+bqc	taasideↄnɛ ń bↄ̀mↄↄ.
+bqc	Mámɛmaa Dii á Lua.
+bqc	kã́mabogↄↄo píi waliↄ
+bqc	Isailiↄ pↄ́ ũ ma bàakuańnↄ
+bqc	Àli wɛ̃ pↄ́ gↄ̃̀ sɛa za
+bqc	gↄ̃a wɛ̃́ɛↄ ũ wɛ̃wa da
+bqc	wɛ̃naoa guu, í lú. Búde sↄ̃
+bqc	ìli wɛ̃ pↄ́ gↄ̃̀ wà
+bqc	pↄkɛkɛ da wɛ̃naoa guu, i gbasa
+bqc	Áli fↄ̃ nibↄ pↄ́ kú á
+bqc	guuↄ lu lↄ ń nɛ́ pↄ́ aa i
+bqc	á bùsuuↄ, aai gↄ̃ á
+bqc	Á á gbãa kↄ́lɛ pãɛ, asa
+bqc	tↄↄlɛ a blɛkɛɛ́o, mɛ́
+bqc	Yã́ pↄ́ Dii dà Mↄiziɛ Sinai
+bqc	gbɛ musu a dìlɛ Isailiↄnɛn we.
+bqc	34-35 Yosɛfu nɛ́ Manase buiↄ guu
+bqc	gbɛ̃ↄn ↄ̀aasↄsↄo lɛɛ
+bqc	baakwi ń plao ń ↄ̀aa dooɛ
+bqc	ↄ̀aasↄsↄo lɛɛ blasↄo ń
+bqc	ↄ̀aa àaↄ̃ ń blakwioɛ
+bqc	Dii yã'ò Mↄiziɛ à mɛ̀:
+bqc	Bee gbɛa ní Levii buiↄ dilɛ ma
+bqc	pↄ́ ũ Isaili nɛgↄ̃ɛ
+bqc	sɛ̃́iaↄ gbɛu ḿpii, ní Levii
+bqc	buiↄ pↄtuoↄ dilɛ ma pↄ́ ũ
+bqc	Isailiↄ pↄtuo nɛsana sɛ̃́iaↄ
+bqc	gbɛu píi. Mámɛmaa Dii.
+bqc	Dii yã'ò Mↄiziɛ à mɛ̀:
+bqc	O Isailiↄnɛ aa kusudeↄ ń
+bqc	kɛ̃nudeↄ ya bòou ń gbɛ̃́
+bqc	pↄ́ kã̀ gɛwa aa gbãlɛ̀ↄ.
+bqc	Dii yã'ò Mↄiziɛ à mɛ̀:
+bqc	Dii yã'ò Mↄiziɛ à mɛ̀:
+bqc	Wà daupi pì ń vua pↄ́ wa
+bqc	gbɛ̃̀gbɛ̃ maannↄ za a zĩ́lɛ
+bqc	e à gɛ̀ pɛ̀ò a vúↄwaɛ.
+bqc	Wà daupi pì lá Dii a taa
+bqc	Mↄizi wèmá à mɛ̀: À zɛ e
+bqc	mà ma lá Dii a o á yã́ musu.
+bqc	Zuaa nɛ́ Nɛtanɛli mɛ́ Isakaa
+bqc	Tiasa wá lɛ́ gà, asa wili pↄe
+bqc	eo, sema mana bàasio.
+bqc	Miliaũ ń Aalonao Mↄizi tàae è
+bqc	Etiopi nↄ pↄ́ a sɛ̀ yã́ musu,
+bqc	asa à Etiopi nↄ sɛ̀ɛ.
+bqc	Nɛfatali buiↄ guu Vofesi nɛ́ Nabi,
+bqc	Dii ò Mↄiziɛ à mɛ̀:
+bqc	Gbɛ̃́piↄ aaↄ sakamagu gↄↄpii
+bqc	yã̀? Baa ń dabudabu dasi pↄ́
+bqc	má kɛ̀ ń guuↄ, aaↄ ku ma
+bqc	náaikɛsai gↄↄpii yã̀?
+bqc	Mↄizi mɛ̀: Bↄ́yãi álɛ pã
+bqc	Dii yã́ai? Bee a kɛo.
+bqc	Má sùuukɛ ń á Isailiↄ píi
+bqc	ń bↄ̀mↄ pↄ́ kúánↄↄ,
+bqc	asa zãayãwapiá ápii yã́ɛ.
+bqc	Ɔ̃ Mↄizi pↄ fɛ̃̀ maamaa, a ò
+bqc	Diiɛ: Ńsu ǹ ń gba sio. Baa
+bqc	zàa'ĩna mi símáo, mi
+bqc	yãvãikɛ an gbɛ̃eɛo.
+bqc	À kɛ̃ gbɛ̃́piↄwa mà ń
+bqc	kaalɛ gↄ̃̀ↄ. Ɔ̃ Mↄizi ń
+bqc	Aalonao wùlɛ ń gbɛɛu.
+bqc	Nísi maa píi ń vɛ̃ɛ maa píio
+bqc	ń pↄ́wɛna káau pↄ́ aaì
+bqc	kpaao, máli n gbaɛ.
+bqc	Gbɛ̃́ pↄ́ túfupi sɛ̀lɛ aà
+bqc	a pↄkasaↄ pí. Kási aↄ
+bqc	gbãlɛaɛ e oosi. Yã́pi i gↄ̃
+bqc	ikoyã ũ Isailiↄnɛ ń bↄ̀mↄ
+bqc	pↄ́ kú ń guuↄ píi.
+bqc	Ɔ̃ Ɛdↄũↄ ònɛ́: Á e
+bqc	bↄlɛ ń wá bùsuoo. Tó a gi,
+bqc	wá bↄ daálɛ ń fɛ̃ndaoɛ.
+bqc	Lↄ̀ↄ, ibↄ, wí lɛsi n yã́
+bqc	Ɔ̃ aa Ogu dɛ̀ ń aà nɛ́ↄ ń
+bqc	aà gbɛ̃́ↄ píi, baa gbɛ̃́
+bqc	mɛ̀ndo i bↄo, ↄ̃ aa aà
+bqc	Ɔ̃ zàa'ĩnapi òɛ̀: N
+bqc	zàa'ĩna pↄ́ niↄ dikpɛ
+bqc	gↄↄpii e gbãn ma ũo lò? Má
+bqc	kɛ̀nɛ màa yãae? À mɛ̀: Aawo.
+bqc	wa fↄ̃ Isailiↄ nao wà ń lɛ́
+bqc	ì azĩa sɛ lán gbɛaanawa.
+bqc	aaì ń wáↄ wíwi, aaì ń
+bqc	Gagyãpi gbɛa Dii yã'ò Mↄiziɛ
+bqc	ń sa'onkia Aalona nɛ́ Ɛleazaao à
+bqc	Galada buiↄn kɛ: Yɛzɛɛ buiↄ ń
+bqc	Amlaũ na tↄ́n Yokɛbɛdɛ, Levii
+bqc	buiɛ. Egipi wà aà ìu.
+bqc	Yokɛbɛdɛ mɛ́ Aalona ń Mↄizio
+bqc	ì ń Amlaũo. An dãen Miliaũ
+bqc	Dii ò Mↄiziɛ à mɛ̀:
+bqc	Àliↄ sapiↄ o lá gu lɛ́ dↄ
+bqc	sa pↄ́ wì a pↄ́ kátɛu à
+bqc	tɛ́kũ oa ń a pↄ́wɛntio
+bqc	bàasi, íli o ń pↄtuo
+bqc	sãasaiↄ ń vɛ̃ɛ pↄ́ wì
+bqc	tó aà mae yã́pi mà, mɛ́ i
+bqc	yãe oɛ̀o, lɛ́ pↄ́ a kɛ̀ ge
+bqc	lɛ́gbã pↄ́ a dↄ̀wàpi a a
+bqc	Nɛnↄɛ pↄ́ i gↄ̃ɛ dↄ̃
+bqc	yãaoↄ sↄ̃, à tó á pↄ́
+bqc	Ɔ̃ gbɛ̃́ pↄ́ dɛ zĩgↄ̃
+bqc	dↄaanaↄ ge zĩgↄ̃ gbɛ̃ↄn
+bqc	basↄobasↄoↄ dↄaanaↄ ũ
+bqc	À wɛ̃́lɛↄ kɛkɛ kálɛ á
+bqc	nɛ́fɛ̃nɛnaↄnɛ ń ń daↄ,
+bqc	í kaa da á pↄtuoↄnɛ, í kɛ
+bqc	lá á ò ń ázĩa lɛ́owa.
+bqc	Bↄa Sini guwaiwaiu aa gɛ̀
+bqc	Bↄa Zalamↄna aa gɛ̀ bòokpà
+bqc	Dii yã'ò Mↄiziɛ à mɛ̀:
+bqc	Tó gbɛ̃́ gbɛ̃́ lɛ̀ ń mↄo
+bqc	a dɛ̀, ade á gbɛ̃dɛnaɛ. Sema
+bqc	Aa zãkɛ̀ ń Yosɛfu nɛ́ Manase
+bqc	buiↄ, ↄ̃ tↄↄlɛ pↄ́ wà
+bqc	kpaalɛ̀nɛ́ↄ gi dɛ ń dezi
+bqc	Ɔ̃ má òɛ́, ásu to sↄ̃
+bqc	kɛ̃́águo, ásu vĩakɛnɛ́o.
+bqc	Dii òwɛ̃ɛ wà bua Zelediwa, ↄ̃
+bqc	Wa ń mìdɛ píi, lá wá kɛ̀
+bqc	gbɛ̃́ↄnɛwa. Wa wɛ̃́lɛpiↄ
+bqc	gↄ̃ɛↄ dɛ̀dɛ ń nↄɛↄ ń
+bqc	Lá Dii wá Lua ìↄ kúwanↄ
+bqc	kãi tó wálɛ wabikɛwà, bui
+bqc	zↄ̃ↄe ku kɛ́ an tã́aↄ
+bqc	Lá a ye á dezi káauↄzi à ń
+bqc	buiↄ sɛ̀, ↄ̃ à á bↄ́
+bqc	Egipi ń a kuao ń a gbãa
+bqc	Ásuli Dii á Lua lɛ à gwa,  lá
+bqc	Ásu to sↄ̃ kɛ̃́águ an
+bqc	yã́io, asa Dii á Lua kú á guu.
+bqc	A zↄ̃ↄ mɛ́ ì tó ń mɛ
+bqc	I kɛ á nↄ̀sɛmaa ge á maakɛa
+bqc	mɛ́ tò álɛ gɛ́ ń bùsupi
+bqc	síimáo. Buipiↄ vãi yã́i
+bqc	ↄ̃ Dii á Lua lɛ́ ń yáiɛ́
+bqc	ń lɛ́ pↄ́ a gbɛ̃̀ á dezi
+bqc	káau Ablahaũɛ ń Izaakio ń
+bqc	A bↄ Yaakãↄ lↄ̀ↄ'ɛa, a
+bqc	táa'ò gɛ̀ Mↄsela, we ↄ̃
+bqc	Aalona gàu. Wà aà vĩ̀, ↄ̃
+bqc	aà nɛ́ Ɛleazaa gↄ̃̀ sa'onkia
+bqc	a to lou ma á bùsuu a gↄↄwa. A
+bqc	daalɛ káabuana, i bↄlɛi, á
+bqc	pↄ́wɛna ń á vɛ̃ɛo ń á
+bqc	nísio i kɛɛ́ maamaa,
+bqc	Wekĩi á pↄ aↄ na Dii á Luawa,
+bqc	ápiↄ ń á nɛgↄ̃ɛↄ ń á
+bqc	nɛnↄɛↄ ń á zĩkɛnaↄ
+bqc	gↄ̃ɛↄ ń nↄɛↄ ń Levii bui
+bqc	pↄ́ kú á bɛ wɛ̃́lɛu aai
+bqc	bùsu kpaalɛsɛánↄoↄ.
+bqc	À aà pápa ń gbɛo à dɛ, asa
+bqc	a wɛ̀ɛlɛ à á kɛ̃́ Dii á
+bqc	Lua pↄ́ á bↄ́lɛ zↄbleu
+bqc	Àli ble Dii á Lua aɛ gu pↄ́ a
+bqc	sɛ àli a sísiu, á pↄ́wɛna
+bqc	ń á vɛ̃ɛo ń á nísio ń
+bqc	á pↄtuo nɛsana sɛ̃́iaↄ, kɛ́
+bqc	à e àↄ Dii á Lua vĩa vĩ
+bqc	À sa'o Dii á Luawa ń zuo ge sã
+bqc	Gɛ̃amusu sa'obↄ ũ gu pↄ́ Dii a
+bqc	sɛu a tↄ́ iↄ kuwàu.
+bqc	À kɛ lá aa oɛ́ gu pↄ́ Dii a
+bqc	sɛuwa. À laaika! À kɛ lá aa
+bqc	Tó gbɛ̃́ kàamai vĩ, mɛ́ à
+bqc	yã́ pↄ́ Dii i daɛo ò ń aà
+bqc	tↄ́o, ge à yã'ò ń dii pãle
+bqc	tↄ́o, wàli ãnabi bee taa dɛ.
+bqc	Tó gbɛ̃zↄ̃ↄↄ yã'ònɛ́
+bqc	aa làa, aali zĩgↄ̃ dↄaanaↄ
+bqc	dilɛ aa dↄaa gbɛ̃́ↄnɛ.
+bqc	aà de ń aà dao aai aà kũ wà
+bqc	gɛaànↄ gbɛ̃zↄ̃ↄↄ kĩ́i
+bqc	Ásu yãe kɛ wɛ̃́ndiapiɛo, asa i
+bqc	yã́ pↄ́ kà wà aà dɛ kɛo.
+bqc	Yã doũpiɛ ń gbɛ̃́ pↄ́
+bqc	Tó gↄ̃ɛe nↄsɛ̀, mɛ́ nↄpi
+bqc	yã́ i kaaàguo, kɛ́ a è a
+bqc	dↄ́ɛ'ĩi vĩ yã́i, mɛ́ à
+bqc	gínzila  kɛ̃̀ kpàwà à aà
+bqc	gbɛ̃zↄ̃ↄↄ aɛ, i aà kyale
+bqc	gbá do bↄ, i lɛ́'ika aà oawa, i
+bqc	mɛ: Màa wàli kɛ gbɛ̃́ pↄ́
+bqc	gì a gbɛ̃do ua vuiɛ.
+bqc	Mↄizi ń Isaili gbɛ̃zↄ̃ↄↄ
+bqc	yãdìlɛ ń gbɛ̃́ↄnɛ. Mↄizi
+bqc	mɛ̀: Àↄ yã́ pↄ́ málɛ
+bqc	A báaada á taↄ ń á góↄgu.
+bqc	Dii a to bↄ̀kↄↄ á le á koso
+bqc	ń á gbásaonaↄwa. Aa liála
+bqc	sɛa za á gbakpɛa e á minanguo.
+bqc	Á ĩ́ampakĩi e buipiↄ guuo, á
+bqc	pↄ̀ↄpɛkĩi e gueio. Wekĩi Dii
+bqc	a to àↄ sↄ̃̀deedeekɛu, á
+bqc	wɛ́ iↄ wo, á yɛ̃̀ɛɛ i láa.
+bqc	bùsupiwa, à láaipↄ kú láɛ
+bqc	bee guuↄ zĩ̀wà píi.
+bqc	Dii mɛ́ a dↄaanɛ. Ɔ̃mɛ aↄ
+bqc	kunnↄ, a n to weo, a pãkpanzi bauo.
+bqc	Ńsu to vĩa n kũo, ńsu
+bqc	Dii mɛ́ dↄ̀aanɛ́ ado,
+bqc	mɛ́ tɛ́pi aↄ kũɛ e bɛdau
+bqc	mɛ́ a kↄ́ dɛ gↄ̃i ũwaɛ.
+bqc	má tↄsi ma ibɛɛↄwa,
+bqc	wá Yakↄbu buiↄ pↄ́ ũ.
+bqc	aↄ kú ń guu gↄↄpiiɛ.
+bqc	gã̀sĩↄwa ń ń miↄ.
+bqc	gu pↄ́ a mↄ̀sɛ ìↄ bↄ musu.
+bqc	gbɛ̃́ↄnɛ aa kũ̀sũa sↄukɛ,
+bqc	asa gↄↄ àaↄ̃ gbɛa aa bua
+bqc	Yuudɛ̃wa la, aai gɛ́ bùsu pↄ́
+bqc	Dii ń Lua kpàmá aaↄ vĩ síi.
+bqc	aa mɛ̀: Dii bùsupi nàwɛ̃ɛ wá
+bqc	ↄzĩ píiɛ. Bùsupideↄ kã́
+bqc	gà ḿpii wá yã́i.
+bqc	An zĩgↄ̃ↄ kà gbɛ̃ↄn
+bqc	ↄ̀aasↄsↄo lɛɛ bla (40.000)
+bqc	taawa. Aa bùa ń Dii dↄ̃ao, aa
+bqc	gɛ̀ Yeliko sɛ̃u ń zĩ̀ sↄuo.
+bqc	Sa'ona gbɛ̃ↄn soplaↄ aaↄ
+bqc	dↄaaa kpagoloɛ, aaiↄ kuu kũa. A
+bqc	gↄↄ soplade zĩ́ à lia
+bqc	wɛ̃́lɛpizi gɛ̃n sopla gↄↄ
+bqc	pↄ́ sa'onapiↄ lɛ́ kuupɛ.
+bqc	Ɔ̃ Yozuee mɛ̀: Á'a Dii Lua!
+bqc	Àkɛa n wá bua Yuudɛ̃wa n wá
+bqc	ná Amↄleↄnɛ ń ↄzĩ aa wá
+bqc	midɛi? Tó wá zↄ̃lɛa Yuudɛ̃
+bqc	sↄ̃̀ wɛ̃́lɛpizi ḿpii. Kɛ́
+bqc	aa kãikũ̀ ń wɛ̃́lɛpio, aa
+bqc	bòokpà a gugbãntoo oi bↄaa ń
+bqc	a bↄlɛo. Guzulɛ da Ai ń ḿpiↄ
+bqc	Aa fɛ̀lɛ gɛ̀ Yozuee lè ń a
+bqc	gbɛ̃́ↄ Giligali bòou, ↄ̃ aa
+bqc	ònɛ́ aa mɛ̀: Bùsu pↄ́ wa
+bqc	Bↄa Giligali Yozuee táa'ò gwã́
+bqc	e gu gɛ̀ dↄ̀ò, à sùmá
+bqc	Aa wɛ̃́lɛpi sì, aa a gbɛ̃́ↄ
+bqc	ń a kíao dɛ̀dɛ ń fɛ̃ndao ń
+bqc	a zↄ̃ɛwiadeↄ. Aa gbɛ̃́ pↄ́
+bqc	kúuↄ míↄnzↄ̃ɛ, an gbɛ̃e i
+bqc	bↄo, lá aa kɛ̀ Ɛgɛlↄniɛwa.
+bqc	Yuudɛ̃ gukpɛ baa kía pↄ́
+bqc	Isailiↄ ń fú aa ń bùsuↄ
+bqc	sìmáↄ tↄ́ↄn kɛ: Ampii aa ku
+bqc	yãa sɛ̃gbãuɛ sɛa Aanↄ
+bqc	dↄ̀ↄi e à gɛ̀ pɛ̀ò
+bqc	Bùsuɛ bee kpaalɛ Isaili bui mɛ̀n
+bqc	kɛ̃okwiↄnɛ sa ń Manase buiↄ
+bqc	Yosɛfu nɛ́ↄ Manase ń Ɛflaiũo
+bqc	buiↄ mɛ́ gↄ̃̀ bui mɛ̀n pla
+bqc	ũ. Levii buiↄ i bùsu kpaalɛsɛo,
+bqc	sema wɛ̃́lɛ pↄ́ aaↄ kuuↄ ń
+bqc	Kɛ́ à aà sɛ̀, à nàɛwà
+bqc	aà gɛ tↄↄlɛ wabikɛ a maewa.
+bqc	Kɛ́ nↄpi pìla a zàa'ĩnawa,
+bqc	ↄ̃ aà mae Kalɛbu aà là à
+bqc	Wɛ̃́lɛ pↄ́ kú Yuda bùsu
+bqc	gusĩsĩdeuↄ tↄ́n kɛ: Samii,
+bqc	Ɔ̃ wà tↄↄlɛ kpaalɛ̀ Manase
+bqc	buiↄnɛ lɛɛ kwi, Galada bùsu ń
+bqc	Basana bùsu pↄ́ kú Yuudɛ̃ baa
+bqc	Sɛa za we à pã̀i à tà
+bqc	gugbãntoo oi e Sɛmɛsi nibↄnai ń
+bqc	Gelilo pↄ́ bↄaa ń Adumiũ
+bqc	gbɛbↄlɛoo ń Lubɛni nɛ́ Bohana
+bqc	Afalaiũ, Sioni, Anaala,
+bqc	Kɛ́ Isailiↄ ń bùsu kpaalɛkɛ̀
+bqc	aa làa, ↄ̃ aa gbàsa Nuni nɛ́
+bqc	Wà Ɛflaiũ buiↄ wɛ̃́lɛɛ
+bqc	beeↄ kpà Levii nɛ́ Kɛata bui
+bqc	kĩniↄwà ń kpaalɛ ũ.
+bqc	À laaika maamaa àↄ
+bqc	yãdilɛnɛↄ ń ikoyã pↄ́ Dii
+bqc	zↄ̀blena Mↄizi dàɛ́ↄ kũa,
+bqc	íↄ ye Dii á Luazi. À aà zɛ́
+bqc	sɛ́ súsu, íↄ yã́ pↄ́ a
+bqc	dìlɛↄ kũa. À naaàzi, í
+bqc	zↄbleɛ̀ ń nↄ̀sɛmɛndoo
+bqc	Kɛ́ Dii tò Isailiↄ kã́mabò
+bqc	ń ibɛɛ pↄ́ liaańziↄ yã́
+bqc	musu, a gↄↄ gɛ̃̀gɛ̃. A gbɛa
+bqc	Yozuee zikũ̀ táotao.
+bqc	Ɔ̃ gbɛ̃́ↄ wèwà aa mɛ̀:
+bqc	Kai! Wá fↄ̃ pãkpa Diizi wà
+bqc	Kalɛbu dãuna Kenazi nɛ́ Ɔniɛli
+bqc	mɛ́ sì, ↄ̃ Kalɛbu a nɛnↄɛpi
+bqc	Aa zↄblè Diiɛ ń nↄ̀sɛmɛndoo
+bqc	Yozuee gↄↄ ń gↄↄ pↄ́
+bqc	gbɛ̃zↄ̃ↄ pↄ́ gɛ̃̀gɛ̃
+bqc	dɛaàlaↄ kuo. Gbɛ̃zↄ̃ↄpiↄ
+bqc	wɛsì yãzↄ̃ↄ pↄ́ Dii kɛ̀
+bqc	Isailiↄ zↄblè Mↄabuↄ kí
+bqc	Ɛgɛlↄniɛ e wɛ̃̀ bao plasai.
+bqc	ↄ̃ à a sↄ̃́go mↄpↄↄ
+bqc	kã̀aa mɛ̀n ↄ̀aa síiↄ̃ ń
+bqc	basↄoo ń zĩgↄ̃ pↄ́
+bqc	kuanↄↄ. Bↄańnↄ Alose Goiũ
+bqc	ↄ̃ ma Debolaa ma gↄ̃ Isailiↄ da
+bqc	álɛ kulɛpɛa sãↄnɛ mai?
+bqc	à aà swãgɛ̃zĩ fↄ̃̀ à
+bqc	Kɛ́ má òɛ́ mámɛmaa Dii á
+bqc	Lua, ásu Amↄle pↄ́ á kú ń
+bqc	bùsuuↄ tã́aↄ gbagbao, ↄ̃ a
+bqc	Gwãasĩna bee Lua kɛ̀ màa. Fíi
+bqc	kpà tↄↄlɛwa gupiiu, sãkã
+bqc	Gedeↄ̃ↄ ń a gbɛ̃́ gbɛ̃ↄn
+bqc	ↄ̀aa do ń basↄoↄ lɛ́
+bqc	pɛ́lɛ Madiãↄzi. Kɛ́ aa kà
+bqc	Yuudɛ̃i, ↄ̃ aa bùa, nↄana
+bqc	ↄ̃ Dii ń Lua pↄ́ ń bↄ́ ń
+bqc	ibɛɛ pↄ́ liaańziↄ ↄzĩ
+bqc	Tó wà gbɛ̃́ɛ beeↄ nàmɛɛ
+bqc	ma ↄzĩ yãa lé, má aà yaɛ.
+bqc	Má oɛ̀ aà a zĩgↄ̃ↄ kãaa,
+bqc	À dↄ̀aa Isailiↄnɛ wɛ̃̀ bao
+bqc	ń àaↄ̃oɛ, ↄ̃ à gbàsa
+bqc	gà, ↄ̃ wà aà vĩ̀ Samii.
+bqc	Ɔ̃ Zɛfɛte ɛ̀a gbɛ̃́ↄ zĩ̀
+bqc	Zɛfɛte Galada bùsudeↄ kã̀aa
+bqc	ḿpii, ↄ̃ aa zĩkà ń Ɛflaiũ
+bqc	buiↄ aa ń dɛdɛ, asa Ɛflaiũ
+bqc	buipiↄ ònɛ́: Á Galada
+bqc	bùsudeↄ, Ɛflaiũ bui pↄ́
+bqc	bàalɛ̀ gɛ̀ Manase buiↄ
+bqc	Ɔ̃ Manↄa blenɛbↄlↄ sɛ̀ ń
+bqc	pↄ́wɛntio, à Dii gbàgbaò
+bqc	gbɛwa. Kɛ́ Manↄa ń a nao lɛ́
+bqc	Ɔ̃ Sãusↄ̃ↄ ònɛ́: Tó i
+bqc	sapa ń ma zununuo yãao, á fↄ̃
+bqc	à ma yã́pi yáasi poloe?
+bqc	Ɔ̃ Dalila ò Sãusↄ̃ↄɛ:
+bqc	Pↄ́ pↄ́ tò ń gbãa kɛ́wa
+bqc	omɛɛ. Ba kpele wa dↄma, ńyↄ̃
+bqc	A ò a daɛ: Ãnusu ↄ̀aa sↄo ń
+bqc	basↄoo (1.100) pↄ́ wa sɛ̀ma
+bqc	kpã́i, kɛ́ n ade kà, má mà.
+bqc	Ãnusupi ku ma kĩ́iɛ. Mámɛ má
+bqc	sɛ̀. Ɔ̃ aà da òɛ̀: Dii
+bqc	Ɔ̃ aa wèwà aa mɛ̀: Nílɛ! Ǹ
+bqc	n lɛ́ kpaaũ! Mↄ gɛ́wanↄ, ní
+bqc	gↄ̃ wá mae ũ, wá sa'ona ũ.
+bqc	Dɛa gbɛ̃́ mɛ̀ndo bɛ sa'ona ũ
+bqc	ge Isaili bui lɛɛ do sa'ona ũ, a
+bqc	A wèwà à mɛ̀: Wa bↄ
+bqc	Bɛtɛlɛũ, Yuda buiↄ bùsuuɛ,
+bqc	ↄ̃ wálɛ tá Ɛflaiũ buiↄ
+bqc	bùsu sĩ̀sĩde lɛ́wa. Ma bɛn
+bqc	we. Ma gɛ Bɛtɛlɛũɛ, ↄ̃
+bqc	málɛ tá bɛ sa, ↄ̃ gbɛ̃e i ma
+bqc	Isailipiↄ fɛ̀lɛ gɛ̀ Bɛtɛli,
+bqc	ↄ̃ aa gbɛ̀a Luawa aa mɛ̀: Wá
+bqc	bui kpele mɛ́ a gɛ́ zĩkai ń
+bqc	Bɛ̃yãmɛɛ buiↄ káaui? Dii
+bqc	mɛ̀: Yuda buiↄ mɛ́ aa gɛ́
+bqc	An gbɛ̃́ pↄ́ aa ɛ̀a bàalɛ̀
+bqc	sɛ̀lɛ gbáau aa tà Limↄ gbɛ
+bqc	kĩ́iↄ bↄ̀ gbɛ̃ↄn ↄ̀aa
+bqc	Aa Mↄabu nↄɛↄ sɛ̀ nↄ ũ,
+bqc	ado tↄ́n Ɔↄfa, ado sↄ̃ Lutu.
+bqc	An kua we wɛ̃̀ kwi taa gbɛa
+bqc	Dii n pↄ́ kɛkɛnɛ yã́ pↄ́
+bqc	ń kɛ̀pi musu. Lá n mↄ n
+bqc	sↄlↄ Dii Isailiↄ Lua
+bqc	kúlukulunau, aà n pↄ́ kɛkɛnɛ
+bqc	Bↄazu gɛ̀ zↄ̃̀lɛ wɛ̃́lɛ
+bqc	bĩ́ibↄlɛu, ↄ̃ a è daɛ
+bqc	fɛ̃̀ɛɛ gbɛ̃bona pↄ́ a a
+bqc	yã'òpi lɛ́ mↄ́. Ɔ̃ à
+bqc	mɛ̀: Ma gbɛ̃́, mↄ ǹ zↄ̃lɛ.
+bqc	Ɔ̃ aà zã́ ì aà lá:
+bqc	Bↄ́mɛ n le, ńlɛ ↄ́ↄlↄ, ni
+bqc	pↄbleo ni? Àkɛa n nↄ̀sɛ
+bqc	nɛgↄ̃ɛ mɛ̀n kwiao lé?
+bqc	ásu to walayã bↄ á lɛ́uo,
+bqc	pãↄnɛ, aa Dii dↄ̃o.
+bqc	Dii ɛ̀a lɛzùaàzi lↄ, ↄ̃ à
+bqc	ɛ̀a gɛ̀ Ɛli kĩ́i à mɛ̀: N
+bqc	lɛzùmazi nolo? Ma mↄ. Ɔ̃ à
+bqc	mɛ̀: Ma nɛ́, mi lɛzunzio. Gɛ ǹ
+bqc	Ɛli zi kà wɛ̃̀ basↄo plasai,
+bqc	aà wɛ́ gↄ̃̀ sùii, àlɛ gu'e
+bqc	ↄ̃ aa Dii kpagolo dà gópiu ń
+bqc	balↄ pↄ́ vua ɛ̃́naↄ ń
+bqc	gbɛna taaↄ ku a guuo.
+bqc	Ãma aà nɛ́piↄ i tɛ aà
+bqc	tufaio. Ɔ̃a yã́ bakànɛ́ ń
+bqc	níu, aaì gbagusaɛsi, aali
+bqc	yã́gↄ̃gↄ̃ a zɛ́wao.
+bqc	Aa wèmá aa mɛ̀: Ao, a ku aɛ we.
+bqc	À kɛ kpakpa. Gbã à sù, asa wa
+bqc	Ɔ̃ Saulu desɛ̃pi òɛ̀: Yã́
+bqc	pↄ́ Samuɛli òɛ́ siumɛɛ.
+bqc	Má kɛ́! À kɛ ma seeladeↄ ũ
+bqc	Dii ń kía pↄ́ a kpào aɛ. Ma
+bqc	zu ge zàa'ĩna sì á gbɛ̃ewae?
+bqc	Ma á gbɛ̃e blèe? Ma á gbɛ̃e
+bqc	wɛtã̀e? Gbagusaɛ ma wɛ́ blè ma
+bqc	bↄ á gbɛ̃e kpɛe? Tó má kɛ̀
+bqc	màa, má a fĩaboɛ.
+bqc	À Samuɛli dã̀ gↄↄ sopla lá
+bqc	a dìlɛɛwa.  Kɛ́ i mↄo, ↄ̃
+bqc	aà gbɛ̃́ↄ lɛ́ fãaa, aalɛ
+bqc	Ɔ̃ gili gɛ̃̀ Filitɛ̃ↄgu ń
+bqc	bòou ń sɛ̃uo píi. Vĩa ń
+bqc	zĩgↄ̃ↄ kũ̀, gudↄ̃anaↄ
+bqc	ń gbɛ̃́ pↄ́ aaì gɛ́
+bqc	lɛ́lɛi Isailiↄwaↄ píi. Ɔ̃
+bqc	tↄↄlɛ lùalua. Lua mɛ́ gili
+bqc	Ɔ̃ wa ò Sauluɛ: Yonatãa ga lo!
+bqc	Aà gbɛ̃́ pↄ́ ↄ̃mɛ tò wa
+bqc	zĩblèa? Aawo! Ń Luao wi wei kɛ́
+bqc	baa aà mikã mɛ̀ndo lɛ́lɛ
+bqc	zĩ́lɛo, asa Lua dↄnlɛ ↄ̃ à
+bqc	bee kɛ̀ò gbã. Beewa ↄ̃ wà
+bqc	Yonatãa mìsi, i gao.
+bqc	Dii yã́ kũa maaɛ̀ dɛ sa pↄ́
+bqc	wì a pↄ́ kátɛu à tɛ́kũ
+bqc	Ɔ̃ à gbɛ̃́ zĩ̀wà, à
+bqc	mↄ̀. Nɛ́piá gbɛ̃́ tɛ̃aɛ,
+bqc	aà wɛ́ maa mɛ́ aà oa kɛfɛũ.
+bqc	Ɔ̃ Dii mɛ̀: Fɛlɛ ǹ nísika
+bqc	aà miwa, asa aàpin we.
+bqc	Aa kú ń Sauluo ń Isailiↄ píi
+bqc	Ela gusalalau, aalɛ zĩka ń
+bqc	Ɔ̃ à ↄgɛ̃̀ a bↄ̀ↄu, à
+bqc	gbɛ bↄ dà a gbɛmau. Kɛ́ à
+bqc	Filitɛ̃pi gbã̀ò, ↄ̃ à aà
+bqc	pà a mi'aɛwa. Gbɛpi vĩ̀lɛ aà
+bqc	mi'aɛpiu, ↄ̃ à lɛ̀lɛ a gbɛɛu.
+bqc	Kɛ́ Mɛlabu kà wà kpa Davidiwa,
+bqc	ↄ̃ Saulu aà kpà Mɛↄla
+bqc	Kɛ́ Davidi bàalɛ̀ gɛ̃̀zɛa,
+bqc	à gɛ̀ Samuɛli gwai Lama. À
+bqc	yã́ pↄ́ Saulu kɛ̀ɛ dàu a
+bqc	sìuɛ̀ píi, ↄ̃ aa gɛ̀
+bqc	Ɔ̃ Davidi gɛ̀ ùlɛ sɛ̃u. Kɛ́
+bqc	mↄ dafu bↄ̀, kía zↄ̃̀lɛ
+bqc	Ɔ̃ Akisipi ìwaↄ òɛ̀: Isaili
+bqc	bùsu kí Davidin weo lò? Aàpi
+bqc	ↄ̃ wì ↄ̃wã wì lɛsi aà
+bqc	yã́ musuo lò? Wì mɛ:
+bqc	Wa ò Davidiɛ wà mɛ̀: Gwa,
+bqc	Filitɛ̃ↄ lɛ́ zĩka ń
+bqc	Kɛiladeↄ, aalɛ ń pↄ́wɛnaↄ
+bqc	Ɔ̃ à Isaili zĩgↄ̃ↄ sɛ̀lɛ
+bqc	gbɛ̃ↄn ↄ̀aa gɛ̃o, à
+bqc	dàńnↄ zɛ́u kpálɛkɛi
+bqc	Davidiↄzi gu pↄ́ wì mɛ Tueↄ
+bqc	Ɔ̃ Nabali ònɛ́: Dén Davidi
+bqc	ũi? Bↄ́n Yɛse nɛ́pi ũi? Zↄ
+bqc	pↄ́ aa kɛ̃̀ ń diiↄwa gbãↄ
+bqc	Kɛ́ Davidi ìwapiↄ kà Abigaili
+bqc	kĩ́i Kaamɛli, aa òɛ̀: Davidi
+bqc	mɛ́ wá zĩ́ma, a ye n da'uakɛ.
+bqc	Davidi làasookɛ̀ à mɛ̀: Saulu a
+bqc	ma dɛ gↄↄewa. Tó mi bàalɛ ma
+bqc	ta Filitɛ̃ↄ bùsuuo, a bↄmanↄ
+bqc	nao. Tó ma bàalɛ̀, Saulu a ma
+bqc	wɛa tó, mí bↄ aà ↄzĩ.
+bqc	Dii bee kɛ̀nɛ gbã, kɛ́ ni aà
+bqc	yãmao yã́iɛ. Ni pↄkũma
+bqc	pãsĩ bↄbↄɛ̀ Amalɛkiↄwao.
+bqc	Gbɛ̃ↄn ↄ̀aa doↄ yɛ̃̀ɛɛ
+bqc	làa, aai fↄ̃ bùa swapiwao, ↄ̃
+bqc	Davidi bùa à pɛ̀lɛ ń gbɛwa
+bqc	ń gbɛ̃ↄn ↄ̀aa plaↄ.
+bqc	Ɔ̃ aa Saulu mi zↄ̃̀ aa aà
+bqc	gↄ̃kɛbↄↄ wòlowà, ↄ̃ aa
+bqc	gbɛ̃́ↄ zĩ̀ aa a baokpàkpa
+bqc	Filitɛ̃ↄ bùsu gupiiu ń ń
+bqc	lou su ma bua pↄ́ kú weↄ lↄo.
+bqc	à gbɛ̃́ↄ zĩ̀má, aa
+bqc	ònɛ́: Dii báaadaágu! A
+bqc	gbɛ̃kɛkɛ̀ Saulu á diiɛ, a aà
+bqc	A plaade tↄ́n Kilabu, aà da
+bqc	tↄ́n Abigaili, Nabali gyaa, Kaamɛli
+bqc	gbɛ̃́ɛ. A àaↄ̃de tↄ́n
+bqc	Abisaloũ, aà da tↄ́n Maaka,
+bqc	Gesuu kía Talemai nɛ́ɛ.
+bqc	Ɔ̃ kí wɛ̃nalɛɛ bee sì
+bqc	Abinɛɛ yã́ musu à mɛ̀:
+bqc	Ɔ̃ Davidi bɛkpà wɛ̃́lɛ
+bqc	bĩ́idepiu, à azĩa tↄ́
+bqc	kpàɛ̀ Davidi Wɛ̃́lɛ. À
+bqc	kpɛ́ↄ dↄ̀dↄ a lìai za gu
+bqc	pↄ́ wà ɛ kàkau wì mɛ Milo e
+bqc	Davidi bàabaa sa'o'ula daa, àlɛ
+bqc	ↄ̃wã Dii aɛ a gbãa pua lɛ́u.
+bqc	Dii Lua, má mɛnɛ kpelewa lↄɛ?
+bqc	Mapi n zↄ̀blena ń ma dↄ̃.
+bqc	Ɔ̃ kípi aà là à mɛ̀: Saulu
+bqc	buie ku e tiaa? Má ye gbɛ̃kɛ
+bqc	pↄ́ Lua vĩ kɛɛ̀ɛ. Ɔ̃ Ziba
+bqc	wèwà à mɛ̀: Yonatãa nɛ́e ku
+bqc	Kɛ́ í bↄ̀ ɛu, gↄↄ pↄ́
+bqc	kíaↄ ì gɛ́ zĩkai, ↄ̃
+bqc	Davidi Yoabu zĩ̀ ń a ìwaↄ ń
+bqc	Isailiↄ píi. Aa Amↄniↄ
+bqc	ásookɛ̀, ↄ̃ aa koezↄ̃̀
+bqc	Labazi. Davidi sↄ̃ a ku Yelusalɛũ.
+bqc	Kɛ́ nibↄ pìla ↄdepiwa, ↄ̃ i
+bqc	we sã ge zu kũ̀ a kpàsa guu à
+bqc	nibↄpi yàaekɛòo, taaside
+bqc	sãnununapi ↄ̃ a sìwà, à a
+bqc	Aminↄpi gbɛ̃na vĩ, aà tↄ́n
+bqc	Yonadabu, Davidi vĩ̀i Simɛa
+bqc	nɛ́ɛ. Yonadabu ↄ̃nↄ gbãa,
+bqc	Ma dii kí, ńsu ǹyↄ̃ yã́pi
+bqc	kũa n sↄ̃uo. N nɛgↄ̃ɛↄ i
+bqc	gaga píio, sema Aminↄ ado.
+bqc	Ɔ̃ Yoabu fɛ̀lɛ gɛ̀ Abisaloũ
+bqc	gbɛ̀si Gesuu, à sùò
+bqc	N kaa i gↄↄplakɛo, ↄ̃ ń ye
+bqc	ǹyↄ̃ liaaliaawanↄa? Má dↄ̃
+bqc	gu pↄ́ málɛ gɛ́uo. Ǹ n
+bqc	gbɛ̃́ↄ kãaa ǹ táńnↄ. Dii
+bqc	gbɛ̃kɛ ń náaiyão kɛnɛ.
+bqc	Kɛ́ Davidi bɛ zɛ́u ń a
+bqc	sĩ̀sĩpↄlɛu aà saɛ. Àlɛ
+bqc	aà sↄ̃sↄ̃, àlɛ aà
+bqc	kɛ̃kɛ̃ ń gbɛo, àlɛ bùsu
+bqc	Kɛ́ Abisaloũ gbɛ̃́ↄ mↄ̀
+bqc	nↄɛpi bɛ aa mɛ̀: Aimaaza ń
+bqc	Yonatãao ku má ni? A wèmá à
+bqc	mɛ̀: Aa bùa swa'ↄnawa. Aa ń
+bqc	wɛɛlɛ, aai ń eo, ↄ̃ aa ɛ̀a
+bqc	Ɔ̃ Yoabu ò Etiopi buiɛ: Gɛ ǹ
+bqc	yã́ pↄ́ ń è o kíɛ. Ɔ̃
+bqc	Etiopi buipi kùlɛ Yoabuɛ, à
+bqc	Bɛ̃yãmɛɛ buiↄ kuaànↄ
+bqc	gbɛ̃ↄn ↄ̀aa sↄo. Saulu bɛ
+bqc	ziia Ziba gɛ̀ lↄ ń a nɛgↄ̃ɛ
+bqc	gbɛ̃ↄn gɛ̃oↄ ń a zĩkɛna
+bqc	gbɛ̃ↄn baoↄ. Aa sì Yuudɛ̃u
+bqc	wá bàa kú ń Yɛse nɛ́oo,
+bqc	Aa wèwà aa mɛ̀: Wá zɛvĩ wà
+bqc	ã́nusu ge vua gbɛa Saulu ge a
+bqc	bɛdeↄwao, mɛ́ wá zɛvĩ wà
+bqc	Isaili gbɛ̃e dɛo. Ɔ̃ Davidi ń
+bqc	lá à mɛ̀: Álɛ o kpelewa ni?
+bqc	kɛ́ à pↄbↄ̀ a níu,
+bqc	Luapi sↄ̃, aà yãkɛaↄ
+bqc	bui zĩ̀loↄ ì vlãnaumɛɛ.
+bqc	Ma bɛdeↄ na ń Luaoo lé?
+bqc	Ń beeo kí yã́ Yoabu ń
+bqc	zĩgↄ̃ dↄaanaↄ blè, ↄ̃ aa
+bqc	bↄ̀lɛ kí kĩ́i, aa gɛ̀
+bqc	Adonia sa'ò ń sãↄ ń zuↄ ń
+bqc	zunɛ mɛkpaaↄ Gbɛ̀mlɛ̃ pↄ́
+bqc	kú Logɛli nibↄna saɛwa. À a
+bqc	dãuna kíanɛↄ sìsi píi ń
+bqc	Yuda pↄ́ dɛ kía ìwa ũↄ
+bqc	Ɔ̃ sa'ona Zadoki nísi tùu sɛ̀
+bqc	Dii zwã̀akpɛu, à nísipi kà
+bqc	Salomↄↄwa. Kɛ́ wà kuupɛ̀,
+bqc	ↄ̃ gbɛ̃́pii wiilɛ̀ aa mɛ̀:
+bqc	Lua kí Salomↄↄ dↄ̃ ń aafiao!
+bqc	Tiasa yã́ mɛ̀ndo málɛ gbɛama,
+bqc	ńsu gí kɛimɛɛo. Basɛba mɛ̀: O!
+bqc	Kí yã'ò Yoiada nɛ́ Benaiaɛ,
+bqc	ↄ̃ à gɛ̀ ↄtↄ̃̀ Simɛiwa.
+bqc	Aà bùsu dↄaanaↄ tↄ́n kɛ:
+bqc	Zadoki nɛ́ Azalia mɛ́ sa'ona ũ.
+bqc	À yáasikɛ̀ ↄ̀aasↄsↄo lɛɛ
+bqc	àaↄ̃ɛ (3.000),  mɛ́ lɛ pↄ́
+bqc	a dàↄ kà ↄ̀aa sↄo ń sↄoo
+bqc	À kpɛ́nɛpiↄ dↄ̀ kpɛ́pi
+bqc	gbã̀a lɛ́uɛ. Apii lɛsĩ
+bqc	gã̀sĩsuu sↄ́sↄoɛ, mɛ́ wa
+bqc	pɛ̀kↄ̃wa ń sɛdɛ lío Lua
+bqc	À Libã líkpɛ kpɛ́ bò, a
+bqc	gbã̀a gã̀sĩsuu basↄo, a
+bqc	yàasa blakwi, a lɛsĩ baakwi. À
+bqc	sɛdɛ líↄ pɛ̀lɛpɛlɛ dↄ̀ↄ
+bqc	síiↄ̃, ↄ̃ à sɛdɛ lí
+bqc	Wuluupiↄ ku mↄ̀pɛpɛɛpiↄ
+bqc	zíɛ. A goↄ pɛ́pɛa tadibↄpiↄ
+bqc	gbáↄwa. Wuluupiↄ lɛsĩ
+bqc	gã̀sĩsuu do ń kĩnioɛ.
+bqc	aai fↄ̃ gɛ̃̀ zĩkɛi weo tɛlupi
+bqc	yã́i, asa Dii gawi a kpɛ́pi pàɛ.
+bqc	41-42 Tó wà sù wà n tↄ́
+bqc	zↄ̃ↄ ń n gã̀sa gbãao ń n
+bqc	ↄ pↄ́ pooao bao mà, tó
+bqc	bↄ̀mↄ pↄ́ dɛ n gbɛ̃́ Isaili
+bqc	bui ũo bↄ̀ bùsu zã̀zãu à
+bqc	mↄ̀ n tↄ́ yã́i, tó à
+bqc	aɛdↄ̀ kpɛ́ɛ beewa à
+bqc	Tó mpi ge n nɛ́ↄ bↄ̀ ma kpɛ
+bqc	sↄ̃, tó á ma ikoyãↄ ń
+bqc	yã́ pↄ́ má dìlɛɛ́ↄ
+bqc	kũao, mɛ́ a gɛ lɛ́ zↄble dii
+bqc	pãleↄnɛ, álɛ ń sisi,
+bqc	Minadeↄn n gbɛ̃́ↄ ũ ń n
+bqc	ìwa pↄ́ aaìↄ kunnↄ
+bqc	gↄↄpii, aaì swãdↄ n
+bqc	Ɔ̃ Dii Isailiↄ Lua pↄ pà
+bqc	Salomↄↄzi, kɛ́ à bↄ̀ a kpɛ,
+bqc	aà sↄ̃ kuwa lↄo yã́i, asa Dii
+bqc	bↄ̀ mↄ̀wà yãa gɛ̃n plaɛ.
+bqc	Má ↄtↄ̃ↄlɛ Davidi buiↄwa
+bqc	yã́ pↄ́ kɛ̀pi yã́iɛ, ãma
+bqc	Kɛ́ Lↄbↄaũ kà Yelusalɛũ,
+bqc	à Yudaↄ kã̀aa píi ń
+bqc	Bɛ̃yãmɛɛ buieↄ. Zĩgↄ̃piↄ
+bqc	gbɛ̃ↄn ↄ̀aasↄsↄo lɛɛ
+bqc	ↄ̀aa do baosaiɛ (180.000). Ɔ̃
+bqc	aalɛ gɛ́ zĩkai ń Isailiↄ,
+bqc	kɛ́ aa e Salomↄↄ nɛ́
+bqc	Lↄbↄaũ kpa kpalapiu lↄ.
+bqc	Ɔ̃ ãnabi zipi òɛ̀: Ãnabin ma
+bqc	ũ lanwa. Malaikae mɛ́ Dii
+bqc	yã'òmɛɛ à mɛ̀ mà
+bqc	pɛ́lɛnzi mà sunnↄ ma bɛ, kɛ́
+bqc	ǹ pↄble, ní imi. À mↄ lè
+bqc	ɛɛ ãnabipi lɛ́ tó.
+bqc	Dii a kía pãle dilɛ a gbɛ̃́
+bqc	Isailiↄnɛ. Ɔ̃mɛ a Yeloboaũ
+bqc	buiↄ dɛdɛ. Gbãɛ! Bↄ kɛ ló?
+bqc	Baa se à a dazi Maaka bↄ̀
+bqc	kíakɛu, kɛ́ à Asetaati lí
+bqc	pↄ́ Lua ye a gĩyãio pɛ̀lɛ
+bqc	yã́i. Kí Asa lípi zↄ̃̀ à
+bqc	tɛsↄ̃̀wà Sedↄ̃ guzulɛu.
+bqc	Aà ìwaↄ do Zimli mɛ́ aà
+bqc	gbɛ̃́ↄ lè aa lɛkpàaĩaàzi.
+bqc	Kɛ́ vɛ̃ɛ lɛ́ Ela dɛ a bɛ ziia
+bqc	Ɔ̃ à gɛ kɛ̀ lá Dii òɛwa, a
+bqc	ku Kɛliti swa'ɛu Yuudɛ̃ baale.
+bqc	Ń Dii n Lua kuao buie ge bùsue ku
+bqc	kɛ́ ma dii gì gbɛ̃́ↄ
+bqc	zĩuimá n wɛɛlɛio. Tó wà
+bqc	mɛ̀ ń kú weo, ì to aa mɛ wa
+bqc	Ɔ̃ Ɛlia ònɛ́: À Baali
+bqc	tã́adeↄ kṹkũ, an gbɛ̃e su
+bqc	piliwáo. Kɛ́ aa ń kũkũ, ↄ̃
+bqc	Ɛlia gɛ̀ńnↄ Kisↄ̃ guzulɛu,
+bqc	Siliↄ kí Bɛnadada a zĩgↄ̃ↄ
+bqc	kã̀aa píi. Kía gbɛ̃ↄn baakwi
+bqc	ń plaoↄ kuaànↄ ń ń
+bqc	sↄ̃́ↄ ń ń zĩkasↄ̃goↄ.
+bqc	Ɔ̃ aa gɛ̀ koezↄ̃̀ Samalizi
+bqc	Aà ìwaↄ òɛ̀: Wá mà Isaili
+bqc	kíaↄ gbɛ̃kɛ vĩ. Wà
+bqc	zwã̀nkasaↄ dↄ wá pi, wà ba
+bqc	dↄ wá nↄɛ, wí bↄ gɛ aà
+bqc	le. Wìliↄ dↄ̃o tó a n tó.
+bqc	Fɛlɛ gɛ́ Samali kí Ahabu lei. À
+bqc	gɛ̀ Nabↄti vɛ̃ɛbu sɛ́i, a ku
+bqc	Ɔ̃ Mise ɛ̀a mɛ̀: Dii yãma! Ma
+bqc	Dii è zↄ̃lɛa a gĩ́naa,
+bqc	À ísia gó'ilɛnaↄ kɛ̀ aa
+bqc	gɛ́ vua sɛ́i Ofii, kási aai e
+bqc	bↄ̀ ń táo ísiaao, ↄ̃ aa
+bqc	Ɔ̃ Ɛlia òɛ̀: Zɛ laaↄ! Dii ma
+bqc	zĩ Yuudɛ̃iɛ. A wèwà à mɛ̀:
+bqc	Ń Dii kuao ń n kuao má kɛ̃mao.
+bqc	Ɔ̃ Isailiↄ kía mɛ̀: Yã́
+bqc	gì! Dii wá kía gbɛ̃ↄn
+bqc	àaↄ̃ↄ kã̀aa, ↄ̃ à wá
+bqc	ná Mↄabuↄnɛ ń ↄzĩa?
+bqc	Ɔ̃ Ɛlizi ò Geaziɛ: Oɛ̀ à
+bqc	dɛ̃ɛkà à pↄ́ɛ beeↄ
+bqc	kɛ̀wɛ̃ɛ píi. Bↄ́ a ye wà
+bqc	kɛɛ sↄ̃i? A ye wà a yã'o kí
+bqc	ge zĩgↄ̃ↄ dↄaanaɛa? Ɔ̃
+bqc	nↄɛpi mɛ̀: Kua ma ua pↄe lɛ́
+bqc	Ɔ̃ aà zĩkɛna aà là à
+bqc	mɛ̀: Gbɛ̃́piↄ gbɛ̃ↄn
+bqc	basↄoɛ, kpelewa má bee
+bqc	dilɛnɛ́i? A wèwà à mɛ̀:
+bqc	Kpámá aa só, asa Dii mɛ̀ aa
+bqc	soɛ, a kĩni i ɛa gↄ̃.
+bqc	Ãnabiↄ gãli gbɛ̃e ò Ɛliziɛ:
+bqc	Gu pↄ́ wì kↄ̃kãaakɛunnↄ
+bqc	gwa, à kɛ̀wɛ̃ɛ fɛ̃́nɛũ.
+bqc	Ɔ̃ kí mɛ̀: Tó mi Safata nɛ́
+bqc	Ɛlizi mi zↄ̃ gbão, Lua
+bqc	yãpãsĩkɛmɛɛ bɛ̃̀ɛbɛ̃ɛ.
+bqc	ↄ̃ kípi ò Azaeliɛ: Pↄ́ sɛ
+bqc	gɛ́ daiò Lua gbɛ̃́lɛ ǹ aà
+bqc	gba, ní oɛ̀ aà Dii lamɛɛ, tó
+bqc	má fɛlɛ ń gyãɛ beeo.
+bqc	Ahabu ua i gↄ̃ lán Nɛba nɛ́
+bqc	Yeloboaũ uawa, lán Ahia nɛ́ Baasa
+bqc	Tó láɛ bee á lé, lá á dii
+bqc	Ahabu buiↄ kúánↄ, mɛ́ á
+bqc	sↄ̃́goↄ vĩ ń sↄ̃́ↄ ń
+bqc	Kásile Yehu i zɛ ń Dii Isailiↄ
+bqc	Lua ikoyãoo, i laaidↄwà ń
+bqc	nↄ̀sɛmɛndooo. I ↄbↄlɛ duuna
+bqc	pↄ́ Yeloboaũ Isailiↄ dà a
+bqc	Kási i gulɛsĩ pↄ́ wa bòↄ
+bqc	daaĩo, wì gi wàↄ sa'o we,
+bqc	wàↄ tulaletikatɛa weɛ.
+bqc	Yehoasi yã́ kĩni pↄ́ a kɛ̀ↄ
+bqc	ń a nɛgↄ̃nkɛyãↄ ń zĩ
+bqc	pↄ́ a kà ń Yudaↄ kí Amaziao
+bqc	ku Isaili kíaↄ ladau.
+bqc	Kɛ́ Yehoasi gà, wà aà mia
+bqc	kpàkↄ̃i ń Isaili kíaↄ
+bqc	Samali, ↄ̃ aà nɛ́ Yeloboaũ
+bqc	Yudaↄ kí Uzia kpalablea wɛ̃̀ bla
+bqc	mɛ̀ndosaide guu ↄ̃ Gadi nɛ́
+bqc	Mɛnaeũpi gↄ̃̀ Isailiↄ kía
+bqc	ũ, à zↄ̃̀lɛ kpalau Samali
+bqc	Ɔ̃ Asiliↄ kíapi aà yãmà,
+bqc	à gɛ̀ lɛ̀lɛ Damasiwa a sì. À
+bqc	Lezini dɛ̀, ↄ̃ à tà ń
+bqc	Baa se Yudaↄ i Dii ń Lua
+bqc	yãdilɛaↄ mao, aa Isailiↄ
+bqc	À zĩblè Filitɛ̃ↄwa e Gaza ń
+bqc	bùsu pↄ́ liaaiↄ sɛa za
+bqc	bualoũↄ ń wɛ̃́lɛ bĩ́ideↄ
+bqc	Kɛ́ kí Ezekia yã́pi mà, à a
+bqc	ula ga kɛ̃̀, ↄ̃ à zwã̀nkasa
+bqc	kàkaala, à gɛ̀ Dii kpɛ́u.
+bqc	ń n zĩkasↄ̃goↄ dasidasi
+bqc	Yuda kↄ̃na pↄ́ bↄ̀ↄ zĩ́na
+bqc	Gↄↄ bee Baladã nɛ́ Mɛlodaki
+bqc	Baladã, Babɛli kía lá
+bqc	kpã̀sã Ezekiaɛ ń gbao, kɛ́
+bqc	à aà gyãkɛa bao mà yã́i.
+bqc	À a maepi ↄlɛsɛ̀ píiɛ. À
+bqc	zↄblè tã́a pↄ́ a mae
+bqc	zↄblènɛ́ↄnɛ à kùlɛnɛ́.
+bqc	Ɔ̃ kí tã́agbagbana pↄ́ Yuda
+bqc	kíaↄ dìlɛ aa sa'ò Yuda
+bqc	wɛ̃́lɛ gulɛsĩↄwaↄ ń pↄ́
+bqc	pↄ́ lìa Yelusalɛũziↄ yà
+bqc	ḿpii ń tã́agbagbana pↄ́ aa
+bqc	sa'ò Baali ń ĩatɛ̃o ń
+bqc	mↄvuao ń saan tↄdeↄ ń luabɛ
+bqc	Yoakiũ ã́nusu ń vua pↄ́
+bqc	Falaↄ̃ↄ Nɛko gbɛ̀awa sì a
+bqc	bùsudeↄwa baade gbãa lɛ́u,
+bqc	Babɛli kía kpalablea wɛ̃̀ bao
+bqc	mɛ̀ndosaide guu, a mↄ sↄode
+bqc	gↄↄ soplade zĩ́ ↄ̃ aà ìwa
+bqc	Nɛbuzaladã mↄ̀ Yelusalɛũ.
+bqc	Aàpi mɛ́ Nɛbukanɛza dↄaiↄ
+bqc	Haũ nɛgↄ̃ɛↄ tↄ́n kɛ:
+bqc	Etiopi, Egipi, Libii ń Kanaao.
+bqc	Sei nɛgↄ̃ɛↄ tↄ́n kɛ: Lotani,
+bqc	Sobala, Zibɛↄ̃, Ana, Disↄ̃,
+bqc	Yɛse nɛgↄ̃ɛ sɛ̃́ian Ɛliabu
+bqc	ũ, a plaade Abinadabu, a àaↄ̃de
+bqc	Hɛblↄ̃ nɛgↄ̃ɛↄ tↄ́n kɛ:
+bqc	Kola, Tapua, Lɛkɛũ ń Sɛmao.
+bqc	Wà tà ń Yɛkↄniapio zĩ̀zↄ
+bqc	ũɛ. Aà nɛgↄ̃ɛↄ tↄ́n kɛ:
+bqc	Simɛↄ nɛgↄ̃ɛↄ tↄ́n kɛ:
+bqc	Nɛmuɛli, Yamini, Yalibu, Zela ń
+bqc	Gada buiↄ kú ń saɛ Basana
+bqc	bùsuu e à gɛ̀ pɛ̀ Salekawa.
+bqc	Kɛ́ Dii tò Nɛbukanɛza mↄ̀
+bqc	Yelusalɛũdeↄ ń Yudaↄ píi
+bqc	kũ̀kũ tàńnↄ zĩ̀zↄↄ
+bqc	ũ, Yozadapi kú ń guuɛ.
+bqc	Aalona buiↄ mɛ́ Hɛblↄ̃ pↄ́
+bqc	dɛ misiwɛ̃lɛ ũ blè ń Libenao
+bqc	ń Yatiio ń Ɛsɛmↄao
+bqc	àaↄ̃ɛ: Bɛla, Bɛkɛɛ ń
+bqc	Zofa nɛgↄ̃ɛↄ tↄ́n kɛ: Sua,
+bqc	Aanɛfɛɛ, Suali, Beli, Imla,
+bqc	Aaza Yoada ì, Yoada Alemɛ ì ń
+bqc	Azemavɛo ń Zimlio. Zimli Mↄza ì,
+bqc	Aaìↄ zɛzɛa kpɛ́pi gola
+bqc	síiↄ̃ↄwa, gukpɛ, bɛ'aɛ,
+bqc	gugbãntoo ń gɛↄmidↄkĩio.
+bqc	Wà aà gↄ̃kɛbↄↄ kàlɛ ń
+bqc	tã́aↄ kpɛ́u, ↄ̃ wà aà mi
+bqc	Ɔ̃mɛ bùa Yuudɛ̃wa mↄ sɛ̃́ia
+bqc	guu gↄↄ pↄ́ à pà, aa tò
+bqc	guzulɛdeↄ tilɛ̀ gukpɛ ń
+bqc	Ɔ̃ aa gↄↄ àaↄ̃ kɛ̀ ń
+bqc	Davidio we, aa pↄblè aa
+bqc	vɛ̃ɛmì, asa an bɛdeↄ
+bqc	Tó a táa'okĩi mà lípiↄ mia,
+bqc	à bↄmá ń zĩo, asa ma bↄ
+bqc	dↄaaɛ́n we, kɛ́ mà zĩble
+bqc	Filitɛ̃ zĩgↄ̃ↄwa yã́i.
+bqc	Màa Isaili bui píi lɛ́ su ń Dii
+bqc	kpagoloo ń kúkuakɛao ń kuu'ↄo
+bqc	ń kã̀ae'ↄo ń sɛ̃́sɛ̃n
+bqc	ↄ́o ń domalɛao ń mↄↄnlɛao.
+bqc	aↄ dɛ pↄ́ pↄ́ aa sɛ kpaalɛ
+bqc	sɛ̃̀a ń pↄ́ pↄ́ kúuↄ,
+bqc	Ma Dii málɛ oɛ̀, mámɛ má
+bqc	bɛkpaɛ̀ aà buiↄ gbãa'ekĩi
+bqc	À gudↄ̃anaↄ dìlɛdilɛ
+bqc	zↄ̀blenaↄ ũ. Dii tò Davidi
+bqc	zĩblè gu pↄ́ à gɛ̀u píiɛ.
+bqc	À kuabìi Isailiↄwa, ↄ̃ Davidi
+bqc	vĩ̀i Simɛa nɛ́ Yonatãa aà
+bqc	Gↄↄ bee Dii zwã̀akpɛ pↄ́
+bqc	Mↄizi kɛ̀ guwaiwaiu ń a
+bqc	gbagbakĩio ku Gabaↄ̃ↄ gulɛsĩ
+bqc	Simɛi nɛgↄ̃ɛↄ síiↄ̃ɛ:
+bqc	Yaata, Ziza, Yeusi ń Bɛliao.
+bqc	Mɛlali nɛgↄ̃ɛↄ Mali ń Musio.
+bqc	a gɛ̃o ń mɛ̀ndoode Anania,
+bqc	Aà nɛ́ Semaia nɛgↄ̃ɛↄ ì
+bqc	lↄ, aa kpalablè ń dezi buiↄ
+bqc	Pɛlɛzi buiɛ. Ɔ̃mɛ zĩgↄ̃ↄ
+bqc	dↄaana píi gbɛ̃zↄ̃ↄ ũ mↄ
+bqc	Adiɛli nɛ́ Azemavɛ mɛ́ kibɛ
+bqc	Vua dauↄ ń a filiaↄ, ã́nusu
+bqc	wálɛ n tↄ́ bɛɛɛde bↄ.
+bqc	má n gba ↄ̃nↄ ń dↄ̃apio,
+bqc	mí ɛa mà n gba ↄda ń
+bqc	àizɛɛo ń gawio lↄ. Kí pↄ́
+bqc	kú n ãae ge kí pↄ́ aↄ ku n
+bqc	À zãblè kpɛ́piwa ń gbɛ̀
+bqc	bɛɛɛdeↄ. Vuapi sↄ̃ à bↄ̀
+bqc	Pↄ́ pↄ́ Hulaũ pì kí
+bqc	Salomↄↄɛ Dii kpɛ́ pↄ́ ũↄ
+bqc	píi, a pì ń mↄgotɛ̃ pↄ́ wa
+bqc	ↄ̃ Diipi òɛ̀ kpɛdↄaɛ kɛ́ a
+bqc	tↄ́ e àↄ kuwà làasoo pↄ́
+bqc	nↄ̀sɛmɛndoo ń pↄeão píi za
+bqc	bùsu pↄ́ wà tàuńnↄ, aalɛ
+bqc	zↄbleu, tó aa aɛdↄ̀ bùsu
+bqc	pↄ́ ń kpà ń deziↄwa ń
+bqc	wɛ̃́lɛ pↄ́ ń dìlɛo ń
+bqc	kpɛ́ pↄ́ má dↄ̀nɛɛ beeowa,
+bqc	Tó a bↄ ma kpɛ sↄ̃, tó a
+bqc	pãkpà ma ikoyãↄ ń yã́
+bqc	pↄ́ má dìlɛɛ́ↄzi, mɛ́ a
+bqc	gɛ lɛ́ zↄble dii pãleↄnɛ,
+bqc	Ɔ̃ à kía gbà vua tↄnu
+bqc	síiↄ̃ ń pↄ́ gĩnanaↄ
+bqc	dasidasi ń gbɛ̀ bɛɛɛdeↄ.
+bqc	Pↄ́ gĩnana pↄ́ à kí
+bqc	Salomↄↄ gbàpiↄ zↄ̃ↄ,
+bqc	gbɛ̃e i mↄoɛ̀ à kà màa
+bqc	gbɛ̃zↄ̃ↄpiↄ lɛdama mai, à
+bqc	gɛ̀ yã́pi kpàlɛ a ìwa
+bqc	ɛ̀waaso pↄ́ aa nɛblè sãnuↄ
+bqc	Sa'ona ń Levii bui kĩni pↄ́ kú
+bqc	Isaili bùsu gupiiuↄ zɛ̀aànↄ.
+bqc	Abia gɛ̀ zĩlau ń zĩgↄ̃ na
+bqc	maaↄ gbɛ̃ↄn ↄ̀aasↄsↄo
+bqc	lɛɛ ↄ̀aa pla (400.000). Ɔ̃
+bqc	Yeloboaũ bↄ̀ zĩ'ↄpòoaàzi
+bqc	ń gↄ̃sa gbãaↄ gbɛ̃ↄn
+bqc	Ɔ̃ kí Asa lɛzù Dii a Luazi à
+bqc	mɛ̀: Dii, gbɛ̃e muaannↄ à dↄ
+bqc	gbãasaidelɛ gbãade wáao. Dii
+bqc	wá Lua, dↄwálɛ, asa ḿmɛ wa
+bqc	sↄ̃kpàlɛnzi. Wa mↄ zĩkai ń
+bqc	gbɛ̃́ dasidasiɛ beeↄ ń n
+bqc	tↄ́oɛ. Dii, ḿmɛ ń wá Lua
+bqc	ũ, ńsu to gbɛ̃nazĩna
+bqc	Zĩbeezĩ gu'ena Anani mↄ̀ Yudaↄ
+bqc	kí Asa lè, a òɛ̀: Lá n
+bqc	sↄ̃kpàlɛ Siliↄ kíazi, ni
+bqc	sↄ̃kpalɛ Dii n Luazio, Siliↄ
+bqc	kía zĩgↄ̃ↄ pìlimaɛ.
+bqc	Ɔ̃ à ɛ̀a mɛ̀: Dii la gĩa.
+bqc	Zĩpi gbãakũ̀ gↄↄ bee, mɛ́
+bqc	Isailiↄ kíapi zɛa a sↄ̃́go guu
+bqc	à dìdiwà, aà aɛ dↄa
+bqc	Siliↄwa e oosi. Kɛ́ ĩatɛ̃
+bqc	gɛ̃̀ kpɛ́u, ↄ̃ à gà.
+bqc	Ɔ̃ Levii nɛ́ Kɛata ń Koleo
+bqc	buiↄ fɛ̀lɛ lɛ́ Dii Isailiↄ Lua
+bqc	sáaukpa gbã́ugbãu.
+bqc	Ɔ̃ Ɛdↄũↄ ńzĩa sì
+bqc	Yudaↄwa e ń a gbão. Gↄↄ bee
+bqc	ↄ̃ Libenadeↄ ńzĩa sì
+bqc	Yudaↄwa lↄ, kɛ́ Yeholaũ
+bqc	pãkpà Dii a deziↄ Luazi yã́i.
+bqc	Levii buiↄ ń Yudaↄ kɛ̀ lá
+bqc	sa'onkia Yoiada ònɛ́wa. An baade
+bqc	kã́maboↄ ń gbɛ̃́ pↄ́ aalɛ
+bqc	mↄ́ ń lɛũkpakɛiↄ píi, asa
+bqc	Yoiada ì ń gãlie gbaɛo.
+bqc	Yoiada gaa gbɛa Yuda kíaↄ mↄ̀
+bqc	kulɛkɛ̀ kíɛ, ↄ̃ à ń
+bqc	Ɔ̃ Amazia i swã́sɛio. Bee bↄ̀
+bqc	Lua kĩ́iɛ, kɛ́ à e Yudaↄ na
+bqc	Yehoasiɛ a ↄzĩ, kɛ́ aa kɛ̀
+bqc	Ɛdↄũↄ tã́aↄnɛ kɛ̀kɛ
+bqc	Uzia yã́ kĩni kú ãnabi Isaia,
+bqc	Amↄzu nɛ́ taalau za a daalɛa e a
+bqc	Dii ↄtↄ̃̀ↄlɛ Yudaↄwa an kí
+bqc	Aaza yã́i, asa à bↄ̀ Dii kpɛɛ
+bqc	maamaa, a Ayãmɛto Yudaↄ mɛkpà
+bqc	Yedutu buiↄ Semaia ń Uziɛlio.
+bqc	Ásu àↄ dɛ lá á maeↄ ń
+bqc	á gbɛ̃́ pↄ́ aa bↄ̀ Dii ń
+bqc	Lua kpɛↄwao. Lua ń kɛ́
+bqc	sↄ̃kɛ̃ngu pↄ́ ũ lá á
+bqc	Ezekia yãlàla sa'onaↄ ń Levii
+bqc	Ásu to Ezekia ↄ̃nↄkɛɛ́ lↄo
+bqc	fá! Ásu to aà á sã́sã
+bqc	màao. Ásu à aà yã́ sio, asa
+bqc	buie ge bùsue tã́a i fↄ̃ a
+bqc	gbɛ̃́ↄ bↄ̀ ma ↄzĩo ge ma
+bqc	maeↄ ↄzĩo, belenkɛ á diiↄ.
+bqc	Aa fↄ̃ á bↄ ma ↄzĩo.
+bqc	Aà yooyeapi guu à awakpà Dii a
+bqc	Luaɛ, à azĩa bùsa a deziↄ
+bqc	Kɛ́ kí ikoyã lápi yãmà, à
+bqc	Zĩbeezĩ wà Dii gbàgba a
+bqc	zɛ́wa, wà Gɛ̃amusu dikpɛkɛ̀,
+bqc	mɛ́ wà sa pↄ́ wì a pↄ́
+bqc	kátɛu à tɛ́kũ ò aà
+bqc	gbagbakĩiwa, lá kí Yosia
+bqc	Kíapi gbɛ̃́ pↄ́ gↄ̃̀
+bqc	bɛ̃́ɛ, wi ń dɛdɛ ń
+bqc	fɛ̃ndaooↄ kũ̀kũ zↄↄ ũ
+bqc	api ń a nɛ́ↄ, à tàńnↄ
+bqc	Atee buiↄ gbɛ̃ↄn basↄo plasai
+bqc	Agabu, Salemai, Anana,
+bqc	Mↄ soplade gↄↄ sɛ̃́ia zĩ́
+bqc	ↄ̃ aa nà Dii gbagbaawa màa, baa
+bqc	kɛ́ wi aà kpɛ́ dↄ yãao.
+bqc	Kɛ́ wà kí Aatasasa lápi
+bqc	kyokɛ̀, wà a bↄↄlɛkɛ̀
+bqc	Leuũɛ ń a lakɛ̃na Simɛsaio ń
+bqc	ń gbɛ̃́ kĩniↄ, ↄ̃ aa
+bqc	Yelusalɛũ gↄ̃̀ↄ. Aa gìnɛ́
+bqc	pãsĩpãsĩ aa mɛ̀ aa kã́mabo.
+bqc	Tó gbɛ̃e yã́ pↄ́ má
+bqc	dìlɛɛ bee lìlɛ, wa ade kpɛ́
+bqc	lí wo, wi aà pawà wà pɛ́lɛ,
+bqc	wi aà bɛ kɛ tufua ũ.
+bqc	Lá Lua Musude dìlɛ píi, à kpa
+bqc	gↄ̃̀ↄ aà kpɛ́ pↄ́ ũ,
+bqc	kɛ́ asu kpɛ̃nɛkɛ ń ma kíakɛo
+bqc	Wa lɛyè wa wabikɛ̀ wá Luawa
+bqc	yã́piↄ musu, ↄ̃ a sìwanↄ.
+bqc	Gↄↄ pↄ́ Ɛzala lɛ́ lousisi
+bqc	màa, a kúlɛa Lua kpɛ́ kpɛɛlɛ,
+bqc	àlɛ ń duunaↄ o Luaɛ, àlɛ
+bqc	ↄ́ↄlↄ, Isailiↄ kã̀aaaàzi
+bqc	dasidasi, gↄ̃ɛↄ ń nↄɛↄ ń
+bqc	nɛ́fɛ̃nɛnaↄ, ↄ̃ aalɛ
+bqc	Aliũ buiↄ Ɛliɛzɛɛ, Isia,
+bqc	ↄ̃ má wèwà ma mɛ̀: Kí,
+bqc	tó à kɛ̀nɛ maa, mɛ́ mapi n
+bqc	zↄ̀blena ma yã́ kànguɛ, ma
+bqc	zĩ Yuda bùsu wɛ̃́lɛ pↄ́ ma
+bqc	deziↄ mia kuupi, kɛ́ mà e kɛkɛ
+bqc	Kↄloze nɛ́ Saluũ, Mizipa
+bqc	fã́ani kí, Nibↄna Bↄlɛ
+bqc	kɛ̀kɛ. À ɛ̀a bò a dↄ̀, à
+bqc	a gbaↄ pɛ̀lɛpɛlɛ, à a mↄↄ
+bqc	ń a gbã́aↄ dàu. À bĩ́i
+bqc	pↄ́ kú Siloe Íkalɛkĩi saɛ
+bqc	kɛ̀kɛ bò lↄ za kibɛ kaa saɛ e
+bqc	à gɛ̀ pɛ̀ Davidi Wɛ̃́lɛ
+bqc	Ɔ̃ ma gbɛ̃́ↄ dìlɛdilɛ
+bqc	bĩ́ifooↄ guu ń a gu pↄ́
+bqc	ɛɛũↄ. Ma ń dílɛdilɛ
+bqc	daɛdaɛ, baade ń a fɛ̃ndao ń a
+bqc	Ma bĩ́ibò má làa, a fòo ku
+bqc	guei lↄo, ãma mi a bↄlɛ gbaↄ
+bqc	pɛ́lɛpɛlɛ gĩao. Kɛ́ Sambala
+bqc	ń Tobiao ń Laalubu bui Gɛsɛũo
+bqc	ń ma ibɛɛ kĩniↄ a baomà,
+bqc	Paata Mↄabu bui pↄ́ dɛ Yesua ń
+bqc	Yoabuo buiↄ ũↄ gbɛ̃ↄn
+bqc	ↄ̀aasↄsↄo lɛɛ pla ń ↄ̀aa
+bqc	síiↄ̃ ń bao plasaio (2.818).
+bqc	Pasuu buiↄ gbɛ̃ↄn ↄ̀aa soolo
+bqc	ń blasↄo ń plao (1.247).
+bqc	Gbɛ̃́ kĩniↄ gbadàda lↄ, vua
+bqc	kiloo baswaaↄ̃kwi (170) ń
+bqc	ã́nusuo tↄnu do ń kiloo basↄoo
+bqc	ń sa'on ulataoↄ mɛ̀n
+bqc	bàaↄ̃sↄo ń plao (67).
+bqc	N ísia zↄ̃̀ɛnɛ́, ↄ̃ aa
+bqc	táa'ò gugiiu aa bùa.
+bqc	Pasuu, Amalia, Malakia,
+bqc	Iↄ dɛ pɛ̃ɛ pↄ́ wì kpa Luawa
+bqc	pↄ́ ũ ń pↄ́wɛnti pↄ́
+bqc	wìↄ kpawà lá gu lɛ́ dↄo ń
+bqc	sa pↄ́ wìↄ a pↄ́ kátɛu à
+bqc	tɛ́kũ lá gu lɛ́ dↄo ń sa
+bqc	pↄ́ wìↄ o kã́mabogↄↄ ń
+bqc	mↄ dafu dikpɛgↄↄo ń dikpɛ
+bqc	pãle zĩ́o ń sa pↄ́ wì o
+bqc	sáaukpaa yã́io ń Isailiↄ duun
+bqc	awakpabↄↄ ń wá Lua ua yã́
+bqc	Levii bui pↄ́ kú Yelusalɛũↄ
+bqc	dↄaanan Uzi ũ. Mise Matania ì,
+bqc	Matania Asabia ì, Asabia Bani ì,
+bqc	ↄ̃ Bani Uzipi ì. Aàpi mɛ́
+bqc	Asafa bui pↄ́ aaì dↄaa ń
+bqc	lɛsiyão Lua uaↄ gbɛ̃do ũ.
+bqc	Ido bui Zakali, Ginɛtↄ̃ bui
+bqc	Asa za Davidi ń Asafao gↄↄ
+bqc	lɛ̀sin dↄaanaↄ kuɛ, aaì dↄaa
+bqc	ń Lua táasilɛao ń aà
+bqc	Ma Lua, to an yã́ àↄ dↄngu,
+bqc	asa aa sa'onkɛ gbãlɛ̀ɛ, aa n
+bqc	bàa kua ń sa'onaↄ ń Levii
+bqc	buiↄ yãdilɛa gbòo.
+bqc	A ku zĩ̀zↄ pↄ́ Babɛli kí
+bqc	Nɛbukanɛza ń kũkũ Yelusalɛũ
+bqc	ń Yudaↄ kí Yɛkↄniao à
+bqc	Aa lápiↄ nà zĩnaↄnɛ ń
+bqc	ↄzĩ, aa ń gbáɛ kí bùsu
+bqc	dasiↄ guu. Lápi guu wà mɛ̀ wà
+bqc	Yudaↄ dɛdɛ wà ń midɛ wà ń
+bqc	nↄɛↄ gↄↄ doũ zĩ́, mↄ
+bqc	kuɛplade pↄ́ wì mɛ Adaa gↄↄ
+bqc	kuɛ'aaↄ̃de zĩ́, wi ń pↄ́ↄ
+bqc	ↄ̃ àlɛ ĩ́anadã a àizɛɛ
+bqc	sà zↄ̃ↄ ń a nɛgↄ̃ɛ
+bqc	dasiↄ yã́ musu. À mɛ̀ kí a
+bqc	kpɛlà, à a gba gbãa dɛ a
+bqc	ìwaↄ ń gbãadeↄla píi.
+bqc	Ɛsitɛɛ ɛ̀a gɛ̀ yã'oi kíɛ
+bqc	lↄ. À wùlɛ aà gbázĩ, aà
+bqc	wɛ́'i lɛ́ kwɛ́, à awakpàɛ̀
+bqc	aà vãi pↄ́ Agaga bui Amani a
+bqc	lɛkpàaĩ Yudaↄzi gboo.
+bqc	Yuda kĩni pↄ́ kú kí bùsuↄ
+bqc	guuↄ píi kↄ̃ kã̀aa, kɛ́ aa
+bqc	gí ń ńzĩao, aai bↄ ń
+bqc	ibɛɛↄ yã́u yã́i, ↄ̃ aa ń
+bqc	zangudeↄ dɛ̀dɛ gbɛ̃ↄn
+bqc	ↄ̀aasↄsↄo lɛɛ basiiↄ̃
+bqc	sↄosai (75.000). Ń beeo aai ↄkã
+bqc	Ɔbↄ na aà pↄ́ↄwa píi ǹ
+bqc	gwa, a yãvãi o n musuɛ.
+bqc	A maa yãa wà ma vĩ lán
+bqc	kɛ́ à n le, ↄ̃ bíli n kũ.
+bqc	mɛ́ wá daalɛa dɛ bùsu giina ũ,
+bqc	Ì yã́ pↄ́ kↄ̃nideↄ lɛ́
+bqc	Kɛ́ wa ↄlì yã́piu, lá wá
+bqc	À kũ̀ pↄsiade gbɛ̃naↄ
+bqc	À suɛ! Ásu ma yã́ gwa koleao.
+bqc	ge ma wúlɛbↄ a ma nↄ̀sɛ
+bqc	tó ń gbãsĩ vĩo mɛ́ ń maa,
+bqc	Démɛ a fↄ̃ oɛ̀, bↄ́ ńlɛ
+bqc	Ma gↄↄↄ gɛ̃a wãa dɛ
+bqc	Ní ma kpakↄ̃a ń seelade
+bqc	A lɛsĩ dɛ luabɛa, ńyↄ̃ kɛ
+bqc	Ɔ̃ álɛ e tó a ga, ↄ̃nↄ
+bqc	ì to loupↄↄ fↄ̃, tↄↄlɛ i
+bqc	wa á dilɛ ↄ̃nↄnaↄ ũɛ.
+bqc	e aà gↄↄ pa lán gbɛ̀winawa.
+bqc	mɛ́ í ì bùsu sɛ́lɛ taò,
+bqc	Baa kɛ́ aà oa nísi bↄa,
+bqc	ma lɛdama a á nↄ̀sɛ níniɛ́ɛ.
+bqc	mɛ́ ma wabikɛa Luawa mↄafili vĩo.
+bqc	Ápiↄ sↄ̃ à ɛa na yã́wa
+bqc	Aà tá ì aà kpa baia,
+bqc	àↄ ma nↄ̀sɛ ↄ̃̀ↄkpamɛɛi?
+bqc	ma vĩ̀iↄ ń ma dãunaↄ yemazi
+bqc	N ma lele n ma kpɛbↄ̀,
+bqc	ↄ̃mɛ a ma nↄ̀sɛ nínimɛɛ.
+bqc	Lua pↄkũma lí tó músi ń
+bqc	wì itɛ̃kɛ aà mia dↄngubↄwa.
+bqc	Ɔ̃ ńlɛ o: Bↄ́ Lua dↄ̃i?
+bqc	ní lɛ́gbã pↄ́ ń dↄ̀wà
+bqc	A ku ado, démɛ a fↄ̃ zɛ giɛ̀i?
+bqc	Aa pↄkasaↄ vĩo, ↄ̃ aaìↄ
+bqc	Gbɛ̃́piↄ ì fĩiↄ pↄ́ↄ
+bqc	ísia ń pↄ́ pↄ́ kú a guuↄ
+bqc	ma làasoo a ma dayãuo e ma wɛ̃ni
+bqc	Gukpɛ ĩ́ana a aà sɛ gɛ̃ò
+bqc	ì bↄ ń pↄ́ pↄ́ ulɛaↄ
+bqc	mɛ́ à zɛbↄ̀ loupilɛaɛ,
+bqc	má tò gyaa gbɛ̃ando guladↄ̀a.
+bqc	Bↄ́ gbɛ̃́piↄ wòmɛɛi?
+bqc	ma kuana sã̀alɛ lán luabɛpuanawa.
+bqc	Ma mɛbaa siakũ̀, àlɛ bↄ sↄu,
+bqc	tó mi gↄ̃́gↄ̃ a zɛ́wao,
+bqc	beeá duuna pↄ́ kà wà a
+bqc	Ɛlihu lɛ́ ń dã́ e aa yã'ò
+bqc	wa làa, kɛ́ an zi dɛaàla yã́i.
+bqc	Asa má yãvĩ dasi mà o,
+bqc	ma aà misia zɛ́ è.
+bqc	À mɛ̀ ń a yã́ nao,
+bqc	asa ampiiá aà pↄkɛaↄnɛ.
+bqc	Lá ńlɛ e, o, n yã́ɛ, i kɛ
+bqc	Tó wà wiilɛ̀wà, ìli
+bqc	ì dilɛnɛ́ aa mikɛ̃ yãvãiwa.
+bqc	To aà zĩ maaboa àↄ dↄngu,
+bqc	Lua pũnaaá yãbↄnsaɛɛ,
+bqc	Wa oɛ̀ má ye mà yã'oɛ̀ yã̀?
+bqc	ma zɛtàɛ̀ ma gbã́a dàu.
+bqc	Démɛ ì zɛbↄ loupilɛaɛi?
+bqc	Ḿmɛ ni to an nɛ́ↄ kãaa?
+bqc	ń dↄaanaↄ kↄ̃fĩ gbãao ń
+bqc	waladeↄ gwa ń wɛpãsĩo,
+bqc	Ńyↄ̃ fↄ̃ bà lɛɛna ká aà
+bqc	Aà tɛɛpiↄ nanaakↄ̃waɛ,
+bqc	Ì í bilɛ títiu lán í
+bqc	À zikũ̀ táotaoɛ, ↄ̃ à gà.
+bqc	Wabikɛa, mí n gba bui píi,
+bqc	Dii mɛ́ ì gbɛ̃́ suaba.
+bqc	Zĩakãfĩna lí e zɛ̀ n aɛo,
+bqc	Fɛlɛ zɛ ń pↄfɛ̃o Dii,
+bqc	Dii wá Dii, n tↄbↄ̀ dṹnia
+bqc	Lua, ǹyↄ̃ yɛ̃̀ɛɛsaideↄ
+bqc	ãma a za vãikɛnaↄgu
+bqc	Tó Dii sù ń a gbɛ̃́ↄ ń
+bqc	N kↄↄ dàmɛɛ gumaau,
+bqc	Ǹ n gbɛ̃kɛ bↄnsaɛ kɛmɛɛ,
+bqc	a dɛ ma suaban gbãa ũ,
+bqc	Lua sùmá à ń yá.
+bqc	ma Lua, ni ma gusia lilɛ gupua ũ.
+bqc	lán luutɛ̃ pↄ́ ĩ́ana sɛ̀wa,
+bqc	Lua kpɛdↄ̀ ĩatɛ̃ɛ we,
+bqc	ń tò a ku e gↄↄpii.
+bqc	ↄ̃ Isailiↄ ì ń táasilɛ.
+bqc	aa ma ↄↄ ń ma gbáↄ
+bqc	Dṹnia gbãadeↄ kúlɛɛ̀ píi,
+bqc	Dii a báaada adegu,
+bqc	Ma yã́ àↄ dↄngu gbɛ̃kɛ guu,
+bqc	Lua, Isailiↄ bↄ ń taasikɛaↄu
+bqc	Tó gbɛ̃vãiↄ sìmazi ma taitaia
+bqc	Ńsu to ma ibɛɛↄ ń pↄeã
+bqc	Lá ni yãkɛ a zɛ́wa, ma misi.
+bqc	Miↄ ma gbɛ̃́ dasiↄ lɛ́ ma pe,
+bqc	Dii yãmanaↄ, àↄ yeaàzi.
+bqc	Dii gbɛ̃kɛ ì li aà
+bqc	gbɛ̃́ pↄ́ kú dṹnia guuↄla
+bqc	Dii Malaika ìↄ ku a vĩakɛnaↄ
+bqc	Dii ì a zↄ̀blenaↄ suaba,
+bqc	Aaì maa fĩabomɛɛ ń vãio,
+bqc	Ni yãkɛ a zɛ́wa Dii, yãnakpaa,
+bqc	ni n swa'i pↄnade kpámá aa mi.
+bqc	baa tó n ń wɛɛlɛ, ńyↄ̃ ń
+bqc	aà pↄ ìↄ na aà kuawa.
+bqc	ma aà wɛ̀ɛlɛ, mi aà eo.
+bqc	Ma sↄ̃ lɛ́ vĩ gbò gbò, ma
+bqc	Ma mɛ̀ máↄ azĩa kũa dↄ̃ɛ,
+bqc	Má ye n pↄeã kɛaiɛ, ma Lua,
+bqc	Báaaden gbɛ̃́ pↄ́ ì
+bqc	yɛ̃̀ɛɛsaide yãda ũ,
+bqc	Bↄ́yãi ń tò miↄ bɛ oosisia
+bqc	Lua, yã́ pↄ́ ń kɛ̀ wá
+bqc	Miↄ kú ń wío gↄↄpiiɛ,
+bqc	ń aà pↄkasa wɛ̃̀sãdeↄ daa.
+bqc	ì tɛsↄ̃ sɛ̀ngbaoↄwa.
+bqc	Asa Lua dee dɛ wá Lua ũ gↄↄpii,
+bqc	Mìsaideↄ láaan we,
+bqc	kɛ́ à e yã́kpalɛkɛ ń a
+bqc	mɛ́ á bàa ìↄ kú ń
+bqc	ↄ̃nↄ damɛɛ ma sↄ̃ guu.
+bqc	wi sa'o ń swanaↄ n gbagbakĩiwa.
+bqc	yãmaakɛna kú ń guuo, baa do.
+bqc	ńsu láka ma yã́ao.
+bqc	asa vãi zↄ̃lɛkĩi è ń guuɛ.
+bqc	Bↄ́ gbɛ̃nazĩna a fↄ̃
+bqc	a zↄadↄ gbɛ̃́ pↄ́ aalɛ
+bqc	aa dɛ lán kyã́ pↄ́ a swã́
+bqc	Aaì ɛa su oosi lↄ, aaì
+bqc	Lua ma gbãa, má n táasilɛ,
+bqc	asa gbɛ̃nazĩna gbɛ̃suabaaá
+bqc	I samaa'o gbɛ̃́ɛ ń lɛ́oɛ,
+bqc	aaì aà pá kã́ndo, vĩa lí
+bqc	Za dṹnia lɛ́wa ń ísia baaleo
+bqc	gbɛ̃nazĩnaↄnɛ i diwá.
+bqc	aa vĩvĩ ń pↄna zↄ̃ↄo.
+bqc	Á gbɛ̀ misonaↄ, bↄ́yãi
+bqc	Lua, bↄ ń n gbãa pↄ́ ń
+bqc	Gbɛ̃́ pↄ́ aa zamagu pãↄ  dasi
+bqc	Ńsu to ísↄ̃ damalao,
+bqc	Lua, má kú taasi ń yã'ↄ̃mao
+bqc	Taaside wɛ̃naden ma ũ,
+bqc	Lua, ńsu ǹyↄ̃ kumanↄ zã̀o,
+bqc	Máↄ n maakɛa o gↄↄpiiɛ,
+bqc	A ń bↄ gbãamↄnɛdeↄ ń
+bqc	Aa tɛsↄ̃̀ n kúkĩiwa, à
+bqc	Má vãikɛnaↄ gasa kwɛ́,
+bqc	Dii kpele mɛ́ zↄ̃ↄ lán Luawai?
+bqc	i gↄ̃ ń bui pↄ́ kpɛ́ↄnɛ
+bqc	Gwa, à gbɛ lɛ̀, í bↄ̀ dàgua
+bqc	Tó à ń pisabò, aaì aà aɛya,
+bqc	a zàa'ĩana ń kaa líↄ ɛ̀'ɛ.
+bqc	ↄ̃mɛ aà gbãa ń aà gawio
+bqc	Wa gↄ̃ pↄ́ yáalↄaↄ ũ wá
+bqc	ní dↄaa Ɛflaiũ buiↄnɛ
+bqc	nɛ́ pↄ́ ń sì n pↄ́ ũpi.
+bqc	ásu kúlɛ dii zĩ̀loɛo.
+bqc	An gɛa guu an gbãa ìↄ
+bqc	wá suaba ń n gbãao.
+bqc	gbɛ̃e lí fↄ̃ n kɛa kɛ̀o.
+bqc	Wa mɛ wà gbɛ̃́ beeↄ ì weɛ.
+bqc	Gɛↄ ni yãbↄnsaɛkɛnɛ́a?
+bqc	malaikae muaaaànↄo.
+bqc	ma a nísikàwà ma aà dìlɛ.
+bqc	Ma lɛgbɛ̃̀ ń mazĩa kuao gɛ̃n
+bqc	To n zↄ̀blena láanikɛa yã́
+bqc	Démɛ n kpɛ̃nɛ lɛ́ dↄ̃ à
+bqc	Dii ku musu, a zↄ̃ↄ,
+bqc	e wà gɛ ɛyↄ̃ vãikɛnaɛ.
+bqc	Ísiaá aà pↄ́ɛ, ↄ̃mɛ kɛ̀,
+bqc	bùsu píi gbɛ̃́ↄ, à dↄ̃
+bqc	Wí ì tã́agbagbanaↄ kṹ,
+bqc	Swaↄ, à gã̀alɛ Dii aɛ.
+bqc	Dṹnia gbɛ̃́pii, à kúkuakɛ
+bqc	dṹnia kíaↄ gawi dↄ̃nɛ
+bqc	má aà tↄ́ pↄ́ kú adoa bↄ
+bqc	Tó ĩ́anapɛ̀wà, ì gɛ̃lɛɛ,
+bqc	N ípi lèle ↄ̃ à bàasi,
+bqc	To ma làasoo kangu,
+bqc	Aaìↄ liaaliaa bui ń buioↄ guu,
+bqc	À gusia gbàɛmá, gu sì ń
+bqc	yã́ pↄ́ a ò a zↄ̀blena
+bqc	à sìńnↄ a ɛu, aa bùawà
+bqc	Aa pãkpà ń pↄeã bùsui,
+bqc	Aa sa'òńnↄ Kanaa bùsu
+bqc	À ń bↄ́ bùsu ń bùsuo à
+bqc	aa gↄ̃̀ suuunnↄ ń tàaeↄ
+bqc	ń yãbↄnsaɛ pↄ́ ì kɛnɛ́o.
+bqc	Mí gbãakpa gudↄazi.
+bqc	aaì lɛkↄↄlɛkamazi ń ɛɛo.
+bqc	A ye savãi'oa gbɛ̃́ɛi,
+bqc	Má Dii sáaukpa ń lↄↄ gbãao,
+bqc	aà bàakuańnↄ yã́ lí
+bqc	Ì pↄ́ fã́ɛ taasideↄnɛ,
+bqc	Ísia Tɛ̃a è ↄ̃ à bàalɛ̀,
+bqc	Isailiↄ, à Dii náaikɛ!
+bqc	taasi ń pↄsiao tↄ̃̀a.
+bqc	Má lɛ́ pↄ́ má kɛ̀ Diiwaↄ
+bqc	ↄ̃ ma ń kwɛ́ ń Dii tↄ́o.
+bqc	Báaaden gbɛ̃́ pↄ́ lɛ́ mↄ́
+bqc	kɛ́ másu duunakɛnɛo yã́i.
+bqc	Ǹ n yãdilɛnɛↄ damɛɛ.
+bqc	ma suaba lá ń òwa,
+bqc	asa miↄ n ↄtondↄkĩi gwaɛ.
+bqc	asa ma e ma n yãdanɛↄ dàdaɛ.
+bqc	Dↄmalɛ, asa wàlɛ ĩadaa pãɛ.
+bqc	kɛ́ mà e màↄ n yã́ kũa
+bqc	ńsu to tãmaa ma nɛo.
+bqc	asa n ikoyãↄ ni lɛ́ ma dɛɛ.
+bqc	ma suaba, míↄ n yã'onɛↄ kũa.
+bqc	ãma n yã́ ↄ̃ má a vĩa vĩ.
+bqc	mapi n zↄ̀blena, ma wɛɛlɛ,
+bqc	Wa vĩ ń yáo, wá guladↄ,
+bqc	Ayãmɛto wìↄ n vĩa vĩ.
+bqc	i kpɛdↄ Yakↄbu Lua gbãadepiɛ.
+bqc	tó kↄ̃gbɛ̃ↄ ku gudoũ ń
+bqc	ń pↄtuo nɛ́ sɛ̃́iaↄ píi.
+bqc	À luaↄ Lua sáaukpa,
+bqc	Tó Yelusalɛũ yã́ lí dↄmaguo,
+bqc	ń ma zↄ̃lɛa ń ma fɛlɛao
+bqc	Kɛ́ ma mɛ lɛ́ i asii guu we,
+bqc	aaì ↄzↄ̃amazi lɛkpaaĩ.
+bqc	Tó gbɛ̃maa ma gbɛ̃,
+bqc	asa ma gↄ̃ mugɛɛnnↄɛ.
+bqc	má n táasilɛ ń kúu bakwio.
+bqc	Dii sùuu vĩ ń sósobio,
+bqc	ì nísidↄↄ ń gu'ĩaↄwa.
+bqc	Ì yã'o kpã́sã, ↄ̃ lougbɛpi
+bqc	ń pↄ́taa'onkuawaↄ ń bãↄ
+bqc	Dii yãmanaↄ tↄbↄ a guu.
+bqc	ńsu pãkpa n da lɛdamaio.
+bqc	Tó a ma lɛdama mà yãa,
+bqc	mɛ́ n wiilɛ̀ yãdadaai,
+bqc	aà kpɛ́ zɛ́ ì táńnↄ
+bqc	Ma nɛ́, tó Dii n toto, ńsu dilɛ
+bqc	Asa Dii aↄ dɛ n mikpakĩi ũ,
+bqc	asu sãngu ǹ pãalɛ ma yã́ɛo.
+bqc	swã́sɛ ma yã'onɛi.
+bqc	ńsu ǹ aà bɛ gãaɛ baa vĩo.
+bqc	Aà lɛdamamasai a aà kpa gai,
+bqc	ì seelakɛnɛ́ ń gbáo.
+bqc	Màaɛ ń gbɛ̃́ pↄ́ gɛ̃̀ a
+bqc	àlɛ aà bɛ gãaɛ baa vĩvĩ
+bqc	lán bã pↄ́ wã̀ sì fíiuwa.
+bqc	à dↄ̃a sɛ dɛ vua kɛfɛnaa.
+bqc	nibↄnae ku gↄↄ beeo.
+bqc	à a gbapɛlɛↄ ã̀ mɛ̀n sopla a
+bqc	ì lɛzu gbɛ̃́ pↄ́ lɛ́
+bqc	Zaakↄ̃u ì sòle da,
+bqc	lá súɛlɛ ì kɛ wɛ́ɛ,
+bqc	Luayãdansai lɛ́ ì aà
+bqc	kã́fĩa e dɛ a zia,
+bqc	Wì gbɛ̃́ tↄbↄ aà ↄ̃nↄ
+bqc	Laaide ìↄ a dↄ̃a kũa a sↄ̃u,
+bqc	Gbɛ̃maaↄ gupua aↄ pipi,
+bqc	Gbɛ̃́ pↄ́ lí a nɛ́ gbɛ̃o
+bqc	Pↄ̀ↄbↄzãkɛna yãkɛa ì wi
+bqc	Gbɛ̃́ pↄ́ a pↄ lí pa kpaao
+bqc	Dii za gbɛ̃vãi yãkɛau,
+bqc	Wɛ̃ni zɛ́ ì gɛ́ ń laaideↄ
+bqc	Gbɛ̃kɛ ń náaio ì láka
+bqc	Gbɛ̃́ pↄ́ nↄ̀sɛ pàɛ ↄ̃
+bqc	Wì ã́nusu ń vuao baasa,
+bqc	Mìsaide ì a gbɛ̃do fĩa di a
+bqc	aà lɛgbɛ'i ì to pↄ́ mↄ́wà.
+bqc	Wɛzɛ̃na pↄ lí pa kpaao,
+bqc	Nɛ́ pↄ́ ì a mae gbɛ̃ mɛ́ ì
+bqc	a da yáá nɛ́ gia pↄ́ ì
+bqc	Swã́ pↄ́ wì yãmaò ń wɛ́
+bqc	Dii filia ì gbɛ̃nazĩna làasoo
+bqc	Lua maa, ì vãikɛna bɛ tàasika,
+bqc	Dii ye gbɛ̃vãi a gbagbaa gĩyãio,
+bqc	Nↄ̀sɛpuade pↄ́ a lɛgbɛ'i na,
+bqc	Ńsu gbɛ̃pãle fĩa di n miwao,
+bqc	Asa káaluaá ɛ̀ zòoloɛ,
+bqc	ń àizɛɛ maa gawideo.
+bqc	Tó Dii è màa, a kɛɛ̀ nao,
+bqc	Tó n mɛ̀: Má i'o yↄↄ, má
+bqc	Gbɛ̃́ pↄ́ ì gbadaa lɛgbɛ̃
+bqc	Gbɛ̃́ pↄ́ azĩa kũa dↄ̃o
+bqc	Lá gba ìↄ lili a lilibↄu,
+bqc	To wà n sáaukpa, ńsu ǹ nzĩa
+bqc	ade lɛ́ í ↄkũkpaɛ.
+bqc	Ikoyãdansaiↄ ì gãga
+bqc	káaluaↄ bɛ zɛsɛna ì a ↄ̃a
+bqc	Gu pↄ́ Lua yã́ kúuo wìliↄ
+bqc	Aà tↄ́n lai? Aà nɛ́ tↄ́n
+bqc	à kà síiↄ̃ se, aali mɛ pↄ́
+bqc	Ńyↄ̃ fↄ̃ zↄ̃ kṹ ń ↄo,
+bqc	Démɛ a nↄ ãiade ei?
+bqc	Ìↄ gbãa ń gawio daa a pↄkasa
+bqc	ípiↄ i ɛa su swapiↄ miwa.
+bqc	Ma ã́nusu ń vuao kã̀aamazi ń
+bqc	kíaↄ àizɛɛↄ ń ń bùsu
+bqc	pↄ́ↄ.  Ma lɛ̀sinaↄ sɛ̀
+bqc	gↄ̃ɛↄ ń nↄɛↄ, ma nↄ
+bqc	pↄ́ gↄ̃ɛ ì luaiↄ sɛ̀ dasi.
+bqc	Bↄ́ gbɛ̃́ ì e isima pↄ́ a ga
+bqc	kpà dṹniau ń dɛ̃ɛ pↄ́ a
+bqc	kào píi yã́ musui?
+bqc	yã́zɛsai mɛ́ kú we,
+bqc	Wì gbãamↄ gbɛ̃doũnaɛɛ,
+bqc	aà àizɛɛ mìdɛ píi.
+bqc	Gbɛ̃nazĩna a fↄ̃ lɛkpaakɛ
+bqc	a ài vĩ gbɛ̃́ pↄ́ lɛ́
+bqc	Ńsu wã ǹ go aà aɛo,
+bqc	Gɛ ǹ pↄble ń pↄnao, vɛ̃ɛmi
+bqc	ń yaalↄo, asa Lua n yãkɛapiↄ
+bqc	ì to gbɛ̃́pii a mìsaikɛ dↄ̃.
+bqc	Násaa bùsu pↄ́ a kíaá
+bqc	Ńyↄ̃ nzĩa gálɛ lán kwa
+bqc	wí ã́nusu pɛ́lɛpɛlɛu.
+bqc	àlɛ pↄble sũmaavuↄ guu.
+bqc	má dɛdɛ sĩ̀sĩ tulaletidewa.
+bqc	Zↄ̃go lí'ↄ ń aloe lí'ↄo ku
+bqc	Ma gbawɛ̃̀ ma yenzideɛ,
+bqc	aà gbɛɛ dɛ lán wesa swaa
+bqc	yↄↄa pↄ́ wà safii gbɛ
+bqc	lán tue nɛ́ sìaↄwa.
+bqc	tó gbɛ̃e ye gɛ̃ aà yã́ui?
+bqc	ma gbɛ̃́piↄ líↄ yã́ dↄ̃o.
+bqc	Sa pↄ́ wì a pↄ́ kátɛu à
+bqc	a gↄ̃wá púuu lán buawaɛ.
+bqc	an gbɛ̃́ pↄ́ nↄ̀sɛlìlɛↄ
+bqc	Yakↄbu buiↄ, à mↄ́,
+bqc	ń gó'ilɛna bɛɛɛdeↄ píi.
+bqc	Gbɛ̃́ a a dãuna kũ a mae bɛ, i
+bqc	Ma Dii Zĩgↄ̃de, mámɛ málɛ
+bqc	Wibↄwɛ̃ɛ, n tↄ́ iↄ kuwá.
+bqc	Aali Dii yãkɛaↄ dao,
+bqc	Waiyoo gbɛ̃́ pↄ́ aa tↄbↄ̀
+bqc	Aalɛ lɛ́ kú pↄ́wa ń palaao,
+bqc	wà bùsupi tò da fↄ̃̀ↄↄ.
+bqc	À yãma Davidi buiↄ!
+bqc	Bùsuzãzãdeↄ, à swã́kpa!
+bqc	aa zĩ́lɛ gwa, yã'ↄ̃ma mɛ́ a
+bqc	ń le. Aaↄ ku gusia ń pↄsia
+bqc	zↄ̃ↄo guu, aai gↄ̃ gusia
+bqc	gbɛ̃e a a dee wɛ̃nagwao.
+bqc	aai ↄ̃zↄ̃má zɛ́kpaaↄu lán
+bqc	Asa à gↄ̃̀ yↄↄ kɛ́ ma pↄ
+bqc	a aà gba ↄ̃nↄ ń wɛzɛ̃o,
+bqc	za dṹnia gola síiↄ̃ↄwa.
+bqc	Siↄnadeↄ, à wiilɛ à gulakɛ,
+bqc	Saan tↄdeↄ ń a kĩniↄ ikɛ
+bqc	Pɛ̃liↄ ń Libã bùsu sɛdɛ
+bqc	líↄ pↄ kɛ̀na n yã́ musu,
+bqc	ìli a zĩ̀zↄↄ gbaɛ aa tá ń
+bqc	Dibↄ̃deↄ lɛ́ gɛ́ ↄ́ↄlↄi
+bqc	ń tã́akpɛu ń ń sa'okĩiↄwa.
+bqc	lán bã pↄ́ wà ń yá ń
+bqc	sakpɛu aalɛ liaaliaaↄwa.
+bqc	gula ń pↄna wiio dↄ á
+bqc	aa wɛsi Isailiↄ Lua Kuaadoadelɛ.
+bqc	wɛ̃́lɛ ń wɛ̃́lɛo, kpala ń
+bqc	Zoã dↄaanaↄá sↄũↄnɛ,
+bqc	Wɛ́pungu pↄ́ má èpi yã́
+bqc	A diiↄ kálɛa tↄↄlɛ wíwia.
+bqc	À gomala, à to mà ↄ́ↄlↄ
+bqc	Ãma aà de bɛdeↄ a loowà ḿpii,
+bqc	i gbɛ̃́ pↄ́ aa tↄbↄ̀
+bqc	Lá aↄ dɛ ń gbɛ̃́ↄ,
+bqc	pↄna mↄↄna kɛ̀ kyↄ̃́!
+bqc	dṹnia dèe gbã́ugbãu!
+bqc	lán lou gĩgbɛ̃awaɛ,
+bqc	Wá wɛ̃́lɛ gbãa vĩ,
+bqc	e aà pↄkũma gɛ̃zɛa.
+bqc	Bee a láka Yakↄbu buiↄ
+bqc	A kɛfɛnkɛ gawi pↄ́ kú guzulɛ
+bqc	táaede sĩ̀sĩwa lán lávuwa
+bqc	zwãa kɛ̀ teeeũ, a kúńlao.
+bqc	à tó á vĩ̀akɛ àↄ gɛ́!
+bqc	Taasideↄ pↄ a ɛa kɛ na Diiwa,
+bqc	wí a ń kṹ ḿpii bui àisaipi
+bqc	Ayãmɛto duunapi aↄ dɛɛ́
+bqc	tó à á wii mà, a wewá.
+bqc	aà lɛ́na dɛ tɛ́ pↄkaalɛna ũ.
+bqc	Á nↄɛ pↄ́ á kú niɛniɛↄ
+bqc	aa kã́mabou nama guu.
+bqc	aà ulɛkĩi aↄ gbãa
+bqc	Gbɛ̃́ pↄ́ kú wee a mɛ álɛ
+bqc	an bùsu i gↄ̃ lán kↄtaa
+bqc	aaↄ ka a guu wɛ̃ ń wɛ̃o.
+bqc	Gbɛ̃́ pↄ́ Lua ń suabàↄ
+bqc	Aa òɛ̀: Ezekia mɛ̀ yã́ gì
+bqc	gbãɛ, wà wá dá taasiu, wà
+bqc	wá lele, wà widàdawá. Wa gↄ̃
+bqc	lán nↄɛ pↄ́ a nɛ́ kà bↄa
+bqc	mɛ́ yɛ̃̀ɛɛ ku a fↄ̃ iowa.
+bqc	ↄ̃ ma kãikũ̀ ń ɛlɛoa?
+bqc	gɛↄ lí n táasilɛo,
+bqc	Démɛ Dii làasoo dↄ̃i?
+bqc	ì dṹnia dↄaanaↄ sↄaa aa
+bqc	Ísiabaadeↄ, à kɛ ma aɛ
+bqc	ma á sisi za dṹnia gola
+bqc	an kòlo a gaga ń imio.
+bqc	pã sã̀ↄ ń yãkɛaↄwa.
+bqc	a to yã́zɛde zɛdↄ dṹniau,
+bqc	Dii a bↄ ń nɛgↄ̃nkɛo,
+bqc	pìsi a ikoyãwa a yã́zɛde
+bqc	Má Egipiↄ kɛɛ́ á gɛ̃ɛ ũ,
+bqc	mɛ́ an kee aↄ ku ma gbɛao.
+bqc	Sɛ̃̀a nↄ̀bↄↄ ma tↄnasi,
+bqc	ma á ikàsa nɛasakpɛu ma mɛ̀:
+bqc	an yãdↄ̃sai a widamá.
+bqc	Ɔ̃ ì a kĩni kɛ tã́a ũ a dii
+bqc	asa Dii Yakↄbu buiↄ bò,
+bqc	Bↄ́yãi n ma kai dṹniawa
+bqc	Dii a Isailiↄ suaba,
+bqc	Ma lɛgbɛ̃̀ ń mazĩa tↄ́o,
+bqc	Aaì sɛ da ń gã̀u aa taò,
+bqc	í gɛ̃ íu à bua swaↄwa.
+bqc	ńyↄ̃ a yↄ̀ↄ dↄ̃ ǹ kɛo.
+bqc	Asa má dↄ̃ kɛ́ á swã́
+bqc	Mámɛ má Dↄaana ũ,
+bqc	À gɛ̃̀ńnↄ guyaaau, imi i ń
+bqc	kɛ́ ǹ gɛ́ ń suabayão e
+bqc	Démɛ nɛ́ beeↄ ìmɛɛi
+bqc	aà gínzila kú má ni?
+bqc	Lua ma yãnakpamade kumanↄ kãi.
+bqc	Màa ma Dii, má Siↄna nↄ̀sɛ
+bqc	ↄ̃ má ò Siↄnadeↄnɛ aa dɛ
+bqc	fɛlɛ zↄ̃lɛ n báawa.
+bqc	tↄↄlɛlɛdeↄ e píi lá wá
+bqc	Lua a a gbɛ̃́ↄ suaba.
+bqc	à wá wãwãↄ dì a miwa.
+bqc	kɛ́ aa aà dↄ̃ yã́i,
+bqc	Tó wà lɛ̀lɛma, bee i bↄ ma
+bqc	À Dii kĩ́i wɛɛlɛ aà egↄↄ,
+bqc	Sɛ̃̀a nↄ̀bↄↄ píi, à mↄ
+bqc	ń gbɛ̀ lookpaaↄ zíɛo.
+bqc	Tó a wɛ̃na wii lɛ̀,
+bqc	Vãikɛnaↄ dɛ lán ísia í
+bqc	Pↄ́ pↄ́ i mɛ lɛyen wea?
+bqc	wi mɛɛ́ bĩ́igbooa ń uazĩↄ
+bqc	An bapiↄ lí pↄkasa kɛo,
+bqc	wá wá yãkɛaↄ dↄ̃ sa.
+bqc	wa Nɛbaioↄ sãsaↄ kpama ǹ n
+bqc	Baa kɛ́ gbɛ̃́ↄ zàngu yãa
+bqc	ma ↄgbɛ ũ ma zãblea yã́i.
+bqc	aa pↄnakɛ ń ń baao
+bqc	ńyↄ̃ↄ dɛ kíafua ũ á Lua
+bqc	Wa mɛnɛ́ Lua gbɛ̃́ↄ,
+bqc	aa mↄafiliyã kɛmɛɛo,
+bqc	n tↄ́n wá Bona za zi.
+bqc	Gbɛ̃e lɛ́ n sisi lↄo,
+bqc	aaì sa'osawa nↄ̀ↄ só,
+bqc	Má á baa kpáwá fɛ̃nda ũ,
+bqc	ma pↄ a kɛ ma gbɛ̃́ↄwa na.
+bqc	Ma ↄ mɛ́ pↄ beeↄ kɛ̀ píi,
+bqc	Démɛ yã́ bee taa mà yãai?
+bqc	Asa Dii a yã́kpalɛkɛ ń bui
+bqc	píio ń tɛ́o ń fɛ̃ndao,
+bqc	Ma Dii mámɛ má ò.
+bqc	Dii yã'òmɛɛ à mɛ̀:
+bqc	an ãnabiↄ ãnabikɛkɛ̀ ń Baali
+bqc	Zàa'ĩn sa pↄ́ lɛ́ aà
+bqc	Ma gↄ̃ Isailiↄnɛ gbáa
+bqc	ↄ̃ a ɛa lɛ́ sua saa?
+bqc	a táa'ò dii zĩ̀loↄwa
+bqc	asa má tó kìsia zↄ̃ↄ ń
+bqc	asa Yudaↄ bↄ̀ ma kpɛɛ.
+bqc	Dii, sĩana ↄ̃ ńlɛ wɛɛlɛmáo
+bqc	ãma ásu dɛɛlɛ píio.
+bqc	í a kpàwakɛ Yudaↄnɛ à mɛ:
+bqc	aali yã́si ń nɛtonɛↄ, yã́ e
+bqc	í bùsu kálɛ Yelusalɛũ bĩ́i
+bqc	ń ń buaↄ ń ń nↄɛↄ.
+bqc	Mili sa pↄ́ i oa i a pↄ́ kátɛu
+bqc	ma gbɛ̃́ↄ mɛ́ gbɛ̀ mↄde ũ.
+bqc	i gbãsĩkɛ, i ɛɛto ń ma tↄ́o,
+bqc	Ń è lá aalɛ kɛ Yuda
+bqc	miↄ a zↄ̀blena ãnabiↄ
+bqc	à mɛ: Bↄ́yãi ma vãiɛ taa
+bqc	Wà pↄ́ kɛ̀kɛ kↄ̀, saɛ
+bqc	má ń baasa mà gwaɛ.
+bqc	mí kona í kpámá aa mi.
+bqc	Tó gbɛ̃́ ye ĩ́anadã,
+bqc	Aà tↄ́n Dii Zĩgↄ̃de.
+bqc	Ń beeo má yã'onnↄ yã́zɛde
+bqc	Dↄaan dasideↄ ma vɛ̃ɛbuↄ
+bqc	Onɛ́ ma Dii ma mɛ̀, wa vɛ̃ɛ ka
+bqc	tùuↄ guu à pa píi. Tó aa
+bqc	ònɛ wa dↄ̃ kɛ́ vɛ̃ɛ a tùu
+bqc	N tàaeↄ yã́i ↄ̃ wà n zwãa
+bqc	aalɛ pↄ́kuku ń wɛ́a,
+bqc	A yã́i tò yã́ pↄ́ ma Dii
+bqc	má ò ãnabi pↄ́ mi ń zĩo,
+bqc	mɛ́ aalɛ ãnabikɛkɛ ń ma
+bqc	tↄ́opiↄ musun kɛ: Aalɛ mɛ zĩ
+bqc	ge nↄana a gɛ̃ ń bùsuuo, kási
+bqc	sↄ̃ zĩ ń nↄanao mɛ́ a ń
+bqc	Aawo Dii wá Lua, ḿmɛ ni tó,
+bqc	má tó aa kua ń nɛ́ↄwa,
+bqc	To ma yã́ àↄ dↄngu, ní
+bqc	mí n si nↄ̀sɛpãsĩdepiↄwa.
+bqc	Wà Yudaↄ duuna yã́ kɛ̃̀nɛ́
+bqc	ń sↄ̃wa ń pɛ̃nkɛ̃bↄo.
+bqc	Ma Dii, mámɛ mi sↄ̃ yↄɛ,
+bqc	Dii òmɛɛ: Gɛ ǹ zɛ Gbɛ̃́ↄ
+bqc	Bↄlɛu, gu pↄ́ Yuda kíaↄ
+bqc	ìↄ gɛ̃u, aaìↄ bↄu, ní
+bqc	gɛ́ Yelusalɛũ bↄlɛ kĩniↄu
+bqc	Aamɛ waↄ gɛ́ ń yã́ pↄ́
+bqc	To wà ń gↄ̃ɛↄ dɛdɛ aa gaga,
+bqc	Kɛ́ gu dↄ̀ Pasuu Zelemii bↄ̀
+bqc	líu, ↄ̃ Zelemii òɛ̀: Dii a
+bqc	ni nↄ̀sɛ ń làasooo gwagwa.
+bqc	O Yudaↄ kí bɛdeↄnɛ aa Dii
+bqc	Wi onɛ́, kɛ́ aa Dii ń Lua
+bqc	bàakuańnↄ yã́ tò we, aa
+bqc	gɛ̀ kùlɛ dii pãleↄnɛ aa
+bqc	Á e su bùsu pↄ́ áↄ a
+bqc	Aaì to àↄ yiongo lɛ́baa
+bqc	Ãnabipiↄ ɛɛ kũa ń nↄ̀sɛ
+bqc	guu. Bↄɛ aa zɛ sã́sãyã
+bqc	Aa mɛ̀ ásu tɛ tã́aↄzi à
+bqc	zↄblenɛ́ à kúlɛnɛ́o. Ásu
+bqc	to Dii pↄ fɛ̃ á pↄkɛaↄ
+bqc	A kↄ̃fĩ a gɛ́ e dṹnia
+bqc	Kɛ́ Zelemii yã́ pↄ́ Dii dàɛ
+bqc	à o gbɛ̃́ↄnɛ ònɛ́ a làa,
+bqc	sa'onaↄ ń ãnabiↄ ń gbɛ̃́
+bqc	kĩniↄ píi aa ↄpɛ̀lɛwà aa
+bqc	Ɛɛ pↄ́ aalɛ ãnabikɛkɛoɛ́
+bqc	mɛ́ a to wà á kũkũ
+bqc	táánↄ, íↄ zã̀ ń á
+bqc	bùsuo. Má ↄzↄ̃áziɛ, we á
+bqc	À lápi kɛ̃̀ kí Yɛkↄnia ń
+bqc	a dao ń a ìwaↄ ń Yuda
+bqc	gbɛ̃zↄ̃ↄↄ ń Yelusalɛũ
+bqc	gbɛ̃zↄ̃ↄↄ ń siaↄ ń
+bqc	li'ãnaↄ kṹkũa Yelusalɛũ
+bqc	taańnↄ Babɛli gbɛaɛ.
+bqc	a yã́i ma Dii ma mɛ̀, má ĩada
+bqc	Nɛɛla gbɛ̃́ Semaiapiwa ń aà
+bqc	buiↄɛ. Aà buie a e àↄ ku ma
+bqc	gbɛ̃́ↄ guuo, mɛ́ a ɛ̀fãai
+bqc	pↄ́ má kɛ ma gbɛ̃́ↄnɛ eo,
+bqc	kɛ́ a ònɛ́ aa bↄ ma kpɛ
+bqc	yã́i. Ma Dii mámɛ má ò.
+bqc	gbɛ̃e a to vĩa ń kṹ lↄo.
+bqc	Ma Dii mámɛ má ò.
+bqc	Ma yeaázi láaa vĩo,
+bqc	Asa má Yakↄbu buiↄ bo,
+bqc	Ma Dii mámɛ má ò.
+bqc	Gↄↄ bee aa mɛ maeↄ vɛ̃ɛbɛ
+bqc	kũ̀ma blè ↄ̃ nɛ́ↄ swaa
+bqc	Ma Dii ma mɛ̀ gↄↄe a mↄ́ kɛ́
+bqc	wa ɛa wɛ̃́lɛpi kálɛmɛɛ sɛa
+bqc	za Ananɛli kalangawa e Gola Bↄlɛu.
+bqc	A yã́i tò ma Dii ma mɛ̀ má
+bqc	wɛ̃́lɛpi na Babɛli kí
+bqc	Nɛbukanɛza ń Babiloniↄnɛ ń
+bqc	Ma Dii Zĩgↄ̃de ma mɛ̀, guɛ
+bqc	beeá bɛziaɛ, gbɛ̃nazĩna ge
+bqc	pↄtuo ku a guuo, kási a wɛ̃́lɛ
+bqc	píi a ɛa àↄ dã́dãkɛkĩi
+bqc	vĩɛ, sãdãnaↄ i ń sãↄ
+bqc	Gbɛzã aa nↄ̀sɛ pãle sɛ̀, aa
+bqc	ɛ̀a zↄ pↄ́ aa ń kɛ̃́piↄ
+bqc	Yudaↄ kí Yoakiũ, Yosia nɛ́
+bqc	kpalablea wɛ̃̀ síiↄ̃de guu, Dii
+bqc	yã'ò Zelemiiɛ à mɛ̀:
+bqc	Má aà tàae ń aà nɛ́ↄ
+bqc	tàaeo ń aà ìwaↄ tàaeo wí
+bqc	ń musuɛ, mí yã́ pↄ́ ma mɛ̀
+bqc	má yía Yelusalɛũdeↄwa ń
+bqc	Yudaↄ píi yíamá píi, kɛ́
+bqc	aai ma yãmao yã́i.
+bqc	ↄ̃ Ɛbɛmɛlɛkipi bↄ̀ aà bɛ,
+bqc	à aà nɛ́ↄ dɛ̀dɛ aà wáa
+bqc	ń Yuda bùsu kíabuiↄ píi.
+bqc	Ɔ̃ Aikaũ nɛ́ Gedalia, Safana
+bqc	tↄũna lɛgbɛ̃̀nɛ́ ń ń
+bqc	gbɛ̃́ↄ à mɛ̀: Ásu zↄblea
+bqc	Babiloniↄnɛ vĩakɛo. À zↄ̃lɛ
+bqc	wá bùsuu la, í zↄble Babɛli
+bqc	kíaɛ, yã́ i bↄánↄ na.
+bqc	Ɔ̃ aa ò Zelemiiɛ: Lá Dii n Lua
+bqc	su onɛ wà kɛ, tó wi zĩkɛwà
+bqc	píio, Diipi mɛ́ aↄ dɛ wá
+bqc	seelade sĩande náaide ũ.
+bqc	A ĩatɛ̃ kpɛ́ pↄ́ kú Egipi
+bqc	gbɛ̀pɛlɛↄ wíwi, i tɛsↄ̃
+bqc	Ma Dii ma mɛ̀ má Egipiↄ kí
+bqc	Falaↄ̃ↄ Ɔfɛla na aà ibɛɛ
+bqc	pↄ́ lɛ́ aà wɛɛ a ↄzĩɛ,
+bqc	lá ma Yudaↄ kí Zedekia nà a
+bqc	ibɛɛ Babɛli kí Nɛbukanɛza pↄ́
+bqc	lɛ́ aà wɛɛ a ↄzĩwa.
+bqc	Lá á Taboo dↄ̃ gbɛ̀sĩsĩ
+bqc	ásu to vĩa á kũo.
+bqc	Asekelonideↄ lɛ́ gↄ̃̀ kpaaũa.
+bqc	í mɛ an gopana gbãa làa,
+bqc	lán kpã́i wa kũ̀wao lé?
+bqc	má ń midɛ Mↄabu bùsuuɛ.
+bqc	Gbɛ̃́ pↄ́ lɛ́ bàalɛ
+bqc	yãpãsĩpiɛↄ zu ɛuɛ,
+bqc	má bↄmá ń ulɛkĩiↄ guuɛ,
+bqc	aaiↄ a láanikɛ wɛ́tɛ̃a pↄ́
+bqc	Pↄsia ń wãwão tↄ̃̀má,
+bqc	mí ń fãaa dṹnia gola
+bqc	vĩa ń tã́apiↄ kũ̀ píi.
+bqc	Aa Babiloni bùsu pↄ́ↄ naaa,
+bqc	Asiliↄ kía mɛ́ ń mↄmↄ
+bqc	í a míↄnzↄ̃, a kee su gↄ̃o.
+bqc	aà tↄ́n Dii Zĩgↄ̃de.
+bqc	Aa sáↄ ń sↄ̃naↄ kṹkũa,
+bqc	ásu to aa ń mↄ̀ ulaↄ dao.
+bqc	asa à zɛ̀ ń aà kaalɛaoɛ,
+bqc	À gudↄkↄ̃ɛkĩi dilɛ
+bqc	Wa lɛ́lɛ Babɛliwaɛ fá!
+bqc	Lá Babɛlideↄ gbɛ̃́ↄ dɛ̀dɛ
+bqc	ń aà gbãadeↄ ń aà
+bqc	À taasideↄ ń gbɛ̃́ pↄ́
+bqc	tàńnↄ Babɛli ń gbɛ̃́ pↄ́
+bqc	gɛ̀ nà Babɛli kíawaↄ.
+bqc	Yelusalɛũ duuna zↄ̃ↄ,
+bqc	à ma to ń aafiasaio gↄↄpii.
+bqc	gↄↄ pↄ́ aalɛ blɛ wɛɛlɛ,
+bqc	Ma wɛ́ lɛ́ wo ń ↄↄlↄo,
+bqc	à yã́ pↄ́ a dìlɛ za zi
+bqc	Vãi ń maao ì gbɛ̃́ le Lua
+bqc	Kɛ́ ma suaba wiilɛ̀, ń mà,
+bqc	Nɛ́ yↄ̃minaↄ lɛ́na nàalɛ
+bqc	ń lɛ́ musu imi yã́i.
+bqc	Ɔ̃ aaìↄ ↄmalɛmalɛ zɛaↄ guu
+bqc	wa táánↄ zĩ̀zↄↄ ũ lↄo.
+bqc	ɛ̀waasoↄ kã́mabò ń lɛsiao.
+bqc	Pↄ́ bɛ̃́ɛpiↄ wãa lán
+bqc	loupilɛawa, aaìↄ gɛ́, aaìↄ
+bqc	I kɛ bui dasi pↄ́ an buiyã maa
+bqc	ĩa mɛ́ an yã'oa zĩ'ũ mɛ́
+bqc	ńyↄ̃ ń yãmaoↄ kĩ́i no.
+bqc	Tó ampiↄ málɛ n zĩmá, aa
+bqc	Mase ń naao ń bláao ń nasio ń
+bqc	éseo ń weao sɛ ka ta doũ guu,
+bqc	ní a blɛkɛ ǹyↄ̃ ble gↄↄ
+bqc	ↄ̀aa do kwisai pↄ́ ńyↄ̃
+bqc	wúlɛa n gbã̀tɛ̃ɛwapiu.
+bqc	Isailiↄ, má á gɛↄ kálɛ á
+bqc	tã́aↄ aɛ, mí á wáↄ fãaa
+bqc	mà lia á sa'okĩiↄzi.
+bqc	À gↄↄpi gwa, à kà! Yã́
+bqc	Aa ń ã́nusuↄ kↄ́lɛ zɛaↄ
+bqc	Ɔ̃ a ònɛ́: À ń gɛↄ kálɛ
+bqc	ma ua, í ma kpɛ́ gbãlɛò. À
+bqc	gɛ́! Ɔ̃ aa sì wɛ̃́lɛu, aalɛ
+bqc	Ayãmɛto ãnabikɛkɛnɛ́.
+bqc	Gbɛ̃nazĩn nɛ́, ãnabikɛkɛ.
+bqc	Gbɛ̃nazĩn nɛ́, Isaili
+bqc	swã́gbãadepiↄ i ń la bↄ́
+bqc	O soolɛnapiↄnɛ, bĩ́ipi a kwɛɛ.
+bqc	Dii a to lou bílibili ma ń gbɛo
+bqc	ń zàa'ĩan gbãao.
+bqc	ma Dii Lua ma mɛ̀, ń ma kuao tó
+bqc	gbɛ̃ↄn àaↄ̃piↄ ku we, aa
+bqc	fↄ̃ ń nɛgↄ̃ɛↄ ge ń
+bqc	nɛnↄɛↄ misio, mɛ́ i kɛ anzĩa
+bqc	Ɔ̃ n n vua ń ã́nusuo
+bqc	nↄamblebↄ pↄ́ má kɛ̀nɛpi
+bqc	keeↄ sɛ̀ n tã́agↄ̃ɛↄ
+bqc	pìò, ↄ̃ n káaluakàńnↄ.
+bqc	I kɛ n ń ↄlɛsɛ̀ n ń
+bqc	yãbɛ̃ɛkɛaↄ kɛ̀ yↄↄ no, n
+bqc	ↄ̃̀ↄkpaa dɛńla n yãkɛaↄ
+bqc	Ɔ̃ kíabuipi bↄ̀ aà kpɛ, à
+bqc	zĩnaↄ zĩ̀ Egipi sↄ̃́ↄ ń
+bqc	zĩgↄ̃ↄ wɛɛlɛi dasi. Kípi a
+bqc	gɛ́ aɛe? Yã́pikɛna a bↄe? A
+bqc	lɛdoũpi gboo, i bↄa?
+bqc	Ìli a gbɛ̃́dee nↄ wɛɛlɛo,
+bqc	ìli a gbɛ̃́dee nↄ wɛɛlɛo,
+bqc	À wùlɛ nↄ̀ↄmusu saↄ
+bqc	Isaili bùsu gbɛ̀sĩsĩↄ
+bqc	Ma kã́mabogↄↄ yãdànɛ́ lↄ
+bqc	seela ũ wá zãnguo, kɛ́ aa e
+bqc	dↄ̃ kɛ́ ma Dii ma ń sɛ́ ma
+bqc	Tó ma suánↄ Isaili bùsu pↄ́
+bqc	ma a lɛgbɛ̃̀ á deziↄnɛ guu,
+bqc	á dↄ̃ sa kɛ́ mámɛmaa Dii.
+bqc	wa fɛlɛ ń Isaili kíaↄ píiɛ.
+bqc	Gbɛ̃nazĩn nɛ́, ãnabikɛkɛ ǹ
+bqc	mɛ, ma Dii Lua mámɛ ma yã́ɛ bee
+bqc	yãzↄ̃zↄ̃a Isailiↄnɛ yã́i.
+bqc	Lá wì ã́nusu yↄ muau, màa
+bqc	á yↄ́ wɛ̃́lɛpi guu, íↄ
+bqc	dↄ̃ kɛ́ ma Dii mámɛ ma
+bqc	À a wɛ̃́ndiagↄↄ dↄ́ɛ'ĩi
+bqc	bɛɛkɛ̀, gↄↄ pↄ́ wà ↄ
+bqc	bìibii aà yↄ̃́ↄwa Egipi,
+bqc	N zↄ̃lɛ wúlɛkĩi kɛfɛnawa,
+bqc	pↄ́ↄ kálɛa táabũnuwa n aɛ
+bqc	ń ma tulaletio ń ma nísio.
+bqc	A yã́i ma Dii Lua ma mɛ̀,
+bqc	Máↄ dɛɛ́ seela ũ. Lá má
+bqc	kɛ̀ píi, ápiↄ sↄ̃ á kɛɛ,
+bqc	íↄ dↄ̃ kɛ́ Dii mɛ́ Lua ũ.
+bqc	Aà sↄ̃́ↄ dasi gɛ̃agɛ̃̀, an
+bqc	luutɛ̃ i kunla. N bĩ́iↄ deedee
+bqc	sↄ̃́goↄ kↄ̃fĩ yã́i, i
+bqc	gɛ̃ n bĩ́ibↄlɛu lá wì gɛ̃
+bqc	wɛ̃́lɛ pↄ́ wà a bĩ́i
+bqc	N zwã̀akpɛ zwãaá zwã̀a
+bqc	ń kãa, n tↄbↄ̀ ísia guo
+bqc	Buiↄ laatanaↄ lɛ́ lɛsuikɛkɛma,
+bqc	Gbɛ̃nazĩn nɛ́, wɛ̃nalɛɛ bee
+bqc	da ń Tii kíao, ní mɛɛ̀ ma Dii
+bqc	Gbɛ̃nazĩn nɛ́, wɛbiibii Sidↄ̃
+bqc	oi, ní ãnabikɛkɛ a yã́ musu
+bqc	Má n kpa wàiↄ ń bãↄwa ń
+bqc	Aaↄ dɛ Isailiↄ gbãa'ekĩi ũ
+bqc	lↄo, Isailiↄ i dↄ̃ sa ń zɛa
+bqc	ń Egipiↄá duunaɛ, aaiↄ dↄ̃
+bqc	kɛ́ mámɛmaa Dii Lua.
+bqc	an dↄnlɛdeↄ kɛ kɛ́lɛkɛlɛ
+bqc	Ma Babɛli kía gba gbãa,
+bqc	kpakpaa lí gↄ̃nda gèele sáa no.
+bqc	má tó saanaↄ siakũ.
+bqc	Egipi ń a zĩgↄ̃ dasiↄ yã́
+bqc	Tó má ò gbɛ̃maaɛ aↄ kuɛ,
+bqc	mɛ́ àlɛ a gbɛ̃maakɛ náaikɛ,
+bqc	à gɛ̀ lɛ́ duunakɛ, aà maakɛa
+bqc	kee aↄ dↄmagu lↄo. A ga duuna
+bqc	Ma Dii Lua ma mɛ̀ má fɛlɛánↄ,
+bqc	má a sãↄ bↄlɛ á ↄzĩ,
+bqc	mí á bↄlɛ sãdãu, kɛ́ ásu
+bqc	e laaidↄ ázĩawa lↄo yã́i.
+bqc	Má a sãↄ bↄ á lɛ́zĩɛ,
+bqc	aaↄ dɛ á pↄblea ũ lↄo.
+bqc	Má tó á bùsu gↄ̃ da yàaaɛ
+bqc	e gↄↄpii, á wɛ̃́lɛↄ gↄ̃
+bqc	bɛziaↄ ũɛ, íↄ dↄ̃ kɛ́
+bqc	Má á kãaa buiↄ guu, má á
+bqc	bↄ bùsu ń bùsuo, mí suánↄ
+bqc	Gbɛ̃nazĩn nɛ́, go sɛ ǹ
+bqc	lákɛ̃wà ǹ mɛ, Yudaↄ ń ń
+bqc	gbɛ̃́ Isailiↄ pↄ́ɛ. Gò
+bqc	pãle sɛ lↄ, ní lákɛ̃wà ǹ
+bqc	mɛ, Yosɛfu pↄ́ɛ, Ɛflaiũ buiↄ
+bqc	ń ń gbɛ̃́ Isailiↄ píi
+bqc	Ma Dii Lua ma mɛ̀, gↄↄ bee, tó
+bqc	Gↄgu lɛ̀lɛ Isaili bùsuwa, má
+bqc	fɛlɛ ń pↄbↄa ma níuo.
+bqc	Ayãmɛto ma Dii Lua ma mɛ̀, ma
+bqc	pↄfɛ̃ pãsĩ a fɛlɛ ma tↄ́
+bqc	pↄ́ a kua adoa yã́ musu, mí
+bqc	Yakↄbu buiↄ bↄ zĩ̀zↄkɛu
+bqc	mà suńnↄ, mí Isailipiↄ
+bqc	A dɛdɛkĩi gbápɛpɛkĩi soplaɛ,
+bqc	mɛ́ a bilandaa ku a lɛ́ kpɛle.
+bqc	Daminali gↄ̃inaↄ ku a lɛ́
+bqc	gĩↄwa kpɛla ń kpɛleo.
+bqc	Màa kpɛ́nɛ pↄ́ liaa Lua kpɛ́i
+bqc	didiakↄ̃api musu yàasa dɛ a
+bqc	zĩ́lɛa. A dɛdɛkĩi vĩ e a
+bqc	Kpɛ́nɛↄ nana bĩ́iwa Lua kpɛ́
+bqc	gɛↄmidↄkĩi oi lↄ, bↄaa ń
+bqc	kpɛ́ pↄ́ kú gɛↄmidↄkĩi
+bqc	ní a au dã máma sa'okĩi
+bqc	kↄ́ba mɛ̀n síiↄ̃ↄwa ń a
+bqc	swã́ zↄ̃ↄ gola mɛ̀n
+bqc	síiↄ̃ↄ ń pↄ́ pↄ́ wa bò
+bqc	wa lìaipiↄ, ní gbãbↄɛ̀, i
+bqc	Aali pↄ́ pↄ́ dɛ ma pↄ́ ũ
+bqc	dↄ̃akↄ̃ɛ ń pↄ́ pↄ́ dɛ
+bqc	ma pↄ́ ũoo dada ma gbɛ̃́ↄnɛ.
+bqc	Màa lↄ ń pↄ́ gbãlɛa ń a
+bqc	gbãlɛsaio dↄ̃akↄ̃ɛo.
+bqc	Gↄↄ bee kí mɛ́ ali gáae kpa
+bqc	duun awakpabↄ ũ api ń a
+bqc	Gↄ̃pi gɛ̀ gukpɛ oi, a bà
+bqc	pↄyↄ̃bↄ kũa. À ba yↄ̃̀
+bqc	gã̀sĩsuu ↄ̀aa sↄo lɛ́u,
+bqc	ↄ̃ à ma sɛ bùamanↄ íwa,
+bqc	ípi wá kṹ wá kɛ̀sɛwoũ
+bqc	Dii tↄↄlɛpi aↄ dɛ sa'onaↄ
+bqc	pↄ́ ũɛ. Gugbãntoo oi
+bqc	gã̀sĩsuu ↄ̀aasↄsↄo lɛɛ
+bqc	baasↄo (25.000), bɛ'aɛ oi lɛɛ kwi
+bqc	(10.000), gukpɛ oi lɛɛ kwi (10.000),
+bqc	gɛↄmidↄkĩi oi lɛɛ baasↄo
+bqc	(25.000). Dii kúkĩi aↄ ku
+bqc	Yuda buieↄ kú ń guu, Daniɛli ń
+bqc	Ananiao ń Misaɛlio ń Azaliao.
+bqc	ↄ̃ Daniɛli aà là à mɛ̀:
+bqc	Bↄ́yãi kía yãpãsĩpi
+bqc	dìlɛi? Ɔ̃ Alioki yã́pi dàu a
+bqc	Nanapin we. Kí, wá a
+bqc	Kí, tó wà wá zú mua tɛ́u,
+bqc	wá Lua pↄ́ wi zↄbleɛ̀ a fↄ̃
+bqc	wá bↄu, i wá bↄ n ↄzĩ.
+bqc	Malaikaↄ mɛ́ yã́ pↄ́ Lua
+bqc	dìlɛpi ò, aà gbɛ̃́piↄ mɛ́
+bqc	yã́ pↄ́ Lua zɛ̀o kpàwakɛ̀,
+bqc	kɛ́ gbɛ̃́ pↄ́ kúↄ e dↄ̃
+bqc	Musude mɛ́ iko vĩ gbɛ̃nazĩna
+bqc	kpalaↄwa. Ì gbɛ̃́ kpá kpalau
+bqc	lá a yeiwa, baa gbɛ̃́ kpɛɛna se.
+bqc	Kɛ́ kía na kía ń bùsu
+bqc	gbɛ̃zↄ̃ↄↄ zↄa mà, à
+bqc	gɛ̃̀ńzi blɛblekpɛu à mɛ̀:
+bqc	Adeↄ n dↄ̃ ń aafiao Záai!
+bqc	Ńsu to n làasoo n pↄ yao, ńsu
+bqc	Ɔ̃ kí Daliusi yã́pi dìlɛ à
+bqc	Ma gí lɛ́ gwa walayã pↄ́
+bqc	kↄ́bapi lɛ́ o yã́i, ↄ̃ ma
+bqc	gí lɛ́ gwa e wà gɛ̀ wàipi
+bqc	dɛ̀, wà aà gɛ tↄ̀lↄzↄ̃̀
+bqc	Ɔ̃ má mà malaika lɛ́ yã'o,
+bqc	ↄ̃ malaika pãle aà là à
+bqc	mɛ̀: Wɛ́pungu'ea yã́pi aↄ
+bqc	gɛ́ e bↄɛ ni? Sa pↄ́ wìↄ o
+bqc	lá gu lɛ́ dↄ yã́pi ń tàae
+bqc	pↄ́ a yã́ a dimáo ń Lua
+bqc	kpɛ́ kpaamáo ń ↄ̃zↄ̃a
+bqc	Dii, lá n yãkɛaↄ maa píi, ǹ
+bqc	n pↄkũma ń n pↄfɛ̃o wee n
+bqc	wɛ̃́lɛ Yelusalɛũ ń n
+bqc	gbɛ̀sĩsĩowa sa, asa Yelusalɛũ
+bqc	ń wá gbɛ̃́ pↄ́ dɛ ń
+bqc	gbɛ̃́ ũↄ gↄ̃̀ láanipↄ
+bqc	ũ gbɛ̃́ pↄ́ liaawáziↄnɛ
+bqc	píiɛ wá duuna ń wá deziↄ
+bqc	à mɛ̀: Lua gbɛ̃́ yenzide, ńsu
+bqc	to vĩa n kũo. Ńyↄ̃ↄ kú ń
+bqc	aafiaoɛ! Ǹ n mɛ kpálɛ!
+bqc	Sↄ̃dilɛ! Kɛ́ à yã'òmɛɛ,
+bqc	ma gbãakũ̀, ↄ̃ ma mɛ̀: Dii,
+bqc	yã'omɛɛ sa, asa n ma gba gbãa.
+bqc	Gugbãntoo kía a da a bùsu zɛ́u
+bqc	ń àizɛɛ zↄ̃ↄo, ãma a
+bqc	vãikpaaĩ ń gbɛ̃́ pↄ́ Lua
+bqc	yã́yiamá, i gbasa ta a bùsuu.
+bqc	Mpi sↄ̃ gɛ́ e n gↄↄ lɛ́wa.
+bqc	Ńyↄ̃ ã́nuato, ní fɛlɛ ká
+bqc	yã́piↄ yã́i má aà wɛtãɛ.
+bqc	Lá mapi á Lua ikoyã sã̀águ,
+bqc	Bui pↄ́ dↄ̃a vĩo ì kaalɛɛ.
+bqc	Yudaↄ ì gɛ̃mbↄlɛńnↄ
+bqc	e aaↄ ń tàae dↄ̃, aai ma
+bqc	màa sa'on gãliↄ ì kɛ,
+bqc	ↄ̃ aa gↄ̃̀ lán kàagbaala
+bqc	asa aa ma bàakuańnↄ yã́ gbòo,
+bqc	ↄ̃ sa'okĩipiↄ gↄ̃̀nɛ́
+bqc	kpelewa aa kɛ gↄↄpiↄ zĩ́i?
+bqc	lán nↄ̀ↄ pↄ́ toenaↄ ń
+bqc	Lá aa gì nↄ̀sɛlilɛi,
+bqc	Ma Dii mámɛ má ò.
+bqc	Mámɛmaa Dii á Lua,
+bqc	lán kↄↄkↄↄ fíi pↄ́ ì
+bqc	Bɛda, n gbɛ̃kaalɛbↄ sↄ̃ bɛ?
+bqc	ń gbɛafuↄ ń daminaↄ ń maoↄ.
+bqc	mɛ́ an pↄblekĩiↄ tɛkũ̀.
+bqc	an zĩkabↄↄ lɛ́ kpánɛ́o.
+bqc	Siↄnadeↄ, à pↄnakɛ,
+bqc	e Dii mↄgↄↄ zↄ̃ↄ pↄ́ a to
+bqc	vĩa ń kṹ àↄ ká.
+bqc	mí yã́ pↄ́ á kɛ̀nɛ́pi
+bqc	ãma Dii aↄ dɛ ulɛkĩi ũ a
+bqc	Má tó tɛ́ fɛlɛ an kí Azaeli
+bqc	Ɛdↄũↄ tàaekɛ̀ gɛ̃n
+bqc	Mↄabuↄ gaga zĩ̀ zↄa guuɛ
+bqc	Mámɛ ma Amↄleↄ kàalɛɛ́
+bqc	Nↄ̀ↄkusi ì pala a tòou
+bqc	ge a swã́ miↄna bↄ nↄ̀ↄmusu
+bqc	íↄ á pↄ́ kwide kpa we wɛ̃̀
+bqc	àaↄ̃ ń wɛ̃̀ àaↄ̃o.
+bqc	á ní lɛ́ dↄkĩi eo,
+bqc	Ásu gɛ́ lousisii Bɛtɛlio,
+bqc	Baa gupuan beeena aↄ vĩo.
+bqc	Lá álɛ e Lua ĩadaawá gↄↄ
+bqc	Isailiↄ, málɛ tɛ́kpa buieu à
+bqc	gbɛ̃e a ń wo bùsu pↄ́ má
+bqc	Ɔ̃ aa wiilɛ̀ Diiwa aa mɛ̀: N
+bqc	yã́ na Dii! Ńsu wá kaalɛ
+bqc	gbɛ̃́ɛ bee wɛ̃nibↄa yã́io.
+bqc	Dii, ńsu wá dilɛ tàaedeↄ ũ
+bqc	aà dɛa yã́ musuo, asa n n
+bqc	Dii yã'ò kpↄpiɛ, ↄ̃ à
+bqc	Yonasi pìsi sĩ̀sĩa.
+bqc	Gbɛ̀sĩsĩↄ lɛ́ yↄ́ aà
+bqc	Zaanadeↄ bↄlɛ á gwaio,
+bqc	Gↄↄ bee wa yãadańnↄ,
+bqc	Gbɛ̃́ pↄ́ zɛwɛ̃̀nɛ́ a
+bqc	Buiↄ gɛ́ we dasi, aai mɛ:
+bqc	e gↄↄ pↄ́ nɛ'ina a gɛ nɛ́pi
+bqc	í á wɛ̀lɛpiↄ dɛdɛ píi.
+bqc	ń Aalonao ń Miliaũo.
+bqc	mɛ́ a gbɛ̃́ kĩniↄ ì ɛɛtoto,
+bqc	An gbɛ̃maaↄ dɛ lán lɛaawa,
+bqc	gↄↄ bee a kálɛa a yàasa kṹ.
+bqc	Ńyↄ̃ náaiyã kɛ Yakↄbu
+bqc	a a ibɛɛpiↄ ya ń kpá gusiau.
+bqc	Asa gbɛ̃waanaↄ mↄ̀ ń bùsu
+bqc	an gbázĩna lɛ́ lua,
+bqc	Tɛ́ lɛ́ kṹ bↄlɛpiↄ
+bqc	aaì bùsu kãaa bĩ́izi aa sí.
+bqc	Yã́ pↄ́ ń è dalau,
+bqc	N lɛkpàaĩ gbɛ̃dɛdɛa dasi
+bqc	N za fɛ̃̀ swa'ↄnaↄzi nɛe?
+bqc	taasi ń yeelɛao gↄↄɛ lↄ.
+bqc	Dii yã́ pↄ́ a á le òɛ́.
+bqc	A ↄloo gugbãntoodeↄla,
+bqc	a maa, ìli vãikɛo.
+bqc	Á ázĩa sɛ lɛsĩ ma
+bqc	má á gbɛ̃́ pↄ́ wà ń
+bqc	Ma Dii Zĩgↄ̃de ma mɛ̀, kpɛ́ɛ
+bqc	bee gawi gbɛzã zↄ̃ↄ aↄ dɛ a
+bqc	káaua. Ma Dii Zĩgↄ̃de ma mɛ̀,
+bqc	má aafia pisi guɛ beewa.
+bqc	Malaikapi mɛ̀ mà ɛa yã́ɛ bee
+bqc	kpàwakɛ lↄ: Dii Zĩgↄ̃de mɛ̀
+bqc	nama aↄ ku a wɛ̃́lɛↄ guuɛ. Dii
+bqc	a Siↄna wɛ̃nagwa, i ɛa
+bqc	Kuli mɛ̀n pla ku a saɛ,  ado
+bqc	nísikakĩi ↄplaa oi, ado zɛɛ oi.
+bqc	Kɛ́ sↄ̃́ gbãapiↄ bↄ̀lɛ,
+bqc	an mɛ lɛ́ kɛ fèfe ń sia
+bqc	dṹniauo. Ɔ̃ malaika mɛ̀: À
+bqc	gɛ si dṹniau. Ɔ̃ aa sìu.
+bqc	mí suńnↄ aaↄ ku Yelusalɛũ,
+bqc	aai gↄ̃ ma gbɛ̃́ↄ ũ, míↄ
+bqc	dɛ ń Lua ũ a zɛ́wa sĩana.
+bqc	Gazadeↄ lualua maamaa
+bqc	Á zĩ̀zↄ pↄ́ á dↄ̃ á
+bqc	Tã́aↄ ì yãyaaa'o,
+bqc	má ń boɛ, aaiↄ dasi lán
+bqc	Mↄ doũ guu ma sãdãnaↄ dɛ̀
+bqc	àaↄ̃. Ma sãↄ ye ma gĩyãio,
+bqc	Gↄↄ bee wí a ãnabi píi kṹ
+bqc	yã́ pↄ́ aalɛ e oa yã́ musu.
+bqc	Aa ãnabikɛ pↄ́kã ula da aa
+bqc	gbɛ̃́ↄ sã́sãò lↄo.
+bqc	Gↄↄ bee Dii a to gili gɛ̃ńgu
+bqc	maamaa, aa kↄ̃ kṹkũ kↄ̃
+bqc	ↄpizĩ, aai liaa ń kↄ̃o.
+bqc	Ápiↄ sↄ̃ a pãzɛa, á
+bqc	yãdanɛↄ tò gbɛ̃́ↄ fù
+bqc	dasi, a ma bàa kua ń á Levii
+bqc	buiↄ gbòo. Ma Dii Zĩgↄ̃de
+bqc	Ma Dii Zĩgↄ̃de ma mɛ̀: Gↄↄ
+bqc	pↄ́ ma bↄ ń yã́o, á
+bqc	ↄ̃zↄ̃ gbɛ̃vãiↄwa, aaↄ dɛ
+bqc	Zĩbeezĩ gↄ̃ɛ tã́adee ku
+bqc	kpɛ́pi guu. Aà tã́a mↄ̀, a
+bqc	Wegↄ̃ↄ Yesu dↄ̃̀ a nↄ̀sɛ
+bqc	guu làasoo pↄ́ aalɛ kɛ, ↄ̃
+bqc	à ń lá à mɛ̀: Bↄ́yãi
+bqc	álɛ làasoo bee taa kɛ á
+bqc	Asa Yesu ìↄ gbɛ̃́ↄ gbãgbã
+bqc	dasiɛ, ↄ̃ gyãeↄ lɛ́ naɛwà
+bqc	dasi kɛ́ aa e ↄkãwà.
+bqc	A keeↄ lɛ̀lɛ gbɛsɛɛna musu, gua
+bqc	pↄ́ tↄↄlɛ gèeleuo, ↄ̃ aa
+bqc	bↄ̀lɛ gↄ̃̀ↄ, kɛ́ tↄↄlɛ
+bqc	Yesu Lua yã'ònɛ́ dasi ń
+bqc	yãlɛɛũa bee taaↄ lá aa fↄ̃
+bqc	ↄ̃ à awakpàɛ̀ maamaa à
+bqc	kãsãnakɛ. Mↄ ǹ ↄnawà aà
+bqc	À mɛ̀ aa kyalekpa, ãma aasu ulada
+bqc	Ɔ̃ aa zↄ̃̀lɛzↄ̃lɛ gã ń
+bqc	gão, booloeↄ gbɛ̃ↄn basↄo,
+bqc	booloeↄ gbɛ̃ↄn blakwi.
+bqc	Ápiↄ sↄ̃ i mɛ tó gbɛ̃́ ò
+bqc	a de ge a daɛ pↄ́ pↄ́ á vĩ
+bqc	à dↄońlɛá Kↄↄbaniɛ,
+bqc	Ɔ̃ aà ìwaↄ aà là aa mɛ̀:
+bqc	Mákĩi wa blɛ eu sɛ̃gbãu la à
+bqc	Bee gbɛa Yesu bíla laai sìsi ń a
+bqc	ìwaↄ, a ònɛ́: Tó gbɛ̃́ ye
+bqc	kɛ ma ìwa ũ, aà gi azĩa
+bqc	wɛ̃nii, i a lipãakↄ̃a sɛ́, i
+bqc	Ɔ̃ tã́api wiilɛ̀ à aà
+bqc	zĩ̀a pãsĩpãsĩ, ↄ̃ à
+bqc	gòwà. Nɛ́pi gↄ̃̀ lán gɛwa,
+bqc	ↄ̃ gbɛ̃́ daside mɛ̀ à gàɛ.
+bqc	ↄ̃ aaì gↄ̃ lán sàwakula ń
+bqc	gbalaowa.  Beewa aa ku dodo lↄo, aa
+bqc	Yesu ònɛ́: Á yã́ pↄ́ álɛ
+bqc	a wabikɛa dↄ̃o. Taasi kɛɛona
+bqc	pↄ́ má a imi, á fↄ̃ mia? Ga
+bqc	pↄ́ má siu, á fↄ̃ siua?
+bqc	À kaadↄɛnli è kãaa, a lá
+bqc	pàɛ. À gɛ̀ gwai tó a nɛ́
+bqc	mà. Kɛ́ à kà we, i pↄe eo,
+bqc	sema a lá, asa a magↄↄ i ka
+bqc	I Lua yã́ɛ bee kyokɛo lé? Wà
+bqc	Dii ò ma Diiɛ aà zↄ̃lɛ a
+bqc	Gↄↄ bee tó wà su òɛ́ Mɛsii
+bqc	gwa kɛ, ge Mɛsii ku le, ásu sio.
+bqc	e ua pↄ́ a gɛ̃u, í o uabeleɛ,
+bqc	Mɛtulu mɛ̀ má á pilaui, gua
+bqc	pↄ́ á Gɛ̃amusu blɛ bleu ń a
+bqc	Bↄnkpɛdepi sↄ̃ à dↄ̀aa seela
+bqc	ònɛ́ à mɛ̀ gbɛ̃́ pↄ́ a su
+bqc	lɛpɛ̀wà, aàpin we. Aa aà kũ
+bqc	Ɔ̃ Pilati aà là à mɛ̀:
+bqc	Yudaↄ kían n ũa? Yesu wèwà
+bqc	Tó wá è Isailiↄ kía pↄ́
+bqc	wì mɛ Mɛsiipi pìla líwa, wá
+bqc	aà náaikɛ sa. Ɔ̃ gbɛ̃́ pↄ́
+bqc	wà ń páliwa sãnuↄ lɛ́ aà
+bqc	Ɔ̃ a ònɛ́: À gɛ́ dṹnia
+bqc	guu píi, í ma baokpa gbɛ̃́piiɛ.
+bqc	Dii kɛ̀, à ma wɛ̃nagwà, à
+bqc	Ɔ̃ Maliama mɛ̀: Báaaden n ũ, asa
+bqc	Lua Nisĩna dɛ̀dɛ aà mae
+bqc	Zakaliwa, ↄ̃ à ãnabikɛkɛ̀ à
+bqc	ↄ̃ gↄↄ pↄ́ aa ku we, aà
+bqc	Yã́ pↄ́ a ò nɛ́pi musu bↄ̀
+bqc	aà de ń aà dao saɛ.
+bqc	Amↄsipi sↄ̃ Nauũ nɛ́ɛ,
+bqc	Mɛnapi sↄ̃ Matata nɛ́ɛ,
+bqc	Mɛtuselapi sↄ̃ Ɛnↄki nɛ́ɛ,
+bqc	ↄ̃ wà ãnabi Isaia taala
+bqc	kpàwà. Kɛ́ a pòo, à bↄ̀ gu
+bqc	pↄ́ wà yã́ɛ bee kɛ̃̀uwa à
+bqc	Kɛ́ gu dↄ̀, Yesu bↄ̀
+bqc	wɛ̃́lɛu à gɛ̀ gusaɛna, ↄ̃
+bqc	bíla lɛ́ aà wɛɛlɛ. Kɛ́ aa
+bqc	bↄ̀wà, aalɛ giɛ̀ aà ń tó
+bqc	Ɔ̃ à fɛ̀lɛ à pↄ́pii tò we
+bqc	Gbɛ̃́pii lɛ́ wɛɛlɛ ↄkãwà,
+bqc	asa gbãa lɛ́ bↄ aà guu, àlɛ
+bqc	À gbɛ̃́ gba pↄ́, Lua i á gba.
+bqc	A zaa maa pↄ́ á gbɛ̃̀gbɛ̃ à
+bqc	wɛ̃̀ à pà yɛlɛlɛ káɛ́ á
+bqc	ula lɛ́u. Asa zaa pↄ́ ń
+bqc	yↄ̃̀u gbɛ̃́ɛ ↄ̃ Lua a
+bqc	à ń zĩ́ Diiwa aa aà la, aàpi
+bqc	mɛ́ gbɛ̃́ pↄ́ a mↄ ũa, ge
+bqc	wàↄ wɛdↄ gbɛ̃pãleziɛ?
+bqc	Ni nísidↄↄ ma miwao. Nↄɛpi
+bqc	sↄ̃ à tulale kà ma gbáↄwa.
+bqc	Ɔ̃ aa kà Gadala bùsuu ísida
+bqc	baale, Galile bùsu gukpɛ oi.
+bqc	Yesu a ìwa gbɛ̃ↄn kuɛplaↄ
+bqc	kã̀aaazi, ↄ̃ à ń gbá zɛ́
+bqc	aaↄ iko vĩ tã́a bui píiwa, aa
+bqc	Aa bↄ̀ mↄ̀wà gawi guu, aalɛ
+bqc	ã́nua pↄ́ a to Yelusalɛũ
+bqc	Yesu òɛ̀: Tó gɛↄ ń gɛↄ
+bqc	vĩ. Mpi sↄ̃ gɛ kpala pↄ́
+bqc	bↄ̀ Lua kĩ́i yã́ waasokɛ.
+bqc	Yesu òɛ̀: Ń wè maaɛ. Ǹyↄ̃
+bqc	Ge tó à kogbe wabikɛ̀wá, á
+bqc	démɛ a sói kpawài?
+bqc	Waiyoo á Falisiↄ! I toeↄ dosina
+bqc	ń kpɛaanao ń dopↄↄ píi kwide
+bqc	kpa Luawa,  ↄ̃ i pãkpa
+bqc	yã́gↄ̃gↄ̃a a zɛ́wai ń yea
+bqc	Luapizio. Yã́ beeↄ mɛ́ dɛ
+bqc	àↄ kũa pãkpaa a kĩniↄzi sai.
+bqc	Ɔ̃ à mɛ̀: Lá má kɛn kɛ:
+bqc	Má a blɛwɛkakĩiↄ gbooɛ, mí a
+bqc	zↄ̃ↄↄ bobo, mí a pↄ́wɛna
+bqc	káu píi ń ma àizɛɛↄ,
+bqc	Zĩkɛna pↄ́ a dii pↄeã
+bqc	dↄ̃o, mɛ́ à yã́ pↄ́ dɛ
+bqc	wà aà gbɛ̃ kɛ̀ sↄ̃, wa aà
+bqc	gbɛ̃ yↄↄɛ. Gbɛ̃́ pↄ́ Lua
+bqc	aà gbà zↄ̃ↄ ↄ̃ Lua a
+bqc	wɛɛlɛwà zↄ̃ↄ. Gbɛ̃́ pↄ́
+bqc	Lua pↄ́ nàɛ a ↄzĩ zↄ̃ↄ,
+bqc	Doe ku a wɛ́na bↄ̀ lán ɛfↄ
+bqc	wɛ́nawa, ↄ̃ gbɛ̃e sɛ tↄ̃̀ a
+bqc	kaau. Kɛ́ à bↄ̀lɛ à kɛ̀
+bqc	lí ũ, ↄ̃ bãↄ mↄ̀ pɛ̀pɛ
+bqc	ńyↄ̃ gↄ̃ báaade ũ, asa aa
+bqc	pↄe vĩ aa gĩa fĩabonɛo. Lua
+bqc	mɛ́ a fĩabonɛ gbɛ̃maaↄ
+bqc	Tó à bↄ̀wà, a a gbɛ̃naↄ
+bqc	ń a fã́anideↄ sísiɛ, i
+bqc	onɛ́: À pↄnakɛmanↄ. Ma a
+bqc	ã́nusu ↄwatɛ̃ pↄ́ vũ̀aapi
+bqc	Ɔ̃ a ò gbɛ̃pãleɛ: Mpi sↄ̃ n
+bqc	fĩa ũma ni? Ɔ̃ à mɛ̀: Ése
+bqc	sakili basↄoɛ. Ɔ̃ ziiapi òɛ̀:
+bqc	Lá pↄ́ ń kɛ̃̀ɛ kɛ, lilɛ
+bqc	Dii mɛ̀: Tó á luanaaikɛa kà
+bqc	ɛfↄ wɛ́nawa, á o lasinliɛ bee
+bqc	azĩa bilɛ gɛ́ pɛ́i ísia guu, a
+bqc	Gↄ̃ɛ gbɛ̃ↄn plaↄ aaↄ ku
+bqc	bua, Lua a gbɛ̃do sɛ́,  i gbɛ̃do
+bqc	Ɔ̃ Yesu ònɛ́: Sĩana málɛ
+bqc	oɛ́, gbɛ̃́ pↄ́ a bɛ tò ge a
+bqc	na ge a vĩ̀iↄ ń a dãunaↄ ge
+bqc	a de ń a dao ge a nɛ́ↄ kpala
+bqc	pↄ́ bↄ̀ Lua kĩ́i yã́i
+bqc	Gbɛ̃́ sɛ̃́ia mↄ̀ à mɛ̀:
+bqc	Dii, n ↄ̃api àikɛ̀mɛɛ lɛɛ
+bqc	aai n dúuzↄ̃, aai n gbɛ̃́ↄ
+bqc	wíwi. Baa gbɛe aa to dinɛkↄ̃ao,
+bqc	kɛ́ ni gↄↄ pↄ́ Lua lɛzùnzi
+bqc	Yesu ń ↄ̃nↄ dↄ̃̀má, ↄ̃
+bqc	Gbɛ̃eↄ lɛ́ Lua ua yã'o, aa
+bqc	mɛ̀ wà a kpɛ́ↄ kɛ̀kɛ maa ń
+bqc	gbɛ̀ kɛfɛnaↄ ń pↄ́ pↄ́
+bqc	wà Lua gbàↄ, ↄ̃ Yesu mɛ̀:
+bqc	Asa a kúlɛ gbɛ̃́ pↄ́ kú
+bqc	dṹnia guuↄwa píiɛ míↄ.
+bqc	Blɛblena ń blɛzĩkɛnao, an
+bqc	démɛ zↄ̃ↄi? Blɛblena nolo?
+bqc	Mapi sↄ̃ má kú á guu lán
+bqc	gbɛ̃́ pↄ́ lɛ́ zĩkɛɛ́wa.
+bqc	Ɔ̃ à lelekpà à mɛ̀: Nↄɛ,
+bqc	16-17 Má tó wà aà swã́gaga,
+bqc	Zwãa pↄ́ daa Lua kpɛ́u  kɛ̃̀
+bqc	Ɔ̃ à ń lá à mɛ̀: Yã́
+bqc	kpelei? Aa wèwà aa mɛ̀: Yesu
+bqc	Nazalɛti yã́ɛ. Ãnabi
+bqc	zↄ̃ↄɛ. Gbɛ̃́pii dↄ̃ kɛ́
+bqc	aà yãkɛa ń aà yã'oao bↄ̀
+bqc	Mapi sↄ̃ má gba pↄ́ ma Mae a
+bqc	lɛgbɛ̃̀ kpã́sãɛ́. Àↄ ku
+bqc	wɛ̃́lɛ guu la e gbãa bↄ luabɛ
+bqc	Zãa wèmá à mɛ̀: Mi
+bqc	gbɛ̃́ↄ da'ilɛkɛ, ãma gbɛ̃e
+bqc	kú á guu, á aà dↄ̃o.
+bqc	Ɔ̃ aà da ò zĩkɛnaↄnɛ: Lá
+bqc	Yesu wèwà à mɛ̀: N Isailiↄ
+bqc	yãdanɛde ia ↄ̃ ń bee dↄ̃oa?
+bqc	Gɛa guu sema aà bↄ ń Samali
+bqc	Ɔ̃ Yesu ònɛ́: Ma pↄblea mɛ́
+bqc	gbɛ̃́ pↄ́ ma zĩ pↄeãkɛa
+bqc	ũ e mà gɛ zĩ pↄ́ a dàmɛɛ
+bqc	ↄ̃ Yuda gbãadeↄ ò gↄ̃ɛ
+bqc	Kã́mabogↄↄzĩn gbã. I kũ
+bqc	kási álɛ gí mↄ́i ma kĩ́i
+bqc	Gbɛzã gó'ilɛna pãleↄ bↄ̀
+bqc	Tibelia aa mↄ̀ gu pↄ́ kãi ń
+bqc	gu pↄ́ wà pɛ̃ɛ sòu Dii
+bqc	Ɔ̃ Yesu ònɛ́: Sĩana málɛ
+bqc	oɛ́, tó i Gbɛ̃nazĩn Nɛ́
+bqc	mɛbaasi só a aà au mìo, áↄ
+bqc	Bíla guu wàlɛ yã́kũkũ o
+bqc	maamaa aà musu. Gbɛ̃eↄ mɛ̀:
+bqc	Gbɛ̃maaɛ. Gbɛ̃eↄ mɛ̀: Aawo,
+bqc	àlɛ gbɛ̃́ↄ sãsãɛ.
+bqc	A kɛ̃a Luayãtaalau wà mɛ̀
+bqc	Mɛsiiá Davidi buiɛ,
+bqc	Ɔ̃ aa aà là aa mɛ̀: N mae ku
+bqc	má ni? Yesu wèmá à mɛ̀: Á
+bqc	ma dↄ̃o mɛ́ á ma Mae dↄ̃o.
+bqc	Tó a ma dↄ̃, dↄ̃ a ma Mae
+bqc	Ɔ̃ gbãadepiↄ òɛ̀: Samali
+bqc	gbɛ̃́n n ũ! Ń tã́a vĩɛ!
+bqc	Aa ń lá aa mɛ̀: Á nɛ́n laa? A
+bqc	aà ì vĩ̀a yãma yã̀? Kpelewa
+bqc	a kɛ̀ àlɛ gu'e sai?
+bqc	Gbɛ̃́ pↄ́ aa dↄ̀aamɛɛↄá
+bqc	kpã́iↄnɛ, kpã́iwɛliwɛↄnɛ
+bqc	ḿpii, ↄ̃ sãↄ i ń yãmao.
+bqc	Tó málɛ kɛ sↄ̃, baa tó i ma
+bqc	yã́ sio, à ma náaikɛ ma
+bqc	yãkɛaↄ yã́i, kɛ́ à e dↄ̃
+bqc	sã́asã Mae Lua ku ma guu mɛ́
+bqc	Gbɛ̃́ pↄ́ kú mɛ́ àlɛ ma
+bqc	náaikɛ a ga bauo. N bee sìa?
+bqc	Wàlɛ Yesu wɛɛlɛ, wa zɛa Lua ua,
+bqc	wàlɛ kↄ̃ lala wà mɛ̀: Á è
+bqc	kpelewai? A we mↄ dikpɛue?
+bqc	Gbɛ̃́ pↄ́ ye a wɛ̃nii,
+bqc	wɛ̃nipi a vũaawà. Gbɛ̃́ pↄ́
+bqc	gì a wɛ̃nii dṹniaɛ beeu
+bqc	sↄ̃, ade aↄ ku gↄↄpiiɛ.
+bqc	E Gɛ̃amusu dikpɛ àↄ ka, Yesu
+bqc	dↄ̃ kɛ́ a bↄa dṹniaɛ bee
+bqc	guu taa a Mae kĩ́i gↄↄ kà.
+bqc	Lá a ye a gbɛ̃́ↄzi dṹnia
+bqc	guu, a yeńzi e a wɛ̃ni lɛ́waɛ.
+bqc	Kɛ́ Yudasi lↄmapi sì, à bↄ̀
+bqc	gↄ̃̀ↄ. À mↄ lè gwã́ɛ.
+bqc	Ɔ̃ Yudasi aà là, i kɛ Yudasi
+bqc	Isaliↄti gbɛ̃́ no: Dii, bↄ́
+bqc	yã́ mɛ́ mↄ̀, ńyↄ̃ nzĩa
+bqc	ↄlↄwɛ̃ɛ, mɛ́ dṹnia a n eo
+bqc	Aa yã́ beeↄ kɛɛ́ píi ma
+bqc	tↄ́ yã́i, asa aa gbɛ̃́ pↄ́
+bqc	Gↄↄ bee á yãe laa lↄo.
+bqc	Sĩana málɛ oɛ́, ma Mae a pↄ́
+bqc	pↄ́ a a wabikɛ̀wa ń ma tↄ́o
+bqc	I kɛ málɛ wabikɛnɛ́ ńdo no,
+bqc	ń gbɛ̃́ pↄ́ aa ma náaikɛ ń
+bqc	Ɔ̃ Anasi Yesu gbàɛ sa'onkia
+bqc	Kɛ́ Pilati yã́ bee mà, à mɛ̀
+bqc	wà bↄ ń Yesuo bàasi. Ɔ̃ à
+bqc	zↄ̃̀lɛ a gĩ́naa, gu pↄ́ wì
+bqc	mɛ gbɛ̀ gusalalau. (Ń Ɛbɛlu
+bqc	Bee gbɛa Yosɛfu Alimate gbɛ̃́
+bqc	gɛ̀ wabikɛ̀ Pilatiwa aà a gba
+bqc	zɛ́ à Yesu gɛ bua. Yesu ìwaɛ
+bqc	asii guu, kɛ́ àlɛ vĩakɛ Yuda
+bqc	gbãadeↄnɛ yã́i. Pilati wèi,
+bqc	ↄ̃ à gɛ̀ aà gɛ bùa.
+bqc	A gↄↄ la aà ìwaↄ ku kpɛ́u
+bqc	lↄ, Tomaa kúńnↄ sa. Aa
+bqc	gbatàńlɛ aa kilidàu, ↄ̃ Yesu
+bqc	mↄ̀ zɛ̀ ń guu à mɛ̀: Àↄ
+bqc	Yesu yãpãleↄ kɛ̀ dasidasi lↄ.
+bqc	Tó wa kɛ̃̀ lá guu dodo píi,
+bqc	málɛ e dṹnia azĩawa a fↄ̃
+bqc	taala pↄ́ wa kɛ̃̀piↄ sio.
+bqc	Kɛ́ Pãteko  dikpɛgↄↄ kà, aa
+bqc	Dii sìsinaↄ i bↄ píi.
+bqc	Aa laaidↄ̀ zĩnaↄ yãdaanɛ́wa
+bqc	ń gbɛ̃kɛkɛakↄ̃ɛo ń Dii
+bqc	blɛbleao ń wabikɛao.
+bqc	Yã́ pↄ́ ãnabipiↄ ò ń Lua
+bqc	bàa pↄ́ kú ń á dezi
+bqc	káauↄo gↄ̃̀ á pↄ́ ũ,
+bqc	lá a ò Ablahaũɛwa à mɛ̀ á
+bqc	báaada dṹnia bui píigu aà bui
+bqc	Bↄ́yãi wàlɛ lɛ́ pã kpaaĩi?
+bqc	Bíla bↄ̀ wɛ̃́lɛ pↄ́ kú
+bqc	Yelusalɛũ saɛↄ aa mↄ̀ ń
+bqc	gyãeↄ ń gbɛ̃́ pↄ́ tã́a
+bqc	lɛ́ ĩadamáↄ, ↄ̃ aa
+bqc	À gↄ̃ɛↄ plɛ á guu gbɛ̃ↄn
+bqc	sopla, gbɛ̃maa pↄ́ ↄ̃nↄ
+bqc	pànɛ́, Lua Nisĩna pɛ̀ɛmáↄ,
+bqc	Ɔ̃ kía dafu pↄ́ Yosɛfu dↄ̃o
+bqc	zↄ̃̀lɛ kpalau Egipi.
+bqc	Wá deziↄ zwã̀akpɛ vĩ
+bqc	guwaiwaiu. Lua a taa ↄ̀lↄ
+bqc	Mↄiziɛ, ↄ̃ wa kɛ̀ lá Lua
+bqc	Nɛ́fɛ̃nɛn gbɛ̃zↄ̃ↄ píi
+bqc	wì laaidↄ aà yã́wa wì mɛ:
+bqc	Gbɛ̃́pi gbãaá Lua gbãa pↄ́
+bqc	Ɔ̃ gↄ̃ɛpi ò Filipiɛ: Omɛɛ,
+bqc	dé musu ãnabi bee òui? Aà zĩa
+bqc	ↄ̃ à ń lɛkpaaĩapi mà. Aa
+bqc	wɛ̃́lɛ bĩ́ibↄlɛↄ dↄ̃̀a
+bqc	fãanɛ ń gwãasĩnao, kɛ́ aa e
+bqc	À luabɛ è wɛ̃a, pↄe lɛ́ pila
+bqc	lán zwã̀a zↄ̃ↄwa. Wà ba
+bqc	síiↄ̃ↄwa píi, wàlɛ gbaɛ
+bqc	ↄ̃ Lua aà vù a gↄↄ
+bqc	àaↄ̃de zĩ́, a tò à azĩa
+bqc	Yelusalɛũ Yesudeↄ swã́ kã̀
+bqc	yã́piwa, ↄ̃ aa Baanaba zĩ̀
+bqc	Kɛ́ gↄↄ pↄ́ wa dìlɛ kà,
+bqc	Elodi a kible'ulaↄ dà, à gɛ̀
+bqc	zↄ̃̀lɛ a gĩ́naa, ↄ̃ à
+bqc	Ma gbɛ̃́ↄ, Ablahaũ buiↄ ń
+bqc	buipãle lousisinaↄ, wámɛ Lua
+bqc	suabayãɛ bee kpã̀sãwɛ̃ɛ.
+bqc	Ma n dilɛ gupua ũ buipãleↄnɛ,
+bqc	Kɛ́ aa pã̀ Pisidi bùsua, aa kà
+bqc	Wà taala dìnɛ́, yã́ pↄ́ wa
+bqc	kɛ̃̀ a guu mɛ̀: Wá zĩnaↄ ń
+bqc	gbɛ̃zↄ̃ↄↄ wa fↄkpà wá
+bqc	gbɛ̃́ pↄ́ aa dɛ buipãleↄ ũ
+bqc	Antiↄsi ń Sili bùsuo ń Silisi
+bqc	Kã́mabogↄↄzĩ wa bↄ
+bqc	wɛ̃́nkpɛ, wa gɛ swa saɛ, gu
+bqc	pↄ́ wálɛ e wì lousisiu. Ɔ̃ wa
+bqc	zↄ̃lɛ wa yã'ò nↄɛ pↄ́
+bqc	Àlɛ a bↄↄlɛkɛnɛ́ lá à
+bqc	kũ̀ Mɛsii taasikɛ, i bↄ gau, à
+bqc	mɛ̀: Yesu pↄ́ málɛ aà
+bqc	yã'oɛ́ mɛ́ Mɛsiipi ũ.
+bqc	Ɔ̃ Pↄlu bↄ̀ ń kĩ́i.
+bqc	Gↄↄ pↄ́ Apoloo ku Kↄlɛni,
+bqc	Pↄlu Azi bùsu sĩ̀sĩↄ baa
+bqc	vĩ̀, ↄ̃ à kà Ɛfɛsɛ. À
+bqc	Azi bùsu gbɛ̃zↄ̃ↄeↄ dɛ aà
+bqc	gbɛ̃naↄ ũ, ↄ̃ aa gbɛ̃́ↄ
+bqc	zĩ̀ aa lɛdàwà asu gɛ̃ zãuo.
+bqc	Mi kã́fĩa yãe ulɛɛ́o, ma
+bqc	waasokɛ̀ɛ́, má dàdaɛ́ balu
+bqc	Kɛ́ wa yã́pi mà, wá ń
+bqc	beleↄ wa awakpà Pↄluɛ asu gɛ́
+bqc	Kɛ́ aa mà àlɛ yã'onɛ́ ń
+bqc	Ɛbɛlu yã́o, aa zɛ̀ kílikili.
+bqc	Ɔ̃ sa'onkia Ãnania ò a
+bqc	dↄaiↄnɛ aa aà lɛ a lɛ́wa.
+bqc	Kɛ́ gu dↄ̀, sosa pↄ́ bɛ
+bqc	kɛ̀sɛↄ Pↄlu nà sↄ̃deↄnɛ
+bqc	ń ↄzĩ aa gɛaànↄ aɛ, ↄ̃
+bqc	Fɛsɛtu zↄ̃lɛa kpalau gↄↄ
+bqc	àaↄ̃ gbɛa, à fɛ̀lɛ Sezale
+bqc	Yudaↄ ma kua dↄ̃ za ma
+bqc	nɛ́fɛ̃nɛnzĩ daalɛa ma bùsuu e
+bqc	Wa gɛ̃ gó'ilɛna pↄ́ bↄ̀
+bqc	Adamiti, àlɛ bↄlɛ ń Azi bùsu
+bqc	wɛ̃́lɛↄ guu, ↄ̃ wa dazɛu.
+bqc	Masedoni bùsu gbɛ̃́ Alisaka
+bqc	Ɔ̃ sosaↄ gó suababↄ baↄ
+bqc	zↄ̃̀zↄ̃, aa tò à lɛ̀lɛ
+bqc	Aa yãlàlaa, aai yãe e ma musu à
+bqc	kà wà ma dɛo, ↄ̃ aa ye ma gbaɛ.
+bqc	Gɛlɛki yãmanaↄ ń Gɛlɛki
+bqc	yãmansaiↄ píi, ladↄ̃naↄ ń
+bqc	ladↄ̃nsaiↄ píi, an yã́
+bqc	Gbɛ̃́ pↄ́ duunakɛ̀ Mↄizi
+bqc	ikoyã dↄ̃sai, a kaalɛ màa
+bqc	ikoyãpi saiɛ. Gbɛ̃́ pↄ́
+bqc	duunakɛ̀ naa ikoyãpi ↄzĩ
+bqc	sↄ̃, Lua a yã́kpalɛkɛaànↄ
+bqc	Davidi gbɛ̃́ pↄ́ Lua tò yã́
+bqc	bↄ̀aànↄ na yãekɛsai báaa'ea
+bqc	I kɛ beeɛ adoo, wálɛ pↄnakɛ ń
+bqc	Luao lↄ ń wá Dii Yesu Kilisi
+bqc	pↄ́ tò wa kɛaànↄ na gbãao.
+bqc	Kɛ́ á dɛ duuna zↄↄ ũ yãa,
+bqc	á bàa kú ń yãmaakɛaoo.
+bqc	asa naa Kilisi Yesuwa Lua Nisĩna
+bqc	Wɛ̃nikpamade gbãa ma bↄ gbãa
+bqc	pↄ́ duuna ń gao lɛ́ mↄmɛɛ
+bqc	Lá i gí ń azĩa Nɛ́oo, à
+bqc	aà kpà wápii yã́i, a wá gba
+bqc	Á gbɛ̃e a ma la, bↄ́yãi Lua
+bqc	lɛ́ gbɛ̃́ↄ tàae e lↄi?
+bqc	Démɛ a fↄ̃ gi Lua pↄeãi?
+bqc	Asa Kilisi Mↄizi ikoyã lɛpàpa,
+bqc	ↄ̃ yã́ ìↄ bↄ ń aà
+bqc	Ma mɛ̀ yóo! Lua azĩa gbɛ̃́ↄ
+bqc	vũ̀aa yã̀? Aawo bá! Mapi,
+bqc	Isailin ma ũ. Ablahaũ buin ma ũ
+bqc	Ma gbɛ̃́ↄ, má ye àↄ
+bqc	asiiyãɛ bee dↄ̃, kɛ́ á wɛ́
+bqc	su àↄ sia, à ázĩa dilɛ
+bqc	waladeↄ ũo yã́i. Isaili
+bqc	kĩniↄ swã́ gbãakũ̀ gĩa e
+bqc	buipãleↄ gɛ̃a kpala pↄ́ bↄ̀
+bqc	Àↄ gbɛ̃kɛ vĩ ń kↄ̃o nana.
+bqc	Àↄ kↄ̃ kpɛla ń pↄnao.
+bqc	Gbɛ̃́ pↄ́ ì pↄ́pii ble suli
+bqc	saka gbɛ̃́ pↄ́ lí pↄ́pii
+bqc	bleoguo, mɛ́ gbɛ̃́ pↄ́ lí
+bqc	pↄ́pii bleo suli gbɛ̃́ pↄ́ ì
+bqc	pↄ́pii ble tàae eo, asa Lua aà
+bqc	Málɛ oɛ́, Kilisi gↄ̃̀ Yudaↄ
+bqc	dↄnlɛde ũ, kɛ́ à lɛ́ pↄ́
+bqc	Lua gbɛ̃̀ an deziↄnɛ kɛ, aai
+bqc	Tó ma gbapi nànɛ́ ń ↄzĩ
+bqc	má làa, ma gɛa Ɛsipayã guu má
+bqc	tiasa ↄ̃ Lua pↄ́ ìↄ ku
+bqc	gↄↄpii dìlɛ wà yã́ pↄ́
+bqc	kú ãnabiↄ láↄ guupi bↄ
+bqc	gupuau, kɛ́ bui píi e dↄ̃, aai
+bqc	Lua náaikɛ, aa gↄ̃ aà
+bqc	Lua gbɛ̃́ pↄ́ dɛ dṹniaɛ
+bqc	mìsaide ũↄ sɛ̀, kɛ́ à wida
+bqc	ↄ̃nↄnaↄwaɛ. À gbɛ̃́ pↄ́
+bqc	dɛ dṹniaɛ gbãasaide ũↄ
+bqc	sɛ̀, kɛ́ à wida gbãadeↄwaɛ.
+bqc	Tó wà wá sↄ̃sↄ̃, wi
+bqc	awakpanɛ́ɛ. E tia wàlɛ wá dilɛ
+bqc	dṹnia bↄlↄ ũ, gbɛ̃́pii
+bqc	ge kpã́iↄ ge bĩideↄ ge
+bqc	wɛ̃dɛnaↄ ge lɛvãideↄ ge
+bqc	gbɛ̃blenaↄ, an gbɛ̃e a gɛ̃
+bqc	kpala pↄ́ bↄ̀ Lua kĩ́i guuo.
+bqc	Lá baade kú Lua aà sìsi à
+bqc	aà sɛ̀ò, aà zɛò màa.
+bqc	N gbɛ̃́ pↄ́ ń dↄ̃a vĩ,
+bqc	tó gbɛ̃́ pↄ́ dↄ̃a i paɛ̀o
+bqc	n e, ńlɛ pↄble tã́a kùɛ, a
+bqc	aà gba sↄ̃ à sa'oblɛ ble
+bqc	Mi ĩada ma mɛwa, mi ikoblewà,
+bqc	kɛ́ ma waasokɛa dãↄnɛ gbɛa,
+bqc	másu bↄ pão yã́i.
+bqc	Gbɛ̃pãle làasoo yã́i ↄ̃
+bqc	Asa tó a kàapi sò, mɛ́ a ípi
+bqc	mì, álɛ Dii ga baokpa e àↄ
+bqc	Aawo, mɛgu pↄ́ wì e
+bqc	kɛ̃́sãańzi, mɛ a fↄ̃ àↄ
+bqc	Màa a dɛ ń pↄ́'ↄbↄnaↄ
+bqc	lↄ. Kulɛ ge mↄↄnan nò, tó
+bqc	àlɛ ↄbↄ súsuo, kpelewa wa
+bqc	fↄ̃ dↄ̃ lá àlɛ oi?
+bqc	nↄɛↄ lɛ́ líↄ kpaaũa gãli
+bqc	guu, asa aa yã'oa zɛ́ vĩo. Aa
+bqc	misiilɛ lá wa ò Mↄizi ikoyã
+bqc	Ɔ̃ dṹnia a láa, Kilisi i
+bqc	kíakɛ midɛ píi ń ikoↄ ń
+bqc	gbãaↄ, i a kpala kpa Mae Luawa.
+bqc	kã́ndo lán wɛdɛawa kã̀ae
+bqc	gbɛzã pɛ́zĩ. Asa kã̀ae a
+bqc	ↄbↄ, gɛↄ i vu yaikɛsai,
+bqc	Tó gbɛ̃e ye Diizio, Lua
+bqc	láaikɛwà. Wá Dii lɛ́ mↄ́.
+bqc	Lá gbɛ̃e pↄyayã kɛ̀, i kɛ ma
+bqc	pↄ a yào, ápiiɛ, ge á
+bqc	gbɛ̃eↄ, kɛ́ ma yã'oa su
+bqc	Wá gbɛ̃́ pↄ́ pↄ́ gò wá
+bqc	oawaↄ, wálɛ Dii gawi ↄlↄnɛ́
+bqc	lán díiwa, wiↄ li laaàwa, wá
+bqc	gawi iↄ kã́fĩ. Dii pↄ́ dɛ
+bqc	Lua Nisĩna ũpi zĩn we.
+bqc	Wálɛ wázĩa sáaukpaɛ́ lↄ
+bqc	no, wálɛ á gba zɛ́ à
+bqc	ĩ́anadã wá yã́ musuɛ, í e
+bqc	yã́zãsi gbɛ̃́ pↄ́ ì
+bqc	ĩ́anadã pↄ́ pↄ́ àlɛ e ń
+bqc	wɛ́o, i kɛ sↄ̃̀ yã́ nowa.
+bqc	Ɔ̃ wa wabikɛ̀ Tituwa aà gɛ́
+bqc	kámasa yã́ pↄ́ a dàalɛ á
+bqc	Lua a fↄ̃ to ɛ̀fãai píi
+bqc	liála, gↄↄpii pↄ́pii i
+bqc	mↄ́wá yã́pii guu e à
+bqc	lìála maakɛa píi guu.
+bqc	Lá mlɛ̃ kↄ̃nikɛ̀ Ɛvaɛ à
+bqc	aà sã̀sã,  vĩa lɛ́ ma kṹ
+bqc	kɛ́ a su á sã́sã sↄ̃, í
+bqc	á naa Kilisiwa gbãsĩsai ń
+bqc	ↄ̃ wà ma bↄ fɛnɛntiu, wà ma
+bqc	pila ń bao gbí guu bĩ́i kpɛ,
+bqc	Tó wá busɛ mɛ́ á gbãa, wá
+bqc	pↄ ìↄ naɛ. Yã́ pↄ́ wi a
+bqc	wabikɛ mɛ́ dɛ kɛ́ á yã́ e
+bqc	àↄ bↄlɛia wásawasa.
+bqc	Titu pↄ́ wá sãnu ń a
+bqc	Gɛlɛkikɛo, aai gãnawà aà
+bqc	Ikoyã i kↄ̃'e ń luanaaikɛaoo,
+bqc	asa wà mɛ̀ gbɛ̃́ pↄ́
+bqc	ikoyãpi kũa mɛ́ a wɛ̃ni e a guu.
+bqc	Á dↄ̃ kɛ́ gyãekɛ guu ↄ̃ ma
+bqc	baonakpàuɛ́ sɛ̃́ia.
+bqc	Yã́ pↄ́ álɛ e a zɛvĩpi i
+bqc	bↄ Lua pↄ́ á sisi à á sɛ́
+bqc	Gbɛ̃́ pↄ́ aalɛ yãkɛ wɛ́
+bqc	yã́iↄ mɛ́ lɛ́ gãnawá ń
+bqc	tↄ̃zↄ̃yão, kɛ́ wasu
+bqc	ĩadamá zɛa ń Kilisi gaa líwao
+bqc	Á dɛ yãa gɛↄ ũ Luaɛ á
+bqc	tàaeↄ ń á duunao yã́i.
+bqc	málɛ asiiyã pↄ́ Lua lɛ́ yá
+bqc	ń gbɛ̃́piio bↄnɛ́ gupuau.
+bqc	Asiiyãpi ulɛa Lua pↄ́ pↄ́pii
+bqc	kɛ̀ kĩ́i za asĩnizĩ,
+bqc	Naawà guu mɛgu píi ì kↄ̃'eu
+bqc	aa nakↄ̃wa kĩↄ zĩ sabai, ↄ̃
+bqc	mɛguↄ ì zĩkɛ a zɛ́wa, mɛ
+bqc	iↄ gbã́, iↄ zɛdↄ ń
+bqc	asa pↄ́ pↄ́ bↄ̀ gupuau
+bqc	gↄ̃̀ gupua pↄ́ ũɛ. A yã́i
+bqc	Yã́ pↄ́ gↄ̃̀n kɛ: Àↄ
+bqc	gbãa naa Diiwa guu ń aà iko
+bqc	Gbɛ̃́ beeↄ ì kɛ ń yeamazioɛ,
+bqc	asa aa dↄ̃ kɛ́ zɛa ń Yesu
+bqc	baokpaao yã́i ma yeò kpɛ́u la.
+bqc	Mae Lua tↄbↄa yã́i.
+bqc	mí gbasa gↄ̃ gàbↄ ũ.
+bqc	Wàↄ wá Lua wá Mae tↄbↄ
+bqc	kɛ́ aà gↄ̃ pↄ́pii dↄaana
+bqc	Kilisi gaa líwa báa bↄ̀ diiↄ
+bqc	ń gbãadeↄla, à bↄ̀ńnↄ
+bqc	gupuau à ń kpán'aɛkɛ̀
+bqc	Zↄↄ, à á dṹnia diiↄ
+bqc	yãma yã́pii guu. Ásu zĩ
+bqc	ↄkunwɛiana kɛnɛ́o. À
+bqc	zĩkɛnɛ́ ń nↄ̀sɛmɛndoo Dii
+bqc	Wàlɛ o lá wa zɛ'è á kĩ́i,
+bqc	lá a bↄ dii ɛgɛnaↄ yã́u a
+bqc	zɛ̀ ń Luao, ↄ̃ álɛ zↄble
+bqc	Lua bɛ̃́ɛ sĩandepiɛ,
+bqc	Wá fↄ̃ Lua sáaukpa á yã́
+bqc	musu. Wa wá Lua sáaukpà maamaa
+bqc	ń pↄna zↄ̃ↄ pↄ́ wi kɛ aà
+bqc	wápiↄ sↄ̃, lá fãanɛ
+bqc	gbɛ̃́ↄn wá ũ, wàↄ kú ń
+bqc	laaio, wí luanaaikɛa ń yeakↄ̃io
+bqc	da mↄ̀ ula ũ, wí wɛdↄa zia'ea
+bqc	yã́i kpá mↄ̀ fùa ũ.
+bqc	Tó à mↄ̀ gↄↄpi zĩ́, a
+bqc	tↄbↄ a gbɛ̃́ↄ yã́ musu,
+bqc	aà náaikɛnapiↄ i aà maabo
+bqc	ḿpii. Áↄ kú ń guu, asa a
+bqc	yã́ pↄ́ wá òɛ́ sìɛ.
+bqc	Wá mà á gbɛ̃eↄ màa vĩ,
+bqc	aali pↄe woo, sema gudɛ.
+bqc	Bee mɛ́ maa, ì ka Lua wá
+bqc	Lua Nisĩna aà sĩandekɛ
+bqc	wìↄ aà dↄ̃ maakɛna ũ,
+bqc	nɛgwan maa ũ, nibↄfↄ̃na pↄ́
+bqc	Lua gbɛ̃́ↄ gbá pìpi ũ,
+bqc	taasideↄ dↄnlɛde ũ, nↄɛ
+bqc	pↄ́ mɛkpà maakɛa píiwa ũ.
+bqc	Gbãade mɛ̀ndona Báaade, kíaↄ
+bqc	Kía, diiↄ Dii mɛ́ a Kilisipi bↄ
+bqc	Bakpaaĩna sↄ̃, tó i bàalɛ a
+bqc	Aaì lousisi, ãma an yã́ lí
+bqc	kↄ̃sɛ ń Lua gbãaoo. Kɛ̃́
+bqc	Dii a ma bↄ yãvãi guu píi, a ma
+bqc	suaba e ma gɛ kaò aà kpalau musu.
+bqc	Ɔ̃mɛ gawi vĩ gↄↄpii, ãmi.
+bqc	Aasu ń kpã́i'oo. Aa to aaↄ ń
+bqc	dↄ̃ gbɛ̃́ náaideↄ ũ maamaa,
+bqc	kɛ́ Lua wá Suabana yã́ pↄ́ wi
+bqc	danɛ́ e tɛkɛ yã́pii guu.
+bqc	ń beeo ma awakpànɛ kɛ́ má
+bqc	yenzi yã́i. Mapi ma Pↄlu, ma
+bqc	maezↄ̃ↄ ia ń ma daakpɛu tia
+bqc	Lua, ńyↄ̃ↄ zↄ̃lɛa báawa
+bqc	wá è Yesu yã́ɛ. Lua aà
+bqc	kɛ̃̀sã malaikaↄzi gↄↄpla,
+bqc	kɛ́ Lua gbɛ̃kɛ guu aà ga
+bqc	gbɛ̃́pii gɛ̃ɛ ũ, ↄ̃ à aà
+bqc	kpà kpalau ń gawio ń bɛɛɛo ga
+bqc	taasi pↄ́ a kɛ̀ yã́i.
+bqc	Ɔ̃ má ò ń mazĩao ń
+bqc	Lua pↄkɛae ulɛaɛ̀o, a kee
+bqc	kpaaɛ̀ guio. Lua pↄ́ wá wá
+bqc	yã́ↄ sɛ́lɛ siuɛ̀, ì
+bqc	Wá ye á baade àↄ ãiavĩ
+bqc	màa e a lɛ́wa, kɛ́ ásu seakɛ
+bqc	pↄ́ pↄ́ á wɛ́ dↄi yã́
+bqc	Bee gbɛa Lua i bee kɛ lɛgbɛ̃saio.
+bqc	Gbɛ̃́ kĩniↄ gↄ̃̀ sa'onaↄ
+bqc	An gbɛ̃e a yãdada a deeɛo,
+bqc	Asa Kilisi i gɛ̃ luakukĩi taa
+bqc	pↄ́ gbɛ̃nazĩna dↄ̀uo, à
+bqc	gɛ̃̀ a sĩanau luabɛɛ, kɛ́
+bqc	àↄ ku tia wá Zɛnnↄde ũ Lua
+bqc	Lá à ń duuna kɛ̃̀má, sa'oa
+bqc	Ɛnↄki luanaaikɛa mɛ́ tò Lua
+bqc	aà sɛ̀, kɛ́ asu gao yã́i.  Wi
+bqc	aà e lↄo, kɛ́ Lua aà sɛ̀
+bqc	yã́i. E Lua àↄ aà sɛ́, à
+bqc	aà sáaukpà à mɛ̀ aà yã́
+bqc	pↄ́ↄpↄↄ wà ń gbɛ̃́ ń
+bqc	flàalao. Wà mↄkà ń
+bqc	gbɛ̃eↄwa wà ń ká kpɛ́u.
+bqc	Lua pilaapiá vĩa yã́ɛ maamaa e
+bqc	Mↄizi mɛ̀ vĩa a kũ, álɛ
+bqc	À á dↄaanaↄ yãma, í
+bqc	misiilɛnɛ́, kɛ́ aa e zĩkɛ ń
+bqc	pↄnao, asa aa dɛ gbɛ̃́ pↄ́ aa
+bqc	ń zĩ yã́ sɛ́lɛ siu Luaɛↄ
+bqc	ũɛ. Tó aalɛ zĩkɛ ń
+bqc	lɛ́suuo, a àikɛɛ́o.
+bqc	Ásu ázĩa sã́são, ásu
+bqc	yã́pi ma ń swã́o adoo, à
+bqc	Màa lↄ káalua Lahabu kɛ̀na ń
+bqc	Luao a yãkɛa yã́i, kɛ́ à
+bqc	zĩnaↄ dìlɛ à ń gbáɛ zɛ́
+bqc	À sↄ̃ Luazi, i sↄ̃ázi.
+bqc	Duunkɛnaↄ, à ↄbↄlɛ duunau.
+bqc	Nↄ̀sɛmɛmpladeↄ, à á sↄ̃
+bqc	Mámɛmaa Yesu Kilisi zĩna Piɛɛ,
+bqc	mámɛ ma láɛ bee kɛ̃̀ Lua
+bqc	gbɛ̃́ pↄ́ aa dɛ nibↄↄ ũ
+bqc	dṹniaɛ bee guu aa fãaaa bùsuɛ
+bqc	beeuↄnɛ: Pↄ̃ntu, Galati,
+bqc	Kapadosi, Azi ń Bitinio.
+bqc	Ayãmɛto à yãvãi píi tó ń
+bqc	ɛɛ píio ń mↄafilio ń
+bqc	wɛdↄakↄ̃ɛo ń kↄ̃yaaao.
+bqc	Tó wà á gbɛ̃́ á tàae
+bqc	yã́i, tó a mɛnakɛ̀ò, bee
+bqc	tↄ́ vĩ má ni? Ãma tó a
+bqc	taasikɛ̀ yãmaa pↄ́ á kɛ
+bqc	yã́i, tó a mɛnakɛ̀ò, Lua a
+bqc	Kilisi gà gɛ̃n do duunawoloa
+bqc	yã́iɛ. Tàaesaide gà wá
+bqc	tàaedeↄ yã́i, kɛ́ à e
+bqc	gɛ́wanↄ Lua kĩ́i. Wà aà
+bqc	dɛ̀ aà gbɛ̃nazĩnkɛ guu, ↄ̃
+bqc	Lua aà vù aà nisĩnkɛ guu.
+bqc	Lua ì íbɛlɛsɛ ń gbɛ̃́
+bqc	pↄ́ ì azĩa sɛ lɛsĩo,
+bqc	Àↄ dↄ̃ gĩa kɛ́ gbɛ̃e lí
+bqc	fↄ̃ yã́ pↄ́ ãnabi kɛ̃̀
+bqc	láu bↄↄlɛkɛ̀ ń azĩaoo.
+bqc	ípi mɛ́ dà dṹnia káaua à
+bqc	Ń beeo yã́ pↄ́ málɛ a
+bqc	lákɛ̃ɛ́ dafu lↄɛ, wì a
+bqc	sĩana e aàpi ń ápiↄwa, asa
+bqc	gusia lɛ́ gɛ̃, ↄ̃ gupua sĩande
+bqc	Tiasa ma nɛ́ↄ, àↄ naawà
+bqc	àↄ gɛ́, kɛ́ gↄↄ pↄ́ à
+bqc	mↄ̀, wá sↄ̃ iↄ dilɛa. Wá
+bqc	gɛɛ a gↄ̃ kpá wá wɛ́i aà
+bqc	Dṹnia gbɛ̃́ↄn ń ũ. Bee
+bqc	yã́i aaì dṹnia yã'o, ↄ̃
+bqc	dṹnia gbɛ̃́ↄ ì ń yãma.
+bqc	Ma yã́ beeↄ òɛ́, á gbɛ̃́
+bqc	pↄ́ álɛ Lua Nɛ́ náaikɛↄ,
+bqc	kɛ́ àↄ dↄ̃ á wɛ̃ni
+bqc	Bee yã́i tó ma mↄ, má
+bqc	bↄaànↄ ń yã́ pↄ́ ì
+bqc	kɛↄ ń yãvãi pↄ́ ì
+bqc	dↄwáↄ. Bee lí ká aà
+bqc	bakanswãua ũo, ìli wá
+bqc	gbɛ̃́ↄ dilɛo, baa se ì gí
+bqc	gbɛ̃́ pↄ́ ye ń dilɛↄnɛ, ì
+bqc	Kɛ́ Elodi gà, ↄ̃ Dii malaikapi
+bqc	bↄ̀ mↄ̀ Yosɛfuwa Egipi nana guu
+bqc	sema yã́ pↄ́ Lua lɛ́ o píi.
+bqc	Kɛ́ Yesu gbɛ̃́ bílapiↄ è,
+bqc	à dɛ̀dɛ sĩ̀sĩwa. Kɛ́ à
+bqc	zↄ̃̀lɛ, aà ìwaↄ mↄ̀ aà
+bqc	Tó n mↄ Lua gbai pↄ́ a
+bqc	gbagbakĩi, mɛ́ à dↄ̀ngu
+bqc	wekĩi kɛ́ n gbɛ̃́dee
+bqc	Tó álɛ wabikɛ, ásu àↄ dɛ
+bqc	lán mↄafilideↄwao. Aaìↄ ye
+bqc	wabikɛa zɛa lousisikpɛui ń
+bqc	zɛ́kpaaↄ, kɛ́ gbɛ̃́ↄ ń e
+bqc	yã́iɛ. Sĩana málɛ oɛ́, aa
+bqc	Sɛ̃̀a lá pↄ́ kú gbã mɛ́ a
+bqc	tɛ́kũ ziapi, lá Lua ì pↄ́
+bqc	nai màa, ápiↄ, wa á pↄ́ o
+bqc	lↄe? Luanaaifɛ̃nɛndeↄ!
+bqc	Má onɛ́ wásawasa: Má á dↄ̃
+bqc	gueio, à gomala vãikɛnaↄ!
+bqc	Ɔ̃ Yesu òɛ̀: Tɛmazi. To gɛↄ
+bqc	Ɔ̃ Yesu yãlɛ̀ɛũnɛ́ à
+bqc	mɛ̀: Nↄsɛna gbɛ̃́ↄ pↄsia
+bqc	kɛ gↄↄ pↄ́ a kúńnↄ
+bqc	nↄsɛ guue? Aawo, ãma a gↄↄ
+bqc	lɛ́ mↄ́ kɛ́ wa nↄsɛnapi bↄ
+bqc	ń guu, gↄↄ bee ↄ̃ aa lɛye sa.
+bqc	À gɛ́ íↄ waasokɛ àↄ gɛò
+bqc	à mɛ: Kpala pↄ́ bↄ̀ Lua
+bqc	Gbɛ̃́ pↄ́ ye a de ge a dazi
+bqc	dɛmala i ka àↄ dɛ ma ìwa ũo.
+bqc	Gbɛ̃́ pↄ́ ye a nɛgↄ̃ɛ ge a
+bqc	nↄɛzi dɛmala i ka àↄ dɛ ma
+bqc	Kɛ́ Gbɛ̃nazĩn Nɛ́ mↄ̀, ì
+bqc	pↄble, ì imi, ↄ̃ wà mɛ̀:
+bqc	Asiade wɛ̃minaɛ, ↄsinaↄ ń
+bqc	luayãdansaiↄ gbɛ̃naɛ! Ãma wì
+bqc	Lua ↄ̃nↄ dↄ̃ a yãkɛa
+bqc	ma yenzide pↄ́ aà yã́ ì
+bqc	Tó wà tã́a gò gbɛ̃́ɛ,
+bqc	ìↄ liaaliaa gugiiu àↄ gbɛ̃́
+bqc	wɛɛlɛ à diɛ̀ɛ. Tó i eo,
+bqc	À pↄ́wɛnkɛɛlɛa yãma sa.
+bqc	Kɛ́ à òso ↄde è, ↄ̃ à
+bqc	tà à pↄ́ pↄ́ á vĩↄ
+bqc	yìa píi, ↄ̃ à òsopi lù.
+bqc	Yesu ònɛ́: À mↄomɛɛ la.
+bqc	Ɔ̃ Yesu bíla laai sìsi à mɛ̀:
+bqc	Falisiↄ ń Saduseↄ mↄ̀ Yesu
+bqc	kĩ́i. Aalɛ aà kpakpa, ↄ̃ aa
+bqc	gbɛ̀awà aà seelakɛnɛ́ ń Lua
+bqc	Ɔ̃ Mↄizi ń Ɛliao bↄ̀
+bqc	mↄ̀má, aalɛ yã'o ń Yesuo.
+bqc	Tó gbɛ̃́ tò nɛ́ pↄ́ lɛ́
+bqc	ma náaikɛɛ́ↄ do fù, a maa ń
+bqc	adeo yãa wà wísilↄgbɛ
+bqc	gbɛ̃̀nɛ dↄ aà nↄɛɛ, wi aà
+bqc	Bíla tɛaàzi, ↄ̃ à ń
+bqc	gyãeↄ gbã̀gbãnɛ́ we.
+bqc	An yã́ kↄ̃sɛ̀ aà fĩabonɛ́
+bqc	ã́nusu ↄwatɛ̃ dodo. Ɔ̃ à ń
+bqc	Ɔ̃ Yesu zɛ̀ à ń sisi à ń
+bqc	lá à mɛ̀: Bↄ́ á ye mà
+bqc	Ɔ̃ Yesu wèmá à mɛ̀: Mapi
+bqc	sↄ̃ má yã́ mɛ̀ndo gbɛawá.
+bqc	Tó á òmɛɛ, ↄ̃ má iko
+bqc	pↄ́ málɛ yã́ beeↄ kɛo oɛ́.
+bqc	Ɔ̃ kíapi pↄ pà, à a sosaↄ
+bqc	gbàɛ aa gɛ̀ gbɛ̃dɛnapiↄ
+bqc	dɛ̀dɛ, ↄ̃ aa tɛsↄ̃̀ ń
+bqc	Yesu wèwà à mɛ̀: Ǹyↄ̃ ye
+bqc	Dii n Luazi ń nↄ̀sɛmɛndoo
+bqc	teasisai, n sↄ̃ iↄ kuwà.
+bqc	Gbɛ̃́ pↄ́ mɛ̀ á sì ń
+bqc	sa'okĩio, a sì ń pↄ́ pↄ́
+bqc	Ãnabi ɛgɛnaↄ mↄ dasi aa
+bqc	gbɛ̃́ↄ sã́sã dasi,
+bqc	Nↄɛ gbɛ̃ↄn plaↄ aaↄ pↄ́
+bqc	lↄ́ gbɛzĩ, wa gbɛ̃do sɛ́, wa
+bqc	Bãnisↄode mↄ̀ ń bãni sↄo
+bqc	pãle pↄ́ á èo à mɛ̀: Dii,
+bqc	bãni sↄo pↄ́ ń kpàa gwa, à
+bqc	àikɛ̀ bãni sↄo lↄ.
+bqc	Aa lɛkpàaĩ lá aa e Yesu kṹ
+bqc	Piɛɛ òɛ̀: Baa tó má su
+bqc	gannↄ, má lelekpanzi bauo. Ɔ̃
+bqc	aà ìwaↄ ò màa sↄ̃ ḿpii.
+bqc	Ɔ̃ sa'onkiapi a pↄkasaↄ gà a
+bqc	kɛ̃̀ à mɛ̀: A dↄ́ɛ ń Luao!
+bqc	Wá bàa ũma n seeladeↄ lↄi?
+bqc	Á mà lá à dↄ̀ɛ ń Luao wea?
+bqc	Sa'onkiaↄ ń gbɛ̃zↄ̃ↄↄ
+bqc	nàɛ bílawa aa Balaba gbɛa, wi
+bqc	Yesu ɛ̀a wii gbãa lɛ̀ lↄ, ↄ̃
+bqc	Tó bùsu gbɛ̃zↄ̃ↄ sù
+bqc	yã́pi mà, wá awakpaɛ̀, í
+bqc	24-25 Lua mɛ̀ndona wá Suabana a
+bqc	fↄ̃ à á dↄ̃́a kɛ́ ásu
+bqc	fuo, i á kpán'aɛkɛ a gawi guu
+bqc	sãasai ń pↄnao ń wá Dii Yesu
+bqc	Kilisi gbãao. Ɔ̃mɛ gawi ń
+bqc	zↄ̃ↄkɛo ń gbãao ń ikoo vĩ
+bqc	zadↄ̃ gↄↄ i daalɛo ń a tiao e
+bqc	Ńsu vĩakɛ taasi pↄ́ ńyↄ̃
+bqc	kɛɛo. Ma, Ibiisi a á gbɛ̃eↄ
+bqc	ká kpɛ́u à á yↄ̃, i
+bqc	wɛ́tɛ̃amↄɛ́ gↄↄ kwi.
+bqc	Ǹyↄ̃ náai vĩ e n gɛ ǹ
+bqc	gaò, mí àizãna kɛnɛ yàae
+bqc	Má mↄ́ tia. Ɔdidi yã́ pↄ́
+bqc	ń kũawa, kɛ́ gbɛ̃e su n ài
+bqc	Ɔ̃ ma taala kooa è na gbɛ̃́
+bqc	pↄ́ zↄ̃lɛa báawapi ↄplaau,
+bqc	wà yãkɛ̃̀wà kpɛ pla píi,
+bqc	wà a lɛ́ kũ̀kũ ń
+bqc	Sↄ̃́ pãle bↄ̀ lↄ, a dɛ
+bqc	tɛ̃́nzoizoi. Wà gbɛ̃́ pↄ́ di
+bqc	a kpɛ gbà zɛ́ aà aafia sí
+bqc	dṹniawa, kɛ́ gbɛ̃́ↄ kↄ̃
+bqc	dɛdɛ. Wà fɛ̃nda zↄ̃ↄ
+bqc	ń Zabulↄni buiↄ gbɛ̃ↄn
+bqc	ↄ̀aasↄsↄo lɛɛ kuɛpla
+bqc	Kwaↄ bↄ̀lɛ súɛlɛpi guu aa
+bqc	lì tↄↄlɛa.  Wà ń gbá iko
+bqc	lán dṹnia sóiↄ pↄ́wa.
+bqc	Ɔ̃ wà fee kpàa pↄyↄ̃bↄ
+bqc	ũ, wa òmɛɛ: Fɛlɛ Lua kpɛ́
+bqc	yↄ̃ ń aà gbagbakĩio,  ní
+bqc	lousisina pↄ́ kú weↄ nao.
+bqc	Ɔ̃ ma seela zↄ̃ↄ è luabɛ.
+bqc	Nↄɛe ĩatɛ̃ yea zwãa ũ,
+bqc	mↄvua ku aà gbá zíɛ, a saana
+bqc	mɛ̀n kuɛplaↄ kpaa kía fala ũ.
+bqc	Ɔ̃ ma seela pãle è luabɛ, a
+bqc	zↄ̃ↄ, à bↄ̀ ma saɛ. Malaika
+bqc	gbɛ̃ↄn soplaↄ kìsia gbɛzã
+bqc	mɛ̀n soplaↄ kũa. Bee Lua a a
+bqc	pↄkũmabↄbↄama midɛò.
+bqc	Ɔ̃ malaikapi òmɛɛ: Swa pↄ́ ń
+bqc	è káalua zↄ̃lɛmápiↄá
+bqc	buiↄ ń bílaↄ ń bùsu
+bqc	gbɛ̃́ↄ ń buiyã'onaↄnɛ.
+bqc	Mɛɛwia ikode Babɛli!
+bqc	n pↄdà bui píiwa, n ń mi lìaa.
+bqc	A ula pↄ́ tã̀ ń auo daa.
+bqc	Gbɛ̃́ pↄ́ zĩblè gban we.
+bqc	Máↄ dɛ aà Lua ũ, iↄ dɛ ma
+bqc	Ɔ̃ a òmɛɛ: Ńsu pↄ́ kúlɛ
+bqc	zia yã́ pↄ́ kú lápiuwao, asa

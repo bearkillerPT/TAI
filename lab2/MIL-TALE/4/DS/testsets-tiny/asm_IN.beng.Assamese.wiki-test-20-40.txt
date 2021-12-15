@@ -1,0 +1,5 @@
+asm	সাপ,টেষ্টুড'(testude
+asm	'ঋ'-ক এনেদৰে size=15px
+asm	| clubs1 = গ্ৰনিংগেন
+asm	| caps1 = ৫০ | goals1 = ৮
+asm	৫ বছৰ  Elapsed: sep=,

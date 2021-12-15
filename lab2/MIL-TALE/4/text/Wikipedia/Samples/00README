@@ -1,0 +1,6 @@
+The text in the majority of these files has not been cleaned (files
+with a script code like -latn or -cyrl in their names have been at
+least partially cleaned).  It is included for completeness, but the
+amount of text per language is extremely small and will definitely not
+be enough to generate language models.  The files should be considered
+samples to get a flavor of the language.
