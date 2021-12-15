@@ -1,4 +1,0 @@
-glk	موسابقه en:Air racing , بالؤن رؤنی en:Ballooning , پایه واز en:BASE jumping , هممته ای
-glk	پرأیتن en:General aviation , گلایدر سواری en:Gliding , لأفنی گلایدر سواری en:Hang
-glk	gliding , هوایی نمایش en:Aeromodelling , چتر بازی en:Parachuting , پاراگلایدر سواری
-glk	en:Paragliding , هواپیما تخت هگیری en:Ultralight aviation , هواپیما رؤنی en:Human powered
