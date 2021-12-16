@@ -20,7 +20,7 @@ class LANG:
         self.NormalizedBits = self.bitsNormalized()
 
         print("Absolute Compression bits: " + str(self.bits))
-        print("Normalized Bits: ", str(self.NormalizedBits))
+        print("Normalized Bits: " + str(self.NormalizedBits))
 
 
     def getAlphabetSize(self,filename):
@@ -47,22 +47,32 @@ class LANG:
 
         return n
 
-    def calcBits(self,total,ni):
-        divisor = total + (self.a * self.tarAlphabetSize)
-        prob = (ni + self.a) / divisor
-        bits = -log2(prob)
+    def calcBits(self,total,ni,inContext,inSymbols):
+        if inContext == True and inSymbols == True:
+            divisor = total + (self.a * self.tarAlphabetSize)
+            prob = (ni + self.a) / divisor
+            bits = -log2(prob)
+        elif inContext == True and inSymbols == False:
+            divisor = total + (self.a * self.tarAlphabetSize)
+            prob = self.a / divisor
+            bits = -log2(prob)
+        elif inContext == False and inSymbols == False:
+            divisor = self.a * self.tarAlphabetSize
+            prob = self.a / divisor
+            bits = -log2(prob)
         
         return bits
         
     def estimateBits(self,context,char):
         if context in self.refContext.keys():
-            ni = self.refContext[context][char]
             total = self.refContext[context]["total"]
-            bits = self.calcBits(total,ni)
+            if char not in self.refContext[context].keys():
+                bits = self.calcBits(total,ni=0,inContext=True,inSymbols=False)
+            else:
+                ni = self.refContext[context][char]
+                bits = self.calcBits(total,ni,inContext=True,inSymbols=True)
         else:
-            divisor = self.a * self.tarAlphabetSize
-            prob = self.a / divisor
-            bits = -log2(prob)
+            bits = self.calcBits(total=0,ni=0,inContext=False,inSymbols=False)
 
         return bits
 
