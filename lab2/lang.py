@@ -12,48 +12,74 @@ class LANG:
         self.ref = ref
         self.target = target
         
-        self.refObject = self.createContext(self.ref)
-        self.tarObject = self.createContext(self.target)
+        self.refContext = self.createContext(self.ref)
 
-        self.refContext = self.refObject.contextTable
-        self.tarContext = self.tarObject.contextTable
-
-        self.bits = self.estimateTotalBits()
+        self.tarAlphabetSize = self.getAlphabetSize(self.target)
         
-        print("Bits de compressao: " + str(self.bits))
+        self.bits = self.estimateTotalBits()
+        self.NormalizedBits = self.bitsNormalized()
+
+        print("Absolute Compression bits: " + str(self.bits))
+        print("Normalized Bits: ", str(self.NormalizedBits))
+
+
+    def getAlphabetSize(self,filename):
+        textFile = open(filename, 'r')
+        text = textFile.read()
+        sizeAlphabet = len(set(text))
+        
+        return sizeAlphabet
+
+    def getTextLen(self,filename):
+        textFile = open(filename, 'r')
+        text = textFile.read()
+        textLen = len(text)
+
+        return textLen
       
     def createContext(self,file):
         fcm_obj = FCM(self.k,self.a,file)
-        return fcm_obj
+        return fcm_obj.contextTable
 
-    def isContextInRef(self,context):
-        if context in self.refContext.keys():
-            total = self.refContext[context]["total"]
-        else:
-            total = -1
-        
-        return total
+    def bitsNormalized(self):
+        textLen = self.getTextLen(self.target)
+        n = self.bits / (textLen * log2(self.tarAlphabetSize))
 
-    def calcBits(self,context,char,total):
-        divisor = total + (self.a * self.tarObject.sizeAlphabet)
-        prob = (self.refContext[context][char] + self.a) / divisor
-        bits = - log2(prob)
+        return n
+
+    def calcBits(self,total,ni):
+        divisor = total + (self.a * self.tarAlphabetSize)
+        prob = (ni + self.a) / divisor
+        bits = -log2(prob)
         
         return bits
         
+    def estimateBits(self,context,char):
+        if context in self.refContext.keys():
+            ni = self.refContext[context][char]
+            total = self.refContext[context]["total"]
+            bits = self.calcBits(total,ni)
+        else:
+            divisor = self.a * self.tarAlphabetSize
+            prob = self.a / divisor
+            bits = -log2(prob)
+
+        return bits
+
     def estimateTotalBits(self):
         bits = 0
-        for context in self.tarContext.keys():
-            total = self.isContextInRef(context)
-            if total != -1:
-                for char in self.tarContext[context].keys():
-                    bits += self.calcBits(context,char,total)
-            else:
-                divisor = (self.a * self.tarObject.sizeAlphabet)
-                prob = self.a / divisor
-                bits += -log2(prob)
+        context = ""
+        textFile = open(self.target,"r")
 
-        return bits 
+        for line in textFile:
+            for char in line:
+                if len(context) == (self.k):
+                    bits += self.estimateBits(context,char)
+                    context = context[1:] + char
+                    continue
+                context += char
+
+        return bits
 
 if __name__ == "__main__":
     if len(sys.argv) == 5:
