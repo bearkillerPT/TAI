@@ -19,9 +19,6 @@ class LANG:
         self.bits = self.estimateTotalBits()
         self.NormalizedBits = self.bitsNormalized()
 
-        #print("Absolute Compression bits: " + str(self.bits))
-        #print("Normalized Bits: " + str(self.NormalizedBits))
-
 
     def getAlphabetSize(self,filename):
         textFile = open(filename, 'r')
