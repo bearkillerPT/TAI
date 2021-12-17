@@ -29,6 +29,21 @@ class FCM:
         self.contextTable[context][next_char] += 1
         self.contextTable[context]["total"] += 1
 
+<<<<<<< HEAD
+=======
+    def addAllSymbols(self):
+        self.textFile = open(self.textFile, 'r')
+        self.text = self.textFile.read()
+        alphabet = set(self.text)
+        self.sizeAlphabet = len(alphabet)
+
+        for key in self.contextTable.keys():
+            for symbol in alphabet:
+                if symbol not in self.contextTable[key].keys():
+                    self.contextTable[key].update({symbol:0})
+
+
+>>>>>>> 4cf05edfa2243a083a25d4408f933a0b7ed6a70a
 if __name__ == "__main__":
     if len(sys.argv) == 4:
         fcm = FCM(int(sys.argv[1]),float(sys.argv[2]), sys.argv[3])
