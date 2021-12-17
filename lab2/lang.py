@@ -17,7 +17,7 @@ class LANG:
         self.tarAlphabetSize = self.getAlphabetSize(self.target)
         
         self.bits = self.estimateTotalBits()
-        self.NormalizedBits = self.bitsNormalized()
+        self.normalizedBits = self.bitsNormalized()
 
 
     def getAlphabetSize(self,filename):

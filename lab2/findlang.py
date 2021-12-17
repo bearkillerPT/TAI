@@ -28,7 +28,7 @@ class FIND:
             lang_obj = LANG(filePath,self.target,self.k,self.a)
             
             language = file[:-4]
-            langBits.update({language:lang_obj.NormalizedBits})
+            langBits.update({language:lang_obj.normalizedBits})
         
         guessedLang = min(langBits,key=langBits.get)
         print('\nTHE TARGET FILE IS WRITTEN IN ' +  str(guessedLang).upper())
