@@ -34,7 +34,7 @@ class FCM:
         self.textFile = open(self.textFile, 'r')
         self.text = self.textFile.read()
         alphabet = set(self.text)
-        self.sizeAlphabet = len(set(self.text))
+        self.sizeAlphabet = len(alphabet)
 
         for key in self.contextTable.keys():
             for symbol in alphabet:
