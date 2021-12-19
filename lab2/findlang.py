@@ -1,6 +1,7 @@
 from lang import LANG
 import sys
 import os
+from datetime import datetime
 
 class FIND:
     
@@ -19,6 +20,11 @@ class FIND:
     def guessLang(self):
         langBits = {}
 
+        print('\n')
+        print("--------------------------------------------------------------")
+        print("------------------------TRAINING MODELS-----------------------")
+        print("--------------------------------------------------------------")
+
         for file in self.referenceFiles:
             filePath = 'References/'
             
@@ -31,11 +37,22 @@ class FIND:
             langBits.update({language:lang_obj.normalizedBits})
         
         guessedLang = min(langBits,key=langBits.get)
-        print('\nTHE TARGET FILE IS WRITTEN IN ' +  str(guessedLang).upper())
+
+        print("--------------------------------------------------------------")
+        print("----------------------------RESULT----------------------------")
+        print("--------------------------------------------------------------")
+
+        print('\nTHE TARGET FILE IS WRITTEN IN ' +  str(guessedLang).upper() + '\n')
+        
             
 
 if __name__ == "__main__":
+    start = datetime.now()
     if len(sys.argv) == 4:
         find = FIND(sys.argv[1],sys.argv[2],sys.argv[3])
+        print("--------------------------------------------------------------")
+        print("------------------------EXECUTION TIME------------------------")
+        print("--------------------------------------------------------------")
+        print(datetime.now() - start)
     else:
         print("The program show be called like this: \n\tpython3 findlang.py targetFile k a")
