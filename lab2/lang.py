@@ -15,9 +15,13 @@ class LANG:
         self.refContext = self.createContext(self.ref)
 
         self.tarAlphabetSize = self.getAlphabetSize(self.target)
+
+        self.listOfBits = []
+        
         
         self.bits = self.estimateTotalBits()
         self.normalizedBits = self.bitsNormalized()
+
 
 
     def getAlphabetSize(self,filename):
@@ -81,7 +85,9 @@ class LANG:
         for line in textFile:
             for char in line:
                 if len(context) == (self.k):
-                    bits += self.estimateBits(context,char)
+                    bitsChar = self.estimateBits(context,char)
+                    self.listOfBits.append(bitsChar)
+                    bits += bitsChar
                     context = context[1:] + char
                     continue
                 context += char

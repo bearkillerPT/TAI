@@ -13,6 +13,7 @@ class FIND:
         self.referenceFiles = self.getReferenceFiles()
         self.guessLang()
 
+
     def getReferenceFiles(self):
         arr = os.listdir('./References')
         return arr
@@ -20,29 +21,30 @@ class FIND:
     def guessLang(self):
         langBits = {}
 
-        print('\n')
-        print("--------------------------------------------------------------")
-        print("------------------------TRAINING MODELS-----------------------")
-        print("--------------------------------------------------------------")
+        #print('\n')
+        #print("--------------------------------------------------------------")
+        #print("------------------------TRAINING MODELS-----------------------")
+        #print("--------------------------------------------------------------")
 
         for file in self.referenceFiles:
             filePath = 'References/'
             
-            print('Training ' + file)
+            #print('Training ' + file)
             
             filePath += file
             lang_obj = LANG(filePath,self.target,self.k,self.a)
             
+            
             language = file[:-4]
             langBits.update({language:lang_obj.normalizedBits})
         
-        guessedLang = min(langBits,key=langBits.get)
+        self.guessedLang = min(langBits,key=langBits.get)
 
-        print("--------------------------------------------------------------")
-        print("----------------------------RESULT----------------------------")
-        print("--------------------------------------------------------------")
+        #print("--------------------------------------------------------------")
+        #print("----------------------------RESULT----------------------------")
+        #print("--------------------------------------------------------------")
 
-        print('\nTHE TARGET FILE IS WRITTEN IN ' +  str(guessedLang).upper() + '\n')
+        print('\nTHE TARGET FILE IS WRITTEN IN ' +  str(self.guessedLang).upper() + '\n')
         
             
 
