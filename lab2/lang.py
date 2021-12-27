@@ -2,27 +2,28 @@ from os import fchdir
 import sys
 from fcm import FCM
 from math import log2
+from datetime import datetime
 
 class LANG:
     
     def __init__(self,ref,target,k,a):
         self.k = int(k)
         self.a = float(a)
-
         self.ref = ref
         self.target = target
-        
         self.refContext = self.createContext(self.ref)
-
         self.tarAlphabetSize = self.getAlphabetSize(self.target)
-
         self.listOfBits = []
-        
-        
         self.bits = self.estimateTotalBits()
         self.normalizedBits = self.bitsNormalized()
 
-
+    def showResults(self):
+        print('\n')
+        print("With: " + self.ref)
+        print('\n')
+        print("Bits to compress " + self.target + ": " + str(self.bits))
+        print("Bits Normalized: " + str(self.normalizedBits))
+        print('\n')
 
     def getAlphabetSize(self,filename):
         textFile = open(filename, 'r')
@@ -96,6 +97,10 @@ class LANG:
 
 if __name__ == "__main__":
     if len(sys.argv) == 5:
+        start = datetime.now()
         lang = LANG(sys.argv[1],sys.argv[2],sys.argv[3],sys.argv[4])
+        lang.showResults()
+        print("------------------------EXECUTION TIME------------------------")
+        print(datetime.now() - start)
     else:
         print("The program show be called like this: \n\tpython3 lang.py referenceFile targetFile k a")

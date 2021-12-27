@@ -21,7 +21,7 @@ def sumList(aux):
     return sum
 
 if __name__ == "__main__":
-    if len(sys.argv) == 2:
+    if len(sys.argv) == 4:
         
         referenceFiles = getReferenceFiles()
         target = sys.argv[1]
@@ -29,10 +29,11 @@ if __name__ == "__main__":
         tarCardin = getAlphabetSize(target)
         threshold = log2(tarCardin)/2
 
+        segmentLen = int(sys.argv[2])
+        regionLen = int(sys.argv[3])
+
         k=4
         a=1.0
-
-        dici = {}
 
         for file in referenceFiles:
             filePath = 'References/'
@@ -63,20 +64,31 @@ if __name__ == "__main__":
             index = 1
             coordinates = []
 
-            print('Linguagem: ' + language)
+            print('Checking ' + language + "...")
             
             for i in mAvgProfile:
                 if i < threshold:
                     coordinates.append(index)
                 index += 1
                 
-            
-            dici.update({language:len(coordinates)})
-            #for j in range(len(coordinates)):
+            count_seg = []
+            count = 0
 
-        print(dici)
-
-
+            for j in range(len(coordinates)):
+                if j == 0:
+                    next = coordinates[j]
+                else:
+                    if coordinates[j] <= (next + regionLen):
+                        count_seg.append(coordinates[j])
+                        next = next + 1
+                        count += 1
+                    else:
+                        count = 0
+                        count_seg.clear()
+                if count == segmentLen:
+                    print(str(min(count_seg)) + "->" + str(max(count_seg)))
+                    count = 0
+                    count_seg.clear()
 
     else:
-        print("The program show be called like this: \n\tpython3 locatelang.py targetFile")
+        print("The program show be called like this: \n\tpython3 locatelang.py targetFile segmentLen regionLen")
