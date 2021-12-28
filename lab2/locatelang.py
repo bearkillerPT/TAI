@@ -23,27 +23,24 @@ def sumList(aux):
 if __name__ == "__main__":
     if len(sys.argv) == 4:
         
-        referenceFiles = getReferenceFiles()
         target = sys.argv[1]
-
-        tarCardin = getAlphabetSize(target)
-        threshold = log2(tarCardin)/2
-
         segmentLen = int(sys.argv[2])
         regionLen = int(sys.argv[3])
-
-        k=4
-        a=1.0
+        tarCardin = getAlphabetSize(target)
+        threshold = (log2(tarCardin)/2)
+        referenceFiles = getReferenceFiles()
+        k=3
+        a=0.001
 
         for file in referenceFiles:
             filePath = 'References/'
             filePath += file
             language = file[:-4]
-            
+
+            print('Checking ' + language + "...")
+
             lang_obj = LANG(filePath,target,k,a)
-
             listOfBits = lang_obj.listOfBits
-
             aux = []
             mAvgProfile = [] 
 
@@ -60,35 +57,27 @@ if __name__ == "__main__":
             bitSum = sumList(aux)
             smoothBit = bitSum / k 
             mAvgProfile.append(smoothBit)
-
             index = 1
             coordinates = []
 
-            print('Checking ' + language + "...")
-            
             for i in mAvgProfile:
                 if i < threshold:
                     coordinates.append(index)
                 index += 1
-                
+    
             count_seg = []
-            count = 0
-
+            
             for j in range(len(coordinates)):
                 if j == 0:
                     next = coordinates[j]
                 else:
-                    if coordinates[j] <= (next + regionLen):
+                    if coordinates[j] - next <= segmentLen :
                         count_seg.append(coordinates[j])
-                        next = next + 1
-                        count += 1
-                    else:
-                        count = 0
-                        count_seg.clear()
-                if count == segmentLen:
-                    print(str(min(count_seg)) + "->" + str(max(count_seg)))
-                    count = 0
-                    count_seg.clear()
+                        next = coordinates[j]
+            
+            
+            #print(count_seg)
+            #print(len(count_seg))
 
-    else:
-        print("The program show be called like this: \n\tpython3 locatelang.py targetFile segmentLen regionLen")
+else:
+    print("The program show be called like this: \n\tpython3 locatelang.py targetFile segmentLen regionLen")

@@ -21,8 +21,10 @@ class LANG:
         print('\n')
         print("With: " + self.ref)
         print('\n')
-        print("Bits to compress " + self.target + ": " + str(self.bits))
-        print("Bits Normalized: " + str(self.normalizedBits))
+        bits = round(self.bits)
+        normalized = round(self.normalizedBits,2)
+        print("Bits to compress " + self.target + ": " + str(bits))
+        print("Bits Normalized: " + str(normalized))
         print('\n')
 
     def getAlphabetSize(self,filename):
