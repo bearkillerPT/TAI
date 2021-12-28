@@ -21,10 +21,10 @@ def sumList(aux):
     return sum
 
 if __name__ == "__main__":
-    if len(sys.argv) == 3:
+    if len(sys.argv) == 2:
         
         target = sys.argv[1]
-        segmentLen = int(sys.argv[2])
+        #segmentLen = int(sys.argv[2])
         tarCardin = getAlphabetSize(target)
         threshold = log2(tarCardin)/2
         referenceFiles = getReferenceFiles()
@@ -63,17 +63,22 @@ if __name__ == "__main__":
                 if i < threshold:
                     coordinates.append(index)
                 index += 1
+
+            if language == "English":
+                print(coordinates)
     
-            count_seg = []
-            
+            #segments = []
+            """
             for j in range(len(coordinates)):
                 if j == 0:
                     previous = coordinates[j]
-                    count_seg.append(coordinates[j])
+                    segments.append(coordinates[j])
                 else:
                     if coordinates[j] - previous <= segmentLen :
-                        count_seg.append(coordinates[j])
+                        segments.append(coordinates[j])
                         previous = coordinates[j]
-            
+
+            print(len(segments))
+            """
     else:
-        print("The program show be called like this: \n\tpython3 locatelang.py targetFile segmentLen")
+        print("The program show be called like this: \n\tpython3 locatelang.py targetFile")
