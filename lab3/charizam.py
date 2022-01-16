@@ -61,7 +61,7 @@ def ncd(sampleFile,musicFile):
     bits = [sampleBits,musicBits]
 
     ncd = ((bits[0]+bits[1]) - min(bits))/max(bits)
-    print((bits[0]+bits[1]))
+    print(ncd)
 
 
 if __name__ == "__main__":
