@@ -1,13 +1,14 @@
 import os
-import re
 import subprocess
 import sys
 import shutil
 import gzip
 
+
 def getDbWavs(database_dir):
     arr = os.listdir(database_dir)
     return arr
+
 
 def createFreqsFolder():
     folder = "DbFreqs"
@@ -17,14 +18,24 @@ def createFreqsFolder():
     if os.path.isdir(path) == False:
         os.mkdir(path)
 
+
 def moveToFreqsFolder(filename):
     destination = "DbFreqs"
     shutil.move(filename, destination)
 
-def deleteFreqs(foldername,wavName):
-    shutil.rmtree(foldername)
+
+def deleteFiles(foldername,wavName):
     freqsFileName = wavName[8:-4] + ".freqs"
-    os.remove(freqsFileName)
+
+    if os.path.isdir(foldername) == True:
+        shutil.rmtree(foldername)
+    if os.path.isfile(freqsFileName) == True:
+        os.remove(freqsFileName)
+    if os.path.isfile('concat.freqs') == True:
+        os.remove('concat.freqs')
+    if os.path.isfile('temp.gz') == True:
+        os.remove('temp.gz')
+
 
 def createFreqsFile(wavName,isSample):
     if isSample == False:
@@ -40,6 +51,7 @@ def createFreqsFile(wavName,isSample):
         args = "./GetMaxFreqs/bin/GetMaxFreqs -w " + freqsFileName + " " + wavName
         os.system(args)
 
+
 def gzipcomp(file):
     comp_file = "temp.gz"
     with open(file, 'rb') as f_in:
@@ -49,37 +61,67 @@ def gzipcomp(file):
     size = os.path.getsize(comp_file)
     return size
 
+
+def concatFiles(sampleFile,musicFile):
+    command = "cat " + sampleFile + " " + musicFile + " > concat.freqs"
+    os.system(command)
+
+
 def ncd(sampleFile,musicFile):
     sampleFile = sampleFile[8:-4] + ".freqs"
+
+    music = musicFile
+    music = music[:-4]
+
     musicFile = musicFile[:-4] + ".freqs"
     musicFile = musicFile.replace(' ','_')
     musicFile = "./DbFreqs" + "/" + musicFile
 
+    concatFiles(sampleFile,musicFile)
+    concatBits = gzipcomp('concat.freqs')
+
     sampleBits = gzipcomp(sampleFile)
     musicBits = gzipcomp(musicFile)
-    
     bits = [sampleBits,musicBits]
 
-    ncd = ((bits[0]+bits[1]) - min(bits))/max(bits)
-    print(ncd)
+    ncd = (concatBits - min(bits))/max(bits)
+    
+    return ncd,music
+
 
 
 if __name__ == "__main__":
     if len(sys.argv) == 2:
-
+        sampleWav = sys.argv[1]
+        
+        deleteFiles('DbFreqs',sampleWav)
         createFreqsFolder()
+        
         database_dir = "./database"
         sample_dir = "./samples"
         wavs = getDbWavs(database_dir)
-        sampleWav = sys.argv[1]
+        
+        distances = {}
 
         createFreqsFile(sampleWav,isSample=True)
         
+        print('Analyzing the sample...')
+
         for i in wavs:
             createFreqsFile(i,isSample=False)
-            ncd(sampleWav,i)
+            ncdBits,music= ncd(sampleWav,i)
+            distances.update({music:ncdBits})
         
-        deleteFreqs('DbFreqs',sampleWav)
+        print('\n')
+        print("-------------------------GUESSED SONG-------------------------")
+        print("--------------------------------------------------------------")
+
+        print(min(distances,key=distances.get))
+
+        print("--------------------------------------------------------------")
+        
+        deleteFiles('DbFreqs',sampleWav)
+    
     else:
         print("The program show be called like this: \n\tpython3 charizam.py sample.wav")
 
