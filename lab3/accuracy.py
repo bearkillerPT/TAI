@@ -35,13 +35,13 @@ def classification(sampleWav,guessed_song):
 
 if __name__ == "__main__":
     
-    samples = getAllSamples('./samples')
+    samples = getAllSamples('./noisySp')
     samples.sort()
-    compressor = "-b"
+    compressor = "-l"
     correct_guesses = 0
     
     for i in samples:
-        sampleWav = "samples/" + i
+        sampleWav = "noisySp/" + i
         object = CHARIZAM(sampleWav,compressor)
         correct_guesses += classification(sampleWav,object.guessed_song)
     
