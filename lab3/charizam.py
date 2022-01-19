@@ -8,19 +8,27 @@ from datetime import datetime
 
 class CHARIZAM:
 
-    def __init__(self,sampleWav,compressor):
+    def __init__(self,sampleWav,compressor,update):
         self.deleteFiles(sampleWav)
         self.noFreqs = False
         self.isDbFreqs()
         self.database_dir = "./database"
         self.wavs = self.getDbWavs(self.database_dir)
+        self.updateDbFreqs(self.wavs,update)
         self.distances = {}
         self.createFreqsFile(sampleWav,isSample=True)
         self.createDistances(self.wavs,self.noFreqs,sampleWav,compressor)
         self.guessed_song = min(self.distances,key=self.distances.get)  
         self.deleteFiles(sampleWav)
 
-       
+    def updateDbFreqs(self,wavs,update):
+        if update == True:
+            if os.path.isdir('DbFreqs') == True:
+                shutil.rmtree('DbFreqs')
+                self.createFreqsFolder()
+            for i in wavs:
+                self.createFreqsFile(i,isSample=False)
+
     def createDistances(self,wavs,noFreqs,sampleWav,compressor):
          for i in wavs:
             if noFreqs == True:
@@ -118,23 +126,31 @@ class CHARIZAM:
 if __name__ == "__main__":
     if len(sys.argv) == 3:
         start = datetime.now()
-        
         sampleWav = sys.argv[1]
         compressor = sys.argv[2]
-        
         print('Analyzing the sample...')
-        
-        object = CHARIZAM(sampleWav,compressor)
-
+        object = CHARIZAM(sampleWav,compressor,update=False)
         print('\n')
         print("-------------------------GUESSED SONG-------------------------")
         print("--------------------------------------------------------------")
         print(object.guessed_song)
-
         print("--------------------------------------------------------------")
         print('\n')
         print('Execution time: ' + str(datetime.now() - start))
-    
+    elif len(sys.argv) == 4:
+        if sys.argv[3] == '-u':
+            start = datetime.now()
+            sampleWav = sys.argv[1]
+            compressor = sys.argv[2]
+            print('Analyzing the sample...')
+            object = CHARIZAM(sampleWav,compressor,update=True)
+            print('\n')
+            print("-------------------------GUESSED SONG-------------------------")
+            print("--------------------------------------------------------------")
+            print(object.guessed_song)
+            print("--------------------------------------------------------------")
+            print('\n')
+            print('Execution time: ' + str(datetime.now() - start))
     else:
-        print("The program show be called like this: \n\tpython3 charizam.py sample.wav")
+        print("The program should be called like this: \n\tpython3 charizam.py sample.wav -[compressor flag]")
 

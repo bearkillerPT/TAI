@@ -1,6 +1,7 @@
-from random import sample
+from traceback import print_tb
 from charizam import CHARIZAM
 import os
+import sys
 
 def getAllSamples(samples_dir):
     arr = os.listdir(samples_dir)
@@ -32,19 +33,29 @@ def classification(sampleWav,guessed_song):
     else:
         return 0
 
-
 if __name__ == "__main__":
-    
-    samples = getAllSamples('./05sSmpl')
-    samples.sort()
-    compressor = "-l"
-    correct_guesses = 0
-    
-    for i in samples:
-        sampleWav = "05sSmpl/" + i
-        object = CHARIZAM(sampleWav,compressor)
-        correct_guesses += classification(sampleWav,object.guessed_song)
-    
-    accuracy = (correct_guesses / len(samples)) * 100
+    if len(sys.argv) == 3:
+        sampleFolder = sys.argv[1]
+        compressor = sys.argv[2]
 
-    print("Accuracy: " + str(accuracy) + "%") 
+        samples = getAllSamples(sampleFolder)
+        samples.sort()
+        
+        correct_guesses = 0
+        
+        print("Calculating Accuracy...")
+        print('\n')
+        print("Sample Folder: " + sampleFolder)
+        print("Compressor: " + compressor)
+        print('\n')
+        
+        for i in samples:
+            sampleWav = sampleFolder + "/" + i
+            object = CHARIZAM(sampleWav,compressor,update=False)
+            correct_guesses += classification(sampleWav,object.guessed_song)
+        
+        accuracy = (correct_guesses / len(samples)) * 100
+
+        print("Accuracy: " + str(accuracy) + "%") 
+    else:
+        print("The program should be called like this: \n\tpython3 accuracy.py sampleFolder -[compressor flag]")
