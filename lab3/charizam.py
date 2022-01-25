@@ -129,11 +129,11 @@ if __name__ == "__main__":
         sampleWav = sys.argv[1]
         compressor = sys.argv[2]
         print('Analyzing the sample...')
-        object = CHARIZAM(sampleWav,compressor,update=False)
+        charizam_object = CHARIZAM(sampleWav,compressor,update=False)
         print('\n')
         print("-------------------------GUESSED SONG-------------------------")
         print("--------------------------------------------------------------")
-        print(object.guessed_song)
+        print(charizam_object.guessed_song)
         print("--------------------------------------------------------------")
         print('\n')
         print('Execution time: ' + str(datetime.now() - start))
@@ -143,11 +143,11 @@ if __name__ == "__main__":
             sampleWav = sys.argv[1]
             compressor = sys.argv[2]
             print('Analyzing the sample...')
-            object = CHARIZAM(sampleWav,compressor,update=True)
+            charizam_object = CHARIZAM(sampleWav,compressor,update=True)
             print('\n')
             print("-------------------------GUESSED SONG-------------------------")
             print("--------------------------------------------------------------")
-            print(object.guessed_song)
+            print(charizam_object.guessed_song)
             print("--------------------------------------------------------------")
             print('\n')
             print('Execution time: ' + str(datetime.now() - start))
