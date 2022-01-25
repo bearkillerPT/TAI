@@ -51,8 +51,8 @@ if __name__ == "__main__":
         
         for i in samples:
             sampleWav = sampleFolder + "/" + i
-            object = CHARIZAM(sampleWav,compressor,update=False)
-            correct_guesses += classification(sampleWav,object.guessed_song)
+            charizam_object = CHARIZAM(sampleWav,compressor,update=False)
+            correct_guesses += classification(sampleWav,charizam_object.guessed_song)
         
         accuracy = (correct_guesses / len(samples)) * 100
 
