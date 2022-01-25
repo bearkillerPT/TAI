@@ -1,7 +1,7 @@
-from traceback import print_tb
 from charizam import CHARIZAM
 import os
 import sys
+from datetime import datetime
 
 def getAllSamples(samples_dir):
     arr = os.listdir(samples_dir)
@@ -35,6 +35,7 @@ def classification(sampleWav,guessed_song):
 
 if __name__ == "__main__":
     if len(sys.argv) == 3:
+        start = datetime.now()
         sampleFolder = sys.argv[1]
         compressor = sys.argv[2]
 
@@ -46,7 +47,14 @@ if __name__ == "__main__":
         print("Calculating Accuracy...")
         print('\n')
         print("Sample Folder: " + sampleFolder)
-        print("Compressor: " + compressor)
+
+        if compressor == '-g':
+            print("Compressor: gzip")
+        elif compressor == '-b':
+            print("Compressor: bzip2")
+        elif compressor == '-l':
+            print("Compressor: lzma")
+        
         print('\n')
         
         for i in samples:
@@ -57,5 +65,8 @@ if __name__ == "__main__":
         accuracy = (correct_guesses / len(samples)) * 100
 
         print("Accuracy: " + str(accuracy) + "%") 
+        print("--------------------------------------------------------------")
+        print('\n')
+        print('Execution time: ' + str(datetime.now() - start))
     else:
         print("The program should be called like this: \n\tpython3 accuracy.py sampleFolder -[compressor flag]")
